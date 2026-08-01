@@ -569,6 +569,7 @@ h2 {
             <li><strong>🔊 Izklop / vklop zvoka:</strong> Z gumbom pod njim lahko izklopiš ali vklopiš zvok ob odgovorih.</li>
             <li><strong>⏱️ Samodejni premik:</strong> Po kliku na odgovor se kviz samodejno premakne na naslednje vprašanje po 20 sekundah. Lahko pa prej pritisneš <strong>presledek</strong> (najdaljša tipka) in greš takoj naprej.</li>
             <li><strong>👤 Posamezno / 👥 Skupina:</strong> Pri "Posamezno" se odgovori pri vsakem vprašanju premešajo, kar je primerno, če kviz rešuje vsak zase. Pri "Skupina" ostanejo odgovori vedno v enakem vrstnem redu — priročno, če kviz skupaj rešujete ob projektorju, saj lahko vsi sledijo istim oznakam odgovorov.</li>
+            <li><strong>⭐ Napredni kvizi:</strong> V kategoriji "Napredno" so vprašanja za izkušenejše uporabnike, ki že obvladajo osnove.</li>
         </ul>
         <button class="closeModal">Zapri</button>
     </div>
@@ -581,7 +582,7 @@ h2 {
       <p><strong>Dobrodošli na spletni strani osnov računalništva za seniorje (Toti DCA).</strong></p>
       <p>Tukaj so zbrani kratki kvizi za preverjanje in utrjevanje znanja s področja</p>
       <p>računalništva in umetne inteligence</p>
-      <p>Spodaj izberite temo in začnite reševati.</p>
+      <p>Spodaj izberite kategorijo in začnite reševati.</p>
     </div>
     <form onsubmit="handleIntroSubmit(); return false;">
       <!-- 1. KORAK: IZBIRA KATEGORIJE IN KVIZA -->
@@ -681,38 +682,55 @@ function escapeHtml(str) {
         .replace(/'/g, "&#039;");
 }
 
-// ========== SEZNAM VSEH 25 KVIZOV ==========
-// Opomba: Datoteke se imenujejo OS_1.json do OS_25.json
+// ========== SEZNAM VSEH 26 KVIZOV ==========
 const KVIZI = [
     // Osnove dela z računalnikom – Windows 10/11
-    {id: "OS_1", naslov: "Osnove dela z računalnikom – Windows 10/11", datoteka: "OS_1.json", kategorija: "🖥️ Osnove računalništva"},
-    {id: "OS_2", naslov: "Datoteke in mape v Windows okolju", datoteka: "OS_2.json", kategorija: "🖥️ Osnove računalništva"},
-    {id: "OS_3", naslov: "Internet in spletni brskalniki", datoteka: "OS_3.json", kategorija: "🌐 Internet in iskanje"},
-    {id: "OS_4", naslov: "Elektronska pošta (e-pošta)", datoteka: "OS_4.json", kategorija: "✉️ Elektronska pošta"},
-    {id: "OS_5", naslov: "Varnost na spletu", datoteka: "OS_5.json", kategorija: "🔒 Varnost in prevare"},
-    {id: "OS_6", naslov: "Pametni telefon Android", datoteka: "OS_6.json", kategorija: "📱 Pametni telefon"},
-    {id: "OS_7", naslov: "Google Iskanje in napredno iskanje", datoteka: "OS_7.json", kategorija: "🌐 Internet in iskanje"},
-    {id: "OS_8", naslov: "ChatGPT in umetna inteligenca", datoteka: "OS_8.json", kategorija: "🤖 Umetna inteligenca"},
-    {id: "OS_9", naslov: "Fotografije s telefonom in Google Fotografije", datoteka: "OS_9.json", kategorija: "📸 Fotografije"},
-    {id: "OS_10", naslov: "Spletno bančništvo in varni spletni nakupi", datoteka: "OS_10.json", kategorija: "💰 Spletno bančništvo in nakupi"},
-    {id: "OS_11", naslov: "Google Drive, OneDrive in delo v oblaku", datoteka: "OS_11.json", kategorija: "☁️ Oblak in dokumenti"},
+    {id: "OS_01", naslov: "Osnove dela z računalnikom – Windows 10/11", datoteka: "OS_01.json", kategorija: "🖥️ Osnove računalništva"},
+    {id: "OS_02", naslov: "Datoteke in mape v Windows okolju", datoteka: "OS_02.json", kategorija: "🖥️ Osnove računalništva"},
     {id: "OS_12", naslov: "Windows 10 – urejanje datotek, map in Raziskovalec", datoteka: "OS_12.json", kategorija: "🖥️ Osnove računalništva"},
-    {id: "OS_13", naslov: "Elektronska pošta (Gmail, Outlook) – napredna uporaba in varnost", datoteka: "OS_13.json", kategorija: "✉️ Elektronska pošta"},
     {id: "OS_14", naslov: "Windows 10 – nastavitve računalnika in prilagajanje okolja", datoteka: "OS_14.json", kategorija: "🖥️ Osnove računalništva"},
-    {id: "OS_15", naslov: "Pametni telefon – nastavitve, baterija, Wi-Fi, aplikacije in vzdrževanje", datoteka: "OS_15.json", kategorija: "📱 Pametni telefon"},
-    {id: "OS_16", naslov: "Fotografije na računalniku in telefonu – urejanje, shranjevanje in deljenje", datoteka: "OS_16.json", kategorija: "📸 Fotografije"},
-    {id: "OS_17", naslov: "Internet – iskanje informacij, Google, spletne strani in preverjanje virov", datoteka: "OS_17.json", kategorija: "🌐 Internet in iskanje"},
-    {id: "OS_18", naslov: "Umetna inteligenca in ChatGPT – osnovna uporaba za starejše", datoteka: "OS_18.json", kategorija: "🤖 Umetna inteligenca"},
-    {id: "OS_19", naslov: "Spletne prevare, phishing, lažna sporočila in varnost računov", datoteka: "OS_19.json", kategorija: "🔒 Varnost in prevare"},
-    {id: "OS_20", naslov: "Delo z dokumenti – Word, PDF, shranjevanje datotek in tiskanje", datoteka: "OS_20.json", kategorija: "☁️ Oblak in dokumenti"},
     {id: "OS_21", naslov: "Windows 10 – bližnjice na tipkovnici in učinkovitejša uporaba", datoteka: "OS_21.json", kategorija: "🖥️ Osnove računalništva"},
-    {id: "OS_22", naslov: "Pametni telefon Android – nastavitve, baterija, Wi-Fi, aplikacije in vsakodnevna uporaba", datoteka: "OS_22.json", kategorija: "📱 Pametni telefon"},
+
+    // Internet in brskalniki
+    {id: "OS_03", naslov: "Internet in spletni brskalniki", datoteka: "OS_03.json", kategorija: "🌐 Internet in iskanje"},
+    {id: "OS_07", naslov: "Google Iskanje in napredno iskanje", datoteka: "OS_07.json", kategorija: "🌐 Internet in iskanje"},
+    {id: "OS_17", naslov: "Internet – iskanje informacij, Google, spletne strani in preverjanje virov", datoteka: "OS_17.json", kategorija: "🌐 Internet in iskanje"},
+
+    // Elektronska pošta
+    {id: "OS_04", naslov: "Elektronska pošta (e-pošta)", datoteka: "OS_04.json", kategorija: "✉️ Elektronska pošta"},
+    {id: "OS_13", naslov: "Elektronska pošta (Gmail, Outlook) – napredna uporaba in varnost", datoteka: "OS_13.json", kategorija: "✉️ Elektronska pošta"},
     {id: "OS_23", naslov: "Elektronska pošta (Gmail, Outlook) – pošiljanje, priponke, organizacija in varnost", datoteka: "OS_23.json", kategorija: "✉️ Elektronska pošta"},
+
+    // Varnost na spletu
+    {id: "OS_05", naslov: "Varnost na spletu", datoteka: "OS_05.json", kategorija: "🔒 Varnost in prevare"},
+    {id: "OS_19", naslov: "Spletne prevare, phishing, lažna sporočila in varnost računov", datoteka: "OS_19.json", kategorija: "🔒 Varnost in prevare"},
+
+    // Spletno bančništvo in nakupi
+    {id: "OS_10", naslov: "Spletno bančništvo in varni spletni nakupi", datoteka: "OS_10.json", kategorija: "💰 Spletno bančništvo in nakupi"},
     {id: "OS_24", naslov: "Spletno bančništvo in spletni nakupi", datoteka: "OS_24.json", kategorija: "💰 Spletno bančništvo in nakupi"},
-    {id: "OS_25", naslov: "Umetna inteligenca (ChatGPT, Copilot, Gemini, Claude …) za vsakdanjo uporabo", datoteka: "OS_25.json", kategorija: "🤖 Umetna inteligenca"}
+
+    // Pametni telefon Android
+    {id: "OS_06", naslov: "Pametni telefon Android", datoteka: "OS_06.json", kategorija: "📱 Pametni telefon"},
+    {id: "OS_15", naslov: "Pametni telefon – nastavitve, baterija, Wi-Fi, aplikacije in vzdrževanje", datoteka: "OS_15.json", kategorija: "📱 Pametni telefon"},
+    {id: "OS_22", naslov: "Pametni telefon Android – nastavitve, baterija, Wi-Fi, aplikacije in vsakodnevna uporaba", datoteka: "OS_22.json", kategorija: "📱 Pametni telefon"},
+
+    // Fotografije
+    {id: "OS_09", naslov: "Fotografije s telefonom in Google Fotografije", datoteka: "OS_09.json", kategorija: "📸 Fotografije"},
+    {id: "OS_16", naslov: "Fotografije na računalniku in telefonu – urejanje, shranjevanje in deljenje", datoteka: "OS_16.json", kategorija: "📸 Fotografije"},
+
+    // Oblak in dokumenti
+    {id: "OS_11", naslov: "Google Drive, OneDrive in delo v oblaku", datoteka: "OS_11.json", kategorija: "☁️ Oblak in dokumenti"},
+    {id: "OS_20", naslov: "Delo z dokumenti – Word, PDF, shranjevanje datotek in tiskanje", datoteka: "OS_20.json", kategorija: "☁️ Oblak in dokumenti"},
+
+    // Umetna inteligenca
+    {id: "OS_08", naslov: "ChatGPT in umetna inteligenca", datoteka: "OS_08.json", kategorija: "🤖 Umetna inteligenca"},
+    {id: "OS_18", naslov: "Umetna inteligenca in ChatGPT – osnovna uporaba za starejše", datoteka: "OS_18.json", kategorija: "🤖 Umetna inteligenca"},
+    {id: "OS_25", naslov: "Umetna inteligenca (ChatGPT, Copilot, Gemini, Claude …) za vsakdanjo uporabo", datoteka: "OS_25.json", kategorija: "🤖 Umetna inteligenca"},
+
+    // NAPREDNO - novi kviz za izkušenejše uporabnike
+    {id: "OS_26", naslov: "Naprednejša uporaba računalnika in interneta", datoteka: "OS_26.json", kategorija: "⭐ Napredno"}
 ];
 
-// ========== FUNKCIJE ZA IZPIS KATEGORIJ IN KVIZOV ==========
 function zgradiIzbirnikKategorij() {
     const selectKat = document.getElementById("izbiraKategorije");
     selectKat.innerHTML = '<option value="">-- Izberi kategorijo --</option>';
