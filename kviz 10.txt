@@ -1,0 +1,326 @@
+Kviz 10: Spletno bančništvo in varni spletni nakupi
+
+1.
+
+Vprašanje: Kaj je spletno bančništvo?
+
+Odgovori:
+
+A) Program za igranje iger.
+B) Uporaba bančnih storitev prek računalnika ali telefona. ✅
+C) Vrsta kreditne kartice.
+
+Razlaga:
+Spletno bančništvo omogoča pregled računa, plačila in druge bančne storitve brez obiska poslovalnice.
+
+2.
+
+Vprašanje: Kaj potrebujemo za uporabo spletne banke?
+
+Odgovori:
+
+A) Samo telefonsko številko.
+B) Bančni račun, dostopne podatke in ustrezno varnostno preverjanje. ✅
+C) Poseben tiskalnik.
+
+Razlaga:
+Banka za zaščito uporablja različne načine prijave, na primer geslo, SMS-kodo ali potrditveno aplikacijo.
+
+3.
+
+Vprašanje: Ali smemo komu povedati geslo za spletno banko?
+
+Odgovori:
+
+A) Da, če je sorodnik.
+B) Ne, gesla in varnostnih kod nikoli ne delimo z drugimi. ✅
+C) Da, če oseba trdi, da je iz banke.
+
+Razlaga:
+Banka od svojih strank nikoli ne zahteva, da povedo geslo, PIN ali potrditvene kode.
+
+4.
+
+Vprašanje: Kaj je mobilna banka?
+
+Odgovori:
+
+A) Telefon z večjo baterijo.
+B) Bančna aplikacija na pametnem telefonu. ✅
+C) Vrsta telefonskega klica.
+
+Razlaga:
+Mobilna banka omogoča opravljanje bančnih storitev prek telefona.
+
+5.
+
+Vprašanje: Kaj je phishing pri spletni banki?
+
+Odgovori:
+
+A) Hitrejše plačilo računa.
+B) Prevara, pri kateri želijo pridobiti naše bančne podatke. ✅
+C) Vrsta bančne kartice.
+
+Razlaga:
+Prevaranti se pogosto pretvarjajo, da so banka, in pošiljajo lažna sporočila z namenom kraje podatkov.
+
+6.
+
+Vprašanje: Dobite e-pošto: "Vaša banka je zaznala težavo. Kliknite povezavo in potrdite podatke." Kaj naredite?
+
+Odgovori:
+
+A) Takoj kliknete povezavo.
+B) Ne kliknete povezave in preverite pri banki po uradni poti. ✅
+C) Vpišete svoje geslo.
+
+Razlaga:
+Banka praviloma ne zahteva vnosa občutljivih podatkov prek povezav v e-pošti.
+
+7.
+
+Vprašanje: Kaj je PIN številka?
+
+Odgovori:
+
+A) Ime uporabnika.
+B) Osebna številčna koda za potrjevanje ali uporabo kartice. ✅
+C) Telefonska številka banke.
+
+Razlaga:
+PIN je skrivnosten podatek, ki ga ne smemo razkrivati drugim.
+
+8.
+
+Vprašanje: Kaj naredimo, če izgubimo bančno kartico?
+
+Odgovori:
+
+A) Počakamo nekaj tednov.
+B) Takoj obvestimo banko in kartico blokiramo. ✅
+C) Objavimo izgubo na internetu.
+
+Razlaga:
+Hitro ukrepanje zmanjša možnost zlorabe kartice.
+
+9.
+
+Vprašanje: Kaj preverimo pred nakupom v spletni trgovini?
+
+Odgovori:
+
+A) Samo barvo spletne strani.
+B) Podatke o trgovcu, ocene, pogoje nakupa in način plačila. ✅
+C) Samo velikost slike izdelka.
+
+Razlaga:
+Neznane spletne trgovine lahko skrivajo prevare ali zelo slabo kakovost izdelkov.
+
+10.
+
+Vprašanje: Kaj pomeni varna spletna povezava HTTPS?
+
+Odgovori:
+
+A) Stran je zagotovo brez napak.
+B) Podatki med uporabnikom in stranjo so šifrirani. ✅
+C) Stran je vedno brezplačna.
+
+Razlaga:
+HTTPS je pomemben znak varne povezave, vendar sam po sebi ne zagotavlja, da je trgovina poštena.
+
+11.
+
+Vprašanje: Ali je varno nakupovati v vsaki spletni trgovini, ki ima zelo nizke cene?
+
+Odgovori:
+
+A) Da, nižja cena pomeni boljšo ponudbo.
+B) Ne, nenavadno nizke cene so lahko znak prevare. ✅
+C) Da, če je stran barvita.
+
+Razlaga:
+Predobri ponudbi je treba pristopiti previdno, posebno pri neznanih trgovinah.
+
+12.
+
+Vprašanje: Kaj je dvostopenjska prijava pri spletni banki?
+
+Odgovori:
+
+A) Dvakrat vnesemo isto geslo.
+B) Poleg gesla uporabimo še dodatno potrditev identitete. ✅
+C) Dvakrat odpremo aplikacijo.
+
+Razlaga:
+Dodatna zaščita zmanjša možnost, da bi nekdo dostopal do računa samo z ukradenim geslom.
+
+13.
+
+Vprašanje: Ali je varno shraniti podatke bančne kartice v vsako spletno trgovino?
+
+Odgovori:
+
+A) Da, vedno.
+B) Ne, podatke shranjujemo samo pri preverjenih in zaupanja vrednih storitvah. ✅
+C) Da, če je trgovina lepa.
+
+Razlaga:
+Če pride do vdora v spletno trgovino, lahko pride do zlorabe shranjenih podatkov.
+
+14.
+
+Vprašanje: Kaj naredimo, če prejemo SMS: "Vaš paket čaka. Plačajte 2 € za dostavo"?
+
+Odgovori:
+
+A) Takoj kliknemo povezavo.
+B) Ne kliknemo povezave in preverimo sporočilo pri dostavni službi. ✅
+C) Vpišemo podatke kartice.
+
+Razlaga:
+To je pogosta prevara, pri kateri želijo storilci pridobiti podatke kartice.
+
+15.
+
+Vprašanje: Kaj je spletna trgovina?
+
+Odgovori:
+
+A) Program za urejanje fotografij.
+B) Spletna stran, kjer lahko kupujemo izdelke ali storitve. ✅
+C) Vrsta računalniškega virusa.
+
+Razlaga:
+Spletne trgovine omogočajo nakup brez obiska fizične trgovine.
+
+16.
+
+Vprašanje: Katere podatke običajno potrebujemo za spletni nakup?
+
+Odgovori:
+
+A) Geslo za elektronsko pošto.
+B) Podatke za dostavo in način plačila. ✅
+C) PIN bančne kartice.
+
+Razlaga:
+PIN-a bančne kartice praviloma nikoli ne vpisujemo v spletne trgovine.
+
+17.
+
+Vprašanje: Kaj je CVV oziroma varnostna koda na kartici?
+
+Odgovori:
+
+A) Telefonska številka banke.
+B) Kratka varnostna številka na kartici za spletna plačila. ✅
+C) Geslo za računalnik.
+
+Razlaga:
+Tudi to kodo varujemo in je ne posredujemo neznancem.
+
+18.
+
+Vprašanje: Kaj storimo, če spletna stran zahteva nenavadne podatke za nakup?
+
+Odgovori:
+
+A) Vnesemo vse podatke.
+B) Prekinemo nakup in preverimo, ali je stran zaupanja vredna. ✅
+C) Pošljemo svoje dokumente.
+
+Razlaga:
+Prevarantske strani pogosto zahtevajo podatke, ki jih za nakup sploh ne potrebujemo.
+
+19.
+
+Vprašanje: Kaj je Google Pay ali podobna storitev mobilnega plačevanja?
+
+Odgovori:
+
+A) Program za čiščenje telefona.
+B) Storitev za varno plačevanje s telefonom. ✅
+C) Spletni brskalnik.
+
+Razlaga:
+Mobilno plačevanje omogoča uporabo telefona namesto fizične kartice.
+
+20.
+
+Vprašanje: Zakaj je pri spletnem nakupu pomembna dobra zaščita telefona?
+
+Odgovori:
+
+A) Zaradi lepšega zaslona.
+B) Ker telefon lahko vsebuje bančne aplikacije in osebne podatke. ✅
+C) Ker telefon drugače ne zvoni.
+
+Razlaga:
+Zaklep zaslona, posodobitve in previdnost ščitijo naše podatke.
+
+21.
+
+Vprašanje: Kaj storimo, če opazimo sumljivo plačilo na bančnem računu?
+
+Odgovori:
+
+A) Ignoriramo ga.
+B) Takoj obvestimo banko in preverimo transakcijo. ✅
+C) Objavimo podatke na družbenem omrežju.
+
+Razlaga:
+Hitro ukrepanje lahko prepreči nadaljnjo škodo.
+
+22.
+
+Vprašanje: Zakaj ni priporočljivo opravljati spletnih nakupov prek neznanega javnega Wi-Fi omrežja?
+
+Odgovori:
+
+A) Ker telefon ne bo imel zvoka.
+B) Ker je povezava lahko manj varna in obstaja večje tveganje za prestrezanje podatkov. ✅
+C) Ker trgovine ne delujejo ponoči.
+
+Razlaga:
+Za plačila je bolje uporabiti domače ali drugo zaupanja vredno omrežje.
+
+23.
+
+Vprašanje: Kaj pomeni reklamacija pri spletnem nakupu?
+
+Odgovori:
+
+A) Novo geslo za trgovino.
+B) Zahteva kupca zaradi težave z izdelkom ali storitvijo. ✅
+C) Plačilo dodatnega davka.
+
+Razlaga:
+Kupec ima pri spletnih nakupih določene pravice, na primer pri poškodovanem ali napačnem izdelku.
+
+24.
+
+Vprašanje: Kaj naredimo po uporabi spletne banke na javnem računalniku?
+
+Odgovori:
+
+A) Shranimo geslo.
+B) Odjavimo se in ne shranimo podatkov za prijavo. ✅
+C) Pustimo odprto stran.
+
+Razlaga:
+Tako zmanjšamo možnost, da bi naslednji uporabnik dostopal do našega računa.
+
+25.
+
+Vprašanje: Katera navada najbolj pripomore k varnemu spletnemu nakupovanju?
+
+Odgovori:
+
+A) Kliknemo vsako ugodno ponudbo.
+B) Preverimo trgovino, varujemo podatke in razmišljamo pred plačilom. ✅
+C) Vedno uporabimo isto geslo.
+
+Razlaga:
+Najboljša zaščita je kombinacija previdnosti, varnih gesel in preverjanja informacij.

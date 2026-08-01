@@ -1,0 +1,327 @@
+Kviz 22: Pametni telefon Android – nastavitve, baterija, Wi-Fi, aplikacije in vsakodnevna uporaba
+
+1.
+
+Vprašanje: Kaj je operacijski sistem Android?
+
+Odgovori:
+
+A) Vrsta polnilnika za telefon.
+B) Programski sistem, ki omogoča delovanje telefona in aplikacij. ✅
+C) Vrsta telefonske kartice.
+
+Razlaga:
+Android je operacijski sistem, ki ga uporablja večina pametnih telefonov različnih proizvajalcev.
+
+2.
+
+Vprašanje: Kaj je začetni zaslon telefona?
+
+Odgovori:
+
+A) Zaslon, kjer telefon izklopimo.
+B) Glavni zaslon z ikonami aplikacij in pripomočki. ✅
+C) Zaslon za polnjenje baterije.
+
+Razlaga:
+Na začetnem zaslonu najdemo najpogosteje uporabljene aplikacije.
+
+3.
+
+Vprašanje: Kaj je aplikacija (program) na telefonu?
+
+Odgovori:
+
+A) Samo slika na zaslonu.
+B) Program, ki omogoča določeno funkcijo, na primer zemljevid, kamero ali sporočila. ✅
+C) Vrsta baterije.
+
+Razlaga:
+Aplikacije dodajajo telefonu nove možnosti.
+
+4.
+
+Vprašanje: Kako običajno odpremo aplikacijo?
+
+Odgovori:
+
+A) Pritisnemo tipko za izklop.
+B) Dotaknemo se njene ikone na zaslonu. ✅
+C) Odstranimo baterijo.
+
+Razlaga:
+En dotik ikone običajno odpre aplikacijo.
+
+5.
+
+Vprašanje: Kaj pomeni zaklep zaslona telefona?
+
+Odgovori:
+
+A) Izbris vseh podatkov.
+B) Zaščita telefona pred nepooblaščenim dostopom. ✅
+C) Izklop interneta.
+
+Razlaga:
+Zaklep z geslom, vzorcem ali prstnim odtisom varuje naše podatke.
+
+6.
+
+Vprašanje: Zakaj je priporočljivo imeti zaklenjen telefon?
+
+Odgovori:
+
+A) Ker telefon dela hitreje.
+B) Ker preprečuje dostop drugim osebam do naših podatkov. ✅
+C) Ker izboljša kakovost fotografij.
+
+Razlaga:
+Telefon vsebuje osebne podatke, fotografije, sporočila in dostop do računov.
+
+7.
+
+Vprašanje: Kaj je obvestilo na telefonu?
+
+Odgovori:
+
+A) Okvara telefona.
+B) Sporočilo telefona o dogodku, na primer novo sporočilo ali posodobitev. ✅
+C) Nova baterija.
+
+Razlaga:
+Obvestila nas opozarjajo na pomembne dogodke v aplikacijah.
+
+8.
+
+Vprašanje: Kaj pomeni povleči s prstom po zaslonu navzdol?
+
+Odgovori:
+
+A) Izbris telefona.
+B) Odpremo ploščo z obvestili in hitrimi nastavitvami. ✅
+C) Izklopimo kamero.
+
+Razlaga:
+Tam pogosto najdemo Wi-Fi, Bluetooth, svetlost zaslona in druge nastavitve.
+
+9.
+
+Vprašanje: Kaj je Wi-Fi?
+
+Odgovori:
+
+A) Vrsta fotografije.
+B) Brezžična povezava z internetom prek usmerjevalnika. ✅
+C) Program za klice.
+
+Razlaga:
+Wi-Fi omogoča dostop do interneta brez mobilnih podatkov.
+
+10.
+
+Vprašanje: Zakaj doma običajno uporabljamo Wi-Fi namesto mobilnih podatkov?
+
+Odgovori:
+
+A) Ker telefon brez Wi-Fi ne deluje.
+B) Ker lahko prihranimo mobilne podatke in stroške. ✅
+C) Ker Wi-Fi polni baterijo.
+
+Razlaga:
+Domači internet prek Wi-Fi je običajno primernejši za daljšo uporabo.
+
+11.
+
+Vprašanje: Kaj je Bluetooth?
+
+Odgovori:
+
+A) Vrsta mobilnega omrežja.
+B) Brezžična povezava za kratke razdalje med napravami. ✅
+C) Program za viruse.
+
+Razlaga:
+Bluetooth uporabljamo za slušalke, zvočnike, avto in druge naprave.
+
+12.
+
+Vprašanje: Kaj naredimo, če telefon nima internetne povezave?
+
+Odgovori:
+
+A) Takoj kupimo nov telefon.
+B) Preverimo Wi-Fi, mobilne podatke in ali je vklopljen letalski način. ✅
+C) Izbrišemo fotografije.
+
+Razlaga:
+Pogosto je vzrok preprosta nastavitev.
+
+Kviz 22: Android telefon – baterija, aplikacije in nastavitve (13–25)
+13.
+
+Vprašanje: Zakaj se baterija telefona hitreje prazni?
+
+Odgovori:
+
+A) Zaradi barve telefona.
+B) Zaradi zahtevnih aplikacij, svetlega zaslona ali stalnih povezav. ✅
+C) Zaradi imena telefona.
+
+Razlaga:
+Zaslon, GPS, igre in nekatere aplikacije porabijo veliko energije.
+
+14.
+
+Vprašanje: Kako lahko podaljšamo čas delovanja baterije?
+
+Odgovori:
+
+A) Telefon pustimo vedno prižgan.
+B) Zmanjšamo svetlost zaslona in izključimo nepotrebne povezave. ✅
+C) Odstranimo kartico SIM.
+
+Razlaga:
+Majhne spremembe lahko precej podaljšajo delovanje baterije.
+
+15.
+
+Vprašanje: Kaj je način varčevanja z baterijo?
+
+Odgovori:
+
+A) Program za fotografiranje.
+B) Nastavitev, ki zmanjša porabo energije telefona. ✅
+C) Način hitrejšega interneta.
+
+Razlaga:
+Telefon lahko omeji delovanje nekaterih funkcij, da baterija zdrži dlje.
+
+16.
+
+Vprašanje: Kako odstranimo aplikacijo iz telefona?
+
+Odgovori:
+
+A) Izklopimo Wi-Fi.
+B) V nastavitvah ali trgovini z aplikacijami izberemo odstranitev. ✅
+C) Izbrišemo telefonsko številko.
+
+Razlaga:
+Odstranimo samo aplikacije, ki jih ne potrebujemo.
+
+17.
+
+Vprašanje: Zakaj ni dobro nameščati preveč nepotrebnih aplikacij?
+
+Odgovori:
+
+A) Ker telefon postane težji.
+B) Ker porabljajo prostor, baterijo in lahko vplivajo na delovanje. ✅
+C) Ker izginejo stiki.
+
+Razlaga:
+Manj nepotrebnih aplikacij pomeni bolj urejen telefon.
+
+18.
+
+Vprašanje: Kaj je posodobitev aplikacije?
+
+Odgovori:
+
+A) Izbris programa.
+B) Namestitev nove različice z izboljšavami in popravki. ✅
+C) Menjava telefona.
+
+Razlaga:
+Posodobitve izboljšajo delovanje in varnost aplikacij.
+
+19.
+
+Vprašanje: Zakaj posodabljamo Android?
+
+Odgovori:
+
+A) Zaradi lepše barve telefona.
+B) Zaradi varnostnih popravkov in izboljšav sistema. ✅
+C) Ker izbriše fotografije.
+
+Razlaga:
+Posodobljen telefon je praviloma varnejši.
+
+20.
+
+Vprašanje: Kaj je aplikacija Nastavitve?
+
+Odgovori:
+
+A) Program za igre.
+B) Mesto, kjer spreminjamo delovanje telefona. ✅
+C) Kamera.
+
+Razlaga:
+V nastavitvah urejamo Wi-Fi, zvok, zaslon, račune in varnost.
+
+21.
+
+Vprašanje: Kako povečamo velikost črk na telefonu?
+
+Odgovori:
+
+A) Kupimo nov zaslon.
+B) V nastavitvah prilagodimo velikost pisave ali prikaza. ✅
+C) Izklopimo telefon.
+
+Razlaga:
+Večina telefonov omogoča povečanje prikaza za lažje branje.
+
+22.
+
+Vprašanje: Kaj naredimo, če je zvok telefona pretiho?
+
+Odgovori:
+
+A) Izbrišemo aplikacije.
+B) Preverimo glasnost in nastavitve zvoka. ✅
+C) Zamenjamo SIM kartico.
+
+Razlaga:
+Glasnost lahko nastavimo posebej za klice, obvestila in medije.
+
+23.
+
+Vprašanje: Zakaj je koristno narediti varnostno kopijo telefona?
+
+Odgovori:
+
+A) Da telefon postane večji.
+B) Da lahko obnovimo podatke ob izgubi ali okvari. ✅
+C) Da dobimo hitrejši Wi-Fi.
+
+Razlaga:
+Varnostna kopija lahko shrani stike, fotografije in nastavitve.
+
+24.
+
+Vprašanje: Kaj naredimo, če izgubimo telefon?
+
+Odgovori:
+
+A) Objavimo PIN na internetu.
+B) Poskusimo telefon poiskati, zakleniti ali zaščititi podatke. ✅
+C) Nič.
+
+Razlaga:
+Funkcije iskanja naprave pomagajo zaščititi podatke.
+
+25.
+
+Vprašanje: Katera navada je najboljša pri uporabi pametnega telefona?
+
+Odgovori:
+
+A) Nameščamo vse aplikacije.
+B) Telefon redno posodabljamo, varujemo z zaklepom in uporabljamo preverjene aplikacije. ✅
+C) Izklopimo vse varnostne možnosti.
+
+Razlaga:
+Previdna uporaba zagotavlja varnejši in zanesljivejši telefon.

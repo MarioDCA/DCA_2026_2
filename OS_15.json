@@ -1,0 +1,256 @@
+{
+  "id": 15,
+  "title": "Pametni telefon – nastavitve, baterija, Wi-Fi, aplikacije in vzdrževanje",
+  "questions": [
+    {
+      "question": "Kaj je operacijski sistem na pametnem telefonu?",
+      "options": [
+        "A) Vrsta polnilnega kabla.",
+        "B) Program, ki upravlja delovanje telefona in aplikacij.",
+        "C) Fotografija na zaslonu."
+      ],
+      "correct": 1,
+      "explanation": "Najpogostejša operacijska sistema za telefone sta Android in iOS."
+    },
+    {
+      "question": "Kaj je aplikacija (app)?",
+      "options": [
+        "A) Del telefonske baterije.",
+        "B) Program, ki omogoča določeno opravilo na telefonu.",
+        "C) Vrsta SIM kartice."
+      ],
+      "correct": 1,
+      "explanation": "Aplikacije uporabljamo za fotografiranje, sporočila, vreme, banko, zemljevide in druga opravila."
+    },
+    {
+      "question": "Kako običajno namestimo novo aplikacijo na telefon Android?",
+      "options": [
+        "A) Iz elektronske pošte.",
+        "B) Iz trgovine Google Play.",
+        "C) Iz koša."
+      ],
+      "correct": 1,
+      "explanation": "Google Play je uradna trgovina za aplikacije Android in je varnejša izbira kot neznane spletne strani."
+    },
+    {
+      "question": "Zakaj je dobro redno posodabljati aplikacije?",
+      "options": [
+        "A) Ker telefon postane večji.",
+        "B) Ker posodobitve odpravljajo napake in izboljšajo varnost.",
+        "C) Ker izbrišejo vse fotografije."
+      ],
+      "correct": 1,
+      "explanation": "Posodobitve pogosto vsebujejo varnostne popravke in izboljšave delovanja."
+    },
+    {
+      "question": "Kaj najbolj vpliva na porabo baterije telefona?",
+      "options": [
+        "A) Barva telefona.",
+        "B) Svetlost zaslona, uporaba aplikacij in povezave (Wi-Fi, GPS, Bluetooth).",
+        "C) Ime telefona."
+      ],
+      "correct": 1,
+      "explanation": "Večja svetlost in stalno delovanje zahtevnih aplikacij hitreje izpraznita baterijo."
+    },
+    {
+      "question": "Kako lahko podaljšamo čas delovanja baterije?",
+      "options": [
+        "A) Telefon večkrat udarimo.",
+        "B) Zmanjšamo svetlost zaslona, izklopimo nepotrebne povezave in uporabljamo varčevanje baterije.",
+        "C) Vedno pustimo odprte vse aplikacije."
+      ],
+      "correct": 1,
+      "explanation": "Majhne spremembe nastavitev lahko občutno podaljšajo delovanje telefona."
+    },
+    {
+      "question": "Ali je dobro pustiti vse aplikacije ves čas odprte?",
+      "options": [
+        "A) Da, vedno.",
+        "B) Ne, nepotrebne aplikacije lahko zapremo.",
+        "C) Telefon se bo pokvaril, če jih zapremo."
+      ],
+      "correct": 1,
+      "explanation": "Sodobni telefoni sicer dobro upravljajo aplikacije, vendar nepotrebno delujoče aplikacije lahko porabljajo baterijo."
+    },
+    {
+      "question": "Kaj pomeni, če je pomnilnik telefona skoraj poln?",
+      "options": [
+        "A) Telefon bo imel močnejši signal.",
+        "B) Primanjkuje prostora za fotografije, aplikacije in posodobitve.",
+        "C) Telefon bo imel več baterije."
+      ],
+      "correct": 1,
+      "explanation": "Poln pomnilnik lahko povzroči počasnejše delovanje telefona."
+    },
+    {
+      "question": "Kako sprostimo prostor na telefonu?",
+      "options": [
+        "A) Izklopimo zvonjenje.",
+        "B) Izbrišemo nepotrebne fotografije, videe in aplikacije.",
+        "C) Zamenjamo ozadje."
+      ],
+      "correct": 1,
+      "explanation": "Fotografije in videoposnetki pogosto zasedejo največ prostora."
+    },
+    {
+      "question": "Kaj je Wi-Fi?",
+      "options": [
+        "A) Vrsta baterije.",
+        "B) Brezžična povezava z internetom.",
+        "C) Program za fotografije."
+      ],
+      "correct": 1,
+      "explanation": "Wi-Fi omogoča povezavo telefona z internetom prek brezžičnega omrežja."
+    },
+    {
+      "question": "Zakaj uporabljamo domači Wi-Fi namesto mobilnih podatkov?",
+      "options": [
+        "A) Telefon postane težji.",
+        "B) Pogosto zmanjšamo porabo mobilnih podatkov in stroške.",
+        "C) Izklopimo zaslon."
+      ],
+      "correct": 1,
+      "explanation": "Pri uporabi domačega Wi-Fi običajno ne porabljamo podatkov iz mobilnega paketa."
+    },
+    {
+      "question": "Kaj je Bluetooth?",
+      "options": [
+        "A) Vrsta interneta.",
+        "B) Brezžična povezava za naprave na kratki razdalji.",
+        "C) Program za čiščenje telefona."
+      ],
+      "correct": 1,
+      "explanation": "Bluetooth uporabljamo za slušalke, zvočnike, avto ali povezovanje drugih naprav."
+    },
+    {
+      "question": "Kaj pomeni način Letalo (Airplane mode)?",
+      "options": [
+        "A) Telefon se spremeni v računalnik.",
+        "B) Izklopi brezžične povezave, kot so mobilno omrežje in običajno Wi-Fi/Bluetooth.",
+        "C) Izbriše aplikacije."
+      ],
+      "correct": 1,
+      "explanation": "Način Letalo uporabljamo predvsem med letom ali kadar želimo začasno izklopiti povezave."
+    },
+    {
+      "question": "Kaj je GPS?",
+      "options": [
+        "A) Program za pisanje.",
+        "B) Sistem za določanje položaja telefona.",
+        "C) Vrsta baterije."
+      ],
+      "correct": 1,
+      "explanation": "GPS uporabljajo zemljevidi, navigacija in nekatere druge aplikacije."
+    },
+    {
+      "question": "Zakaj aplikacije zahtevajo dovoljenja?",
+      "options": [
+        "A) Da telefon postane lepši.",
+        "B) Ker potrebujejo dostop do določenih funkcij, kot so kamera, mikrofon ali lokacija.",
+        "C) Ker želijo spremeniti telefonsko številko."
+      ],
+      "correct": 1,
+      "explanation": "Pred dovoljenjem preverimo, ali aplikacija ta dostop res potrebuje."
+    },
+    {
+      "question": "Kako zaščitimo telefon pred nepooblaščeno uporabo?",
+      "options": [
+        "A) Pustimo zaslon vedno odklenjen.",
+        "B) Uporabimo PIN, geslo, vzorec ali prstni odtis.",
+        "C) Odstranimo vse aplikacije."
+      ],
+      "correct": 1,
+      "explanation": "Zaklep zaslona ščiti osebne podatke, fotografije in sporočila."
+    },
+    {
+      "question": "Zakaj ni dobro uporabljati istega gesla povsod?",
+      "options": [
+        "A) Ker telefon počasneje dela.",
+        "B) Ker lahko ob razkritju enega gesla napadalec dostopa do več računov.",
+        "C) Ker se baterija hitreje prazni."
+      ],
+      "correct": 1,
+      "explanation": "Za pomembne račune uporabljamo različna in dovolj močna gesla."
+    },
+    {
+      "question": "Kaj naredimo, če izgubimo telefon?",
+      "options": [
+        "A) Nič.",
+        "B) Poskusimo ga poiskati, zaklenemo napravo in po potrebi obvestimo operaterja.",
+        "C) Objavimo geslo na internetu."
+      ],
+      "correct": 1,
+      "explanation": "Sodobni telefoni omogočajo oddaljeno iskanje in zaklep naprave."
+    },
+    {
+      "question": "Zakaj je varnostna kopija telefona pomembna?",
+      "options": [
+        "A) Ker poveča velikost zaslona.",
+        "B) Ker omogoča obnovitev podatkov ob izgubi ali okvari telefona.",
+        "C) Ker izboljša signal."
+      ],
+      "correct": 1,
+      "explanation": "Varnostna kopija lahko shrani stike, fotografije in nastavitve."
+    },
+    {
+      "question": "Kaj je ponovni zagon telefona?",
+      "options": [
+        "A) Izbris vseh podatkov.",
+        "B) Izklop in ponovni vklop telefona.",
+        "C) Menjava SIM kartice."
+      ],
+      "correct": 1,
+      "explanation": "Ponovni zagon pogosto odpravi manjše težave z delovanjem."
+    },
+    {
+      "question": "Kaj storimo, če telefon deluje počasi?",
+      "options": [
+        "A) Takoj kupimo novega.",
+        "B) Preverimo prostor, posodobitve in nepotrebne aplikacije.",
+        "C) Odstranimo kartico SIM."
+      ],
+      "correct": 1,
+      "explanation": "Počasno delovanje je pogosto posledica pomanjkanja prostora ali zastarelih aplikacij."
+    },
+    {
+      "question": "Zakaj je pomembno zaščititi telefon pred virusi in prevarami?",
+      "options": [
+        "A) Ker telefon drugače spremeni barvo.",
+        "B) Ker telefon vsebuje osebne podatke, fotografije in dostop do računov.",
+        "C) Ker baterija ne deluje."
+      ],
+      "correct": 1,
+      "explanation": "Telefon je danes osebni računalnik v žepu, zato potrebuje zaščito."
+    },
+    {
+      "question": "Kaj storimo pred prodajo starega telefona?",
+      "options": [
+        "A) Pustimo svoje račune prijavljene.",
+        "B) Naredimo varnostno kopijo in izbrišemo osebne podatke.",
+        "C) Izklopimo samo zvok."
+      ],
+      "correct": 1,
+      "explanation": "Tako preprečimo, da bi novi uporabnik dostopal do naših podatkov."
+    },
+    {
+      "question": "Zakaj je koristno poznati nastavitve telefona?",
+      "options": [
+        "A) Ker telefon postane dražji.",
+        "B) Ker lahko prilagodimo telefon svojim potrebam in rešimo pogoste težave.",
+        "C) Ker ne potrebujemo več interneta."
+      ],
+      "correct": 1,
+      "explanation": "Poznavanje nastavitev omogoča bolj samostojno uporabo telefona."
+    },
+    {
+      "question": "Katera navada je najboljša pri uporabi pametnega telefona?",
+      "options": [
+        "A) Nameščamo vse aplikacije, ki jih najdemo.",
+        "B) Telefon redno posodabljamo, varujemo dostop in uporabljamo zaupanja vredne aplikacije.",
+        "C) Vedno izklopimo vse varnostne funkcije."
+      ],
+      "correct": 1,
+      "explanation": "Varna in premišljena uporaba prepreči večino težav s pametnim telefonom."
+    }
+  ]
+}

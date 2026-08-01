@@ -1,0 +1,326 @@
+Kviz 6: Pametni telefon Android
+
+1.
+
+Vprašanje: Kaj je operacijski sistem Android?
+
+Odgovori:
+
+A) Program za pošiljanje elektronske pošte.
+B) Operacijski sistem, ki omogoča delovanje pametnega telefona. ✅
+C) Protivirusni program.
+
+Razlaga:
+Android je osnovna programska oprema telefona. Omogoča delovanje aplikacij, klicev, sporočil in drugih funkcij.
+
+2.
+
+Vprašanje: Kaj je aplikacija?
+
+Odgovori:
+
+A) Fotografija.
+B) Program, ki ga uporabljamo na telefonu. ✅
+C) Vrsta polnilnika.
+
+Razlaga:
+Primeri aplikacij so Kamera, Telefon, Vreme, WhatsApp in YouTube.
+
+3.
+
+Vprašanje: Kako običajno odpremo aplikacijo?
+
+Odgovori:
+
+A) Telefon ugasnemo in ponovno prižgemo.
+B) Dotaknemo se njene ikone na zaslonu. ✅
+C) Dvakrat pritisnemo gumb za glasnost.
+
+Razlaga:
+Za odpiranje aplikacije zadostuje en dotik njene ikone.
+
+4.
+
+Vprašanje: Kaj pomeni podrsati s prstom po zaslonu?
+
+Odgovori:
+
+A) Izbrisati vse fotografije.
+B) Premakniti prikaz ali prelistati vsebino. ✅
+C) Izklopiti telefon.
+
+Razlaga:
+S podrsavanjem se pomikamo po seznamih, spletnih straneh ali fotografijah.
+
+5.
+
+Vprašanje: Kaj naredi gumb Domov (Home), če ga telefon ima?
+
+Odgovori:
+
+A) Izklopi telefon.
+B) Vrne nas na začetni zaslon. ✅
+C) Izbriše odprto aplikacijo.
+
+Razlaga:
+Na novejših telefonih gumb Domov pogosto nadomeščajo kretnje po zaslonu.
+
+6.
+
+Vprašanje: Kaj pomeni zaklenjen zaslon telefona?
+
+Odgovori:
+
+A) Telefon je pokvarjen.
+B) Za uporabo je treba telefon odkleniti s PIN-om, vzorcem ali prstnim odtisom. ✅
+C) Telefon nima signala.
+
+Razlaga:
+Zaklenjen zaslon preprečuje nepooblaščen dostop do vaših podatkov.
+
+7.
+
+Vprašanje: Kaj je PIN za telefon?
+
+Odgovori:
+
+A) Ime telefona.
+B) Številčna koda za odklepanje telefona ali kartice SIM. ✅
+C) Telefonska številka.
+
+Razlaga:
+PIN naj bo takšen, da ga drugi težko uganejo.
+
+8.
+
+Vprašanje: Kaj storimo, če želimo poklicati shranjen stik?
+
+Odgovori:
+
+A) Odpremo Fotoaparat.
+B) Odpremo aplikacijo Telefon ali Stiki in izberemo osebo. ✅
+C) Odpremo Kalkulator.
+
+Razlaga:
+Če je številka shranjena med stiki, je klic zelo preprost.
+
+9.
+
+Vprašanje: Kaj pomeni ikona baterije na vrhu zaslona?
+
+Odgovori:
+
+A) Jakost mobilnega signala.
+B) Približno količino preostale energije v bateriji. ✅
+C) Glasnost zvonjenja.
+
+Razlaga:
+Ko je baterija skoraj prazna, jo je priporočljivo napolniti.
+
+10.
+
+Vprašanje: Kaj pomeni ikona Wi-Fi na vrhu zaslona?
+
+Odgovori:
+
+A) Telefon je izklopljen.
+B) Telefon je povezan z brezžičnim omrežjem. ✅
+C) Kamera je vključena.
+
+Razlaga:
+Pri povezavi prek Wi-Fi običajno ne uporabljamo mobilnih podatkov.
+
+11.
+
+Vprašanje: Kaj pomeni letalski način?
+
+Odgovori:
+
+A) Telefon deluje hitreje.
+B) Izklopijo se mobilne povezave, Wi-Fi in Bluetooth (če jih ponovno ne vključimo). ✅
+C) Izbrišejo se vsi stiki.
+
+Razlaga:
+Letalski način se uporablja med letom ali kadar želimo začasno prekiniti brezžične povezave.
+
+12.
+
+Vprašanje: Kaj naredimo, če se telefon ne odziva?
+
+Odgovori:
+
+A) Vržemo ga proč.
+B) Poskusimo ga ponovno zagnati. ✅
+C) Izbrišemo vse fotografije.
+
+Razlaga:
+Ponovni zagon odpravi veliko začasnih težav pri delovanju telefona.
+
+13.
+
+Vprašanje: Iz katere trgovine običajno nameščamo aplikacije na telefon Android?
+
+Odgovori:
+
+A) Microsoft Store.
+B) Google Play. ✅
+C) Raziskovalec datotek.
+
+Razlaga:
+Google Play je uradna trgovina za telefone Android. Nameščanje aplikacij od drugod je lahko manj varno.
+
+14.
+
+Vprašanje: Zakaj je priporočljivo nameščati aplikacije iz uradne trgovine Google Play?
+
+Odgovori:
+
+A) Ker so vedno brezplačne.
+B) Ker Google preverja aplikacije in s tem zmanjša tveganje za škodljivo programsko opremo. ✅
+C) Ker porabijo manj baterije.
+
+Razlaga:
+Čeprav noben sistem ni popolnoma varen, je uradna trgovina bistveno varnejša od neznanih spletnih strani.
+
+15.
+
+Vprašanje: Kaj pomeni posodobitev aplikacije?
+
+Odgovori:
+
+A) Izbris aplikacije.
+B) Namestitev novejše različice z izboljšavami in popravki. ✅
+C) Menjava telefonske številke.
+
+Razlaga:
+Posodobitve pogosto odpravijo napake, izboljšajo delovanje in povečajo varnost.
+
+16.
+
+Vprašanje: Kaj se zgodi, če izbrišemo aplikacijo?
+
+Odgovori:
+
+A) Telefon se pokvari.
+B) Aplikacija se odstrani iz telefona, njeni podatki pa se lahko izbrišejo. ✅
+C) Izbrišejo se vse fotografije.
+
+Razlaga:
+Pred odstranitvijo aplikacije preverimo, ali v njej nimamo pomembnih podatkov.
+
+17.
+
+Vprašanje: Kam se običajno shranijo fotografije, ki jih posnamemo s telefonom?
+
+Odgovori:
+
+A) V imenik Stiki.
+B) V aplikacijo Fotografije ali Galerija. ✅
+C) V Kalkulator.
+
+Razlaga:
+Večina telefonov fotografije samodejno shrani v Galerijo ali Google Fotografije.
+
+18.
+
+Vprašanje: Kako lahko pošljemo fotografijo prijatelju?
+
+Odgovori:
+
+A) Samo s tiskanjem.
+B) Po elektronski pošti ali prek aplikacij, kot sta WhatsApp ali Viber. ✅
+C) Fotografije ni mogoče poslati.
+
+Razlaga:
+Fotografijo lahko delimo na več načinov, ne da bi jo morali najprej prenesti na računalnik.
+
+19.
+
+Vprašanje: Kaj je Bluetooth?
+
+Odgovori:
+
+A) Program za internet.
+B) Brezžična povezava za povezovanje naprav na kratkih razdaljah. ✅
+C) Vrsta polnilnika.
+
+Razlaga:
+Bluetooth uporabljamo za povezavo s slušalkami, zvočniki, avtomobilom ali za prenos datotek.
+
+20.
+
+Vprašanje: Kaj je QR koda?
+
+Odgovori:
+
+A) Vrsta gesla.
+B) Posebna koda, ki jo telefon prebere s kamero in odpre povezavo ali druge podatke. ✅
+C) Ikona baterije.
+
+Razlaga:
+QR kode pogosto najdemo na plakatih, računih, parkirnih avtomatih in v restavracijah.
+
+21.
+
+Vprašanje: Kaj pomeni, ko aplikacija zahteva dovoljenje za uporabo kamere ali lokacije?
+
+Odgovori:
+
+A) Telefon se bo izklopil.
+B) Aplikacija želi dostop do določenih funkcij telefona. ✅
+C) Telefon bo postal hitrejši.
+
+Razlaga:
+Preden dovoljenje potrdimo, razmislimo, ali ga aplikacija res potrebuje za svoje delovanje.
+
+22.
+
+Vprašanje: Kaj storimo, če telefon opozori, da je pomnilnik skoraj poln?
+
+Odgovori:
+
+A) Ignoriramo opozorilo.
+B) Izbrišemo nepotrebne fotografije, videoposnetke ali aplikacije. ✅
+C) Izključimo Wi-Fi.
+
+Razlaga:
+Poln pomnilnik lahko upočasni telefon in prepreči nameščanje posodobitev.
+
+23.
+
+Vprašanje: Kaj omogoča varnostna kopija telefona?
+
+Odgovori:
+
+A) Hitrejše polnjenje baterije.
+B) Obnovitev pomembnih podatkov ob izgubi ali okvari telefona. ✅
+C) Boljši signal mobilnega omrežja.
+
+Razlaga:
+Varnostna kopija lahko shrani stike, fotografije, sporočila in nekatere nastavitve.
+
+24.
+
+Vprašanje: Kaj lahko storimo, če izgubimo telefon?
+
+Odgovori:
+
+A) Ničesar.
+B) Poskusimo ga poiskati s storitvijo za iskanje naprave ali ga na daljavo zaklenemo. ✅
+C) Takoj kupimo nov telefon.
+
+Razlaga:
+Če je ta možnost vklopljena, lahko telefon poiščemo, zaklenemo ali izbrišemo njegove podatke na daljavo.
+
+25.
+
+Vprašanje: Katera navada najbolj prispeva k varni uporabi pametnega telefona?
+
+Odgovori:
+
+A) Nameščamo vse aplikacije, ki jih najdemo na internetu.
+B) Telefon redno posodabljamo, uporabljamo zaklep zaslona in nameščamo aplikacije le iz zaupanja vrednih virov. ✅
+C) Izklopimo vse varnostne funkcije.
+
+Razlaga:
+Večina težav s telefonom ni posledica okvare, ampak nepremišljene uporabe. Redne posodobitve, zaklep zaslona in previdnost pri nameščanju aplikacij močno povečajo varnost.

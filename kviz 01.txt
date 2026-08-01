@@ -1,0 +1,326 @@
+Kviz 1: Osnove dela z računalnikom – Windows 10/11
+
+1.
+
+Vprašanje: Kaj je operacijski sistem Windows?
+
+Odgovori:
+
+Program za pisanje besedil.
+Program, ki omogoča delovanje računalnika in drugih programov. ✅
+Protivirusni program.
+
+Razlaga:
+Windows je operacijski sistem. Brez njega računalnik ne bi mogel poganjati programov, kot so Word, Chrome ali Excel.
+
+2.
+
+Vprašanje: Kaj predstavlja namizje (Desktop)?
+
+Odgovori:
+
+Glavni zaslon sistema Windows z ikonami in opravilno vrstico. ✅
+Mapa z dokumenti.
+Program za urejanje fotografij.
+
+Razlaga:
+Namizje je prvi zaslon, ki ga vidite po prijavi v Windows. Na njem so lahko ikone programov in datotek.
+
+3.
+
+Vprašanje: Čemu je namenjen gumb Start?
+
+Odgovori:
+
+Za odpiranje interneta.
+Za dostop do programov, nastavitev in možnosti izklopa računalnika. ✅
+Za shranjevanje dokumentov.
+
+Razlaga:
+Gumb Start je izhodišče za skoraj vse pomembne funkcije v sistemu Windows.
+
+4.
+
+Vprašanje: Kaj običajno naredi dvojni klik z levim gumbom miške na ikoni programa?
+
+Odgovori:
+
+Označi program.
+Odpre program. ✅
+Izbriše program.
+
+Razlaga:
+Dvojni klik je najpogostejši način za odpiranje programov ali datotek.
+
+5.
+
+Vprašanje: Čemu je namenjen desni gumb miške?
+
+Odgovori:
+
+Za povečavo zaslona.
+Za prikaz dodatnih možnosti (priročnega menija). ✅
+Za zapiranje računalnika.
+
+Razlaga:
+Desni klik odpre meni z možnostmi, ki so odvisne od tega, na kaj ste kliknili.
+
+6.
+
+Vprašanje: Kaj pomeni znak X v zgornjem desnem kotu okna?
+
+Odgovori:
+
+Poveča okno.
+Zapre trenutno okno ali program. ✅
+Zmanjša velikost besedila.
+
+Razlaga:
+Klik na X zapre odprto okno. Če dokument ni shranjen, vas Windows običajno opozori.
+
+7.
+
+Vprašanje: Kaj se zgodi, če kliknete gumb z znakom – (vodoravna črta)?
+
+Odgovori:
+
+Zapre program.
+Okno se skrije v opravilno vrstico, program pa ostane odprt. ✅
+Izbriše trenutno datoteko.
+
+Razlaga:
+To imenujemo pomanjšanje okna. Program še vedno deluje.
+
+8.
+
+Vprašanje: Kaj je opravilna vrstica?
+
+Odgovori:
+
+Mapa z dokumenti.
+Vrstica, kjer so gumb Start, odprti programi in sistemske ikone. ✅
+Seznam vseh datotek na računalniku.
+
+Razlaga:
+V opravilni vrstici lahko hitro preklapljate med odprtimi programi.
+
+9.
+
+Vprašanje: Kaj predstavlja ikona Koš (Recycle Bin)?
+
+Odgovori:
+
+Program za čiščenje računalnika.
+Mesto, kamor se začasno shranijo izbrisane datoteke. ✅
+Mapo za fotografije.
+
+Razlaga:
+Če datoteko pomotoma izbrišete, jo lahko pogosto obnovite iz Koša, dokler ga ne izpraznite.
+
+10.
+
+Vprašanje: Kako praviloma izberete eno datoteko?
+
+Odgovori:
+
+Enkrat kliknete nanjo z levim gumbom miške. ✅
+Dvakrat kliknete z desnim gumbom.
+Premaknete kazalec nad datoteko.
+
+Razlaga:
+En klik datoteko označi, dvojni klik pa jo običajno odpre.
+
+11.
+
+Vprašanje: Kako pravilno izklopimo računalnik z Windows?
+
+Odgovori:
+
+Z gumbom za izklop na električni vtičnici.
+Kliknemo Start → Napajanje → Zaustavitev sistema. ✅
+Pritisnemo tipko Delete na tipkovnici.
+
+Razlaga:
+Pravilna zaustavitev omogoči, da Windows varno zapre programe in shrani potrebne podatke.
+
+12.
+
+Vprašanje: Kaj naredimo, če se program ne odziva več?
+
+Odgovori:
+
+Takoj izklopimo računalnik iz elektrike.
+Počakamo nekaj časa ali program zapremo prek Upravitelja opravil. ✅
+Izbrišemo program iz računalnika.
+
+Razlaga:
+Včasih se program zaradi napake "zamrzne". Ni ga treba takoj odstraniti ali izklopiti računalnika.
+
+13.
+
+Vprašanje: Kaj je mapa v sistemu Windows?
+
+Odgovori:
+
+Program za internet.
+Mesto, kjer organizirano shranjujemo datoteke. ✅
+Vrsta računalniškega virusa.
+
+Razlaga:
+Mape pomagajo urediti dokumente, fotografije, glasbo in druge datoteke.
+
+14.
+
+Vprašanje: Kaj je datoteka?
+
+Odgovori:
+
+Shranjena vsebina, na primer dokument, fotografija ali glasba. ✅
+Vrsta računalniškega zaslona.
+Gumb na tipkovnici.
+
+Razlaga:
+Datoteke vsebujejo podatke. Vsaka ima običajno svoje ime in končnico (npr. .docx, .jpg, .pdf).
+
+15.
+
+Vprašanje: Kaj pomeni, da datoteko shranimo?
+
+Odgovori:
+
+Izbrišemo jo iz računalnika.
+Shranimo spremembe, da jih lahko pozneje ponovno odpremo. ✅
+Pošljemo jo v koš.
+
+Razlaga:
+Če dokumenta ne shranimo, lahko ob zaprtju programa izgubimo narejene spremembe.
+
+16.
+
+Vprašanje: Kje običajno najdemo program Raziskovalec datotek (File Explorer)?
+
+Odgovori:
+
+Samo na internetu.
+V opravilni vrstici ali prek menija Start. ✅
+V košu.
+
+Razlaga:
+Raziskovalec datotek uporabljamo za pregledovanje map in datotek na računalniku.
+
+17.
+
+Vprašanje: Kaj pomeni bližnjica na namizju?
+
+Odgovori:
+
+Kopija celotnega programa.
+Ikona, ki omogoča hitrejši dostop do programa ali datoteke. ✅
+Datoteka, ki je ni mogoče izbrisati.
+
+Razlaga:
+Če izbrišemo bližnjico, običajno ne izbrišemo programa ali datoteke, na katero kaže.
+
+18.
+
+Vprašanje: Kako premaknemo okno programa po zaslonu?
+
+Odgovori:
+
+Kliknemo gumb Start.
+Povlečemo naslovno vrstico okna z miško. ✅
+Pritisnemo tipko Enter.
+
+Razlaga:
+Okno lahko premaknemo tako, da kliknemo zgornji del okna in ga povlečemo.
+
+19.
+
+Vprašanje: Kaj naredi kombinacija tipk Ctrl + C?
+
+Odgovori:
+
+Zapre program.
+Kopira izbrano besedilo ali datoteko. ✅
+Izklopi računalnik.
+
+Razlaga:
+Ctrl + C pomeni kopiranje. Pogosto jo uporabljamo skupaj s Ctrl + V za lepljenje.
+
+20.
+
+Vprašanje: Kaj naredi kombinacija tipk Ctrl + V?
+
+Odgovori:
+
+Izbriše izbrano vsebino.
+Prilepi prej kopirano vsebino. ✅
+Odpre meni Start.
+
+Razlaga:
+Najprej nekaj kopiramo (Ctrl + C), nato pa prilepimo (Ctrl + V).
+
+21.
+
+Vprašanje: Čemu služi tipka Delete?
+
+Odgovori:
+
+Za povečanje glasnosti.
+Za brisanje izbrane vsebine ali datotek. ✅
+Za odpiranje interneta.
+
+Razlaga:
+Izbrisane datoteke se običajno premaknejo v Koš, od koder jih lahko še obnovimo.
+
+22.
+
+Vprašanje: Kaj pomeni, če je ob datoteki znak ključavnice?
+
+Odgovori:
+
+Datoteka je nevaren virus.
+Datoteka ali mapa ima omejen dostop oziroma zaščito. ✅
+Datoteka je samodejno izbrisana.
+
+Razlaga:
+Nekatere datoteke so zaščitene, da jih uporabnik ne spremeni ali izbriše po pomoti.
+
+23.
+
+Vprašanje: Zakaj je dobro imeti varnostno kopijo pomembnih datotek?
+
+Odgovori:
+
+Da računalnik dela počasneje.
+Da jih lahko obnovimo ob okvari ali izgubi podatkov. ✅
+Da se poveča velikost zaslona.
+
+Razlaga:
+Fotografije, dokumente in druge pomembne datoteke je priporočljivo shraniti tudi na zunanji disk ali v oblak.
+
+24.
+
+Vprašanje: Kaj pomeni obvestilo Windows Update?
+
+Odgovori:
+
+Opozorilo, da zmanjkuje prostora za fotografije.
+Obvestilo o posodobitvah sistema Windows. ✅
+Sporočilo za izbris vseh programov.
+
+Razlaga:
+Posodobitve izboljšajo varnost in odpravljajo napake v sistemu.
+
+25.
+
+Vprašanje: Kaj storimo, če želimo poiskati program ali datoteko v Windows?
+
+Odgovori:
+
+Ponovno namestimo Windows.
+Uporabimo iskalno polje v meniju Start. ✅
+Izklopimo računalnik.
+
+Razlaga:
+Windows ima vgrajeno iskanje, s katerim hitro najdemo programe, nastavitve in datoteke.

@@ -1,0 +1,328 @@
+Kviz 25: Umetna inteligenca (ChatGPT, Copilot, Gemini, Claude …) za vsakdanjo uporabo.
+
+
+1.
+
+Vprašanje: Kaj pomeni kratica AI (Artificial Intelligence)?
+
+Odgovori:
+
+A) Avtomatski internet.
+B) Umetna inteligenca – računalniški sistemi, ki lahko opravljajo naloge, za katere je običajno potrebna človeška inteligenca. ✅
+C) Posebna vrsta računalnika.
+
+Razlaga:
+Umetna inteligenca lahko odgovarja na vprašanja, prevaja besedila, piše povzetke, ustvarja slike in pomaga pri številnih opravilih.
+
+2.
+
+Vprašanje: Kaj je ChatGPT?
+
+Odgovori:
+
+A) Protivirusni program.
+B) Program umetne inteligence, ki se z uporabnikom pogovarja in odgovarja na vprašanja. ✅
+C) Internetni brskalnik.
+
+Razlaga:
+ChatGPT pomaga pri učenju, pisanju, razlagi pojmov, načrtovanju in številnih drugih nalogah.
+
+3.
+
+Vprašanje: Katero opravilo lahko uspešno opravi umetna inteligenca?
+
+Odgovori:
+
+A) Samodejno popravi pokvarjen računalnik.
+B) Pomaga napisati besedilo, razložiti pojem ali povzeti članek. ✅
+C) Napolni baterijo telefona.
+
+Razlaga:
+AI pomaga pri delu z informacijami, ne more pa popraviti fizičnih naprav.
+
+4.
+
+Vprašanje: Ali so odgovori umetne inteligence vedno pravilni?
+
+Odgovori:
+
+A) Da, vedno.
+B) Ne, lahko vsebujejo napake ali zastarele informacije. ✅
+C) Samo ob vikendih.
+
+Razlaga:
+Pomembne informacije vedno preverimo v zanesljivih virih.
+
+5.
+
+Vprašanje: Kaj je dobro storiti, če se odgovor umetne inteligence zdi nenavaden?
+
+Odgovori:
+
+A) Brezpogojno mu verjamemo.
+B) Preverimo informacije v drugih zanesljivih virih ali postavimo dodatno vprašanje. ✅
+C) Izključimo računalnik.
+
+Razlaga:
+AI je koristen pomočnik, vendar ni nezmotljiv.
+
+6.
+
+Vprašanje: Ali lahko umetni inteligenci postavimo vprašanje v slovenščini?
+
+Odgovori:
+
+A) Ne.
+B) Da, večina sodobnih sistemov dobro razume slovenščino. ✅
+C) Samo v angleščini.
+
+Razlaga:
+Vprašanja lahko postavimo v svojem jeziku.
+
+7.
+
+Vprašanje: Kako običajno dobimo boljši odgovor umetne inteligence?
+
+Odgovori:
+
+A) Z zelo kratkim vprašanjem.
+B) Z jasnim in čim bolj natančnim vprašanjem. ✅
+C) Z velikimi tiskanimi črkami.
+
+Razlaga:
+Več koristnih podrobnosti pogosto pomeni bolj uporaben odgovor.
+
+8.
+
+Vprašanje: Ali lahko umetna inteligenca pomaga napisati elektronsko sporočilo?
+
+Odgovori:
+
+A) Ne.
+B) Da, lahko pripravi osnutek ali popravi besedilo. ✅
+C) Samo če gre za angleščino.
+
+Razlaga:
+Uporabnik pa naj besedilo vedno pregleda pred pošiljanjem.
+
+9.
+
+Vprašanje: Ali lahko umetna inteligenca pomaga pri prevajanju?
+
+Odgovori:
+
+A) Ne.
+B) Da, lahko prevede besedila med številnimi jeziki. ✅
+C) Samo posamezne besede.
+
+Razlaga:
+Pri pomembnih dokumentih je prevod vseeno smiselno pregledati.
+
+10.
+
+Vprašanje: Ali lahko umetna inteligenca pomaga pri učenju?
+
+Odgovori:
+
+A) Ne.
+B) Da, razlaga pojme, odgovarja na vprašanja in pripravlja primere. ✅
+C) Samo pri matematiki.
+
+Razlaga:
+AI je lahko dober učni pomočnik za številna področja.
+
+11.
+
+Vprašanje: Ali umetna inteligenca vedno razume naše vprašanje?
+
+Odgovori:
+
+A) Vedno.
+B) Ne, včasih vprašanje razume drugače, kot smo mislili. ✅
+C) Nikoli.
+
+Razlaga:
+Če odgovor ni ustrezen, vprašanje preoblikujemo ali dodamo več podrobnosti.
+
+12.
+
+Vprašanje: Kaj pomeni »pogovor« (chat) z umetno inteligenco?
+
+Odgovori:
+
+A) Telefonski klic.
+B) Pisna izmenjava vprašanj in odgovorov. ✅
+C) Video konferenca.
+
+Razlaga:
+V istem pogovoru lahko postavljamo dodatna vprašanja in nadaljujemo temo.
+
+Kviz 25: Umetna inteligenca (13–25)
+13.
+
+Vprašanje: Ali lahko umetna inteligenca pomaga pri načrtovanju potovanja?
+
+Odgovori:
+
+A) Ne.
+B) Da, lahko predlaga poti, znamenitosti, prenočišča in okvirni načrt potovanja. ✅
+C) Samo kupi vozovnico.
+
+Razlaga:
+Končne podatke, kot so vozni redi, cene in odpiralni časi, je dobro preveriti pri uradnih ponudnikih.
+
+14.
+
+Vprašanje: Ali lahko umetna inteligenca pripravi recept za kosilo?
+
+Odgovori:
+
+A) Ne.
+B) Da, lahko pripravi recepte glede na želene sestavine ali prehranske omejitve. ✅
+C) Samo za sladice.
+
+Razlaga:
+Povemo lahko, katere sestavine imamo doma, in AI pripravi predlog.
+
+15.
+
+Vprašanje: Ali lahko umetna inteligenca pomaga napisati življenjepis ali prošnjo za zaposlitev?
+
+Odgovori:
+
+A) Ne.
+B) Da, lahko pripravi osnutek ali izboljša besedilo. ✅
+C) Samo v angleščini.
+
+Razlaga:
+Končno različico vedno pregledamo in prilagodimo svojim podatkom.
+
+16.
+
+Vprašanje: Ali je dobro umetni inteligenci posredovati številko bančne kartice ali gesla?
+
+Odgovori:
+
+A) Da.
+B) Ne, občutljivih osebnih podatkov nikoli ne posredujemo. ✅
+C) Samo če vprašamo dvakrat.
+
+Razlaga:
+Gesla, številke kartic in druge zaupne podatke vedno varujemo.
+
+17.
+
+Vprašanje: Ali lahko umetna inteligenca ustvarja slike?
+
+Odgovori:
+
+A) Ne.
+B) Da, nekateri sistemi lahko ustvarjajo slike na podlagi opisa uporabnika. ✅
+C) Samo črno-bele.
+
+Razlaga:
+Poleg besedila lahko AI ustvarja tudi slike, grafikone ali drugo vizualno vsebino.
+
+18.
+
+Vprašanje: Kaj naredimo, če umetna inteligenca odgovori napačno?
+
+Odgovori:
+
+A) Takoj jo izbrišemo.
+B) Postavimo dodatno vprašanje ali preverimo odgovor v drugih virih. ✅
+C) Izključimo internet.
+
+Razlaga:
+AI se lahko zmoti, zato je dobro kritično presojati odgovore.
+
+19.
+
+Vprašanje: Ali lahko umetna inteligenca pomaga pri pisanju pisem in elektronske pošte?
+
+Odgovori:
+
+A) Ne.
+B) Da, lahko pripravi osnutek ali izboljša že napisano besedilo. ✅
+C) Samo poslovna pisma.
+
+Razlaga:
+Pomaga lahko pri uradnih, zasebnih ali zahvalnih sporočilih.
+
+20.
+
+Vprašanje: Ali lahko umetna inteligenca pomaga pri razlagi zdravstvenih izrazov?
+
+Odgovori:
+
+A) Ne.
+B) Da, lahko pojasni izraze v razumljivem jeziku, vendar ne nadomesti zdravnika. ✅
+C) Vedno postavi diagnozo.
+
+Razlaga:
+Za diagnozo, zdravljenje in odločitve o zdravilih se vedno posvetujemo z zdravstvenim delavcem.
+
+21.
+
+Vprašanje: Kaj je največja prednost umetne inteligence?
+
+Odgovori:
+
+A) Nikoli ne naredi napake.
+B) Hitro pomaga poiskati informacije, pripraviti besedila in razložiti različne teme. ✅
+C) Samodejno popravi vse računalnike.
+
+Razlaga:
+AI lahko prihrani veliko časa pri vsakdanjih opravilih.
+
+22.
+
+Vprašanje: Kaj je največja omejitev umetne inteligence?
+
+Odgovori:
+
+A) Ne zna pisati.
+B) Lahko poda napačne ali nepopolne informacije, zato je pomembno preverjanje. ✅
+C) Ne razume slovenščine.
+
+Razlaga:
+Zlasti pri zdravju, pravu, financah ali pomembnih odločitvah je preverjanje nujno.
+
+23.
+
+Vprašanje: Kako najbolje uporabljamo umetno inteligenco?
+
+Odgovori:
+
+A) Slepo verjamemo vsakemu odgovoru.
+B) Uporabljamo jo kot pomočnika in pomembne informacije preverimo. ✅
+C) Nikoli ne postavimo dodatnega vprašanja.
+
+Razlaga:
+Najboljše rezultate dobimo s sodelovanjem med človekom in umetno inteligenco.
+
+24.
+
+Vprašanje: Ali lahko umetna inteligenca pomaga pri vsakodnevnih opravilih?
+
+Odgovori:
+
+A) Ne.
+B) Da, pri načrtovanju, učenju, pisanju, prevajanju, receptih, potovanjih in številnih drugih nalogah. ✅
+C) Samo pri programiranju.
+
+Razlaga:
+Možnosti uporabe so zelo široke in se hitro razvijajo.
+
+25.
+
+Vprašanje: Katero pravilo je najpomembnejše pri uporabi umetne inteligence?
+
+Odgovori:
+
+A) Objavimo vse svoje osebne podatke.
+B) Postavljamo jasna vprašanja, varujemo zasebnost in pomembne informacije preverimo v zanesljivih virih. ✅
+C) Vedno uporabimo prvi odgovor brez razmisleka.
+
+Razlaga:
+Umetna inteligenca je zelo uporaben pomočnik, vendar najboljše rezultate dosežemo, če jo uporabljamo premišljeno in kritično.

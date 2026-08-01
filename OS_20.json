@@ -1,0 +1,256 @@
+{
+  "id": 20,
+  "title": "Delo z dokumenti – Word, PDF, shranjevanje datotek in tiskanje",
+  "questions": [
+    {
+      "question": "Kaj je dokument na računalniku?",
+      "options": [
+        "A) Samo fotografija.",
+        "B) Datoteka, ki vsebuje besedilo, slike ali druge podatke.",
+        "C) Vrsta računalniškega kabla."
+      ],
+      "correct": 1,
+      "explanation": "Dokumenti so lahko pisma, pogodbe, zapiski, računi ali druga besedila."
+    },
+    {
+      "question": "Kateri program pogosto uporabljamo za pisanje besedil?",
+      "options": [
+        "A) Kalkulator.",
+        "B) Microsoft Word.",
+        "C) Koš."
+      ],
+      "correct": 1,
+      "explanation": "Word je eden najbolj razširjenih programov za ustvarjanje in urejanje dokumentov."
+    },
+    {
+      "question": "Kaj pomeni shraniti dokument?",
+      "options": [
+        "A) Izbrisati dokument.",
+        "B) Zapisati dokument na računalnik, da ga lahko pozneje ponovno odpremo.",
+        "C) Poslati ga v tiskalnik."
+      ],
+      "correct": 1,
+      "explanation": "Če dokumenta ne shranimo, lahko izgubimo napisano besedilo."
+    },
+    {
+      "question": "Katera bližnjica se pogosto uporablja za shranjevanje dokumenta?",
+      "options": [
+        "A) Ctrl + P.",
+        "B) Ctrl + S.",
+        "C) Ctrl + Z."
+      ],
+      "correct": 1,
+      "explanation": "Ctrl + S pomeni 'Save' oziroma shrani."
+    },
+    {
+      "question": "Kaj je mapa na računalniku?",
+      "options": [
+        "A) Program za internet.",
+        "B) Mesto, kjer urejeno shranjujemo datoteke.",
+        "C) Vrsta tiskalnika."
+      ],
+      "correct": 1,
+      "explanation": "Mape pomagajo organizirati dokumente, slike in druge datoteke."
+    },
+    {
+      "question": "Zakaj je koristno urejati dokumente v mape?",
+      "options": [
+        "A) Ker računalnik postane glasnejši.",
+        "B) Ker lažje najdemo datoteke.",
+        "C) Ker dobimo hitrejši internet."
+      ],
+      "correct": 1,
+      "explanation": "Dobro urejene mape preprečujejo izgubljanje dokumentov."
+    },
+    {
+      "question": "Kaj pomeni končnica datoteke .docx?",
+      "options": [
+        "A) Vrsta fotografije.",
+        "B) Datoteka Microsoft Word dokumenta.",
+        "C) Računalniški virus."
+      ],
+      "correct": 1,
+      "explanation": "Končnica pove, s katerim programom lahko datoteko običajno odpremo."
+    },
+    {
+      "question": "Kaj pomeni končnica PDF?",
+      "options": [
+        "A) Program za igre.",
+        "B) Oblika dokumenta, ki ohrani enak videz na različnih napravah.",
+        "C) Vrsta gesla."
+      ],
+      "correct": 1,
+      "explanation": "PDF je zelo pogost za račune, obrazce, navodila in uradne dokumente."
+    },
+    {
+      "question": "Zakaj pošiljamo dokumente pogosto v obliki PDF?",
+      "options": [
+        "A) Ker jih ni mogoče odpreti.",
+        "B) Ker se videz dokumenta običajno ne spremeni pri pošiljanju.",
+        "C) Ker zavzamejo vedno največ prostora."
+      ],
+      "correct": 1,
+      "explanation": "Prejemnik vidi dokument skoraj tako, kot ga je pripravil pošiljatelj."
+    },
+    {
+      "question": "Kako odpremo dokument, ki smo ga prejeli po e-pošti?",
+      "options": [
+        "A) Izklopimo računalnik.",
+        "B) Kliknemo priponko in jo odpremo ali shranimo.",
+        "C) Izbrišemo sporočilo."
+      ],
+      "correct": 1,
+      "explanation": "Pred odpiranjem preverimo, ali zaupamo pošiljatelju."
+    },
+    {
+      "question": "Kaj storimo, če ne najdemo dokumenta?",
+      "options": [
+        "A) Kupimo nov računalnik.",
+        "B) Uporabimo iskanje v Raziskovalcu datotek.",
+        "C) Izklopimo internet."
+      ],
+      "correct": 1,
+      "explanation": "Windows omogoča iskanje datotek po imenu ali vrsti."
+    },
+    {
+      "question": "Kaj je Raziskovalec datotek (File Explorer)?",
+      "options": [
+        "A) Program za gledanje televizije.",
+        "B) Program za pregledovanje in urejanje datotek ter map.",
+        "C) Program za izdelavo virusov."
+      ],
+      "correct": 1,
+      "explanation": "Z Raziskovalcem upravljamo dokumente, slike, mape in naprave."
+    },
+    {
+      "question": "Kaj pomeni kopirati datoteko?",
+      "options": [
+        "A) Izbrisati datoteko.",
+        "B) Ustvariti dodatno kopijo datoteke na drugem mestu.",
+        "C) Spremeniti barvo datoteke."
+      ],
+      "correct": 1,
+      "explanation": "Kopiranje je uporabno pri varnostnem shranjevanju dokumentov."
+    },
+    {
+      "question": "Kaj pomeni premakniti datoteko?",
+      "options": [
+        "A) Ustvariti virus.",
+        "B) Prenesti datoteko iz ene mape v drugo.",
+        "C) Spremeniti geslo."
+      ],
+      "correct": 1,
+      "explanation": "Pri premiku datoteka ni več na prvotnem mestu."
+    },
+    {
+      "question": "Kakšna je razlika med kopiranjem in premikanjem?",
+      "options": [
+        "A) Ni razlike.",
+        "B) Pri kopiranju ostane original, pri premikanju se spremeni lokacija.",
+        "C) Premikanje izbriše računalnik."
+      ],
+      "correct": 1,
+      "explanation": "Kopiranje je varnejše, kadar nismo prepričani."
+    },
+    {
+      "question": "Kaj je USB ključ?",
+      "options": [
+        "A) Program za pisanje.",
+        "B) Prenosna naprava za shranjevanje podatkov.",
+        "C) Vrsta zaslona."
+      ],
+      "correct": 1,
+      "explanation": "USB ključ uporabljamo za prenos dokumentov, fotografij in drugih datotek."
+    },
+    {
+      "question": "Zakaj moramo USB ključ varno odstraniti iz računalnika?",
+      "options": [
+        "A) Da postane hitrejši.",
+        "B) Da zmanjšamo možnost poškodbe podatkov.",
+        "C) Da se spremeni barva."
+      ],
+      "correct": 1,
+      "explanation": "Pred odstranitvijo počakamo, da računalnik konča zapisovanje podatkov."
+    },
+    {
+      "question": "Kaj pomeni tiskanje dokumenta?",
+      "options": [
+        "A) Shranjevanje v oblak.",
+        "B) Izdelava papirne kopije dokumenta s tiskalnikom.",
+        "C) Brisanje dokumenta."
+      ],
+      "correct": 1,
+      "explanation": "Tiskanje omogoča uporabo dokumenta tudi brez računalnika."
+    },
+    {
+      "question": "Katera bližnjica se pogosto uporablja za tiskanje?",
+      "options": [
+        "A) Ctrl + S.",
+        "B) Ctrl + P.",
+        "C) Ctrl + C."
+      ],
+      "correct": 1,
+      "explanation": "P pomeni 'Print' oziroma tiskanje."
+    },
+    {
+      "question": "Kaj storimo, če tiskalnik ne tiska?",
+      "options": [
+        "A) Izbrišemo Windows.",
+        "B) Preverimo povezavo, papir, črnilo in ali je tiskalnik vklopljen.",
+        "C) Odstranimo tipkovnico."
+      ],
+      "correct": 1,
+      "explanation": "Veliko težav s tiskalnikom je posledica preprostih vzrokov."
+    },
+    {
+      "question": "Kaj je oblak (cloud) pri shranjevanju podatkov?",
+      "options": [
+        "A) Vremenska napoved.",
+        "B) Shranjevanje datotek na oddaljenih strežnikih prek interneta.",
+        "C) Vrsta računalniškega zaslona."
+      ],
+      "correct": 1,
+      "explanation": "Primeri oblačnih storitev so Google Drive, OneDrive in Dropbox."
+    },
+    {
+      "question": "Zakaj uporabljamo shranjevanje v oblaku?",
+      "options": [
+        "A) Ker računalnik ne potrebuje elektrike.",
+        "B) Ker lahko do datotek dostopamo iz različnih naprav.",
+        "C) Ker izbriše vse viruse."
+      ],
+      "correct": 1,
+      "explanation": "Oblak omogoča dostop do dokumentov tudi, če računalnik ni pri roki."
+    },
+    {
+      "question": "Kaj pomeni varnostna kopija dokumentov?",
+      "options": [
+        "A) Sprememba pisave.",
+        "B) Dodatna kopija pomembnih datotek za primer izgube.",
+        "C) Izbris starih dokumentov."
+      ],
+      "correct": 1,
+      "explanation": "Varnostne kopije zaščitijo pred okvaro računalnika ali izgubo podatkov."
+    },
+    {
+      "question": "Zakaj ni dobro imeti vseh dokumentov samo na namizju?",
+      "options": [
+        "A) Ker namizje izgine.",
+        "B) Ker hitro postane nepregledno in težje najdemo datoteke.",
+        "C) Ker računalnik ne deluje."
+      ],
+      "correct": 1,
+      "explanation": "Za urejenost uporabljamo smiselne mape."
+    },
+    {
+      "question": "Katera navada je najboljša pri delu z dokumenti?",
+      "options": [
+        "A) Dokumentov nikoli ne shranjujemo.",
+        "B) Redno shranjujemo, urejamo v mape in izdelamo varnostne kopije.",
+        "C) Vse datoteke pustimo na namizju."
+      ],
+      "correct": 1,
+      "explanation": "Urejeni dokumenti in varnostne kopije preprečijo veliko težav."
+    }
+  ]
+}

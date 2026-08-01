@@ -1,0 +1,256 @@
+{
+  "id": 8,
+  "title": "ChatGPT in umetna inteligenca",
+  "questions": [
+    {
+      "question": "Kaj je ChatGPT?",
+      "options": [
+        "A) Protivirusni program.",
+        "B) Program z umetno inteligenco, ki odgovarja na vprašanja in pomaga pri različnih opravilih.",
+        "C) Spletni brskalnik."
+      ],
+      "correct": 1,
+      "explanation": "ChatGPT zna odgovarjati na vprašanja, razlagati snov, pomagati pri pisanju besedil in reševanju vsakodnevnih nalog."
+    },
+    {
+      "question": "Za kaj lahko uporabljamo ChatGPT?",
+      "options": [
+        "A) Samo za programiranje.",
+        "B) Za iskanje informacij, pisanje besedil, prevajanje, učenje in pomoč pri vsakodnevnih opravilih.",
+        "C) Samo za igranje iger."
+      ],
+      "correct": 1,
+      "explanation": "Uporaben je pri kuhanju, potovanjih, učenju, pisanju dopisov in številnih drugih nalogah."
+    },
+    {
+      "question": "Ali lahko ChatGPT naredi tudi napako?",
+      "options": [
+        "A) Ne, vedno ima prav.",
+        "B) Da, zato je pomembno pomembne informacije preveriti.",
+        "C) Samo ob nedeljah."
+      ],
+      "correct": 1,
+      "explanation": "Pri zdravstvenih, pravnih ali finančnih vprašanjih je priporočljivo uporabiti tudi druge zanesljive vire."
+    },
+    {
+      "question": "Kaj pomeni 'poziv' (angl. prompt)?",
+      "options": [
+        "A) Geslo za prijavo.",
+        "B) Navodilo ali vprašanje, ki ga napišemo ChatGPT-ju.",
+        "C) Vrsta računalniškega virusa."
+      ],
+      "correct": 1,
+      "explanation": "Bolj jasno kot postavimo vprašanje, bolj uporaben odgovor bomo običajno dobili."
+    },
+    {
+      "question": "Kateri poziv bo verjetno dal najbolj uporaben odgovor?",
+      "options": [
+        "A) 'Pomagaj.'",
+        "B) 'Napiši recept za jabolčni zavitek za štiri osebe.'",
+        "C) 'Ne vem.'"
+      ],
+      "correct": 1,
+      "explanation": "Čim bolj natančno opišemo, kaj želimo, tem boljši bo odgovor."
+    },
+    {
+      "question": "Ali lahko ChatGPT pomaga napisati elektronsko sporočilo?",
+      "options": [
+        "A) Ne.",
+        "B) Da, lahko pripravi osnutek ali popravi besedilo.",
+        "C) Samo v angleščini."
+      ],
+      "correct": 1,
+      "explanation": "Lahko pomaga pri zasebnih, službenih ali uradnih dopisih."
+    },
+    {
+      "question": "Ali lahko ChatGPT prevaja med jeziki?",
+      "options": [
+        "A) Ne.",
+        "B) Da, med številnimi jeziki, tudi v slovenščino.",
+        "C) Samo med angleščino in nemščino."
+      ],
+      "correct": 1,
+      "explanation": "Prevaja besede, stavke in daljša besedila, vendar je pri pomembnih dokumentih dobro prevod pregledati."
+    },
+    {
+      "question": "Ali lahko ChatGPT pomaga razložiti zapleteno snov?",
+      "options": [
+        "A) Ne.",
+        "B) Da, razlago lahko prilagodi začetnikom ali otrokom.",
+        "C) Samo študentom."
+      ],
+      "correct": 1,
+      "explanation": "Lahko prosite: 'Razloži mi, kot da sem začetnik.'"
+    },
+    {
+      "question": "Kaj storimo, če z odgovorom nismo zadovoljni?",
+      "options": [
+        "A) Takoj zapremo program.",
+        "B) Postavimo dodatno vprašanje ali natančneje razložimo, kaj želimo.",
+        "C) Izbrišemo račun."
+      ],
+      "correct": 1,
+      "explanation": "Pogovor z umetno inteligenco je podoben pogovoru z učiteljem – dodatna pojasnila pogosto vodijo do boljšega odgovora."
+    },
+    {
+      "question": "Ali si ChatGPT vedno zapomni vse prejšnje pogovore?",
+      "options": [
+        "A) Vedno.",
+        "B) Ne nujno. Odvisno je od nastavitev in načina uporabe.",
+        "C) Samo ob vikendih."
+      ],
+      "correct": 1,
+      "explanation": "Ni dobro domnevati, da si bo vedno zapomnil vse, kar ste mu povedali."
+    },
+    {
+      "question": "Ali lahko ChatGPT pomaga pri načrtovanju potovanja?",
+      "options": [
+        "A) Ne.",
+        "B) Da, lahko predlaga poti, znamenitosti in okvirni načrt potovanja.",
+        "C) Samo rezervira hotel."
+      ],
+      "correct": 1,
+      "explanation": "Lahko pripravi ideje za izlete, vendar je dobro preveriti vozne rede, cene in odpiralne čase."
+    },
+    {
+      "question": "Kaj je dobra navada pri uporabi ChatGPT?",
+      "options": [
+        "A) Vedno slepo verjamemo odgovorom.",
+        "B) Jasno postavljamo vprašanja in pomembne informacije preverimo.",
+        "C) Pišemo samo eno besedo."
+      ],
+      "correct": 1,
+      "explanation": "Umetna inteligenca je odličen pomočnik, vendar ne nadomešča kritičnega razmišljanja."
+    },
+    {
+      "question": "Kateri poziv bo verjetno dal najbolj uporaben odgovor?",
+      "options": [
+        "A) 'Povej nekaj.'",
+        "B) 'Pripravi enostaven recept za kosilo iz piščanca, riža in korenja za dve osebi.'",
+        "C) 'Ne vem.'"
+      ],
+      "correct": 1,
+      "explanation": "Bolj natančno opišemo svojo željo, bolj uporaben odgovor bomo običajno dobili."
+    },
+    {
+      "question": "Kako lahko ChatGPT pomaga pri pisanju dopisa?",
+      "options": [
+        "A) Ne zna pomagati.",
+        "B) Pripravi lahko osnutek dopisa ali izboljša že napisano besedilo.",
+        "C) Pošlje dopis brez našega dovoljenja."
+      ],
+      "correct": 1,
+      "explanation": "ChatGPT pomaga pri oblikovanju besedila, vendar ga pred pošiljanjem vedno preberemo."
+    },
+    {
+      "question": "Ali lahko ChatGPT pomaga pri učenju uporabe računalnika?",
+      "options": [
+        "A) Ne.",
+        "B) Da, korak za korakom lahko razloži uporabo programov in nastavitev.",
+        "C) Samo programerjem."
+      ],
+      "correct": 1,
+      "explanation": "Lahko razloži delo v Windows, Wordu, Excelu, brskalniku in številnih drugih programih."
+    },
+    {
+      "question": "Kaj naredimo, če je odgovor ChatGPT predolg?",
+      "options": [
+        "A) Zapremo pogovor.",
+        "B) Prosimo ga za krajši ali bolj preprost odgovor.",
+        "C) Izbrišemo račun."
+      ],
+      "correct": 1,
+      "explanation": "Na primer: 'Razloži v petih stavkih.' ali 'Pojasni preprosteje.'"
+    },
+    {
+      "question": "Ali lahko ChatGPT povzame dolgo besedilo?",
+      "options": [
+        "A) Ne.",
+        "B) Da, lahko pripravi kratek povzetek glavnih informacij.",
+        "C) Samo če je besedilo v angleščini."
+      ],
+      "correct": 1,
+      "explanation": "To je uporabno pri člankih, navodilih ali daljših dokumentih."
+    },
+    {
+      "question": "Kako lahko ChatGPT pomaga pri načrtovanju izleta?",
+      "options": [
+        "A) Samodejno rezervira hotel.",
+        "B) Predlaga pot, znamenitosti in okvirni časovni načrt.",
+        "C) Izključi navigacijo."
+      ],
+      "correct": 1,
+      "explanation": "Podatke, kot so cene, odpiralni časi in vozni redi, je priporočljivo preveriti."
+    },
+    {
+      "question": "Ali lahko ChatGPT pomaga napisati voščilo ali vabilo?",
+      "options": [
+        "A) Ne.",
+        "B) Da, pripravi lahko voščilo, vabilo ali govor za različne priložnosti.",
+        "C) Samo uradne dokumente."
+      ],
+      "correct": 1,
+      "explanation": "Besedilo lahko prilagodi priložnosti in tonu, ki ga želimo."
+    },
+    {
+      "question": "Kaj storimo, če ChatGPT ne razume našega vprašanja?",
+      "options": [
+        "A) Vedno postavimo popolnoma enako vprašanje.",
+        "B) Vprašanje dopolnimo ali ga zastavimo drugače.",
+        "C) Izključimo računalnik."
+      ],
+      "correct": 1,
+      "explanation": "Dodatne podrobnosti pogosto bistveno izboljšajo odgovor."
+    },
+    {
+      "question": "Ali lahko ChatGPT pomaga pri prevajanju elektronske pošte ali pisem?",
+      "options": [
+        "A) Ne.",
+        "B) Da, lahko prevede besedilo v številne jezike.",
+        "C) Samo posamezne besede."
+      ],
+      "correct": 1,
+      "explanation": "Po prevodu je dobro preveriti, ali je pomen ostal pravilen."
+    },
+    {
+      "question": "Katere osebne podatke je bolje, da ne vnašamo v ChatGPT?",
+      "options": [
+        "A) Naslov knjige.",
+        "B) Gesel, številk bančnih kartic, PIN-kod in drugih občutljivih podatkov.",
+        "C) Recepta za kosilo."
+      ],
+      "correct": 1,
+      "explanation": "Občutljive osebne podatke vedno varujemo, ne glede na aplikacijo, ki jo uporabljamo."
+    },
+    {
+      "question": "Ali lahko ChatGPT pomaga pri pisanju življenjepisa ali prošnje za zaposlitev?",
+      "options": [
+        "A) Ne.",
+        "B) Da, lahko pripravi osnutek ali izboljša besedilo.",
+        "C) Samo podjetjem."
+      ],
+      "correct": 1,
+      "explanation": "Končno različico vedno prilagodimo svojim izkušnjam in jo pregledamo."
+    },
+    {
+      "question": "Kaj je dobro storiti, kadar ChatGPT poda pomemben zdravstveni ali pravni nasvet?",
+      "options": [
+        "A) Vedno mu popolnoma verjamemo.",
+        "B) Informacijo preverimo pri zdravniku, pravniku ali drugem zanesljivem viru.",
+        "C) Objavimo odgovor na družbenih omrežjih."
+      ],
+      "correct": 1,
+      "explanation": "Pri pomembnih odločitvah umetna inteligenca ne more nadomestiti strokovnega nasveta."
+    },
+    {
+      "question": "Kaj je največja prednost ChatGPT?",
+      "options": [
+        "A) Da vedno pozna popolnoma pravilen odgovor.",
+        "B) Da hitro pomaga pri iskanju idej, učenju, pisanju in reševanju vsakodnevnih nalog.",
+        "C) Da samodejno popravi vse napake na računalniku."
+      ],
+      "correct": 1,
+      "explanation": "ChatGPT je zelo uporaben pomočnik, vendar najboljše rezultate dosežemo, če postavljamo jasna vprašanja in pomembne informacije preverimo."
+    }
+  ]
+}

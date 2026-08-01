@@ -1,0 +1,256 @@
+{
+  "id": 16,
+  "title": "Fotografije na računalniku in telefonu – urejanje, shranjevanje in deljenje",
+  "questions": [
+    {
+      "question": "Kam se običajno shranijo fotografije, posnete s telefonom Android?",
+      "options": [
+        "A) V aplikacijo Kalkulator.",
+        "B) V aplikacijo Galerija ali Google Fotografije.",
+        "C) V telefonski imenik."
+      ],
+      "correct": 1,
+      "explanation": "Večina telefonov samodejno shrani posnete fotografije v mapo Fotografije ali Galerija."
+    },
+    {
+      "question": "Kaj je aplikacija Google Fotografije?",
+      "options": [
+        "A) Program za telefoniranje.",
+        "B) Aplikacija za ogled, urejanje in shranjevanje fotografij.",
+        "C) Program za tiskanje."
+      ],
+      "correct": 1,
+      "explanation": "Google Fotografije omogočajo pregledovanje slik, ustvarjanje albumov in varnostno kopiranje."
+    },
+    {
+      "question": "Kaj pomeni varnostna kopija fotografij?",
+      "options": [
+        "A) Sprememba barve fotografije.",
+        "B) Shranjevanje dodatne kopije fotografij, da jih ne izgubimo.",
+        "C) Izbris fotografij."
+      ],
+      "correct": 1,
+      "explanation": "Če izgubimo telefon ali se pokvari, lahko fotografije obnovimo iz varnostne kopije."
+    },
+    {
+      "question": "Zakaj je koristno shranjevati fotografije v oblak?",
+      "options": [
+        "A) Ker telefon postane težji.",
+        "B) Ker lahko do fotografij dostopamo tudi iz druge naprave.",
+        "C) Ker fotografije postanejo papirnate."
+      ],
+      "correct": 1,
+      "explanation": "Fotografije v oblaku lahko pogledamo na telefonu, računalniku ali tablici."
+    },
+    {
+      "question": "Kako prenesemo fotografije iz telefona na računalnik?",
+      "options": [
+        "A) Z izklopom telefona.",
+        "B) S kablom USB, prek oblaka ali brezžično.",
+        "C) S pritiskom tipke Delete."
+      ],
+      "correct": 1,
+      "explanation": "Najpogostejši način je povezava telefona z računalnikom s kablom USB."
+    },
+    {
+      "question": "Kaj se pogosto zgodi, če imamo na telefonu preveč fotografij?",
+      "options": [
+        "A) Telefon dobi več prostora.",
+        "B) Pomnilnik se zapolni in telefon lahko deluje počasneje.",
+        "C) Internet postane hitrejši."
+      ],
+      "correct": 1,
+      "explanation": "Fotografije in videoposnetki lahko hitro zasedejo veliko prostora."
+    },
+    {
+      "question": "Kako sprostimo prostor, ki ga zasedajo fotografije?",
+      "options": [
+        "A) Izklopimo Wi-Fi.",
+        "B) Izbrišemo nepotrebne fotografije ali jih shranimo drugam.",
+        "C) Zamenjamo ozadje telefona."
+      ],
+      "correct": 1,
+      "explanation": "Pred brisanjem pomembne fotografije vedno shranimo v varnostno kopijo."
+    },
+    {
+      "question": "Kaj je album fotografij?",
+      "options": [
+        "A) Program za zaščito telefona.",
+        "B) Zbirka fotografij, urejenih po določeni temi.",
+        "C) Vrsta pomnilniške kartice."
+      ],
+      "correct": 1,
+      "explanation": "Albume lahko ustvarimo na primer za dopust, družino ali dogodke."
+    },
+    {
+      "question": "Zakaj je koristno poimenovati albume fotografij?",
+      "options": [
+        "A) Telefon dela hitreje.",
+        "B) Ker lažje najdemo določene fotografije.",
+        "C) Ker fotografije postanejo večje."
+      ],
+      "correct": 1,
+      "explanation": "Dobro urejeni albumi omogočajo hitrejše iskanje spominov."
+    },
+    {
+      "question": "Kako lahko fotografijo pošljemo drugi osebi?",
+      "options": [
+        "A) Samo s tiskalnikom.",
+        "B) Po e-pošti, sporočilu ali aplikacijah, kot sta WhatsApp ali Viber.",
+        "C) Fotografij ni mogoče poslati."
+      ],
+      "correct": 1,
+      "explanation": "Fotografije lahko delimo neposredno iz galerije telefona."
+    },
+    {
+      "question": "Kaj pomeni urejanje fotografije?",
+      "options": [
+        "A) Izbris fotografije.",
+        "B) Spreminjanje videza fotografije, na primer obrezovanje ali prilagoditev svetlosti.",
+        "C) Premik fotografije v koš."
+      ],
+      "correct": 1,
+      "explanation": "Osnovno urejanje lahko izboljša fotografijo brez posebnega znanja."
+    },
+    {
+      "question": "Kaj pomeni obrezovanje fotografije?",
+      "options": [
+        "A) Povečanje glasnosti telefona.",
+        "B) Odstranitev nepotrebnih delov slike.",
+        "C) Izbris vseh fotografij."
+      ],
+      "correct": 1,
+      "explanation": "Z obrezovanjem lahko poudarimo pomemben del fotografije."
+    },
+    {
+      "question": "Zakaj je koristno fotografije razvrstiti po datumih ali dogodkih?",
+      "options": [
+        "A) Ker telefon porabi manj baterije.",
+        "B) Ker jih lažje najdemo in pregledamo.",
+        "C) Ker internet deluje hitreje."
+      ],
+      "correct": 1,
+      "explanation": "Urejene fotografije omogočajo hitro iskanje določenega dogodka."
+    },
+    {
+      "question": "Kaj naredimo, če pomotoma izbrišemo fotografijo?",
+      "options": [
+        "A) Kupimo nov telefon.",
+        "B) Preverimo mapo Koš ali Nedavno izbrisano.",
+        "C) Izklopimo internet."
+      ],
+      "correct": 1,
+      "explanation": "Večina telefonov nekaj časa hrani izbrisane fotografije."
+    },
+    {
+      "question": "Kaj je format fotografije JPG oziroma JPEG?",
+      "options": [
+        "A) Vrsta gesla.",
+        "B) Ena najpogostejših oblik zapisa digitalnih fotografij.",
+        "C) Program za internet."
+      ],
+      "correct": 1,
+      "explanation": "Večina fotografij s telefonov je shranjena v formatu JPG."
+    },
+    {
+      "question": "Zakaj fotografije z visoko kakovostjo zasedejo več prostora?",
+      "options": [
+        "A) Ker imajo več barv na zaslonu.",
+        "B) Ker vsebujejo več podatkov in podrobnosti.",
+        "C) Ker potrebujejo internet."
+      ],
+      "correct": 1,
+      "explanation": "Boljša kakovost pomeni večjo datoteko."
+    },
+    {
+      "question": "Kaj je posnetek zaslona (screenshot)?",
+      "options": [
+        "A) Fotografija s fotoaparatom.",
+        "B) Slika tega, kar trenutno vidimo na zaslonu telefona ali računalnika.",
+        "C) Izbris zaslona."
+      ],
+      "correct": 1,
+      "explanation": "Posnetke zaslona pogosto uporabljamo za shranjevanje informacij ali pomoč pri težavah."
+    },
+    {
+      "question": "Kako naredimo posnetek zaslona na večini telefonov?",
+      "options": [
+        "A) S pritiskom tipke za glasbo.",
+        "B) S kombinacijo tipk, običajno gumb za vklop + zmanjšanje glasnosti.",
+        "C) Z izklopom telefona."
+      ],
+      "correct": 1,
+      "explanation": "Postopek se lahko nekoliko razlikuje glede na model telefona."
+    },
+    {
+      "question": "Zakaj ni dobro objaviti vseh fotografij javno na internetu?",
+      "options": [
+        "A) Ker fotografije izgubijo barvo.",
+        "B) Ker lahko razkrijejo zasebne podatke ali lokacijo.",
+        "C) Ker telefon ne deluje."
+      ],
+      "correct": 1,
+      "explanation": "Pri objavljanju fotografij pomislimo na zasebnost."
+    },
+    {
+      "question": "Kaj pomeni deliti album fotografij?",
+      "options": [
+        "A) Izbrisati album.",
+        "B) Omogočiti drugim osebam ogled izbranih fotografij.",
+        "C) Premakniti album v Koš."
+      ],
+      "correct": 1,
+      "explanation": "Album lahko delimo z družino ali prijatelji, ne da bi pošiljali vsako fotografijo posebej."
+    },
+    {
+      "question": "Zakaj je pomembno imeti kopijo pomembnih fotografij?",
+      "options": [
+        "A) Zaradi lepšega telefona.",
+        "B) Ker lahko izgubimo telefon ali se naprava pokvari.",
+        "C) Ker telefon potrebuje več aplikacij."
+      ],
+      "correct": 1,
+      "explanation": "Fotografije so pogosto neponovljivi spomini, zato jih zaščitimo."
+    },
+    {
+      "question": "Kaj je pomnilniška kartica SD?",
+      "options": [
+        "A) Program za fotografije.",
+        "B) Dodatni prostor za shranjevanje podatkov v nekaterih napravah.",
+        "C) Vrsta interneta."
+      ],
+      "correct": 1,
+      "explanation": "Nekateri telefoni in fotoaparati omogočajo uporabo kartic SD za več prostora."
+    },
+    {
+      "question": "Kaj storimo pred brisanjem večjega števila fotografij?",
+      "options": [
+        "A) Izključimo telefon.",
+        "B) Preverimo, ali imamo pomembne fotografije shranjene drugje.",
+        "C) Izbrišemo tudi aplikacije."
+      ],
+      "correct": 1,
+      "explanation": "Nepremišljeno brisanje lahko povzroči izgubo dragocenih spominov."
+    },
+    {
+      "question": "Zakaj je koristno poznati delo s fotografijami?",
+      "options": [
+        "A) Ker telefon postane hitrejši.",
+        "B) Ker lahko samostojno urejamo, shranjujemo in delimo svoje slike.",
+        "C) Ker ne potrebujemo več računalnika."
+      ],
+      "correct": 1,
+      "explanation": "Fotografije so ena najpogosteje uporabljenih funkcij pametnega telefona."
+    },
+    {
+      "question": "Katera navada je najboljša pri fotografijah?",
+      "options": [
+        "A) Vse fotografije pustimo brez urejanja.",
+        "B) Pomembne fotografije uredimo in varnostno kopiramo.",
+        "C) Vse fotografije takoj izbrišemo."
+      ],
+      "correct": 1,
+      "explanation": "Urejena in varno shranjena zbirka fotografij nam omogoča, da jih ohranimo za prihodnost."
+    }
+  ]
+}

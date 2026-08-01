@@ -1,0 +1,326 @@
+Kviz 11: Google Drive, OneDrive in delo v oblaku
+
+1.
+
+Vprašanje: Kaj pomeni izraz "oblak" pri računalništvu?
+
+Odgovori:
+
+A) Program za napoved vremena.
+B) Shranjevanje podatkov na oddaljenih računalnikih prek interneta. ✅
+C) Vrsta računalniškega virusa.
+
+Razlaga:
+Oblak pomeni, da datoteke niso shranjene samo na našem računalniku ali telefonu, ampak na strežnikih ponudnika storitve.
+
+2.
+
+Vprašanje: Kaj je Google Drive?
+
+Odgovori:
+
+A) Spletni brskalnik.
+B) Storitev za shranjevanje datotek v oblaku. ✅
+C) Protivirusni program.
+
+Razlaga:
+Google Drive omogoča shranjevanje dokumentov, fotografij in drugih datotek ter dostop do njih prek interneta.
+
+3.
+
+Vprašanje: Kaj je OneDrive?
+
+Odgovori:
+
+A) Program za urejanje fotografij.
+B) Microsoftova storitev za shranjevanje datotek v oblaku. ✅
+C) Vrsta tiskalnika.
+
+Razlaga:
+OneDrive je povezan z Microsoftovim računom in je pogosto že vključen v Windows.
+
+4.
+
+Vprašanje: Kaj potrebujemo za uporabo storitve v oblaku?
+
+Odgovori:
+
+A) Samo tiskalnik.
+B) Račun pri ponudniku storitve in internetno povezavo. ✅
+C) Posebno tipkovnico.
+
+Razlaga:
+Za Google Drive potrebujemo Google račun, za OneDrive pa Microsoftov račun.
+
+5.
+
+Vprašanje: Kakšna je glavna prednost shranjevanja datotek v oblaku?
+
+Odgovori:
+
+A) Računalnik porabi manj elektrike.
+B) Do datotek lahko dostopamo iz različnih naprav. ✅
+C) Datoteke se same natisnejo.
+
+Razlaga:
+Dokument, shranjen v oblaku, lahko odpremo na računalniku, telefonu ali tablici.
+
+6.
+
+Vprašanje: Kaj se zgodi, če se pokvari računalnik, datoteke pa imamo v oblaku?
+
+Odgovori:
+
+A) Vse datoteke izginejo.
+B) Do datotek lahko ponovno dostopamo iz druge naprave. ✅
+C) Internet se izklopi.
+
+Razlaga:
+Oblak je lahko dodatna zaščita pred izgubo podatkov zaradi okvare računalnika.
+
+7.
+
+Vprašanje: Kaj je sinhronizacija datotek?
+
+Odgovori:
+
+A) Izbris vseh datotek.
+B) Samodejno usklajevanje datotek med napravami. ✅
+C) Zaklep računalnika.
+
+Razlaga:
+Če spremenimo datoteko na eni napravi, se sprememba lahko prenese tudi na druge naprave.
+
+8.
+
+Vprašanje: Ali lahko Google Drive uporabljamo tudi na telefonu?
+
+Odgovori:
+
+A) Ne.
+B) Da, z aplikacijo Google Drive. ✅
+C) Samo na televiziji.
+
+Razlaga:
+Z aplikacijo lahko dostopamo do svojih dokumentov in fotografij tudi na telefonu.
+
+9.
+
+Vprašanje: Kaj pomeni deliti datoteko v oblaku?
+
+Odgovori:
+
+A) Izbrisati datoteko.
+B) Omogočiti drugi osebi dostop do datoteke ali mape. ✅
+C) Premakniti datoteko v Koš.
+
+Razlaga:
+Datoteko lahko delimo na primer z družinskim članom ali sodelavcem.
+
+10.
+
+Vprašanje: Zakaj je pri deljenju datotek pomembna previdnost?
+
+Odgovori:
+
+A) Ker se računalnik segreje.
+B) Ker lahko napačni osebi omogočimo dostop do svojih podatkov. ✅
+C) Ker internet postane počasnejši.
+
+Razlaga:
+Pred deljenjem preverimo, komu dovolimo dostop in kakšne pravice ima.
+
+11.
+
+Vprašanje: Kaj pomeni, če je datoteka označena kot "samo za ogled"?
+
+Odgovori:
+
+A) Datoteka se izbriše.
+B) Oseba jo lahko vidi, ne more pa je spreminjati. ✅
+C) Datoteka se samodejno natisne.
+
+Razlaga:
+Pri deljenju lahko določimo, ali lahko nekdo datoteko samo bere ali tudi ureja.
+
+12.
+
+Vprašanje: Ali je oblak popolnoma varen?
+
+Odgovori:
+
+A) Da, nikoli ne more biti težav.
+B) Ne, zato moramo uporabljati močna gesla in dodatno zaščito. ✅
+C) Da, če imamo star računalnik.
+
+Razlaga:
+Oblak je zelo uporaben, vendar moramo še vedno skrbeti za varnost računa.
+
+13.
+
+Vprašanje: Kako naložimo datoteko v Google Drive ali OneDrive?
+
+Odgovori:
+
+A) Datoteko fotografiramo z zaslonom.
+B) Izberemo možnost za nalaganje in izberemo datoteko iz računalnika ali telefona. ✅
+C) Datoteko pošljemo sami sebi po telefonu.
+
+Razlaga:
+Nalaganje pomeni, da kopijo datoteke prenesemo iz naprave v oblak.
+
+14.
+
+Vprašanje: Kaj je mapa v oblaku?
+
+Odgovori:
+
+A) Fizična mapa na mizi.
+B) Mesto za urejeno shranjevanje datotek. ✅
+C) Program za čiščenje računalnika.
+
+Razlaga:
+Tako kot na računalniku lahko tudi v oblaku ustvarimo mape za boljšo preglednost.
+
+15.
+
+Vprašanje: Zakaj je koristno ustvarjati mape za datoteke?
+
+Odgovori:
+
+A) Ker računalnik dela hitreje.
+B) Ker lažje najdemo dokumente, fotografije in druge datoteke. ✅
+C) Ker dobimo več prostora.
+
+Razlaga:
+Urejene mape preprečujejo, da bi se pomembne datoteke izgubile med množico drugih dokumentov.
+
+16.
+
+Vprašanje: Kaj pomeni prenesti datoteko iz oblaka?
+
+Odgovori:
+
+A) Izbrisati datoteko.
+B) Kopirati datoteko iz oblaka na računalnik ali telefon. ✅
+C) Zakleniti datoteko.
+
+Razlaga:
+Datoteko lahko prenesemo, če jo želimo uporabljati brez internetne povezave.
+
+17.
+
+Vprašanje: Kaj je Google Dokumenti (Google Docs)?
+
+Odgovori:
+
+A) Program za igranje iger.
+B) Spletni urejevalnik besedil za pisanje dokumentov. ✅
+C) Program za pregled vremena.
+
+Razlaga:
+Google Dokumenti omogočajo pisanje in urejanje besedil neposredno v brskalniku.
+
+18.
+
+Vprašanje: Kakšna je prednost spletnega urejanja dokumentov?
+
+Odgovori:
+
+A) Dokument se sam natisne.
+B) Dokument lahko urejamo iz različnih naprav in se spremembe shranjujejo samodejno. ✅
+C) Dokumenta ni mogoče shraniti.
+
+Razlaga:
+Ni treba vsakič ročno shranjevati, saj se spremembe običajno shranjujejo sproti.
+
+19.
+
+Vprašanje: Kaj pomeni obnoviti izbrisano datoteko iz oblaka?
+
+Odgovori:
+
+A) Pretvoriti jo v fotografijo.
+B) Vrniti datoteko iz koša nazaj med shranjene datoteke. ✅
+C) Poslati jo drugi osebi.
+
+Razlaga:
+Večina storitev v oblaku nekaj časa hrani izbrisane datoteke v košu.
+
+20.
+
+Vprašanje: Kakšna je razlika med datoteko na računalniku in datoteko v oblaku?
+
+Odgovori:
+
+A) Datoteka v oblaku ne obstaja.
+B) Datoteka v oblaku je shranjena na internetu in je dostopna iz več naprav. ✅
+C) Datoteka v računalniku je vedno nevarna.
+
+Razlaga:
+Lokalna datoteka je shranjena na našem disku, oblačna datoteka pa na oddaljenem strežniku.
+
+21.
+
+Vprašanje: Ali lahko v oblaku shranjujemo fotografije?
+
+Odgovori:
+
+A) Ne.
+B) Da, fotografije so ena najpogostejših vrst podatkov v oblaku. ✅
+C) Samo dokumente.
+
+Razlaga:
+Google Fotografije, Google Drive in OneDrive lahko uporabljamo tudi za shranjevanje slik.
+
+22.
+
+Vprašanje: Kaj storimo, če pozabimo geslo za račun v oblaku?
+
+Odgovori:
+
+A) Ustvarimo nov računalnik.
+B) Uporabimo možnost za obnovitev gesla. ✅
+C) Izbrišemo vse datoteke.
+
+Razlaga:
+Ponudniki omogočajo obnovitev računa z rezervnim e-naslovom, telefonom ali drugimi postopki.
+
+23.
+
+Vprašanje: Zakaj je pomembna uporaba močnega gesla za oblak?
+
+Odgovori:
+
+A) Zaradi lepšega izgleda računa.
+B) Ker geslo ščiti naše dokumente, fotografije in osebne podatke. ✅
+C) Ker internet deluje hitreje.
+
+Razlaga:
+Če nekdo pridobi dostop do računa, lahko vidi ali izbriše naše datoteke.
+
+24.
+
+Vprašanje: Kaj je dvostopenjska zaščita računa?
+
+Odgovori:
+
+A) Dvakrat napišemo isto geslo.
+B) Poleg gesla uporabimo še dodatno preverjanje identitete. ✅
+C) Uporabimo dva računalnika.
+
+Razlaga:
+Tudi če nekdo izve naše geslo, brez druge potrditve težje dostopa do računa.
+
+25.
+
+Vprašanje: Katera navada je najboljša pri uporabi oblaka?
+
+Odgovori:
+
+A) Vse datoteke shranimo brez urejanja.
+B) Urejamo datoteke, uporabljamo varno geslo in pomembne podatke varnostno kopiramo. ✅
+C) Geslo napišemo na list ob računalniku.
+
+Razlaga:
+Oblak je zelo priročen, vendar je varnost odvisna tudi od naših navad.

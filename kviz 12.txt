@@ -1,0 +1,327 @@
+Kviz 12: Windows 10 – urejanje datotek, map in Raziskovalec
+
+1.
+
+Vprašanje: Kaj je datoteka?
+
+Odgovori:
+
+A) Gumb na tipkovnici.
+B) Shranjen podatek, kot je dokument, fotografija ali glasba. ✅
+C) Vrsta računalniškega zaslona.
+
+Razlaga:
+Datoteka vsebuje določene podatke. Primeri so besedilo, slika, preglednica ali videoposnetek.
+
+2.
+
+Vprašanje: Kaj je mapa v računalniku?
+
+Odgovori:
+
+A) Program za zaščito računalnika.
+B) Mesto, kamor shranjujemo in urejamo datoteke. ✅
+C) Vrsta tiskalnika.
+
+Razlaga:
+Mape nam pomagajo urediti datoteke podobno kot papirne mape v omari.
+
+3.
+
+Vprašanje: Kaj je Raziskovalec datotek (File Explorer)?
+
+Odgovori:
+
+A) Program za gledanje televizije.
+B) Program za pregledovanje in urejanje datotek ter map. ✅
+C) Protivirusni program.
+
+Razlaga:
+V Raziskovalcu vidimo diske, mape in datoteke na računalniku.
+
+4.
+
+Vprašanje: Kako odpremo Raziskovalca datotek v Windows 10?
+
+Odgovori:
+
+A) Pritisnemo gumb za izklop.
+B) Kliknemo ikono mape v opravilni vrstici ali uporabimo meni Start. ✅
+C) Odpremo Koš.
+
+Razlaga:
+Ikona rumene mape je najpogostejši način za zagon Raziskovalca.
+
+5.
+
+Vprašanje: Kako ustvarimo novo mapo?
+
+Odgovori:
+
+A) Izklopimo računalnik.
+B) Z desnim klikom izberemo Novo → Mapa. ✅
+C) Pritisnemo tipko Esc.
+
+Razlaga:
+Nove mape pomagajo organizirati dokumente, slike in druge datoteke.
+
+6.
+
+Vprašanje: Kako preimenujemo datoteko ali mapo?
+
+Odgovori:
+
+A) Datoteko izbrišemo.
+B) Z desnim klikom izberemo Preimenuj. ✅
+C) Računalnik ponovno zaženemo.
+
+Razlaga:
+Dobro ime datoteke nam pomaga, da jo kasneje lažje najdemo.
+
+7.
+
+Vprašanje: Kaj pomeni kopiranje datoteke?
+
+Odgovori:
+
+A) Datoteko uničimo.
+B) Ustvarimo dodatno kopijo datoteke na drugem mestu. ✅
+C) Spremenimo jezik računalnika.
+
+Razlaga:
+Pri kopiranju izvorna datoteka ostane nespremenjena.
+
+8.
+
+Vprašanje: Kakšna je razlika med kopiranjem in premikanjem datoteke?
+
+Odgovori:
+
+A) Razlike ni.
+B) Pri kopiranju ostane izvirnik, pri premikanju pa ga prestavimo drugam. ✅
+C) Premikanje pomeni brisanje.
+
+Razlaga:
+Kopiranje uporabimo, ko želimo imeti dve različici, premikanje pa, ko želimo datoteko prestaviti.
+
+9.
+
+Vprašanje: Kaj pomenita bližnjici Ctrl + C in Ctrl + V?
+
+Odgovori:
+
+A) Izklop računalnika.
+B) Kopiranje in lepljenje podatkov. ✅
+C) Povečanje zaslona.
+
+Razlaga:
+Ctrl + C kopira izbrano vsebino, Ctrl + V jo prilepi na novo mesto.
+
+10.
+
+Vprašanje: Kam se običajno premakne izbrisana datoteka?
+
+Odgovori:
+
+A) Na internet.
+B) V Koš. ✅
+C) V tiskalnik.
+
+Razlaga:
+Iz Koša lahko datoteko še nekaj časa obnovimo, preden jo trajno izbrišemo.
+
+11.
+
+Vprašanje: Kaj naredimo, če želimo obnoviti datoteko iz Koša?
+
+Odgovori:
+
+A) Izključimo računalnik.
+B) Odpremo Koš, izberemo datoteko in kliknemo Obnovi. ✅
+C) Jo ponovno napišemo.
+
+Razlaga:
+Obnovljena datoteka se vrne na svoje prvotno mesto.
+
+12.
+
+Vprašanje: Kaj pomeni pripona datoteke, na primer .jpg ali .pdf?
+
+Odgovori:
+
+A) Geslo datoteke.
+B) Oznaka vrste datoteke. ✅
+C) Ime uporabnika.
+
+Razlaga:
+Pripona pove, s katerim programom lahko datoteko odpremo. Na primer .jpg je slika, .pdf dokument.
+
+Kviz 12: nadaljevanje (13–25)
+13.
+
+Vprašanje: Kaj pomeni datoteka z oznako .docx?
+
+Odgovori:
+
+A) Glasbena datoteka.
+B) Dokument programa Microsoft Word. ✅
+C) Video datoteka.
+
+Razlaga:
+Datoteke .docx običajno odpremo z Microsoft Wordom ali podobnimi programi.
+
+14.
+
+Vprašanje: Kaj pomeni datoteka z oznako .pdf?
+
+Odgovori:
+
+A) Računalniški virus.
+B) Dokument, ki ohrani enak videz na različnih napravah. ✅
+C) Program za internet.
+
+Razlaga:
+PDF je zelo pogosta oblika za navodila, račune, obrazce in knjige.
+
+15.
+
+Vprašanje: Kako poiščemo izgubljeno datoteko v Windows 10?
+
+Odgovori:
+
+A) Kupimo nov računalnik.
+B) Uporabimo iskalno polje v Raziskovalcu ali meniju Start. ✅
+C) Izklopimo internet.
+
+Razlaga:
+Windows lahko poišče datoteke po imenu ali delu imena.
+
+16.
+
+Vprašanje: Kaj je USB ključek?
+
+Odgovori:
+
+A) Vrsta tipkovnice.
+B) Prenosna naprava za shranjevanje podatkov. ✅
+C) Program za risanje.
+
+Razlaga:
+USB ključek uporabljamo za prenos ali varnostno kopiranje datotek.
+
+17.
+
+Vprašanje: Kaj naredimo pred odstranitvijo USB ključka iz računalnika?
+
+Odgovori:
+
+A) Izklopimo monitor.
+B) Uporabimo varno odstranitev naprave. ✅
+C) Izbrišemo vse datoteke.
+
+Razlaga:
+Varna odstranitev zmanjša možnost poškodbe podatkov.
+
+18.
+
+Vprašanje: Zakaj je pomembno imeti urejene mape?
+
+Odgovori:
+
+A) Ker računalnik lepše izgleda.
+B) Ker hitreje najdemo svoje datoteke. ✅
+C) Ker internet deluje hitreje.
+
+Razlaga:
+Dobra organizacija prihrani veliko časa.
+
+19.
+
+Vprašanje: Kaj naredimo, če datoteke ne najdemo?
+
+Odgovori:
+
+A) Takoj kupimo nov računalnik.
+B) Preverimo Koš, uporabimo iskanje in pregledamo mape. ✅
+C) Izklopimo tipkovnico.
+
+Razlaga:
+Datoteka je pogosto samo premaknjena v drugo mapo.
+
+20.
+
+Vprašanje: Kaj je varnostna kopija datotek?
+
+Odgovori:
+
+A) Lepše ime datoteke.
+B) Dodatna kopija pomembnih podatkov za primer izgube. ✅
+C) Sprememba velikosti zaslona.
+
+Razlaga:
+Varnostne kopije zaščitijo fotografije, dokumente in druge pomembne podatke.
+
+21.
+
+Vprašanje: Kje lahko naredimo varnostno kopijo datotek?
+
+Odgovori:
+
+A) Samo v Košu.
+B) Na zunanjem disku, USB ključku ali v oblaku. ✅
+C) Samo na zaslonu.
+
+Razlaga:
+Dobro je imeti pomembne podatke shranjene še na drugem mestu.
+
+22.
+
+Vprašanje: Kaj pomeni razvrščanje datotek?
+
+Odgovori:
+
+A) Brisanje vseh datotek.
+B) Urejanje po imenu, datumu, velikosti ali vrsti. ✅
+C) Spreminjanje gesla.
+
+Razlaga:
+Razvrščanje pomaga hitreje najti določeno datoteko.
+
+23.
+
+Vprašanje: Kaj naredimo, če želimo izbrati več datotek hkrati?
+
+Odgovori:
+
+A) Kliknemo samo eno datoteko.
+B) Držimo tipko Ctrl in klikamo posamezne datoteke. ✅
+C) Izklopimo računalnik.
+
+Razlaga:
+Tako lahko več datotek hkrati kopiramo, premaknemo ali izbrišemo.
+
+24.
+
+Vprašanje: Zakaj ni priporočljivo imeti vseh datotek na namizju?
+
+Odgovori:
+
+A) Ker računalnik ne deluje.
+B) Ker hitro postane nepregledno in težko najdemo datoteke. ✅
+C) Ker se izbriše internet.
+
+Razlaga:
+Namizje naj vsebuje predvsem bližnjice, datoteke pa naj bodo urejene v mapah.
+
+25.
+
+Vprašanje: Katera navada je najboljša pri delu z datotekami?
+
+Odgovori:
+
+A) Vse shranjujemo na namizje.
+B) Ustvarjamo urejene mape, uporabljamo smiselna imena in izdelujemo varnostne kopije. ✅
+C) Nikoli ne brišemo ničesar.
+
+Razlaga:
+Urejene datoteke pomenijo manj izgubljenega časa in manj težav pri uporabi računalnika.

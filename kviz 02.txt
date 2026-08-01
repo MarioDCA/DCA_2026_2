@@ -1,0 +1,326 @@
+Kviz 2: Datoteke in mape v Windows okolju
+
+1.
+
+Vprašanje: Kaj je glavna naloga map v računalniku?
+
+Odgovori:
+
+A) Pospešujejo internet.
+B) Omogočajo urejeno shranjevanje in razvrščanje datotek. ✅
+C) Varujejo računalnik pred virusi.
+
+Razlaga:
+Mape so podobne predalom v omari. Pomagajo nam, da datoteke lažje najdemo.
+
+2.
+
+Vprašanje: Kaj je datoteka?
+
+Odgovori:
+
+A) Del računalniškega zaslona.
+B) Shranjena vsebina, kot so dokument, fotografija ali glasba. ✅
+C) Program za čiščenje računalnika.
+
+Razlaga:
+Vsak dokument, slika, video ali glasba je shranjena kot datoteka.
+
+3.
+
+Vprašanje: Kaj je mapa Dokumenti?
+
+Odgovori:
+
+A) Mapa za izbrisane datoteke.
+B) Privzeta mapa za shranjevanje osebnih dokumentov. ✅
+C) Program za pisanje besedil.
+
+Razlaga:
+Windows ustvari posebne mape, kot so Dokumenti, Slike, Glasba in Prenosi.
+
+4.
+
+Vprašanje: Kam se običajno shranijo datoteke, ki jih prenesemo iz interneta?
+
+Odgovori:
+
+A) V Koš.
+B) V mapo Prenosi (Downloads). ✅
+C) Na namizje vedno samodejno.
+
+Razlaga:
+Datoteke, prenesene iz spleta, Windows običajno shrani v mapo Prenosi.
+
+5.
+
+Vprašanje: Kako ustvarimo novo mapo?
+
+Odgovori:
+
+A) Izklopimo računalnik.
+B) Z desnim klikom izberemo Novo → Mapa. ✅
+C) Pritisnemo tipko Enter.
+
+Razlaga:
+Nove mape lahko ustvarimo skoraj kjerkoli, kjer imamo dovoljenje za shranjevanje.
+
+6.
+
+Vprašanje: Zakaj je smiselno fotografije razporediti v več map?
+
+Odgovori:
+
+A) Ker računalnik drugače ne deluje.
+B) Ker jih lažje najdemo in uredimo. ✅
+C) Ker fotografije postanejo bolj kakovostne.
+
+Razlaga:
+Na primer: Slike → Počitnice 2026 → Morje. Tako hitreje najdemo določeno fotografijo.
+
+7.
+
+Vprašanje: Kaj naredimo, če želimo datoteko preimenovati?
+
+Odgovori:
+
+A) Izbrišemo jo in ustvarimo novo.
+B) Kliknemo z desnim gumbom in izberemo Preimenuj. ✅
+C) Računalnik ponovno zaženemo.
+
+Razlaga:
+Ime datoteke lahko spremenimo, vsebina datoteke pa ostane enaka.
+
+8.
+
+Vprašanje: Kaj pomeni kopiranje datoteke?
+
+Odgovori:
+
+A) Datoteko izbrišemo.
+B) Ustvarimo dodatno kopijo datoteke na drugem mestu. ✅
+C) Datoteko zaklenemo.
+
+Razlaga:
+Po kopiranju obstajata dve enaki datoteki.
+
+9.
+
+Vprašanje: Kaj pomeni premikanje datoteke?
+
+Odgovori:
+
+A) Datoteko spremenimo v fotografijo.
+B) Datoteko prestavimo iz ene mape v drugo. ✅
+C) Datoteko pošljemo po elektronski pošti.
+
+Razlaga:
+Pri premikanju datoteka spremeni mesto, vendar ostane ista.
+
+10.
+
+Vprašanje: Kakšna je razlika med kopiranjem in premikanjem datoteke?
+
+Odgovori:
+
+A) Ni nobene razlike.
+B) Pri kopiranju ostane izvirnik, pri premikanju ga prestavimo. ✅
+C) Pri kopiranju se datoteka izbriše.
+
+Razlaga:
+Kopiranje naredi dodatno različico, premikanje pa spremeni lokacijo.
+
+11.
+
+Vprašanje: Kaj pomeni, da datoteko shranimo?
+
+Odgovori:
+
+A) Datoteko premaknemo v Koš.
+B) Spremembe v datoteki zapišemo na disk, da jih ne izgubimo. ✅
+C) Datoteko pošljemo na internet.
+
+Razlaga:
+Ko ustvarimo ali spremenimo dokument, ga moramo shraniti, sicer lahko ob zaprtju programa izgubimo spremembe.
+
+12.
+
+Vprašanje: Katero končnico ima običajno dokument, ustvarjen v programu Microsoft Word?
+
+Odgovori:
+
+A) .jpg
+B) .docx ✅
+C) .mp3
+
+Razlaga:
+Končnica pove vrsto datoteke. Dokumenti Word imajo običajno končnico .docx, fotografije pa na primer .jpg.
+
+13.
+
+Vprašanje: Kaj pomeni ikona sličice pri fotografiji v Raziskovalcu datotek?
+
+Odgovori:
+
+A) Fotografija je izbrisana.
+B) Windows prikaže predogled vsebine slike. ✅
+C) Fotografije ni mogoče odpreti.
+
+Razlaga:
+Windows pogosto prikaže majhen predogled fotografije, da jo lažje prepoznamo.
+
+14.
+
+Vprašanje: Kje najdemo datoteko, ki smo jo pravkar prenesli iz interneta?
+
+Odgovori:
+
+A) Vedno na namizju.
+B) Najpogosteje v mapi Prenosi (Downloads). ✅
+C) V košu.
+
+Razlaga:
+Brskalniki običajno shranjujejo prenesene datoteke v mapo Prenosi.
+
+15.
+
+Vprašanje: Kaj se zgodi, če datoteko izbrišemo s tipko Delete?
+
+Odgovori:
+
+A) Računalnik se izklopi.
+B) Datoteka se običajno premakne v Koš. ✅
+C) Datoteka se samodejno pošlje po e-pošti.
+
+Razlaga:
+Koš omogoča, da pomotoma izbrisano datoteko še lahko obnovimo.
+
+16.
+
+Vprašanje: Kaj pomeni "izprazniti Koš"?
+
+Odgovori:
+
+A) Povečati prostor na namizju.
+B) Trajno odstraniti datoteke iz Koša. ✅
+C) Ustvariti novo mapo.
+
+Razlaga:
+Po izpraznitvi Koša datotek običajno ni več mogoče enostavno obnoviti.
+
+17.
+
+Vprašanje: Zakaj ni priporočljivo shranjevati vseh datotek samo na namizje?
+
+Odgovori:
+
+A) Ker namizje ne podpira datotek.
+B) Ker lahko hitro postane nepregledno in težko najdemo stvari. ✅
+C) Ker se računalnik zaradi tega vedno pokvari.
+
+Razlaga:
+Namizje je namenjeno predvsem bližnjicam in nekaj pomembnim datotekam, ne pa za dolgoročno shranjevanje vsega.
+
+18.
+
+Vprašanje: Kako najhitreje poiščemo datoteko, če ne vemo, kje je shranjena?
+
+Odgovori:
+
+A) Ponovno namestimo Windows.
+B) Uporabimo iskalno polje v Raziskovalcu datotek ali meniju Start. ✅
+C) Izklopimo računalnik.
+
+Razlaga:
+Windows omogoča iskanje po imenih datotek in map.
+
+19.
+
+Vprašanje: Kaj pomeni, če ima datoteka enako ime kot druga datoteka v isti mapi?
+
+Odgovori:
+
+A) Računalnik se vedno ugasne.
+B) Windows običajno ne dovoli dveh enakih imen v isti mapi. ✅
+C) Datoteki se samodejno združita.
+
+Razlaga:
+V isti mapi ne moreta obstajati dve datoteki z enakim imenom in enako končnico.
+
+20.
+
+Vprašanje: Zakaj je koristno uporabljati smiselna imena datotek?
+
+Odgovori:
+
+A) Ker datoteka zavzame manj prostora.
+B) Ker jo kasneje lažje najdemo. ✅
+C) Ker računalnik deluje hitreje.
+
+Razlaga:
+Ime "Dopust_Bled_2026.jpg" je bolj uporabno kot "IMG00125.jpg".
+
+21.
+
+Vprašanje: Kaj naredimo, če želimo poslati fotografijo prijatelju po elektronski pošti?
+
+Odgovori:
+
+A) Fotografijo izbrišemo.
+B) Dodamo jo kot priponko sporočilu. ✅
+C) Spremenimo ime računalnika.
+
+Razlaga:
+Datoteke, kot so slike in dokumenti, lahko pošiljamo kot priponke elektronske pošte.
+
+22.
+
+Vprašanje: Kaj je zunanja pomnilniška naprava?
+
+Odgovori:
+
+A) Vrsta računalniškega virusa.
+B) Naprava za shranjevanje podatkov zunaj računalnika. ✅
+C) Program za pisanje besedil.
+
+Razlaga:
+Primeri zunanjih naprav so USB-ključki, zunanji diski in pomnilniške kartice.
+
+23.
+
+Vprašanje: Zakaj je priporočljivo pomembne fotografije shraniti še drugam?
+
+Odgovori:
+
+A) Da jih računalnik ne vidi.
+B) Da jih ne izgubimo ob okvari računalnika. ✅
+C) Da postanejo večje.
+
+Razlaga:
+Varnostna kopija zaščiti podatke pred okvaro, krajo ali nenamernim izbrisom.
+
+24.
+
+Vprašanje: Kaj pomeni "odpreti datoteko"?
+
+Odgovori:
+
+A) Izbrisati datoteko.
+B) Zagnati program, ki prikaže njeno vsebino. ✅
+C) Premakniti datoteko v drugo mapo.
+
+Razlaga:
+Ko odpremo dokument, fotografijo ali drugo datoteko, jo ustrezen program prikaže.
+
+25.
+
+Vprašanje: Kaj je dobra navada pri urejanju datotek?
+
+Odgovori:
+
+A) Vse datoteke shranimo na namizje.
+B) Ustvarimo smiselne mape in datoteke redno urejamo. ✅
+C) Datotek nikoli ne poimenujemo.
+
+Razlaga:
+Urejene mape prihranijo čas in zmanjšajo možnost, da izgubimo pomembne dokumente ali fotografije.

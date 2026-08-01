@@ -1,0 +1,327 @@
+Kviz 3: Internet in spletni brskalniki
+
+1.
+
+Vprašanje: Kaj je internet?
+
+Odgovori:
+
+A) Program za pisanje besedil.
+B) Svetovno omrežje povezanih računalnikov in naprav. ✅
+C) Vrsta računalniškega zaslona.
+
+Razlaga:
+Internet povezuje milijone računalnikov, telefonov in drugih naprav po vsem svetu.
+
+2.
+
+Vprašanje: Kaj potrebujemo za dostop do interneta doma?
+
+Odgovori:
+
+A) Samo tiskalnik.
+B) Internetno povezavo in napravo, kot je računalnik ali telefon. ✅
+C) Samo program Word.
+
+Razlaga:
+Za internet potrebujemo povezavo (npr. optiko, kabel ali mobilno povezavo) in napravo za uporabo.
+
+3.
+
+Vprašanje: Kaj je spletni brskalnik?
+
+Odgovori:
+
+A) Program za zaščito pred virusi.
+B) Program za ogled spletnih strani. ✅
+C) Program za čiščenje tipkovnice.
+
+Razlaga:
+Najbolj znani brskalniki so Microsoft Edge, Google Chrome, Mozilla Firefox in Safari.
+
+4.
+
+Vprašanje: Kateri od teh programov je spletni brskalnik?
+
+Odgovori:
+
+A) Microsoft Word.
+B) Google Chrome. ✅
+C) Kalkulator.
+
+Razlaga:
+Chrome je brskalnik, Word pa je program za pisanje dokumentov.
+
+5.
+
+Vprašanje: Kaj je spletna stran?
+
+Odgovori:
+
+A) Datoteka na namizju.
+B) Stran z informacijami, ki jo odpremo v brskalniku. ✅
+C) Vrsta tiskalnika.
+
+Razlaga:
+Spletne strani vsebujejo besedilo, slike, videoposnetke in povezave.
+
+6.
+
+Vprašanje: Kaj je spletni naslov (URL)?
+
+Odgovori:
+
+A) Geslo za računalnik.
+B) Naslov, kjer najdemo določeno spletno stran. ✅
+C) Ime uporabnika.
+
+Razlaga:
+Primer spletnega naslova je naslov neke spletne strani, ki ga vpišemo v vrstico brskalnika.
+
+7.
+
+Vprašanje: Kam vpišemo spletni naslov?
+
+Odgovori:
+
+A) V program Kalkulator.
+B) V naslovno vrstico spletnega brskalnika. ✅
+C) V Koš.
+
+Razlaga:
+Naslovna vrstica je na vrhu okna brskalnika in je namenjena vpisovanju spletnih naslovov ali iskalnih pojmov.
+
+8.
+
+Vprašanje: Kaj naredi gumb za osvežitev strani (⟳)?
+
+Odgovori:
+
+A) Izklopi računalnik.
+B) Ponovno naloži trenutno spletno stran. ✅
+C) Izbriše vse podatke.
+
+Razlaga:
+Osvežitev je uporabna, če se stran ni pravilno prikazala ali želimo videti nove podatke.
+
+9.
+
+Vprašanje: Kaj je povezava (link) na spletni strani?
+
+Odgovori:
+
+A) Vrsta virusa.
+B) Element, ki nas s klikom odpelje na drugo stran ali vsebino. ✅
+C) Program za pisanje.
+
+Razlaga:
+Povezave so pogosto obarvane ali podčrtane. S klikom odpremo drugo vsebino.
+
+10.
+
+Vprašanje: Kaj pomeni odpreti nov zavihek v brskalniku?
+
+Odgovori:
+
+A) Izbrisati trenutno stran.
+B) Odpreti dodatno stran, ne da bi zaprli trenutno. ✅
+C) Izklopiti internet.
+
+Razlaga:
+Zavihki omogočajo, da imamo odprtih več spletnih strani hkrati.
+
+11.
+
+Vprašanje: Kaj naredi gumb Nazaj (←) v brskalniku?
+
+Odgovori:
+
+A) Zapre računalnik.
+B) Vrne nas na prej obiskano spletno stran. ✅
+C) Izbriše zgodovino.
+
+Razlaga:
+Gumb Nazaj omogoča vračanje po straneh, ki smo jih že obiskali.
+
+12.
+
+Vprašanje: Kaj je spletni iskalnik?
+
+Odgovori:
+
+A) Program za risanje.
+B) Storitev za iskanje informacij na internetu. ✅
+C) Mapa za shranjevanje datotek.
+
+Razlaga:
+Iskalniki, kot je Google, pomagajo najti spletne strani, slike, novice in druge informacije.
+
+
+13.
+
+Vprašanje: Kako najbolje poiščemo informacijo na internetu?
+
+Odgovori:
+
+A) Naključno klikamo različne spletne strani.
+B) V iskalnik vpišemo ključne besede. ✅
+C) Izklopimo računalnik in ga ponovno vključimo.
+
+Razlaga:
+Iskalniki najbolje delujejo, če vpišemo kratke in jasne besede, povezane s tem, kar iščemo.
+
+14.
+
+Vprašanje: Kaj so ključne besede pri iskanju na internetu?
+
+Odgovori:
+
+A) Gesla za prijavo.
+B) Besede ali izrazi, ki opišejo, kaj iščemo. ✅
+C) Imena računalniških programov.
+
+Razlaga:
+Če iščemo na primer recept za potico, vpišemo "recept potica", ne celotnega vprašanja.
+
+15.
+
+Vprašanje: Kaj pomeni, če se besedilo na spletni strani spremeni v roko kazalca?
+
+Odgovori:
+
+A) Računalnik se je pokvaril.
+B) Tam je običajno povezava, na katero lahko kliknemo. ✅
+C) Stran se bo zaprla.
+
+Razlaga:
+Kazalec v obliki roke pogosto pomeni, da je element klikljiv.
+
+16.
+
+Vprašanje: Kaj je zaznamek (priljubljena stran oziroma Bookmark)?
+
+Odgovori:
+
+A) Izbrisana spletna stran.
+B) Shranjen spletni naslov, da ga pozneje lažje najdemo. ✅
+C) Vrsta računalniškega virusa.
+
+Razlaga:
+Če pogosto obiskujemo neko spletno stran, jo lahko shranimo med priljubljene.
+
+17.
+
+Vprašanje: Zakaj uporabljamo zavihke v brskalniku?
+
+Odgovori:
+
+A) Da povečamo velikost zaslona.
+B) Da imamo odprtih več spletnih strani hkrati. ✅
+C) Da izbrišemo zgodovino.
+
+Razlaga:
+Na primer: v enem zavihku imamo e-pošto, v drugem novice, v tretjem recept.
+
+18.
+
+Vprašanje: Kaj je zgodovina brskanja?
+
+Odgovori:
+
+A) Seznam nameščenih programov.
+B) Seznam spletnih strani, ki smo jih obiskali. ✅
+C) Seznam dokumentov v Wordu.
+
+Razlaga:
+Brskalnik si lahko zapomni obiskane strani, da jih kasneje lažje najdemo.
+
+19.
+
+Vprašanje: Kaj pomeni prenesti datoteko (download)?
+
+Odgovori:
+
+A) Izbrisati datoteko.
+B) Kopirati datoteko iz interneta na svojo napravo. ✅
+C) Poslati datoteko v Koš.
+
+Razlaga:
+Prenesemo lahko na primer fotografijo, dokument ali program.
+
+20.
+
+Vprašanje: Kaj storimo, če spletna stran zahteva nenavadno namestitev programa?
+
+Odgovori:
+
+A) Takoj namestimo program.
+B) Preverimo, ali je stran zaupanja vredna, in smo previdni. ✅
+C) Pošljemo povezavo vsem prijateljem.
+
+Razlaga:
+Neznani programi lahko vsebujejo škodljivo programsko opremo.
+
+21.
+
+Vprašanje: Kaj pomeni simbol ključavnice ob spletnem naslovu?
+
+Odgovori:
+
+A) Stran je zagotovo brez napak.
+B) Povezava med brskalnikom in stranjo je šifrirana. ✅
+C) Računalnik je zaklenjen.
+
+Razlaga:
+Ključavnica pomeni, da je povezava zaščitena (HTTPS). Ne pomeni pa, da je spletna stran nujno poštena.
+
+22.
+
+Vprašanje: Zakaj ni dobro klikati vseh povezav v elektronski pošti?
+
+Odgovori:
+
+A) Ker internet preneha delovati.
+B) Ker lahko vodijo na nevarne ali lažne spletne strani. ✅
+C) Ker se računalnik vedno izklopi.
+
+Razlaga:
+Goljufi pogosto pošiljajo lažna sporočila z namenom kraje gesel ali podatkov.
+
+23.
+
+Vprašanje: Kaj je spletna prevara (phishing)?
+
+Odgovori:
+
+A) Hitrejši internet.
+B) Poskus pridobiti osebne podatke z lažnimi sporočili ali stranmi. ✅
+C) Program za urejanje slik.
+
+Razlaga:
+Prevaranti se pogosto pretvarjajo, da so banka, dostavna služba ali znano podjetje.
+
+24.
+
+Vprašanje: Kaj je dobro storiti pri uporabi javnega Wi-Fi omrežja?
+
+Odgovori:
+
+A) Vpisati vsa pomembna gesla brez razmišljanja.
+B) Biti previden pri dostopu do občutljivih podatkov. ✅
+C) Izklopiti protivirusni program.
+
+Razlaga:
+Javna omrežja niso vedno varna. Pri njihovi uporabi bodimo previdni predvsem pri spletnih bankah in prijavah.
+
+25.
+
+Vprašanje: Kaj naredimo, če spletna stran izgleda sumljivo?
+
+Odgovori:
+
+A) Vpišemo svoje geslo, da preverimo.
+B) Stran zapremo in ne vnašamo osebnih podatkov. ✅
+C) Pošljemo svoje podatke upravitelju strani.
+
+Razlaga:
+Če stran zahteva nenavadne podatke, obljublja neverjetne nagrade ali deluje sumljivo, jo raje zapremo.

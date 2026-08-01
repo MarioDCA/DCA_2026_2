@@ -1,0 +1,327 @@
+Kviz 9: Fotografije s telefonom in Google Fotografije
+
+1.
+
+Vprašanje: Katera aplikacija na telefonu običajno omogoča fotografiranje?
+
+Odgovori:
+
+A) Kalkulator.
+B) Kamera oziroma Fotoaparat. ✅
+C) Nastavitve.
+
+Razlaga:
+Aplikacija Kamera uporablja vgrajeni fotoaparat telefona za fotografiranje in snemanje videoposnetkov.
+
+2.
+
+Vprašanje: Kje običajno najdemo fotografije, ki smo jih posneli s telefonom?
+
+Odgovori:
+
+A) V aplikaciji Telefon.
+B) V Galeriji ali Google Fotografijah. ✅
+C) V imeniku Stiki.
+
+Razlaga:
+Telefon samodejno shrani fotografije v mapo za slike, ki jo lahko odpremo z aplikacijo Galerija ali Fotografije.
+
+3.
+
+Vprašanje: Kaj pomeni ikona fotoaparata na telefonu?
+
+Odgovori:
+
+A) Odpiranje interneta.
+B) Zagon aplikacije za fotografiranje. ✅
+C) Izklop telefona.
+
+Razlaga:
+Z dotikom ikone Kamera odpremo fotoaparat telefona.
+
+4.
+
+Vprašanje: Kaj storimo, če želimo povečati predmet pri fotografiranju?
+
+Odgovori:
+
+A) Izklopimo telefon.
+B) Uporabimo povečavo (zoom) s prsti ali gumboma na zaslonu. ✅
+C) Izbrišemo fotografijo.
+
+Razlaga:
+Povečava pomaga pri oddaljenih predmetih, vendar lahko prevelika povečava zmanjša kakovost slike.
+
+5.
+
+Vprašanje: Kaj pomeni simbol bliskavice pri fotoaparatu?
+
+Odgovori:
+
+A) Brisanje fotografije.
+B) Dodatna svetloba pri fotografiranju v temi. ✅
+C) Povečanje pomnilnika.
+
+Razlaga:
+Bliskavica pomaga pri slabši svetlobi, vendar je pri dnevni svetlobi pogosto ne potrebujemo.
+
+6.
+
+Vprašanje: Kaj je videoposnetek?
+
+Odgovori:
+
+A) Zvočno sporočilo.
+B) Posnetek gibljivih slik z zvokom ali brez njega. ✅
+C) Vrsta gesla.
+
+Razlaga:
+Telefon lahko poleg fotografij snema tudi videoposnetke.
+
+7.
+
+Vprašanje: Kako lahko fotografijo pošljemo drugi osebi?
+
+Odgovori:
+
+A) Samo s tiskalnikom.
+B) Prek e-pošte, SMS-a ali aplikacij za sporočanje. ✅
+C) Fotografije ni mogoče poslati.
+
+Razlaga:
+Fotografije lahko delimo na različne načine, na primer prek WhatsAppa, Vibra ali elektronske pošte.
+
+8.
+
+Vprašanje: Kaj pomeni deljenje fotografije?
+
+Odgovori:
+
+A) Izbris fotografije.
+B) Pošiljanje fotografije drugi osebi ali aplikaciji. ✅
+C) Sprememba baterije.
+
+Razlaga:
+Pri deljenju izberemo, komu ali kateri aplikaciji želimo poslati fotografijo.
+
+9.
+
+Vprašanje: Kaj je Google Fotografije?
+
+Odgovori:
+
+A) Program za klicanje.
+B) Aplikacija za shranjevanje, urejanje in ogled fotografij. ✅
+C) Protivirusni program.
+
+Razlaga:
+Google Fotografije omogočajo pregledovanje slik in izdelavo varnostnih kopij.
+
+10.
+
+Vprašanje: Kaj pomeni varnostna kopija fotografij?
+
+Odgovori:
+
+A) Izbris slabih slik.
+B) Shranjevanje dodatne kopije fotografij, na primer v oblak. ✅
+C) Spreminjanje velikosti zaslona.
+
+Razlaga:
+Če telefon izgubimo ali se pokvari, lahko fotografije obnovimo iz varnostne kopije.
+
+11.
+
+Vprašanje: Kaj pomeni, če je pomnilnik telefona skoraj poln zaradi fotografij?
+
+Odgovori:
+
+A) Telefon bo imel boljši signal.
+B) Potrebno je sprostiti prostor z brisanjem ali prenosom fotografij. ✅
+C) Kamera bo delovala hitreje.
+
+Razlaga:
+Veliko fotografij in videoposnetkov lahko hitro zapolni prostor telefona.
+
+12.
+
+Vprašanje: Zakaj je koristno fotografije urediti v albume?
+
+Odgovori:
+
+A) Ker telefon porabi manj baterije.
+B) Ker jih lažje najdemo in pregledamo. ✅
+C) Ker se izboljša kakovost slike.
+
+Razlaga:
+Albume lahko ustvarimo za dopust, družino, dogodke ali druge teme.
+
+13.
+
+Vprašanje: Kako lahko prenesemo fotografije iz telefona na računalnik?
+
+Odgovori:
+
+A) Telefon položimo poleg računalnika.
+B) S kablom USB, prek oblaka ali brezžično. ✅
+C) Fotografij ni mogoče prenesti.
+
+Razlaga:
+Fotografije lahko prenesemo s podatkovnim kablom USB, prek Google Fotografij, OneDrive ali drugih storitev v oblaku.
+
+14.
+
+Vprašanje: Kaj se zgodi, če fotografijo izbrišemo na telefonu?
+
+Odgovori:
+
+A) Telefon se izklopi.
+B) Fotografija se običajno premakne v Koš in jo lahko nekaj časa obnovimo. ✅
+C) Izbrišejo se vse fotografije.
+
+Razlaga:
+Večina telefonov ima mapo Koš, kjer izbrisane fotografije ostanejo določen čas, preden so trajno odstranjene.
+
+15.
+
+Vprašanje: Zakaj ni dobro hraniti vseh fotografij samo na telefonu?
+
+Odgovori:
+
+A) Ker telefon ne zna prikazati slik.
+B) Ker lahko telefon izgubimo, poškodujemo ali se pokvari. ✅
+C) Ker fotografije porabijo internet.
+
+Razlaga:
+Pomembne fotografije je dobro imeti še na drugem mestu – na primer v oblaku ali na računalniku.
+
+16.
+
+Vprašanje: Kaj pomeni shranjevanje fotografij v oblaku?
+
+Odgovori:
+
+A) Shranjevanje slik v vremenu.
+B) Shranjevanje podatkov na oddaljenih strežnikih prek interneta. ✅
+C) Shranjevanje slik samo na zaslonu.
+
+Razlaga:
+Oblak omogoča dostop do fotografij tudi, če zamenjamo telefon ali uporabljamo drug računalnik.
+
+17.
+
+Vprašanje: Kaj potrebujemo za dostop do fotografij v oblaku?
+
+Odgovori:
+
+A) Nov telefon vsak mesec.
+B) Račun pri ponudniku storitve in internetno povezavo. ✅
+C) Poseben tiskalnik.
+
+Razlaga:
+Za Google Fotografije potrebujemo Google račun.
+
+18.
+
+Vprašanje: Kaj pomeni samodejna varnostna kopija fotografij?
+
+Odgovori:
+
+A) Telefon sam izbriše stare slike.
+B) Telefon samodejno shrani kopije fotografij v izbrano storitev. ✅
+C) Fotografije se samodejno natisnejo.
+
+Razlaga:
+Ko je možnost vključena, se nove fotografije lahko samodejno shranjujejo v oblak.
+
+19.
+
+Vprašanje: Ali lahko fotografijo pred pošiljanjem uredimo?
+
+Odgovori:
+
+A) Ne, fotografij ni mogoče spreminjati.
+B) Da, lahko jo obrežemo, zavrtimo ali izboljšamo. ✅
+C) Samo če kupimo nov telefon.
+
+Razlaga:
+Osnovna orodja za urejanje so običajno že v aplikaciji Galerija ali Google Fotografije.
+
+20.
+
+Vprašanje: Kaj pomeni obrezovanje fotografije?
+
+Odgovori:
+
+A) Izboljšanje zvoka.
+B) Odstranitev nepotrebnih delov slike. ✅
+C) Izbris vseh fotografij.
+
+Razlaga:
+Z obrezovanjem lahko poudarimo pomemben del fotografije ali odstranimo moteče robove.
+
+21.
+
+Vprašanje: Zakaj moramo biti previdni pri deljenju fotografij na internetu?
+
+Odgovori:
+
+A) Ker fotografije upočasnijo računalnik.
+B) Ker lahko fotografijo vidi več ljudi, kot smo želeli. ✅
+C) Ker se telefon lahko izklopi.
+
+Razlaga:
+Ko fotografijo objavimo na spletu, lahko izgubimo nadzor nad tem, kdo jo vidi ali shrani.
+
+22.
+
+Vprašanje: Kaj storimo, če želimo poslati veliko število fotografij?
+
+Odgovori:
+
+A) Pošljemo jih eno po eno več dni.
+B) Uporabimo album v oblaku ali povezavo za skupno rabo. ✅
+C) Izbrišemo fotografije.
+
+Razlaga:
+Storitve, kot so Google Fotografije, omogočajo enostavno deljenje več slik hkrati.
+
+23.
+
+Vprašanje: Zakaj fotografije v telefonu zavzamejo veliko prostora?
+
+Odgovori:
+
+A) Ker vsebujejo viruse.
+B) Ker so slike in predvsem videoposnetki velike datoteke. ✅
+C) Ker telefon shranjuje tudi baterijo.
+
+Razlaga:
+Videoposnetki lahko zavzamejo več sto megabajtov ali več gigabajtov prostora.
+
+24.
+
+Vprašanje: Kaj naredimo pred prodajo ali podaritvijo starega telefona?
+
+Odgovori:
+
+A) Pustimo vse fotografije in račune.
+B) Naredimo varnostno kopijo in telefon ponastavimo na tovarniške nastavitve. ✅
+C) Samo odstranimo ovitek.
+
+Razlaga:
+Tako zaščitimo svoje osebne podatke, fotografije in račune.
+
+25.
+
+Vprašanje: Katera navada je najboljša za varno shranjevanje fotografij?
+
+Odgovori:
+
+A) Vse fotografije hranimo samo na telefonu.
+B) Pomembne fotografije redno varnostno kopiramo in jih uredimo. ✅
+C) Nikoli ne brišemo nobene fotografije.
+
+Razlaga:
+Dobra organizacija in varnostne kopije preprečijo izgubo dragocenih spominov.
+

@@ -1,0 +1,256 @@
+{
+  "id": 23,
+  "title": "Elektronska pošta (Gmail, Outlook) – pošiljanje sporočil, priponke, organizacija in varnost",
+  "questions": [
+    {
+      "question": "Kaj je elektronska pošta (e-pošta)?",
+      "options": [
+        "A) Program za risanje.",
+        "B) Storitev za pošiljanje in prejemanje sporočil prek interneta.",
+        "C) Vrsta računalniškega virusa."
+      ],
+      "correct": 1,
+      "explanation": "E-pošta omogoča hitro izmenjavo sporočil, dokumentov in fotografij."
+    },
+    {
+      "question": "Kaj potrebujemo za uporabo elektronske pošte?",
+      "options": [
+        "A) Samo tiskalnik.",
+        "B) E-poštni račun in internetno povezavo.",
+        "C) USB ključ."
+      ],
+      "correct": 1,
+      "explanation": "Najpogostejši ponudniki so Gmail, Outlook in drugi."
+    },
+    {
+      "question": "Kaj je e-poštni naslov?",
+      "options": [
+        "A) Naslov stanovanja.",
+        "B) Edinstven naslov uporabnika, na primer ime@example.com.",
+        "C) Telefonska številka."
+      ],
+      "correct": 1,
+      "explanation": "Vsak e-poštni naslov je unikaten."
+    },
+    {
+      "question": "Kaj pomeni gumb 'Novo sporočilo' oziroma 'Sestavi'?",
+      "options": [
+        "A) Izbris pošte.",
+        "B) Začetek pisanja novega e-poštnega sporočila.",
+        "C) Tiskanje sporočila."
+      ],
+      "correct": 1,
+      "explanation": "S tem ustvarimo novo sporočilo za pošiljanje."
+    },
+    {
+      "question": "Kaj vpišemo v polje 'Za' (To)?",
+      "options": [
+        "A) Svoje geslo.",
+        "B) E-poštni naslov prejemnika.",
+        "C) Datum."
+      ],
+      "correct": 1,
+      "explanation": "Če naslov ni pravilen, sporočilo morda ne bo dostavljeno."
+    },
+    {
+      "question": "Čemu služi polje 'Zadeva' (Subject)?",
+      "options": [
+        "A) Za geslo.",
+        "B) Za kratek opis vsebine sporočila.",
+        "C) Za telefonsko številko."
+      ],
+      "correct": 1,
+      "explanation": "Jasna zadeva prejemniku pomaga hitro razumeti namen sporočila."
+    },
+    {
+      "question": "Kaj je priponka?",
+      "options": [
+        "A) Vrsta gesla.",
+        "B) Datoteka, priložena e-poštnemu sporočilu.",
+        "C) Internetni brskalnik."
+      ],
+      "correct": 1,
+      "explanation": "Kot priponko lahko pošljemo dokumente, fotografije ali druge datoteke."
+    },
+    {
+      "question": "Kako dodamo priponko?",
+      "options": [
+        "A) Izključimo računalnik.",
+        "B) Kliknemo ikono sponke in izberemo datoteko.",
+        "C) Pritisnemo tipko Delete."
+      ],
+      "correct": 1,
+      "explanation": "Ikona sponke je skoraj v vseh programih za e-pošto."
+    },
+    {
+      "question": "Kaj pomeni odgovoriti na sporočilo (Reply)?",
+      "options": [
+        "A) Izbrisati sporočilo.",
+        "B) Poslati odgovor pošiljatelju.",
+        "C) Napisati novo geslo."
+      ],
+      "correct": 1,
+      "explanation": "Pri odgovoru ostane povezava z izvirnim sporočilom."
+    },
+    {
+      "question": "Kaj pomeni 'Odgovori vsem' (Reply All)?",
+      "options": [
+        "A) Odgovor prejme samo pošiljatelj.",
+        "B) Odgovor prejmejo vsi prejemniki prvotnega sporočila.",
+        "C) Sporočilo se izbriše."
+      ],
+      "correct": 1,
+      "explanation": "To možnost uporabljamo previdno, saj odgovor prejmejo vsi vključeni."
+    },
+    {
+      "question": "Kaj pomeni posredovati sporočilo (Forward)?",
+      "options": [
+        "A) Premakniti sporočilo v Koš.",
+        "B) Poslati prejeto sporočilo drugi osebi.",
+        "C) Shraniti sporočilo."
+      ],
+      "correct": 1,
+      "explanation": "Posredovanje je uporabno, kadar želimo informacije deliti z drugo osebo."
+    },
+    {
+      "question": "Kam običajno prispe novo e-poštno sporočilo?",
+      "options": [
+        "A) V Koš.",
+        "B) V mapo Prejeto (Inbox).",
+        "C) V Dokumente."
+      ],
+      "correct": 1,
+      "explanation": "Mapa Prejeto vsebuje novo in neprebrano pošto."
+    },
+    {
+      "question": "Kaj pomeni mapa 'Poslano' (Sent)?",
+      "options": [
+        "A) Vse izbrisane datoteke.",
+        "B) Seznam sporočil, ki smo jih poslali.",
+        "C) Fotografije."
+      ],
+      "correct": 1,
+      "explanation": "Tukaj lahko preverimo, ali je bilo sporočilo poslano."
+    },
+    {
+      "question": "Kaj je mapa 'Osnutki' (Drafts)?",
+      "options": [
+        "A) Mapa za fotografije.",
+        "B) Mesto, kjer se shranijo nedokončana sporočila.",
+        "C) Mapa za viruse."
+      ],
+      "correct": 1,
+      "explanation": "Če sporočila ne pošljemo takoj, ga lahko pozneje dokončamo."
+    },
+    {
+      "question": "Kaj je neželena pošta (Spam)?",
+      "options": [
+        "A) Pomembna službena pošta.",
+        "B) Neželena ali sumljiva sporočila, pogosto reklamna ali prevarantska.",
+        "C) Fotografije."
+      ],
+      "correct": 1,
+      "explanation": "Takih sporočil praviloma ne odpiramo in ne klikamo njihovih povezav."
+    },
+    {
+      "question": "Kaj storimo, če prejmemo sumljivo e-pošto?",
+      "options": [
+        "A) Takoj kliknemo povezavo.",
+        "B) Sporočilo izbrišemo ali označimo kot neželeno pošto.",
+        "C) Pošljemo svoje geslo."
+      ],
+      "correct": 1,
+      "explanation": "Prevaranti pogosto pošiljajo lažna sporočila v imenu bank ali podjetij."
+    },
+    {
+      "question": "Ali je varno odpreti vsako priponko?",
+      "options": [
+        "A) Da, vedno.",
+        "B) Ne, priponke odpiramo le od zaupanja vrednih pošiljateljev.",
+        "C) Samo ob nedeljah."
+      ],
+      "correct": 1,
+      "explanation": "Priponke lahko vsebujejo škodljivo programsko opremo."
+    },
+    {
+      "question": "Kaj storimo, če pomotoma pošljemo napačno priponko?",
+      "options": [
+        "A) Nič.",
+        "B) Pošljemo novo sporočilo s pravilno priponko in kratkim pojasnilom.",
+        "C) Izbrišemo e-poštni račun."
+      ],
+      "correct": 1,
+      "explanation": "Napake se zgodijo – pomembno je, da jih hitro popravimo."
+    },
+    {
+      "question": "Zakaj je dobro redno brisati nepotrebna sporočila?",
+      "options": [
+        "A) Da bo tipkovnica čistejša.",
+        "B) Da bo poštni predal bolj pregleden in bo ostalo več prostora.",
+        "C) Da bo internet hitrejši."
+      ],
+      "correct": 1,
+      "explanation": "Pregleden poštni predal olajša iskanje pomembnih sporočil."
+    },
+    {
+      "question": "Kako najhitreje najdemo starejše sporočilo?",
+      "options": [
+        "A) Pregledamo vsako sporočilo posebej.",
+        "B) Uporabimo iskalno polje v programu za e-pošto.",
+        "C) Izklopimo računalnik."
+      ],
+      "correct": 1,
+      "explanation": "Iščemo lahko po pošiljatelju, zadevi ali ključnih besedah."
+    },
+    {
+      "question": "Kaj pomeni odjava (Sign out) iz e-poštnega računa?",
+      "options": [
+        "A) Izbris računa.",
+        "B) Varna prekinitev dostopa do računa.",
+        "C) Menjava gesla."
+      ],
+      "correct": 1,
+      "explanation": "Na javnih ali skupnih računalnikih se vedno odjavimo."
+    },
+    {
+      "question": "Zakaj je pomembno uporabljati močno geslo za e-pošto?",
+      "options": [
+        "A) Zaradi lepšega videza pošte.",
+        "B) Ker e-poštni račun pogosto omogoča dostop tudi do drugih storitev.",
+        "C) Ker bodo sporočila krajša."
+      ],
+      "correct": 1,
+      "explanation": "Če nekdo prevzame naš e-poštni račun, lahko zlorabi tudi druge račune."
+    },
+    {
+      "question": "Kaj storimo, če pozabimo geslo za e-pošto?",
+      "options": [
+        "A) Odpremo nov račun.",
+        "B) Uporabimo možnost 'Pozabljeno geslo' in sledimo navodilom.",
+        "C) Izključimo internet."
+      ],
+      "correct": 1,
+      "explanation": "Ponastavitev gesla je običajen in varen postopek."
+    },
+    {
+      "question": "Kaj je najbolj primerno napisati v zadevo sporočila?",
+      "options": [
+        "A) Samo 'Pozdrav'.",
+        "B) Kratek opis vsebine, na primer 'Vprašanje glede računa' ali 'Fotografije z izleta'.",
+        "C) Ničesar."
+      ],
+      "correct": 1,
+      "explanation": "Jasna zadeva pomaga prejemniku hitreje razumeti sporočilo."
+    },
+    {
+      "question": "Katera navada je najboljša pri uporabi elektronske pošte?",
+      "options": [
+        "A) Odpremo vsako priponko in kliknemo vsako povezavo.",
+        "B) Preverimo pošiljatelja, pazimo na priponke, uporabljamo močno geslo in redno urejamo pošto.",
+        "C) Geslo napišemo na prvo stran zvezka."
+      ],
+      "correct": 1,
+      "explanation": "Elektronska pošta je zelo uporabna, vendar zahteva nekaj previdnosti. Z dobrimi navadami se izognemo večini prevar in težav."
+    }
+  ]
+}

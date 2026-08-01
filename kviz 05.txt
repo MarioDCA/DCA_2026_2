@@ -1,0 +1,326 @@
+Kviz 5: Varnost na spletu
+
+1.
+
+Vprašanje: Kaj pomeni varna uporaba interneta?
+
+Odgovori:
+
+A) Da nikoli ne uporabljamo računalnika.
+B) Da previdno uporabljamo splet in varujemo svoje podatke. ✅
+C) Da uporabljamo samo eno spletno stran.
+
+Razlaga:
+Varna uporaba interneta pomeni, da pazimo na gesla, osebne podatke, povezave in datoteke, ki jih odpiramo.
+
+2.
+
+Vprašanje: Zakaj potrebujemo močno geslo?
+
+Odgovori:
+
+A) Da se računalnik hitreje zažene.
+B) Da zaščitimo svoje račune pred nepooblaščenim dostopom. ✅
+C) Da imamo več prostora na disku.
+
+Razlaga:
+Močno geslo oteži delo osebam, ki bi želele vdreti v naš račun.
+
+3.
+
+Vprašanje: Katero geslo je najvarnejše?
+
+Odgovori:
+
+A) 123456
+B) geslo
+C) ModraRiba!72Gozd ✅
+
+Razlaga:
+Dobro geslo vsebuje kombinacijo velikih in malih črk, številk ter posebnih znakov.
+
+4.
+
+Vprašanje: Ali je priporočljivo isto geslo uporabljati za vse spletne račune?
+
+Odgovori:
+
+A) Da, ker si ga lažje zapomnimo.
+B) Ne, ker lahko napadalec z enim geslom dostopa do več računov. ✅
+C) Samo pri elektronski pošti.
+
+Razlaga:
+Za pomembne račune uporabljamo različna gesla.
+
+5.
+
+Vprašanje: Kaj je phishing (spletno ribarjenje)?
+
+Odgovori:
+
+A) Program za hitrejši internet.
+B) Prevara, pri kateri želijo napadalci pridobiti naše podatke. ✅
+C) Način tiskanja dokumentov.
+
+Razlaga:
+Napadalci se pogosto pretvarjajo, da so banka, podjetje ali znana oseba.
+
+6.
+
+Vprašanje: Dobili ste e-pošto: "Vaš račun bo zaprt. Takoj kliknite povezavo." Kaj naredite?
+
+Odgovori:
+
+A) Takoj kliknete povezavo.
+B) Ne kliknete povezave in preverite sporočilo. ✅
+C) Pošljete svoje geslo.
+
+Razlaga:
+Občutek nujnosti je pogost znak spletne prevare.
+
+7.
+
+Vprašanje: Ali smemo neznancem po telefonu ali e-pošti povedati svoje geslo?
+
+Odgovori:
+
+A) Da, če lepo prosijo.
+B) Ne, gesla nikoli ne zaupamo drugim. ✅
+C) Samo ob vikendih.
+
+Razlaga:
+Prave ustanove (banke, Microsoft, Google ...) nikoli ne zahtevajo vašega gesla.
+
+8.
+
+Vprašanje: Kaj je računalniški virus?
+
+Odgovori:
+
+A) Program za urejanje slik.
+B) Škodljiv program, ki lahko poškoduje ali zlorabi računalnik. ✅
+C) Vrsta spletnega brskalnika.
+
+Razlaga:
+Virusi lahko povzročijo izgubo podatkov ali omogočijo nepooblaščen dostop.
+
+9.
+
+Vprašanje: Kako zmanjšamo možnost okužbe z virusi?
+
+Odgovori:
+
+A) Odpremo vse priponke v e-pošti.
+B) Posodabljamo sistem in ne odpiramo sumljivih datotek. ✅
+C) Izklopimo zaščito računalnika.
+
+Razlaga:
+Previdnost in posodobitve so pomembna zaščita pred škodljivo programsko opremo.
+
+10.
+
+Vprašanje: Zakaj nameščamo posodobitve sistema Windows?
+
+Odgovori:
+
+A) Da spremenimo barvo zaslona.
+B) Da izboljšamo varnost in odpravimo napake. ✅
+C) Da izbrišemo vse datoteke.
+
+Razlaga:
+Posodobitve pogosto vsebujejo popravke za varnostne luknje.
+
+11.
+
+Vprašanje: Kaj je protivirusni program?
+
+Odgovori:
+
+A) Program za gledanje filmov.
+B) Program, ki pomaga odkrivati in odstranjevati škodljivo programsko opremo. ✅
+C) Program za izdelavo dokumentov.
+
+Razlaga:
+Protivirusni program pomaga zaščititi računalnik pred različnimi grožnjami.
+
+12.
+
+Vprašanje: Kaj storimo, če se na zaslonu pojavi sumljivo opozorilo?
+
+Odgovori:
+
+A) Takoj kliknemo vse gumbe.
+B) Previdno preverimo sporočilo in ne klikamo neznanih povezav. ✅
+C) Vpišemo svoje geslo.
+
+Razlaga:
+Nekatera lažna opozorila poskušajo uporabnika prestrašiti, da bi namestil škodljiv program.
+
+13.
+
+Vprašanje: Kaj storimo, če dobimo SMS sporočilo z neznano povezavo?
+
+Odgovori:
+
+A) Takoj kliknemo povezavo.
+B) Ne kliknemo povezave in preverimo, kdo jo je poslal. ✅
+C) Sporočilo posredujemo prijateljem.
+
+Razlaga:
+Prevaranti pogosto pošiljajo lažna SMS sporočila, ki vodijo na strani za krajo podatkov.
+
+14.
+
+Vprašanje: Kaj pomeni dvostopenjska prijava (2FA)?
+
+Odgovori:
+
+A) Dvakrat vnesemo isto geslo.
+B) Poleg gesla uporabimo še dodatno potrditev prijave. ✅
+C) Dvakrat odpremo spletno stran.
+
+Razlaga:
+Pri dvostopenjski prijavi poleg gesla uporabimo na primer kodo iz telefona ali potrditveno aplikacijo.
+
+15.
+
+Vprašanje: Zakaj ni dobro objavljati preveč osebnih podatkov na internetu?
+
+Odgovori:
+
+A) Ker internet postane počasnejši.
+B) Ker jih lahko kdo zlorabi. ✅
+C) Ker se računalnik pokvari.
+
+Razlaga:
+Podatki, kot so naslov, telefonska številka ali podatki o dopustu, lahko pomagajo nepridipravom.
+
+16.
+
+Vprašanje: Kaj spada med osebne podatke?
+
+Odgovori:
+
+A) Barva računalniške mize.
+B) Ime, naslov, telefonska številka in osebni podatki. ✅
+C) Vrsta tipkovnice.
+
+Razlaga:
+Osebni podatki so podatki, po katerih lahko prepoznamo določeno osebo.
+
+17.
+
+Vprašanje: Ali je varno uporabljati isto geslo za elektronsko pošto in spletno banko?
+
+Odgovori:
+
+A) Da, vedno.
+B) Ne, pomembni računi naj imajo različna gesla. ✅
+C) Samo če imamo nov računalnik.
+
+Razlaga:
+E-pošta je pogosto ključ do drugih računov, zato jo moramo posebej zaščititi.
+
+18.
+
+Vprašanje: Kaj je varnostna kopija (backup)?
+
+Odgovori:
+
+A) Kopija zaslona.
+B) Dodatna kopija pomembnih podatkov za primer izgube. ✅
+C) Vrsta računalniškega virusa.
+
+Razlaga:
+Varnostne kopije zaščitijo fotografije, dokumente in druge pomembne datoteke.
+
+19.
+
+Vprašanje: Kam je varno shraniti varnostno kopijo podatkov?
+
+Odgovori:
+
+A) Samo v isti mapi na računalniku.
+B) Na zunanji disk, USB napravo ali v oblak. ✅
+C) V Koš.
+
+Razlaga:
+Če se pokvari računalnik, nam kopija na drugem mestu omogoči obnovitev podatkov.
+
+20.
+
+Vprašanje: Kaj je javno Wi-Fi omrežje?
+
+Odgovori:
+
+A) Zasebno domače omrežje.
+B) Brezžično omrežje, dostopno več uporabnikom, na primer v lokalu ali hotelu. ✅
+C) Program za zaščito računalnika.
+
+Razlaga:
+Javni Wi-Fi je priročen, vendar moramo biti previdni pri vnosu pomembnih podatkov.
+
+21.
+
+Vprašanje: Ali je dobro opravljati spletno bančništvo prek neznanega javnega Wi-Fi omrežja?
+
+Odgovori:
+
+A) Da, vedno.
+B) Raje ne, uporabimo varno povezavo. ✅
+C) Samo ponoči.
+
+Razlaga:
+Pri javnih omrežjih obstaja večje tveganje za prestrezanje podatkov.
+
+22.
+
+Vprašanje: Kaj storimo, če nas po telefonu pokliče oseba, ki trdi, da je iz Microsofta, in želi dostop do računalnika?
+
+Odgovori:
+
+A) Takoj ji omogočimo dostop.
+B) Klic prekinemo, ker gre pogosto za prevaro. ✅
+C) Povemo ji svoje geslo.
+
+Razlaga:
+Microsoft in podobna podjetja običajno ne kličejo uporabnikov in ne zahtevajo oddaljenega dostopa.
+
+23.
+
+Vprašanje: Kako preverimo, ali je spletna trgovina zaupanja vredna?
+
+Odgovori:
+
+A) Kupimo čim dražji izdelek.
+B) Preverimo podatke o trgovini, ocene in pogoje poslovanja. ✅
+C) Vnesemo podatke kartice takoj.
+
+Razlaga:
+Pred nakupom preverimo, kdo je ponudnik in ali ima stran osnovne podatke o podjetju.
+
+24.
+
+Vprašanje: Kaj storimo, če izgubimo telefon, na katerem imamo e-pošto in druge račune?
+
+Odgovori:
+
+A) Ničesar.
+B) Telefon zaklenemo oziroma zaščitimo račune. ✅
+C) Objavimo izgubo na spletu z vsemi podatki.
+
+Razlaga:
+Telefon lahko vsebuje veliko osebnih podatkov, zato ga moramo zaščititi z geslom, PIN-om ali biometrijo.
+
+25.
+
+Vprašanje: Katera navada najbolj pripomore k varni uporabi interneta?
+
+Odgovori:
+
+A) Kliknemo vsako povezavo, ki jo dobimo.
+B) Razmišljamo pred klikom in varujemo svoje podatke. ✅
+C) Svoje geslo zaupamo družinskim članom in prijateljem.
+
+Razlaga:
+Najpomembnejša zaščita je previdnost uporabnika. Večina spletnih prevar uspe zato, ker uporabnik klikne ali razkrije podatke.

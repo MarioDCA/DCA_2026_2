@@ -1,0 +1,326 @@
+Kviz 20: Delo z dokumenti – Word, PDF, shranjevanje datotek in tiskanje
+
+1.
+
+Vprašanje: Kaj je dokument na računalniku?
+
+Odgovori:
+
+A) Samo fotografija.
+B) Datoteka, ki vsebuje besedilo, slike ali druge podatke. ✅
+C) Vrsta računalniškega kabla.
+
+Razlaga:
+Dokumenti so lahko pisma, pogodbe, zapiski, računi ali druga besedila.
+
+2.
+
+Vprašanje: Kateri program pogosto uporabljamo za pisanje besedil?
+
+Odgovori:
+
+A) Kalkulator.
+B) Microsoft Word. ✅
+C) Koš.
+
+Razlaga:
+Word je eden najbolj razširjenih programov za ustvarjanje in urejanje dokumentov.
+
+3.
+
+Vprašanje: Kaj pomeni shraniti dokument?
+
+Odgovori:
+
+A) Izbrisati dokument.
+B) Zapisati dokument na računalnik, da ga lahko pozneje ponovno odpremo. ✅
+C) Poslati ga v tiskalnik.
+
+Razlaga:
+Če dokumenta ne shranimo, lahko izgubimo napisano besedilo.
+
+4.
+
+Vprašanje: Katera bližnjica se pogosto uporablja za shranjevanje dokumenta?
+
+Odgovori:
+
+A) Ctrl + P.
+B) Ctrl + S. ✅
+C) Ctrl + Z.
+
+Razlaga:
+Ctrl + S pomeni "Save" oziroma shrani.
+
+5.
+
+Vprašanje: Kaj je mapa na računalniku?
+
+Odgovori:
+
+A) Program za internet.
+B) Mesto, kjer urejeno shranjujemo datoteke. ✅
+C) Vrsta tiskalnika.
+
+Razlaga:
+Mape pomagajo organizirati dokumente, slike in druge datoteke.
+
+6.
+
+Vprašanje: Zakaj je koristno urejati dokumente v mape?
+
+Odgovori:
+
+A) Ker računalnik postane glasnejši.
+B) Ker lažje najdemo datoteke. ✅
+C) Ker dobimo hitrejši internet.
+
+Razlaga:
+Dobro urejene mape preprečujejo izgubljanje dokumentov.
+
+7.
+
+Vprašanje: Kaj pomeni končnica datoteke .docx?
+
+Odgovori:
+
+A) Vrsta fotografije.
+B) Datoteka Microsoft Word dokumenta. ✅
+C) Računalniški virus.
+
+Razlaga:
+Končnica pove, s katerim programom lahko datoteko običajno odpremo.
+
+8.
+
+Vprašanje: Kaj pomeni končnica PDF?
+
+Odgovori:
+
+A) Program za igre.
+B) Oblika dokumenta, ki ohrani enak videz na različnih napravah. ✅
+C) Vrsta gesla.
+
+Razlaga:
+PDF je zelo pogost za račune, obrazce, navodila in uradne dokumente.
+
+9.
+
+Vprašanje: Zakaj pošiljamo dokumente pogosto v obliki PDF?
+
+Odgovori:
+
+A) Ker jih ni mogoče odpreti.
+B) Ker se videz dokumenta običajno ne spremeni pri pošiljanju. ✅
+C) Ker zavzamejo vedno največ prostora.
+
+Razlaga:
+Prejemnik vidi dokument skoraj tako, kot ga je pripravil pošiljatelj.
+
+10.
+
+Vprašanje: Kako odpremo dokument, ki smo ga prejeli po e-pošti?
+
+Odgovori:
+
+A) Izklopimo računalnik.
+B) Kliknemo priponko in jo odpremo ali shranimo. ✅
+C) Izbrišemo sporočilo.
+
+Razlaga:
+Pred odpiranjem preverimo, ali zaupamo pošiljatelju.
+
+11.
+
+Vprašanje: Kaj storimo, če ne najdemo dokumenta?
+
+Odgovori:
+
+A) Kupimo nov računalnik.
+B) Uporabimo iskanje v Raziskovalcu datotek. ✅
+C) Izklopimo internet.
+
+Razlaga:
+Windows omogoča iskanje datotek po imenu ali vrsti.
+
+12.
+
+Vprašanje: Kaj je Raziskovalec datotek (File Explorer)?
+
+Odgovori:
+
+A) Program za gledanje televizije.
+B) Program za pregledovanje in urejanje datotek ter map. ✅
+C) Program za izdelavo virusov.
+
+Razlaga:
+Z Raziskovalcem upravljamo dokumente, slike, mape in naprave.
+
+13.
+
+Vprašanje: Kaj pomeni kopirati datoteko?
+
+Odgovori:
+
+A) Izbrisati datoteko.
+B) Ustvariti dodatno kopijo datoteke na drugem mestu. ✅
+C) Spremeniti barvo datoteke.
+
+Razlaga:
+Kopiranje je uporabno pri varnostnem shranjevanju dokumentov.
+
+14.
+
+Vprašanje: Kaj pomeni premakniti datoteko?
+
+Odgovori:
+
+A) Ustvariti virus.
+B) Prenesti datoteko iz ene mape v drugo. ✅
+C) Spremeniti geslo.
+
+Razlaga:
+Pri premiku datoteka ni več na prvotnem mestu.
+
+15.
+
+Vprašanje: Kakšna je razlika med kopiranjem in premikanjem?
+
+Odgovori:
+
+A) Ni razlike.
+B) Pri kopiranju ostane original, pri premikanju se spremeni lokacija. ✅
+C) Premikanje izbriše računalnik.
+
+Razlaga:
+Kopiranje je varnejše, kadar nismo prepričani.
+
+16.
+
+Vprašanje: Kaj je USB ključ?
+
+Odgovori:
+
+A) Program za pisanje.
+B) Prenosna naprava za shranjevanje podatkov. ✅
+C) Vrsta zaslona.
+
+Razlaga:
+USB ključ uporabljamo za prenos dokumentov, fotografij in drugih datotek.
+
+17.
+
+Vprašanje: Zakaj moramo USB ključ varno odstraniti iz računalnika?
+
+Odgovori:
+
+A) Da postane hitrejši.
+B) Da zmanjšamo možnost poškodbe podatkov. ✅
+C) Da se spremeni barva.
+
+Razlaga:
+Pred odstranitvijo počakamo, da računalnik konča zapisovanje podatkov.
+
+18.
+
+Vprašanje: Kaj pomeni tiskanje dokumenta?
+
+Odgovori:
+
+A) Shranjevanje v oblak.
+B) Izdelava papirne kopije dokumenta s tiskalnikom. ✅
+C) Brisanje dokumenta.
+
+Razlaga:
+Tiskanje omogoča uporabo dokumenta tudi brez računalnika.
+
+19.
+
+Vprašanje: Katera bližnjica se pogosto uporablja za tiskanje?
+
+Odgovori:
+
+A) Ctrl + S.
+B) Ctrl + P. ✅
+C) Ctrl + C.
+
+Razlaga:
+P pomeni "Print" oziroma tiskanje.
+
+20.
+
+Vprašanje: Kaj storimo, če tiskalnik ne tiska?
+
+Odgovori:
+
+A) Izbrišemo Windows.
+B) Preverimo povezavo, papir, črnilo in ali je tiskalnik vklopljen. ✅
+C) Odstranimo tipkovnico.
+
+Razlaga:
+Veliko težav s tiskalnikom je posledica preprostih vzrokov.
+
+21.
+
+Vprašanje: Kaj je oblak (cloud) pri shranjevanju podatkov?
+
+Odgovori:
+
+A) Vremenska napoved.
+B) Shranjevanje datotek na oddaljenih strežnikih prek interneta. ✅
+C) Vrsta računalniškega zaslona.
+
+Razlaga:
+Primeri oblačnih storitev so Google Drive, OneDrive in Dropbox.
+
+22.
+
+Vprašanje: Zakaj uporabljamo shranjevanje v oblaku?
+
+Odgovori:
+
+A) Ker računalnik ne potrebuje elektrike.
+B) Ker lahko do datotek dostopamo iz različnih naprav. ✅
+C) Ker izbriše vse viruse.
+
+Razlaga:
+Oblak omogoča dostop do dokumentov tudi, če računalnik ni pri roki.
+
+23.
+
+Vprašanje: Kaj pomeni varnostna kopija dokumentov?
+
+Odgovori:
+
+A) Sprememba pisave.
+B) Dodatna kopija pomembnih datotek za primer izgube. ✅
+C) Izbris starih dokumentov.
+
+Razlaga:
+Varnostne kopije zaščitijo pred okvaro računalnika ali izgubo podatkov.
+
+24.
+
+Vprašanje: Zakaj ni dobro imeti vseh dokumentov samo na namizju?
+
+Odgovori:
+
+A) Ker namizje izgine.
+B) Ker hitro postane nepregledno in težje najdemo datoteke. ✅
+C) Ker računalnik ne deluje.
+
+Razlaga:
+Za urejenost uporabljamo smiselne mape.
+
+25.
+
+Vprašanje: Katera navada je najboljša pri delu z dokumenti?
+
+Odgovori:
+
+A) Dokumentov nikoli ne shranjujemo.
+B) Redno shranjujemo, urejamo v mape in izdelamo varnostne kopije. ✅
+C) Vse datoteke pustimo na namizju.
+
+Razlaga:
+Urejeni dokumenti in varnostne kopije preprečijo veliko težav.

@@ -1,0 +1,327 @@
+Kviz 18: Umetna inteligenca in ChatGPT – osnovna uporaba za starejše
+
+1.
+
+Vprašanje: Kaj pomeni kratica AI oziroma UI?
+
+Odgovori:
+
+A) Avtomatski internet.
+B) Umetna inteligenca (Artificial Intelligence). ✅
+C) Vrsta računalniškega kabla.
+
+Razlaga:
+Umetna inteligenca je tehnologija, ki omogoča računalnikom izvajanje nalog, za katere običajno potrebujemo človeško razmišljanje.
+
+2.
+
+Vprašanje: Kaj je ChatGPT?
+
+Odgovori:
+
+A) Računalniška igra.
+B) Program umetne inteligence, ki odgovarja na vprašanja in pomaga pri različnih nalogah. ✅
+C) Protivirusni program.
+
+Razlaga:
+ChatGPT lahko pomaga pri pisanju, učenju, razlagi pojmov, prevajanju in iskanju idej.
+
+3.
+
+Vprašanje: Kako komuniciramo s ChatGPT?
+
+Odgovori:
+
+A) Samo s pritiskanjem gumbov.
+B) Vpišemo vprašanje ali navodilo v pogovorno okno. ✅
+C) Z vstavljanjem USB ključka.
+
+Razlaga:
+ChatGPT deluje podobno kot pogovor – napišemo, kaj želimo izvedeti ali narediti.
+
+4.
+
+Vprašanje: Kaj je dober način za postavljanje vprašanj umetni inteligenci?
+
+Odgovori:
+
+A) Napišemo samo eno nejasno besedo.
+B) Jasno opišemo, kaj želimo izvedeti ali doseči. ✅
+C) Vedno napišemo samo "pomagaj".
+
+Razlaga:
+Bolj natančno vprašanje običajno prinese bolj uporaben odgovor.
+
+5.
+
+Vprašanje: Katero vprašanje bo verjetno dalo boljši odgovor?
+
+Odgovori:
+
+A) "Računalnik?"
+B) "Razloži mi, kako naredim varnostno kopijo fotografij na telefonu." ✅
+C) "Povej nekaj."
+
+Razlaga:
+Dober opis problema pomaga umetni inteligenci razumeti naše potrebe.
+
+6.
+
+Vprašanje: Ali lahko ChatGPT naredi napako?
+
+Odgovori:
+
+A) Ne, nikoli.
+B) Da, zato pomembne informacije preverimo. ✅
+C) Samo pri računalnikih.
+
+Razlaga:
+Umetna inteligenca je zelo uporabna, vendar ni nezmotljiva.
+
+7.
+
+Vprašanje: Zakaj je treba preveriti pomembne informacije, ki jih poda AI?
+
+Odgovori:
+
+A) Ker AI vedno odgovarja prepočasi.
+B) Ker lahko poda napačen ali nepopoln odgovor. ✅
+C) Ker ne zna pisati.
+
+Razlaga:
+Pri zdravju, financah, zakonih in drugih pomembnih področjih preverimo informacije pri zanesljivih virih.
+
+8.
+
+Vprašanje: Za kaj lahko starejši uporabnik uporablja ChatGPT?
+
+Odgovori:
+
+A) Samo za igre.
+B) Za učenje, razlage, pisanje besedil, ideje in pomoč pri vsakdanjih vprašanjih. ✅
+C) Samo za izklop računalnika.
+
+Razlaga:
+AI je lahko pomočnik pri številnih opravilih.
+
+9.
+
+Vprašanje: Ali lahko ChatGPT pomaga pri pisanju pisma ali e-pošte?
+
+Odgovori:
+
+A) Ne.
+B) Da, pomaga lahko oblikovati in izboljšati besedilo. ✅
+C) Samo če imamo tiskalnik.
+
+Razlaga:
+Lahko pomaga napisati uradno, prijazno ali krajše sporočilo.
+
+10.
+
+Vprašanje: Kaj pomeni, da AI "razume" besedilo?
+
+Odgovori:
+
+A) Da razmišlja popolnoma enako kot človek.
+B) Da zna analizirati besede in ustvariti smiseln odgovor. ✅
+C) Da ima čustva.
+
+Razlaga:
+AI obdeluje podatke in vzorce v jeziku, vendar nima človeškega zavedanja.
+
+11.
+
+Vprašanje: Ali ima ChatGPT dostop do vseh osebnih podatkov uporabnika?
+
+Odgovori:
+
+A) Da, vidi vse na računalniku.
+B) Ne, vidi samo podatke, ki mu jih uporabnik posreduje v pogovoru. ✅
+C) Da, vidi vse fotografije telefona.
+
+Razlaga:
+Ne smemo mu pošiljati občutljivih osebnih podatkov, gesel ali bančnih podatkov.
+
+12.
+
+Vprašanje: Kaj je poziv (prompt)?
+
+Odgovori:
+
+A) Vrsta računalniškega virusa.
+B) Navodilo ali vprašanje, ki ga napišemo umetni inteligenci. ✅
+C) Program za tiskanje.
+
+Razlaga:
+Kakovost poziva močno vpliva na kakovost odgovora.
+
+Kviz 18: Umetna inteligenca in ChatGPT – praktična uporaba (13–25)
+13.
+
+Vprašanje: Kako izboljšamo odgovor ChatGPT?
+
+Odgovori:
+
+A) Zapremo program.
+B) Postavimo dodatno vprašanje ali natančneje razložimo, kaj potrebujemo. ✅
+C) Izbrišemo tipkovnico.
+
+Razlaga:
+Pogovor lahko nadaljujemo in odgovor postopoma izboljšujemo.
+
+14.
+
+Vprašanje: Ali lahko ChatGPT pomaga pri učenju novih stvari?
+
+Odgovori:
+
+A) Ne.
+B) Da, lahko razlaga pojme in prilagodi razlago uporabniku. ✅
+C) Samo otrokom.
+
+Razlaga:
+AI lahko deluje kot osebni učni pomočnik.
+
+15.
+
+Vprašanje: Kako lahko uporabimo ChatGPT pri učenju računalništva?
+
+Odgovori:
+
+A) Za čiščenje tipkovnice.
+B) Za razlago programov, nastavitev in računalniških pojmov. ✅
+C) Za povečanje pomnilnika računalnika.
+
+Razlaga:
+Uporabnik lahko vpraša tudi zelo osnovne stvari.
+
+16.
+
+Vprašanje: Ali lahko ChatGPT prevede besedilo v drug jezik?
+
+Odgovori:
+
+A) Ne.
+B) Da, lahko pomaga pri prevajanju besedil. ✅
+C) Samo slik.
+
+Razlaga:
+AI lahko pomaga pri prevodih, vendar je pri pomembnih dokumentih potreben pregled.
+
+17.
+
+Vprašanje: Ali je dobro slepo kopirati vsak odgovor AI?
+
+Odgovori:
+
+A) Da, vedno.
+B) Ne, odgovor pregledamo in preverimo. ✅
+C) Samo ponoči.
+
+Razlaga:
+Uporabnik mora vedno uporabiti lastno presojo.
+
+18.
+
+Vprašanje: Kaj lahko naredimo, če odgovora ne razumemo?
+
+Odgovori:
+
+A) Prenehamo uporabljati računalnik.
+B) Prosimo AI, naj razloži bolj preprosto. ✅
+C) Izbrišemo program.
+
+Razlaga:
+Lahko zahtevamo razlago za začetnike, primere ali primerjave.
+
+19.
+
+Vprašanje: Ali lahko AI nadomesti človekovo odločanje?
+
+Odgovori:
+
+A) Da, vedno.
+B) Ne, AI je pomočnik, odločitev sprejme človek. ✅
+C) Samo pri telefonih.
+
+Razlaga:
+Umetna inteligenca pomaga pri razmišljanju, vendar odgovornost ostaja pri človeku.
+
+20.
+
+Vprašanje: Zakaj ne smemo AI zaupati gesel?
+
+Odgovori:
+
+A) Ker gesla niso pomembna.
+B) Ker so gesla občutljivi podatki, ki jih moramo varovati. ✅
+C) Ker računalnik ne zna tipkati.
+
+Razlaga:
+Gesla, PIN-i in bančni podatki nikoli ne sodijo v pogovor z AI.
+
+21.
+
+Vprašanje: Kako lahko AI pomaga pri vsakdanjem življenju?
+
+Odgovori:
+
+A) Samodejno pospravi stanovanje.
+B) Pomaga pri načrtovanju, pisanju, učenju in iskanju idej. ✅
+C) Popravi vse naprave.
+
+Razlaga:
+AI je orodje za pomoč, ne čarobna rešitev vseh težav.
+
+22.
+
+Vprašanje: Ali mora uporabnik poznati programiranje za uporabo ChatGPT?
+
+Odgovori:
+
+A) Da, nujno.
+B) Ne, dovolj je znati opisati vprašanje ali problem. ✅
+C) Samo za pošiljanje sporočil.
+
+Razlaga:
+ChatGPT je narejen tako, da ga lahko uporablja vsakdo.
+
+23.
+
+Vprašanje: Kaj je prednost pogovora z AI?
+
+Odgovori:
+
+A) Vedno ima človeške izkušnje.
+B) Lahko hitro pomaga pri razlagi in iskanju idej. ✅
+C) Nikoli ne potrebuje elektrike.
+
+Razlaga:
+AI omogoča hiter dostop do pomoči in informacij.
+
+24.
+
+Vprašanje: Kaj je pomembno pri odgovorni uporabi umetne inteligence?
+
+Odgovori:
+
+A) Verjamemo vsem odgovorom.
+B) Uporabljamo jo premišljeno in preverjamo pomembne informacije. ✅
+C) Delimo vsa osebna sporočila.
+
+Razlaga:
+AI je močno orodje, vendar ga moramo uporabljati varno.
+
+25.
+
+Vprašanje: Katera trditev najbolje opisuje ChatGPT?
+
+Odgovori:
+
+A) Je nadomestek za človeka.
+B) Je pomočnik, ki lahko pomaga pri učenju, ustvarjanju in reševanju problemov. ✅
+C) Je protivirusni program.
+
+Razlaga:
+Najboljša uporaba AI je sodelovanje med človekom in tehnologijo.

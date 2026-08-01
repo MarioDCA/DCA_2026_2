@@ -1,0 +1,327 @@
+Kviz 13: Elektronska pošta (Gmail, Outlook) – napredna uporaba in varnost
+
+1.
+
+Vprašanje: Kaj je elektronska pošta (e-pošta)?
+
+Odgovori:
+
+A) Program za risanje.
+B) Pošiljanje in prejemanje sporočil prek interneta. ✅
+C) Vrsta računalniškega virusa.
+
+Razlaga:
+Elektronska pošta omogoča hitro pošiljanje besedil, fotografij, dokumentov in drugih datotek.
+
+2.
+
+Vprašanje: Kaj potrebujemo za uporabo elektronske pošte?
+
+Odgovori:
+
+A) Samo tiskalnik.
+B) E-poštni račun in dostop do interneta. ✅
+C) Poseben kabel za telefon.
+
+Razlaga:
+Za uporabo Gmaila potrebujemo Google račun, za Outlook pa Microsoftov račun.
+
+3.
+
+Vprašanje: Kaj pomeni naslov prejemnika v e-pošti?
+
+Odgovori:
+
+A) Ime računalnika.
+B) Elektronski naslov osebe, ki ji pošiljamo sporočilo. ✅
+C) Geslo uporabnika.
+
+Razlaga:
+Primer elektronskega naslova je uporabnik@example.com.
+
+4.
+
+Vprašanje: Kaj pomeni polje Zadeva (Subject)?
+
+Odgovori:
+
+A) Geslo sporočila.
+B) Kratek opis vsebine elektronskega sporočila. ✅
+C) Ime datoteke.
+
+Razlaga:
+Dobra zadeva pomaga prejemniku razumeti, česa se sporočilo nanaša.
+
+5.
+
+Vprašanje: Kaj je priponka v elektronski pošti?
+
+Odgovori:
+
+A) Dodaten prejemnik.
+B) Datoteka, dodana k sporočilu. ✅
+C) Geslo za pošto.
+
+Razlaga:
+Priponka je lahko fotografija, dokument, preglednica ali druga datoteka.
+
+6.
+
+Vprašanje: Kako odpremo priponko v e-pošti?
+
+Odgovori:
+
+A) Vedno jo takoj izbrišemo.
+B) Kliknemo nanjo in jo odpremo ali shranimo. ✅
+C) Izklopimo računalnik.
+
+Razlaga:
+Pred odpiranjem priponke preverimo, kdo jo je poslal in ali ji zaupamo.
+
+7.
+
+Vprašanje: Zakaj moramo biti previdni pri odpiranju priponk?
+
+Odgovori:
+
+A) Ker se lahko spremeni barva zaslona.
+B) Ker lahko vsebujejo škodljive programe ali viruse. ✅
+C) Ker se internet izklopi.
+
+Razlaga:
+Ne odpiramo nepričakovanih priponk, še posebej od neznanih pošiljateljev.
+
+8.
+
+Vprašanje: Kaj pomeni odgovoriti na e-pošto (Reply)?
+
+Odgovori:
+
+A) Izbrisati sporočilo.
+B) Poslati odgovor osebi, ki je poslala sporočilo. ✅
+C) Poslati sporočilo vsem uporabnikom interneta.
+
+Razlaga:
+Pri odgovoru se običajno ohrani prejšnji pogovor.
+
+9.
+
+Vprašanje: Kaj pomeni posredovati e-pošto (Forward)?
+
+Odgovori:
+
+A) Spremeniti geslo.
+B) Poslati prejeto sporočilo drugi osebi. ✅
+C) Izbrisati sporočilo.
+
+Razlaga:
+Pri posredovanju vedno preverimo, ali sporočilo vsebuje podatke, ki jih ne želimo deliti.
+
+10.
+
+Vprašanje: Kaj pomeni CC pri pošiljanju e-pošte?
+
+Odgovori:
+
+A) Izbris sporočila.
+B) Kopija sporočila, ki jo prejme dodatni prejemnik. ✅
+C) Zaklep računa.
+
+Razlaga:
+Vsi prejemniki v polju CC običajno vidijo, kdo je še prejel sporočilo.
+
+11.
+
+Vprašanje: Kaj pomeni BCC pri e-pošti?
+
+Odgovori:
+
+A) Večja priponka.
+B) Skrita kopija sporočila, kjer drugi prejemniki ne vidijo naslova. ✅
+C) Brisanje pošte.
+
+Razlaga:
+BCC je uporaben, ko pošiljamo sporočilo več ljudem in želimo zaščititi njihove e-naslove.
+
+12.
+
+Vprašanje: Kaj je mapa Neželena pošta (Spam)?
+
+Odgovori:
+
+A) Mapa za pomembne dokumente.
+B) Mapa, kamor se shranjujejo sumljiva ali nezaželena sporočila. ✅
+C) Mapa za fotografije.
+
+Razlaga:
+Sistem samodejno prepoznava veliko nezaželene pošte, vendar moramo biti še vedno previdni.
+
+Kviz 13: Elektronska pošta – nadaljevanje (13–25)
+13.
+
+Vprašanje: Kaj storimo, če dobimo e-pošto, ki zahteva nujno plačilo ali prijavo?
+
+Odgovori:
+
+A) Takoj kliknemo povezavo.
+B) Preverimo pošiljatelja in ne klikamo sumljivih povezav. ✅
+C) Pošljemo svoje geslo.
+
+Razlaga:
+Prevaranti pogosto ustvarjajo občutek nujnosti, da bi uporabnik ukrepal brez razmisleka.
+
+14.
+
+Vprašanje: Kako prepoznamo sumljivo e-pošto?
+
+Odgovori:
+
+A) Vedno ima lepo sliko.
+B) Lahko vsebuje nenavadnega pošiljatelja, napake, grožnje ali sumljive povezave. ✅
+C) Vedno je zelo kratka.
+
+Razlaga:
+Pozorni smo na nenavadne zahteve in preverimo naslov pošiljatelja.
+
+15.
+
+Vprašanje: Kaj naredimo z neželeno e-pošto?
+
+Odgovori:
+
+A) Odgovorimo pošiljatelju.
+B) Izbrišemo jo ali označimo kot neželeno. ✅
+C) Posredujemo jo prijateljem.
+
+Razlaga:
+Odgovarjanje na neželeno pošto lahko potrdi, da naš naslov obstaja.
+
+16.
+
+Vprašanje: Zakaj je pomembno imeti močno geslo za e-pošto?
+
+Odgovori:
+
+A) Zaradi lepše ikone.
+B) Ker e-pošta pogosto vsebuje osebne podatke in povezave do drugih računov. ✅
+C) Ker računalnik deluje hitreje.
+
+Razlaga:
+Če nekdo prevzame e-poštni račun, lahko poskuša dostopati tudi do drugih storitev.
+
+17.
+
+Vprašanje: Kaj storimo, če pozabimo geslo za e-pošto?
+
+Odgovori:
+
+A) Ustvarimo nov računalnik.
+B) Uporabimo možnost obnovitve gesla. ✅
+C) Pošljemo geslo prijateljem.
+
+Razlaga:
+Ponudniki omogočajo obnovitev računa prek telefona ali rezervnega e-naslova.
+
+18.
+
+Vprašanje: Zakaj je koristno urejati e-pošto v mape?
+
+Odgovori:
+
+A) Ker internet deluje hitreje.
+B) Ker lažje najdemo pomembna sporočila. ✅
+C) Ker dobimo več prostora na disku.
+
+Razlaga:
+Mape pomagajo ločiti račune, osebna sporočila, dokumente in druge vsebine.
+
+19.
+
+Vprašanje: Kaj omogoča iskanje v e-pošti?
+
+Odgovori:
+
+A) Izbris vseh sporočil.
+B) Hitro iskanje starega sporočila po besedah ali pošiljatelju. ✅
+C) Spreminjanje gesla.
+
+Razlaga:
+Namesto ročnega pregledovanja lahko uporabimo iskalno polje.
+
+20.
+
+Vprašanje: Ali lahko pošljemo fotografijo prek e-pošte?
+
+Odgovori:
+
+A) Ne.
+B) Da, fotografijo lahko dodamo kot priponko. ✅
+C) Samo s tiskalnikom.
+
+Razlaga:
+E-pošta je primerna za pošiljanje dokumentov in fotografij.
+
+21.
+
+Vprašanje: Zakaj ni dobro pošiljati velikih datotek kot priponke?
+
+Odgovori:
+
+A) Ker se računalnik pokvari.
+B) Ker imajo e-poštne storitve omejitev velikosti priponk. ✅
+C) Ker fotografije izginejo.
+
+Razlaga:
+Za velike datoteke je pogosto bolje uporabiti povezavo do oblaka.
+
+22.
+
+Vprašanje: Kaj pomeni odjava iz e-poštnega računa?
+
+Odgovori:
+
+A) Izbris računa.
+B) Zapiranje dostopa do računa na trenutni napravi. ✅
+C) Izbris vseh sporočil.
+
+Razlaga:
+Na javnem ali tujem računalniku se vedno odjavimo.
+
+23.
+
+Vprašanje: Zakaj ni dobro uporabljati istega gesla za vse račune?
+
+Odgovori:
+
+A) Ker je težje tipkati.
+B) Ker lahko ob razkritju enega gesla napadalec dostopa do več računov. ✅
+C) Ker internet deluje počasneje.
+
+Razlaga:
+Za pomembne račune uporabljamo različna gesla.
+
+24.
+
+Vprašanje: Kaj je dvostopenjska zaščita e-poštnega računa?
+
+Odgovori:
+
+A) Dvakrat napišemo isto geslo.
+B) Poleg gesla uporabimo še dodatno potrditev prijave. ✅
+C) Uporabimo dva e-naslova.
+
+Razlaga:
+Dodatna zaščita močno zmanjša možnost vdora v račun.
+
+25.
+
+Vprašanje: Katera navada najbolj pripomore k varni uporabi e-pošte?
+
+Odgovori:
+
+A) Odpremo vsako priponko.
+B) Preverjamo pošiljatelje, varujemo geslo in ne klikamo sumljivih povezav. ✅
+C) Geslo napišemo ob računalnik.
+
+Razlaga:
+Previdna uporaba e-pošte je najboljša zaščita pred prevarami.

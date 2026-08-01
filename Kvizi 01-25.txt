@@ -1,0 +1,26 @@
+01. Osnove Windows okolja
+02. Datoteke in mape
+03. Internet in spletni brskalniki
+04. Elektronska pošta
+05. Varnost na spletu
+06. Pametni telefon Android
+07. Google Iskanje in napredno iskanje
+08: ChatGPT in umetna inteligenca
+09: Fotografije s telefonom in Google Fotografije
+10: Spletno bančništvo in varni spletni nakupi
+11: Google Drive, OneDrive in delo v oblaku
+12: Windows 10 – urejanje datotek, map in Raziskovalec
+13: Elektronska pošta (Gmail, Outlook) – napredna uporaba in varnost
+14: Windows 10 – nastavitve računalnika in prilagajanje okolja
+15: Pametni telefon – nastavitve, baterija, Wi-Fi, aplikacije in vzdrževanje
+16: Fotografije na računalniku in telefonu – urejanje, shranjevanje in deljenje
+17: Internet – iskanje informacij, Google, spletne strani in preverjanje virov
+18: Umetna inteligenca in ChatGPT – osnovna uporaba za starejše
+19: Spletne prevare, phishing, lažna sporočila in varnost računov
+20: Delo z dokumenti – Word, PDF, shranjevanje datotek in tiskanje
+21: Windows 10 – bližnjice na tipkovnici in učinkovitejša uporaba računalnika
+22: Pametni telefon Android – nastavitve, baterija, Wi-Fi, aplikacije in vsakodnevna uporaba
+23: Elektronska pošta (Gmail, Outlook) – pošiljanje sporočil, priponke, organizacija in varnost
+24: Spletno bančništvo in spletni nakupi
+25: Umetna inteligenca (ChatGPT, Copilot, Gemini, Claude …) za vsakdanjo uporabo
+

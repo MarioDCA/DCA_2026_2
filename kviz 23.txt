@@ -1,0 +1,327 @@
+Kviz 23: Elektronska pošta (Gmail, Outlook) – pošiljanje sporočil, priponke, organizacija in varnost
+
+1.
+
+Vprašanje: Kaj je elektronska pošta (e-pošta)?
+
+Odgovori:
+
+A) Program za risanje.
+B) Storitev za pošiljanje in prejemanje sporočil prek interneta. ✅
+C) Vrsta računalniškega virusa.
+
+Razlaga:
+E-pošta omogoča hitro izmenjavo sporočil, dokumentov in fotografij.
+
+2.
+
+Vprašanje: Kaj potrebujemo za uporabo elektronske pošte?
+
+Odgovori:
+
+A) Samo tiskalnik.
+B) E-poštni račun in internetno povezavo. ✅
+C) USB ključ.
+
+Razlaga:
+Najpogostejši ponudniki so Gmail, Outlook in drugi.
+
+3.
+
+Vprašanje: Kaj je e-poštni naslov?
+
+Odgovori:
+
+A) Naslov stanovanja.
+B) Edinstven naslov uporabnika, na primer ime@example.com. ✅
+C) Telefonska številka.
+
+Razlaga:
+Vsak e-poštni naslov je unikaten.
+
+4.
+
+Vprašanje: Kaj pomeni gumb »Novo sporočilo« oziroma »Sestavi«?
+
+Odgovori:
+
+A) Izbris pošte.
+B) Začetek pisanja novega e-poštnega sporočila. ✅
+C) Tiskanje sporočila.
+
+Razlaga:
+S tem ustvarimo novo sporočilo za pošiljanje.
+
+5.
+
+Vprašanje: Kaj vpišemo v polje »Za« (To)?
+
+Odgovori:
+
+A) Svoje geslo.
+B) E-poštni naslov prejemnika. ✅
+C) Datum.
+
+Razlaga:
+Če naslov ni pravilen, sporočilo morda ne bo dostavljeno.
+
+6.
+
+Vprašanje: Čemu služi polje »Zadeva« (Subject)?
+
+Odgovori:
+
+A) Za geslo.
+B) Za kratek opis vsebine sporočila. ✅
+C) Za telefonsko številko.
+
+Razlaga:
+Jasna zadeva prejemniku pomaga hitro razumeti namen sporočila.
+
+7.
+
+Vprašanje: Kaj je priponka?
+
+Odgovori:
+
+A) Vrsta gesla.
+B) Datoteka, priložena e-poštnemu sporočilu. ✅
+C) Internetni brskalnik.
+
+Razlaga:
+Kot priponko lahko pošljemo dokumente, fotografije ali druge datoteke.
+
+8.
+
+Vprašanje: Kako dodamo priponko?
+
+Odgovori:
+
+A) Izključimo računalnik.
+B) Kliknemo ikono sponke in izberemo datoteko. ✅
+C) Pritisnemo tipko Delete.
+
+Razlaga:
+Ikona sponke je skoraj v vseh programih za e-pošto.
+
+9.
+
+Vprašanje: Kaj pomeni odgovoriti na sporočilo (Reply)?
+
+Odgovori:
+
+A) Izbrisati sporočilo.
+B) Poslati odgovor pošiljatelju. ✅
+C) Napisati novo geslo.
+
+Razlaga:
+Pri odgovoru ostane povezava z izvirnim sporočilom.
+
+10.
+
+Vprašanje: Kaj pomeni »Odgovori vsem« (Reply All)?
+
+Odgovori:
+
+A) Odgovor prejme samo pošiljatelj.
+B) Odgovor prejmejo vsi prejemniki prvotnega sporočila. ✅
+C) Sporočilo se izbriše.
+
+Razlaga:
+To možnost uporabljamo previdno, saj odgovor prejmejo vsi vključeni.
+
+11.
+
+Vprašanje: Kaj pomeni posredovati sporočilo (Forward)?
+
+Odgovori:
+
+A) Premakniti sporočilo v Koš.
+B) Poslati prejeto sporočilo drugi osebi. ✅
+C) Shraniti sporočilo.
+
+Razlaga:
+Posredovanje je uporabno, kadar želimo informacije deliti z drugo osebo.
+
+12.
+
+Vprašanje: Kam običajno prispe novo e-poštno sporočilo?
+
+Odgovori:
+
+A) V Koš.
+B) V mapo Prejeto (Inbox). ✅
+C) V Dokumente.
+
+Razlaga:
+Mapa Prejeto vsebuje novo in neprebrano pošto.
+
+Kviz 23: Elektronska pošta (13–25)
+13.
+
+Vprašanje: Kaj pomeni mapa »Poslano« (Sent)?
+
+Odgovori:
+
+A) Vse izbrisane datoteke.
+B) Seznam sporočil, ki smo jih poslali. ✅
+C) Fotografije.
+
+Razlaga:
+Tukaj lahko preverimo, ali je bilo sporočilo poslano.
+
+14.
+
+Vprašanje: Kaj je mapa »Osnutki« (Drafts)?
+
+Odgovori:
+
+A) Mapa za fotografije.
+B) Mesto, kjer se shranijo nedokončana sporočila. ✅
+C) Mapa za viruse.
+
+Razlaga:
+Če sporočila ne pošljemo takoj, ga lahko pozneje dokončamo.
+
+15.
+
+Vprašanje: Kaj je neželena pošta (Spam)?
+
+Odgovori:
+
+A) Pomembna službena pošta.
+B) Neželena ali sumljiva sporočila, pogosto reklamna ali prevarantska. ✅
+C) Fotografije.
+
+Razlaga:
+Takih sporočil praviloma ne odpiramo in ne klikamo njihovih povezav.
+
+16.
+
+Vprašanje: Kaj storimo, če prejmemo sumljivo e-pošto?
+
+Odgovori:
+
+A) Takoj kliknemo povezavo.
+B) Sporočilo izbrišemo ali označimo kot neželeno pošto. ✅
+C) Pošljemo svoje geslo.
+
+Razlaga:
+Prevaranti pogosto pošiljajo lažna sporočila v imenu bank ali podjetij.
+
+17.
+
+Vprašanje: Ali je varno odpreti vsako priponko?
+
+Odgovori:
+
+A) Da, vedno.
+B) Ne, priponke odpiramo le od zaupanja vrednih pošiljateljev. ✅
+C) Samo ob nedeljah.
+
+Razlaga:
+Priponke lahko vsebujejo škodljivo programsko opremo.
+
+18.
+
+Vprašanje: Kaj storimo, če pomotoma pošljemo napačno priponko?
+
+Odgovori:
+
+A) Nič.
+B) Pošljemo novo sporočilo s pravilno priponko in kratkim pojasnilom. ✅
+C) Izbrišemo e-poštni račun.
+
+Razlaga:
+Napake se zgodijo – pomembno je, da jih hitro popravimo.
+
+19.
+
+Vprašanje: Zakaj je dobro redno brisati nepotrebna sporočila?
+
+Odgovori:
+
+A) Da bo tipkovnica čistejša.
+B) Da bo poštni predal bolj pregleden in bo ostalo več prostora. ✅
+C) Da bo internet hitrejši.
+
+Razlaga:
+Pregleden poštni predal olajša iskanje pomembnih sporočil.
+
+20.
+
+Vprašanje: Kako najhitreje najdemo starejše sporočilo?
+
+Odgovori:
+
+A) Pregledamo vsako sporočilo posebej.
+B) Uporabimo iskalno polje v programu za e-pošto. ✅
+C) Izklopimo računalnik.
+
+Razlaga:
+Iščemo lahko po pošiljatelju, zadevi ali ključnih besedah.
+
+21.
+
+Vprašanje: Kaj pomeni odjava (Sign out) iz e-poštnega računa?
+
+Odgovori:
+
+A) Izbris računa.
+B) Varna prekinitev dostopa do računa. ✅
+C) Menjava gesla.
+
+Razlaga:
+Na javnih ali skupnih računalnikih se vedno odjavimo.
+
+22.
+
+Vprašanje: Zakaj je pomembno uporabljati močno geslo za e-pošto?
+
+Odgovori:
+
+A) Zaradi lepšega videza pošte.
+B) Ker e-poštni račun pogosto omogoča dostop tudi do drugih storitev. ✅
+C) Ker bodo sporočila krajša.
+
+Razlaga:
+Če nekdo prevzame naš e-poštni račun, lahko zlorabi tudi druge račune.
+
+23.
+
+Vprašanje: Kaj storimo, če pozabimo geslo za e-pošto?
+
+Odgovori:
+
+A) Odpremo nov račun.
+B) Uporabimo možnost »Pozabljeno geslo« in sledimo navodilom. ✅
+C) Izključimo internet.
+
+Razlaga:
+Ponastavitev gesla je običajen in varen postopek.
+
+24.
+
+Vprašanje: Kaj je najbolj primerno napisati v zadevo sporočila?
+
+Odgovori:
+
+A) Samo »Pozdrav«.
+B) Kratek opis vsebine, na primer »Vprašanje glede računa« ali »Fotografije z izleta«. ✅
+C) Ničesar.
+
+Razlaga:
+Jasna zadeva pomaga prejemniku hitreje razumeti sporočilo.
+
+25.
+
+Vprašanje: Katera navada je najboljša pri uporabi elektronske pošte?
+
+Odgovori:
+
+A) Odpremo vsako priponko in kliknemo vsako povezavo.
+B) Preverimo pošiljatelja, pazimo na priponke, uporabljamo močno geslo in redno urejamo pošto. ✅
+C) Geslo napišemo na prvo stran zvezka.
+
+Razlaga:
+Elektronska pošta je zelo uporabna, vendar zahteva nekaj previdnosti. Z dobrimi navadami se izognemo večini prevar in težav.

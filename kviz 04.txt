@@ -1,0 +1,326 @@
+Kviz 4: Elektronska pošta (e-pošta)
+
+1.
+
+Vprašanje: Kaj je elektronska pošta (e-pošta)?
+
+Odgovori:
+
+A) Program za urejanje fotografij.
+B) Storitev za pošiljanje in prejemanje elektronskih sporočil. ✅
+C) Vrsta računalniškega virusa.
+
+Razlaga:
+Elektronska pošta omogoča hitro pošiljanje sporočil, dokumentov, fotografij in drugih datotek prek interneta.
+
+2.
+
+Vprašanje: Kaj potrebujemo za uporabo elektronske pošte?
+
+Odgovori:
+
+A) Samo tiskalnik.
+B) E-poštni račun in internetno povezavo. ✅
+C) Poseben kabel za tipkovnico.
+
+Razlaga:
+Za uporabo e-pošte potrebujemo svoj elektronski naslov (račun) in dostop do interneta.
+
+3.
+
+Vprašanje: Kaj je elektronski naslov?
+
+Odgovori:
+
+A) Naslov domače hiše.
+B) Naslov, na katerega prejemamo in pošiljamo e-pošto. ✅
+C) Geslo za računalnik.
+
+Razlaga:
+Primer elektronskega naslova je sestavljen iz uporabniškega imena, znaka @ in ponudnika storitve.
+
+4.
+
+Vprašanje: Kaj pomeni znak @ v elektronskem naslovu?
+
+Odgovori:
+
+A) Oznaka za izbris.
+B) Ločuje uporabniško ime od imena ponudnika e-pošte. ✅
+C) Označuje nevarno sporočilo.
+
+Razlaga:
+Znak @ (afna) je obvezen del vsakega elektronskega naslova.
+
+5.
+
+Vprašanje: Kaj vpišemo v polje "Za" pri pisanju e-pošte?
+
+Odgovori:
+
+A) Svoje geslo.
+B) Elektronski naslov prejemnika. ✅
+C) Ime računalnika.
+
+Razlaga:
+V polje "Za" napišemo osebo ali osebe, katerim želimo poslati sporočilo.
+
+6.
+
+Vprašanje: Kaj napišemo v polje "Zadeva"?
+
+Odgovori:
+
+A) Svoje uporabniško ime.
+B) Kratek opis vsebine sporočila. ✅
+C) Telefonsko številko.
+
+Razlaga:
+Dobra zadeva pomaga prejemniku hitro razumeti, česa se sporočilo tiče.
+
+7.
+
+Vprašanje: Kaj pomeni gumb "Pošlji"?
+
+Odgovori:
+
+A) Izbriše sporočilo.
+B) Pošlje napisano sporočilo prejemniku. ✅
+C) Shrani geslo.
+
+Razlaga:
+Ko kliknemo Pošlji, se sporočilo prenese do prejemnikovega e-poštnega predala.
+
+8.
+
+Vprašanje: Kaj je priponka v e-pošti?
+
+Odgovori:
+
+A) Vrsta gesla.
+B) Datoteka, dodana k elektronskemu sporočilu. ✅
+C) Ime pošiljatelja.
+
+Razlaga:
+Kot priponko lahko pošljemo fotografije, dokumente, PDF datoteke in druge datoteke.
+
+9.
+
+Vprašanje: Kaj naredimo, če dobimo priponko od neznanega pošiljatelja?
+
+Odgovori:
+
+A) Takoj jo odpremo.
+B) Je ne odpremo in preverimo, kdo jo je poslal. ✅
+C) Jo pošljemo naprej prijateljem.
+
+Razlaga:
+Neznane priponke lahko vsebujejo viruse ali škodljive programe.
+
+10.
+
+Vprašanje: Kakšna je razlika med "Odgovori" in "Posreduj"?
+
+Odgovori:
+
+A) Ni nobene razlike.
+B) Odgovori pošlje sporočilo prvotnemu pošiljatelju, Posreduj ga pošlje naprej drugim. ✅
+C) Oboje izbriše sporočilo.
+
+Razlaga:
+Pri odgovoru komuniciramo s pošiljateljem, pri posredovanju pa vsebino pošljemo še komu drugemu.
+
+11.
+
+Vprašanje: Kaj je mapa "Prejeto" (Inbox)?
+
+Odgovori:
+
+A) Mapa za izbrisane datoteke.
+B) Mapa, kjer so prejeta sporočila. ✅
+C) Mapa za programe.
+
+Razlaga:
+V mapi Prejeto najdemo sporočila, ki smo jih prejeli od drugih uporabnikov.
+
+12.
+
+Vprašanje: Kaj je neželena pošta (Spam)?
+
+Odgovori:
+
+A) Pomembna službena pošta.
+B) Neželena ali sumljiva sporočila, pogosto oglaševalska. ✅
+C) Pošta, ki jo sami napišemo.
+
+Razlaga:
+Filtri neželene pošte poskušajo samodejno ločiti nezaželena sporočila od pomembnih.
+
+13.
+
+Vprašanje: Kaj se zgodi, če kliknemo gumb "Izbriši" pri e-poštnem sporočilu?
+
+Odgovori:
+
+A) Računalnik se izklopi.
+B) Sporočilo se običajno premakne v mapo Koš ali Izbrisano. ✅
+C) Sporočilo se samodejno pošlje naprej.
+
+Razlaga:
+Izbrisana sporočila pogosto niso takoj trajno odstranjena. Nekaj časa jih lahko še obnovimo iz mape Izbrisano.
+
+14.
+
+Vprašanje: Zakaj je koristno uporabljati iskanje v e-pošti?
+
+Odgovori:
+
+A) Da povečamo velikost zaslona.
+B) Da hitro najdemo staro sporočilo ali priponko. ✅
+C) Da izbrišemo vse sporočila.
+
+Razlaga:
+Če imamo veliko sporočil, lahko z iskalnikom poiščemo pošiljatelja, besedo ali naslov sporočila.
+
+15.
+
+Vprašanje: Kaj pomeni odgovor "Odgovori vsem" (Reply all)?
+
+Odgovori:
+
+A) Izbriše vse prejete maile.
+B) Odgovor pošlje vsem prejemnikom prvotnega sporočila. ✅
+C) Sporočilo shrani v Koš.
+
+Razlaga:
+To možnost uporabimo samo takrat, kadar želimo, da odgovor prejmejo vsi navedeni prejemniki.
+
+16.
+
+Vprašanje: Kaj pomeni polje CC pri e-pošti?
+
+Odgovori:
+
+A) Skrito geslo.
+B) Kopija sporočila, ki jo prejmejo dodatni prejemniki. ✅
+C) Izbris sporočila.
+
+Razlaga:
+Prejemniki v polju CC vidijo, komu vse je bilo sporočilo poslano.
+
+17.
+
+Vprašanje: Kaj pomeni polje BCC pri e-pošti?
+
+Odgovori:
+
+A) Večja priponka.
+B) Skrita kopija sporočila, kjer prejemniki ne vidijo drugih naslovov. ✅
+C) Samodejno brisanje pošte.
+
+Razlaga:
+BCC je uporabno pri pošiljanju sporočil več ljudem, kadar želimo zaščititi njihove elektronske naslove.
+
+18.
+
+Vprašanje: Kaj naredimo, če želimo shraniti priponko iz e-pošte?
+
+Odgovori:
+
+A) Izklopimo internet.
+B) Kliknemo na priponko in izberemo možnost Shrani ali Prenesi. ✅
+C) Izbrišemo celotno sporočilo.
+
+Razlaga:
+Priponko lahko shranimo v mapo Dokumenti, Slike ali drugo izbrano mapo.
+
+19.
+
+Vprašanje: Zakaj ni dobro uporabljati istega gesla za vse e-poštne račune?
+
+Odgovori:
+
+A) Ker računalnik postane počasnejši.
+B) Ker lahko ob razkritju enega gesla ogrozimo več računov. ✅
+C) Ker e-pošta ne bo delovala.
+
+Razlaga:
+Za pomembne račune je priporočljivo uporabljati različna in dovolj močna gesla.
+
+20.
+
+Vprašanje: Kaj je preverjanje v dveh korakih (2FA)?
+
+Odgovori:
+
+A) Dvakrat vpišemo isto geslo.
+B) Poleg gesla uporabimo še dodatno potrditev identitete. ✅
+C) Dvakrat odpremo program.
+
+Razlaga:
+Po vnosu gesla lahko na primer dobimo potrditveno kodo na telefon.
+
+21.
+
+Vprašanje: Kako prepoznamo sumljivo e-pošto?
+
+Odgovori:
+
+A) Vedno vsebuje fotografije.
+B) Zahteva nujno ukrepanje, geslo ali osebne podatke. ✅
+C) Vedno prihaja zjutraj.
+
+Razlaga:
+Goljufi pogosto ustvarjajo občutek nujnosti, na primer: "Takoj potrdite račun, sicer bo zaprt."
+
+22.
+
+Vprašanje: Ali banka običajno zahteva, da po e-pošti pošljemo svoje geslo?
+
+Odgovori:
+
+A) Da, vedno.
+B) Ne, banke ne zahtevajo pošiljanja gesel po e-pošti. ✅
+C) Samo ob nedeljah.
+
+Razlaga:
+Gesla, PIN kode in druge občutljive podatke vedno varujemo in jih ne pošiljamo po elektronski pošti.
+
+23.
+
+Vprašanje: Kaj storimo, če dobimo sumljivo sporočilo, ki naj bi bilo od banke?
+
+Odgovori:
+
+A) Kliknemo povezavo in vpišemo podatke.
+B) Ne klikamo povezav in preverimo pri banki po uradni poti. ✅
+C) Sporočilo pošljemo vsem prijateljem.
+
+Razlaga:
+Lažna sporočila pogosto posnemajo banke, dostavne službe ali državne ustanove.
+
+24.
+
+Vprašanje: Zakaj je dobro imeti urejen e-poštni predal?
+
+Odgovori:
+
+A) Ker internet deluje hitreje.
+B) Ker pomembna sporočila in dokumente lažje najdemo. ✅
+C) Ker računalnik porabi manj elektrike.
+
+Razlaga:
+Mape, oznake in brisanje nepotrebne pošte pomagajo ohraniti preglednost.
+
+25.
+
+Vprašanje: Kaj je dobra navada pri uporabi elektronske pošte?
+
+Odgovori:
+
+A) Odpremo vsako priponko.
+B) Previdno preverimo pošiljatelja in vsebino sporočila. ✅
+C) Svoje geslo zaupamo drugim.
+
+Razlaga:
+Previdnost pri e-pošti je ena najpomembnejših zaščit pred spletnimi prevarami.

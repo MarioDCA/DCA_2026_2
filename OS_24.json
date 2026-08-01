@@ -1,0 +1,256 @@
+{
+  "id": 24,
+  "title": "Spletno bančništvo in spletni nakupi",
+  "questions": [
+    {
+      "question": "Kaj je spletna banka?",
+      "options": [
+        "A) Poslovalnica banke.",
+        "B) Storitev, ki omogoča upravljanje bančnega računa prek interneta.",
+        "C) Trgovina z računalniki."
+      ],
+      "correct": 1,
+      "explanation": "S spletno banko lahko preverimo stanje na računu, plačujemo račune in opravljamo nakazila."
+    },
+    {
+      "question": "Kaj potrebujemo za uporabo spletne banke?",
+      "options": [
+        "A) Samo tiskalnik.",
+        "B) Bančni račun, dostop do interneta in način za prijavo.",
+        "C) Fotoaparat."
+      ],
+      "correct": 1,
+      "explanation": "Za prijavo banka običajno zahteva uporabniško ime, geslo ter dodatno potrditev identitete."
+    },
+    {
+      "question": "Zakaj banke uporabljajo dodatno potrditev prijave (SMS, aplikacija ali potrditvena koda)?",
+      "options": [
+        "A) Da prijava traja dlje.",
+        "B) Da zaščitijo račun pred zlorabo.",
+        "C) Zaradi lepšega videza."
+      ],
+      "correct": 1,
+      "explanation": "Tudi če nekdo pozna geslo, brez dodatne potrditve praviloma ne more dostopati do računa."
+    },
+    {
+      "question": "Ali banka po telefonu ali e-pošti od nas zahteva geslo za spletno banko?",
+      "options": [
+        "A) Vedno.",
+        "B) Ne, tega nikoli ne bi smela zahtevati.",
+        "C) Samo ob praznikih."
+      ],
+      "correct": 1,
+      "explanation": "Če kdo zahteva vaše geslo ali PIN, gre skoraj zagotovo za poskus prevare."
+    },
+    {
+      "question": "Kaj je PIN bančne kartice?",
+      "options": [
+        "A) Telefonska številka banke.",
+        "B) Osebna številka za uporabo kartice.",
+        "C) Številka računa."
+      ],
+      "correct": 1,
+      "explanation": "PIN hranimo zase in ga nikoli ne zapisujemo na kartico."
+    },
+    {
+      "question": "Kaj storimo, če izgubimo bančno kartico?",
+      "options": [
+        "A) Počakamo nekaj dni.",
+        "B) Takoj obvestimo banko in kartico blokiramo.",
+        "C) Kupimo novo denarnico."
+      ],
+      "correct": 1,
+      "explanation": "Hitro ukrepanje lahko prepreči zlorabo kartice."
+    },
+    {
+      "question": "Kaj pomeni nakazilo denarja?",
+      "options": [
+        "A) Izbris računa.",
+        "B) Prenos denarja z enega računa na drugega.",
+        "C) Menjava banke."
+      ],
+      "correct": 1,
+      "explanation": "Nakazila izvajamo prek spletne ali mobilne banke oziroma v poslovalnici."
+    },
+    {
+      "question": "Kaj moramo preveriti pred potrditvijo nakazila?",
+      "options": [
+        "A) Barvo zaslona.",
+        "B) Prejemnika, znesek in številko računa.",
+        "C) Ozadje računalnika."
+      ],
+      "correct": 1,
+      "explanation": "Po potrditvi nakazila ga pogosto ni mogoče preprosto preklicati."
+    },
+    {
+      "question": "Kaj je spletna trgovina?",
+      "options": [
+        "A) Trgovina brez prodajalcev.",
+        "B) Spletna stran, kjer lahko naročamo izdelke ali storitve.",
+        "C) Program za pisanje."
+      ],
+      "correct": 1,
+      "explanation": "Nakup opravimo prek interneta, izdelke pa prejmemo po pošti ali dostavni službi."
+    },
+    {
+      "question": "Kako prepoznamo zaupanja vredno spletno trgovino?",
+      "options": [
+        "A) Po najnižji ceni.",
+        "B) Po jasnih podatkih o podjetju, kontaktih, pogojih poslovanja in varni povezavi.",
+        "C) Po številu reklam."
+      ],
+      "correct": 1,
+      "explanation": "Pred nakupom je dobro preveriti tudi mnenja drugih kupcev."
+    },
+    {
+      "question": "Kaj pomeni oznaka 'https://' na začetku spletnega naslova?",
+      "options": [
+        "A) Da je internet brezplačen.",
+        "B) Da je povezava med brskalnikom in spletno stranjo šifrirana.",
+        "C) Da stran pripada banki."
+      ],
+      "correct": 1,
+      "explanation": "HTTPS poveča varnost, vendar sam po sebi še ne pomeni, da je stran poštena."
+    },
+    {
+      "question": "Zakaj ni pametno nakupovati prek javnega Wi-Fi omrežja?",
+      "options": [
+        "A) Ker so izdelki dražji.",
+        "B) Ker je povezava lahko manj varna za prenos občutljivih podatkov.",
+        "C) Ker baterija hitreje porablja energijo."
+      ],
+      "correct": 1,
+      "explanation": "Za spletno banko in plačila je bolje uporabljati domače ali drugo zaupanja vredno omrežje."
+    },
+    {
+      "question": "Kaj potrebujemo za plačilo s plačilno kartico v spletni trgovini?",
+      "options": [
+        "A) Samo ime trgovine.",
+        "B) Podatke s kartice (številko kartice, datum veljavnosti in varnostno kodo), po potrebi pa še dodatno potrditev banke.",
+        "C) EMŠO."
+      ],
+      "correct": 1,
+      "explanation": "Pri številnih spletnih nakupih banka zahteva tudi dodatno potrditev plačila, na primer prek mobilne aplikacije ali z enkratno kodo."
+    },
+    {
+      "question": "Kaj pomeni varnostna koda (CVV ali CVC) na plačilni kartici?",
+      "options": [
+        "A) Številka bančnega računa.",
+        "B) Trimestna številka na zadnji strani kartice, ki se uporablja za potrjevanje spletnih plačil.",
+        "C) Telefonska številka banke."
+      ],
+      "correct": 1,
+      "explanation": "Te kode ne delimo z drugimi in je ne pošiljamo po elektronski pošti ali sporočilih."
+    },
+    {
+      "question": "Kaj storimo, če spletna trgovina zahteva plačilo samo z bančnim nakazilom na zasebni račun?",
+      "options": [
+        "A) Takoj nakažemo denar.",
+        "B) Bodimo zelo previdni in preverimo, ali je trgovina zaupanja vredna.",
+        "C) Izklopimo računalnik."
+      ],
+      "correct": 1,
+      "explanation": "Po nakazilu denarja je vračilo pogosto zelo težavno, če gre za prevaro."
+    },
+    {
+      "question": "Kaj pomeni, da je izdelek 'na zalogi'?",
+      "options": [
+        "A) Da izdelka ni več.",
+        "B) Da ga ima trgovina na voljo za nakup in odpremo.",
+        "C) Da je že prodan."
+      ],
+      "correct": 1,
+      "explanation": "Če izdelka ni na zalogi, je dobavni rok običajno daljši."
+    },
+    {
+      "question": "Kaj je dostavna služba?",
+      "options": [
+        "A) Banka.",
+        "B) Podjetje, ki dostavi naročeni paket do kupca.",
+        "C) Servis računalnikov."
+      ],
+      "correct": 1,
+      "explanation": "Dostavne službe kupca običajno obvestijo o predvidenem času dostave."
+    },
+    {
+      "question": "Kaj storimo, če prejmemo SMS z obvestilom o paketu, čeprav nismo ničesar naročili?",
+      "options": [
+        "A) Takoj kliknemo povezavo.",
+        "B) Sporočilo obravnavamo kot sumljivo in ne klikamo povezav.",
+        "C) Vnesemo podatke o kartici."
+      ],
+      "correct": 1,
+      "explanation": "To je ena najpogostejših spletnih prevar. Napadalci se pogosto izdajajo za dostavne službe."
+    },
+    {
+      "question": "Kaj naredimo, če je cena izdelka neverjetno nizka?",
+      "options": [
+        "A) Takoj kupimo.",
+        "B) Preverimo trgovino in se vprašamo, ali je ponudba verodostojna.",
+        "C) Kupimo več kosov."
+      ],
+      "correct": 1,
+      "explanation": "Izjemno nizke cene so pogosto znak prevare."
+    },
+    {
+      "question": "Zakaj je koristno prebrati mnenja drugih kupcev?",
+      "options": [
+        "A) Zaradi lepših fotografij.",
+        "B) Ker lahko izvemo, ali je trgovina zanesljiva in ali izdelek ustreza opisu.",
+        "C) Da hitreje deluje internet."
+      ],
+      "correct": 1,
+      "explanation": "Pri tem upoštevamo, da so lahko nekatera mnenja tudi lažna, zato je dobro pogledati več virov."
+    },
+    {
+      "question": "Kaj pomeni pravica do vračila izdelka pri spletnem nakupu?",
+      "options": [
+        "A) Da izdelka nikoli ne moremo vrniti.",
+        "B) Da lahko pri številnih spletnih nakupih izdelek v zakonsko določenem roku vrnemo, če izpolnjuje pogoje za vračilo.",
+        "C) Da trgovina vedno vrne dvojni znesek."
+      ],
+      "correct": 1,
+      "explanation": "Pred nakupom vedno preberemo pogoje vračila, saj lahko obstajajo izjeme."
+    },
+    {
+      "question": "Kaj storimo, če ob dostavi opazimo, da je paket močno poškodovan?",
+      "options": [
+        "A) Poškodbo prezremo.",
+        "B) Poškodbo fotografiramo in jo čim prej sporočimo dostavni službi ali prodajalcu.",
+        "C) Paket takoj zavržemo."
+      ],
+      "correct": 1,
+      "explanation": "Fotografije poškodbe so lahko pomemben dokaz pri uveljavljanju reklamacije."
+    },
+    {
+      "question": "Kaj pomeni reklamacija izdelka?",
+      "options": [
+        "A) Nova reklama na televiziji.",
+        "B) Zahteva kupca za odpravo napake ali drugo rešitev, kadar izdelek ni ustrezen.",
+        "C) Menjava gesla."
+      ],
+      "correct": 1,
+      "explanation": "Če izdelek ni brezhiben ali ne deluje pravilno, se obrnemo na prodajalca in sledimo njegovemu postopku za reklamacijo."
+    },
+    {
+      "question": "Kaj je najbolj varno storiti, če dvomimo o spletni trgovini?",
+      "options": [
+        "A) Vseeno opravimo nakup.",
+        "B) Nakupa ne opravimo, dokler ne preverimo trgovine ali izberemo drugega prodajalca.",
+        "C) Pošljemo fotografijo bančne kartice."
+      ],
+      "correct": 1,
+      "explanation": "Pri spletnem nakupovanju velja pravilo: če nismo prepričani, raje ne kupimo."
+    },
+    {
+      "question": "Katero pravilo najbolj prispeva k varnemu spletnemu bančništvu in nakupovanju?",
+      "options": [
+        "A) Gesla in PIN delimo z družino in prijatelji.",
+        "B) Uporabljamo močna gesla, preverjamo spletne strani, varujemo podatke o kartici in nikoli ne hitimo pri potrjevanju plačil.",
+        "C) Kliknemo vsako povezavo, ki jo prejmemo v SMS-u ali e-pošti."
+      ],
+      "correct": 1,
+      "explanation": "Večino spletnih prevar lahko preprečimo z nekaj preprostimi navadami: preverimo naslov spletne strani, ne razkrivamo gesel in podatkov kartice ter pred potrditvijo vedno preverimo znesek in prejemnika."
+    }
+  ]
+}

@@ -1,0 +1,256 @@
+{
+  "id": 6,
+  "title": "Pametni telefon Android",
+  "questions": [
+    {
+      "question": "Kaj je operacijski sistem Android?",
+      "options": [
+        "A) Program za pošiljanje elektronske pošte.",
+        "B) Operacijski sistem, ki omogoča delovanje pametnega telefona.",
+        "C) Protivirusni program."
+      ],
+      "correct": 1,
+      "explanation": "Android je osnovna programska oprema telefona. Omogoča delovanje aplikacij, klicev, sporočil in drugih funkcij."
+    },
+    {
+      "question": "Kaj je aplikacija?",
+      "options": [
+        "A) Fotografija.",
+        "B) Program, ki ga uporabljamo na telefonu.",
+        "C) Vrsta polnilnika."
+      ],
+      "correct": 1,
+      "explanation": "Primeri aplikacij so Kamera, Telefon, Vreme, WhatsApp in YouTube."
+    },
+    {
+      "question": "Kako običajno odpremo aplikacijo?",
+      "options": [
+        "A) Telefon ugasnemo in ponovno prižgemo.",
+        "B) Dotaknemo se njene ikone na zaslonu.",
+        "C) Dvakrat pritisnemo gumb za glasnost."
+      ],
+      "correct": 1,
+      "explanation": "Za odpiranje aplikacije zadostuje en dotik njene ikone."
+    },
+    {
+      "question": "Kaj pomeni podrsati s prstom po zaslonu?",
+      "options": [
+        "A) Izbrisati vse fotografije.",
+        "B) Premakniti prikaz ali prelistati vsebino.",
+        "C) Izklopiti telefon."
+      ],
+      "correct": 1,
+      "explanation": "S podrsavanjem se pomikamo po seznamih, spletnih straneh ali fotografijah."
+    },
+    {
+      "question": "Kaj naredi gumb Domov (Home), če ga telefon ima?",
+      "options": [
+        "A) Izklopi telefon.",
+        "B) Vrne nas na začetni zaslon.",
+        "C) Izbriše odprto aplikacijo."
+      ],
+      "correct": 1,
+      "explanation": "Na novejših telefonih gumb Domov pogosto nadomeščajo kretnje po zaslonu."
+    },
+    {
+      "question": "Kaj pomeni zaklenjen zaslon telefona?",
+      "options": [
+        "A) Telefon je pokvarjen.",
+        "B) Za uporabo je treba telefon odkleniti s PIN-om, vzorcem ali prstnim odtisom.",
+        "C) Telefon nima signala."
+      ],
+      "correct": 1,
+      "explanation": "Zaklenjen zaslon preprečuje nepooblaščen dostop do vaših podatkov."
+    },
+    {
+      "question": "Kaj je PIN za telefon?",
+      "options": [
+        "A) Ime telefona.",
+        "B) Številčna koda za odklepanje telefona ali kartice SIM.",
+        "C) Telefonska številka."
+      ],
+      "correct": 1,
+      "explanation": "PIN naj bo takšen, da ga drugi težko uganejo."
+    },
+    {
+      "question": "Kaj storimo, če želimo poklicati shranjen stik?",
+      "options": [
+        "A) Odpremo Fotoaparat.",
+        "B) Odpremo aplikacijo Telefon ali Stiki in izberemo osebo.",
+        "C) Odpremo Kalkulator."
+      ],
+      "correct": 1,
+      "explanation": "Če je številka shranjena med stiki, je klic zelo preprost."
+    },
+    {
+      "question": "Kaj pomeni ikona baterije na vrhu zaslona?",
+      "options": [
+        "A) Jakost mobilnega signala.",
+        "B) Približno količino preostale energije v bateriji.",
+        "C) Glasnost zvonjenja."
+      ],
+      "correct": 1,
+      "explanation": "Ko je baterija skoraj prazna, jo je priporočljivo napolniti."
+    },
+    {
+      "question": "Kaj pomeni ikona Wi-Fi na vrhu zaslona?",
+      "options": [
+        "A) Telefon je izklopljen.",
+        "B) Telefon je povezan z brezžičnim omrežjem.",
+        "C) Kamera je vključena."
+      ],
+      "correct": 1,
+      "explanation": "Pri povezavi prek Wi-Fi običajno ne uporabljamo mobilnih podatkov."
+    },
+    {
+      "question": "Kaj pomeni letalski način?",
+      "options": [
+        "A) Telefon deluje hitreje.",
+        "B) Izklopijo se mobilne povezave, Wi-Fi in Bluetooth (če jih ponovno ne vključimo).",
+        "C) Izbrišejo se vsi stiki."
+      ],
+      "correct": 1,
+      "explanation": "Letalski način se uporablja med letom ali kadar želimo začasno prekiniti brezžične povezave."
+    },
+    {
+      "question": "Kaj naredimo, če se telefon ne odziva?",
+      "options": [
+        "A) Vržemo ga proč.",
+        "B) Poskusimo ga ponovno zagnati.",
+        "C) Izbrišemo vse fotografije."
+      ],
+      "correct": 1,
+      "explanation": "Ponovni zagon odpravi veliko začasnih težav pri delovanju telefona."
+    },
+    {
+      "question": "Iz katere trgovine običajno nameščamo aplikacije na telefon Android?",
+      "options": [
+        "A) Microsoft Store.",
+        "B) Google Play.",
+        "C) Raziskovalec datotek."
+      ],
+      "correct": 1,
+      "explanation": "Google Play je uradna trgovina za telefone Android. Nameščanje aplikacij od drugod je lahko manj varno."
+    },
+    {
+      "question": "Zakaj je priporočljivo nameščati aplikacije iz uradne trgovine Google Play?",
+      "options": [
+        "A) Ker so vedno brezplačne.",
+        "B) Ker Google preverja aplikacije in s tem zmanjša tveganje za škodljivo programsko opremo.",
+        "C) Ker porabijo manj baterije."
+      ],
+      "correct": 1,
+      "explanation": "Čeprav noben sistem ni popolnoma varen, je uradna trgovina bistveno varnejša od neznanih spletnih strani."
+    },
+    {
+      "question": "Kaj pomeni posodobitev aplikacije?",
+      "options": [
+        "A) Izbris aplikacije.",
+        "B) Namestitev novejše različice z izboljšavami in popravki.",
+        "C) Menjava telefonske številke."
+      ],
+      "correct": 1,
+      "explanation": "Posodobitve pogosto odpravijo napake, izboljšajo delovanje in povečajo varnost."
+    },
+    {
+      "question": "Kaj se zgodi, če izbrišemo aplikacijo?",
+      "options": [
+        "A) Telefon se pokvari.",
+        "B) Aplikacija se odstrani iz telefona, njeni podatki pa se lahko izbrišejo.",
+        "C) Izbrišejo se vse fotografije."
+      ],
+      "correct": 1,
+      "explanation": "Pred odstranitvijo aplikacije preverimo, ali v njej nimamo pomembnih podatkov."
+    },
+    {
+      "question": "Kam se običajno shranijo fotografije, ki jih posnamemo s telefonom?",
+      "options": [
+        "A) V imenik Stiki.",
+        "B) V aplikacijo Fotografije ali Galerija.",
+        "C) V Kalkulator."
+      ],
+      "correct": 1,
+      "explanation": "Večina telefonov fotografije samodejno shrani v Galerijo ali Google Fotografije."
+    },
+    {
+      "question": "Kako lahko pošljemo fotografijo prijatelju?",
+      "options": [
+        "A) Samo s tiskanjem.",
+        "B) Po elektronski pošti ali prek aplikacij, kot sta WhatsApp ali Viber.",
+        "C) Fotografije ni mogoče poslati."
+      ],
+      "correct": 1,
+      "explanation": "Fotografijo lahko delimo na več načinov, ne da bi jo morali najprej prenesti na računalnik."
+    },
+    {
+      "question": "Kaj je Bluetooth?",
+      "options": [
+        "A) Program za internet.",
+        "B) Brezžična povezava za povezovanje naprav na kratkih razdaljah.",
+        "C) Vrsta polnilnika."
+      ],
+      "correct": 1,
+      "explanation": "Bluetooth uporabljamo za povezavo s slušalkami, zvočniki, avtomobilom ali za prenos datotek."
+    },
+    {
+      "question": "Kaj je QR koda?",
+      "options": [
+        "A) Vrsta gesla.",
+        "B) Posebna koda, ki jo telefon prebere s kamero in odpre povezavo ali druge podatke.",
+        "C) Ikona baterije."
+      ],
+      "correct": 1,
+      "explanation": "QR kode pogosto najdemo na plakatih, računih, parkirnih avtomatih in v restavracijah."
+    },
+    {
+      "question": "Kaj pomeni, ko aplikacija zahteva dovoljenje za uporabo kamere ali lokacije?",
+      "options": [
+        "A) Telefon se bo izklopil.",
+        "B) Aplikacija želi dostop do določenih funkcij telefona.",
+        "C) Telefon bo postal hitrejši."
+      ],
+      "correct": 1,
+      "explanation": "Preden dovoljenje potrdimo, razmislimo, ali ga aplikacija res potrebuje za svoje delovanje."
+    },
+    {
+      "question": "Kaj storimo, če telefon opozori, da je pomnilnik skoraj poln?",
+      "options": [
+        "A) Ignoriramo opozorilo.",
+        "B) Izbrišemo nepotrebne fotografije, videoposnetke ali aplikacije.",
+        "C) Izključimo Wi-Fi."
+      ],
+      "correct": 1,
+      "explanation": "Poln pomnilnik lahko upočasni telefon in prepreči nameščanje posodobitev."
+    },
+    {
+      "question": "Kaj omogoča varnostna kopija telefona?",
+      "options": [
+        "A) Hitrejše polnjenje baterije.",
+        "B) Obnovitev pomembnih podatkov ob izgubi ali okvari telefona.",
+        "C) Boljši signal mobilnega omrežja."
+      ],
+      "correct": 1,
+      "explanation": "Varnostna kopija lahko shrani stike, fotografije, sporočila in nekatere nastavitve."
+    },
+    {
+      "question": "Kaj lahko storimo, če izgubimo telefon?",
+      "options": [
+        "A) Ničesar.",
+        "B) Poskusimo ga poiskati s storitvijo za iskanje naprave ali ga na daljavo zaklenemo.",
+        "C) Takoj kupimo nov telefon."
+      ],
+      "correct": 1,
+      "explanation": "Če je ta možnost vklopljena, lahko telefon poiščemo, zaklenemo ali izbrišemo njegove podatke na daljavo."
+    },
+    {
+      "question": "Katera navada najbolj prispeva k varni uporabi pametnega telefona?",
+      "options": [
+        "A) Nameščamo vse aplikacije, ki jih najdemo na internetu.",
+        "B) Telefon redno posodabljamo, uporabljamo zaklep zaslona in nameščamo aplikacije le iz zaupanja vrednih virov.",
+        "C) Izklopimo vse varnostne funkcije."
+      ],
+      "correct": 1,
+      "explanation": "Večina težav s telefonom ni posledica okvare, ampak nepremišljene uporabe. Redne posodobitve, zaklep zaslona in previdnost pri nameščanju aplikacij močno povečajo varnost."
+    }
+  ]
+}

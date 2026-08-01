@@ -1,0 +1,327 @@
+Kviz 16: Fotografije na računalniku in telefonu – urejanje, shranjevanje in deljenje
+
+1.
+
+Vprašanje: Kam se običajno shranijo fotografije, posnete s telefonom Android?
+
+Odgovori:
+
+A) V aplikacijo Kalkulator.
+B) V aplikacijo Galerija ali Google Fotografije. ✅
+C) V telefonski imenik.
+
+Razlaga:
+Večina telefonov samodejno shrani posnete fotografije v mapo Fotografije ali Galerija.
+
+2.
+
+Vprašanje: Kaj je aplikacija Google Fotografije?
+
+Odgovori:
+
+A) Program za telefoniranje.
+B) Aplikacija za ogled, urejanje in shranjevanje fotografij. ✅
+C) Program za tiskanje.
+
+Razlaga:
+Google Fotografije omogočajo pregledovanje slik, ustvarjanje albumov in varnostno kopiranje.
+
+3.
+
+Vprašanje: Kaj pomeni varnostna kopija fotografij?
+
+Odgovori:
+
+A) Sprememba barve fotografije.
+B) Shranjevanje dodatne kopije fotografij, da jih ne izgubimo. ✅
+C) Izbris fotografij.
+
+Razlaga:
+Če izgubimo telefon ali se pokvari, lahko fotografije obnovimo iz varnostne kopije.
+
+4.
+
+Vprašanje: Zakaj je koristno shranjevati fotografije v oblak?
+
+Odgovori:
+
+A) Ker telefon postane težji.
+B) Ker lahko do fotografij dostopamo tudi iz druge naprave. ✅
+C) Ker fotografije postanejo papirnate.
+
+Razlaga:
+Fotografije v oblaku lahko pogledamo na telefonu, računalniku ali tablici.
+
+5.
+
+Vprašanje: Kako prenesemo fotografije iz telefona na računalnik?
+
+Odgovori:
+
+A) Z izklopom telefona.
+B) S kablom USB, prek oblaka ali brezžično. ✅
+C) S pritiskom tipke Delete.
+
+Razlaga:
+Najpogostejši način je povezava telefona z računalnikom s kablom USB.
+
+6.
+
+Vprašanje: Kaj se pogosto zgodi, če imamo na telefonu preveč fotografij?
+
+Odgovori:
+
+A) Telefon dobi več prostora.
+B) Pomnilnik se zapolni in telefon lahko deluje počasneje. ✅
+C) Internet postane hitrejši.
+
+Razlaga:
+Fotografije in videoposnetki lahko hitro zasedejo veliko prostora.
+
+7.
+
+Vprašanje: Kako sprostimo prostor, ki ga zasedajo fotografije?
+
+Odgovori:
+
+A) Izklopimo Wi-Fi.
+B) Izbrišemo nepotrebne fotografije ali jih shranimo drugam. ✅
+C) Zamenjamo ozadje telefona.
+
+Razlaga:
+Pred brisanjem pomembne fotografije vedno shranimo v varnostno kopijo.
+
+8.
+
+Vprašanje: Kaj je album fotografij?
+
+Odgovori:
+
+A) Program za zaščito telefona.
+B) Zbirka fotografij, urejenih po določeni temi. ✅
+C) Vrsta pomnilniške kartice.
+
+Razlaga:
+Albume lahko ustvarimo na primer za dopust, družino ali dogodke.
+
+9.
+
+Vprašanje: Zakaj je koristno poimenovati albume fotografij?
+
+Odgovori:
+
+A) Telefon dela hitreje.
+B) Ker lažje najdemo določene fotografije. ✅
+C) Ker fotografije postanejo večje.
+
+Razlaga:
+Dobro urejeni albumi omogočajo hitrejše iskanje spominov.
+
+10.
+
+Vprašanje: Kako lahko fotografijo pošljemo drugi osebi?
+
+Odgovori:
+
+A) Samo s tiskalnikom.
+B) Po e-pošti, sporočilu ali aplikacijah, kot sta WhatsApp ali Viber. ✅
+C) Fotografij ni mogoče poslati.
+
+Razlaga:
+Fotografije lahko delimo neposredno iz galerije telefona.
+
+11.
+
+Vprašanje: Kaj pomeni urejanje fotografije?
+
+Odgovori:
+
+A) Izbris fotografije.
+B) Spreminjanje videza fotografije, na primer obrezovanje ali prilagoditev svetlosti. ✅
+C) Premik fotografije v koš.
+
+Razlaga:
+Osnovno urejanje lahko izboljša fotografijo brez posebnega znanja.
+
+12.
+
+Vprašanje: Kaj pomeni obrezovanje fotografije?
+
+Odgovori:
+
+A) Povečanje glasnosti telefona.
+B) Odstranitev nepotrebnih delov slike. ✅
+C) Izbris vseh fotografij.
+
+Razlaga:
+Z obrezovanjem lahko poudarimo pomemben del fotografije.
+
+Kviz 16: Fotografije – nadaljevanje (13–25)
+13.
+
+Vprašanje: Zakaj je koristno fotografije razvrstiti po datumih ali dogodkih?
+
+Odgovori:
+
+A) Ker telefon porabi manj baterije.
+B) Ker jih lažje najdemo in pregledamo. ✅
+C) Ker internet deluje hitreje.
+
+Razlaga:
+Urejene fotografije omogočajo hitro iskanje določenega dogodka.
+
+14.
+
+Vprašanje: Kaj naredimo, če pomotoma izbrišemo fotografijo?
+
+Odgovori:
+
+A) Kupimo nov telefon.
+B) Preverimo mapo Koš ali Nedavno izbrisano. ✅
+C) Izklopimo internet.
+
+Razlaga:
+Večina telefonov nekaj časa hrani izbrisane fotografije.
+
+15.
+
+Vprašanje: Kaj je format fotografije JPG oziroma JPEG?
+
+Odgovori:
+
+A) Vrsta gesla.
+B) Ena najpogostejših oblik zapisa digitalnih fotografij. ✅
+C) Program za internet.
+
+Razlaga:
+Večina fotografij s telefonov je shranjena v formatu JPG.
+
+16.
+
+Vprašanje: Zakaj fotografije z visoko kakovostjo zasedejo več prostora?
+
+Odgovori:
+
+A) Ker imajo več barv na zaslonu.
+B) Ker vsebujejo več podatkov in podrobnosti. ✅
+C) Ker potrebujejo internet.
+
+Razlaga:
+Boljša kakovost pomeni večjo datoteko.
+
+17.
+
+Vprašanje: Kaj je posnetek zaslona (screenshot)?
+
+Odgovori:
+
+A) Fotografija s fotoaparatom.
+B) Slika tega, kar trenutno vidimo na zaslonu telefona ali računalnika. ✅
+C) Izbris zaslona.
+
+Razlaga:
+Posnetke zaslona pogosto uporabljamo za shranjevanje informacij ali pomoč pri težavah.
+
+18.
+
+Vprašanje: Kako naredimo posnetek zaslona na večini telefonov?
+
+Odgovori:
+
+A) S pritiskom tipke za glasbo.
+B) S kombinacijo tipk, običajno gumb za vklop + zmanjšanje glasnosti. ✅
+C) Z izklopom telefona.
+
+Razlaga:
+Postopek se lahko nekoliko razlikuje glede na model telefona.
+
+19.
+
+Vprašanje: Zakaj ni dobro objaviti vseh fotografij javno na internetu?
+
+Odgovori:
+
+A) Ker fotografije izgubijo barvo.
+B) Ker lahko razkrijejo zasebne podatke ali lokacijo. ✅
+C) Ker telefon ne deluje.
+
+Razlaga:
+Pri objavljanju fotografij pomislimo na zasebnost.
+
+20.
+
+Vprašanje: Kaj pomeni deliti album fotografij?
+
+Odgovori:
+
+A) Izbrisati album.
+B) Omogočiti drugim osebam ogled izbranih fotografij. ✅
+C) Premakniti album v Koš.
+
+Razlaga:
+Album lahko delimo z družino ali prijatelji, ne da bi pošiljali vsako fotografijo posebej.
+
+21.
+
+Vprašanje: Zakaj je pomembno imeti kopijo pomembnih fotografij?
+
+Odgovori:
+
+A) Zaradi lepšega telefona.
+B) Ker lahko izgubimo telefon ali se naprava pokvari. ✅
+C) Ker telefon potrebuje več aplikacij.
+
+Razlaga:
+Fotografije so pogosto neponovljivi spomini, zato jih zaščitimo.
+
+22.
+
+Vprašanje: Kaj je pomnilniška kartica SD?
+
+Odgovori:
+
+A) Program za fotografije.
+B) Dodatni prostor za shranjevanje podatkov v nekaterih napravah. ✅
+C) Vrsta interneta.
+
+Razlaga:
+Nekateri telefoni in fotoaparati omogočajo uporabo kartic SD za več prostora.
+
+23.
+
+Vprašanje: Kaj storimo pred brisanjem večjega števila fotografij?
+
+Odgovori:
+
+A) Izključimo telefon.
+B) Preverimo, ali imamo pomembne fotografije shranjene drugje. ✅
+C) Izbrišemo tudi aplikacije.
+
+Razlaga:
+Nepremišljeno brisanje lahko povzroči izgubo dragocenih spominov.
+
+24.
+
+Vprašanje: Zakaj je koristno poznati delo s fotografijami?
+
+Odgovori:
+
+A) Ker telefon postane hitrejši.
+B) Ker lahko samostojno urejamo, shranjujemo in delimo svoje slike. ✅
+C) Ker ne potrebujemo več računalnika.
+
+Razlaga:
+Fotografije so ena najpogosteje uporabljenih funkcij pametnega telefona.
+
+25.
+
+Vprašanje: Katera navada je najboljša pri fotografijah?
+
+Odgovori:
+
+A) Vse fotografije pustimo brez urejanja.
+B) Pomembne fotografije uredimo in varnostno kopiramo. ✅
+C) Vse fotografije takoj izbrišemo.
+
+Razlaga:
+Urejena in varno shranjena zbirka fotografij nam omogoča, da jih ohranimo za prihodnost.

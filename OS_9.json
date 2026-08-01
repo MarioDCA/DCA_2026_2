@@ -1,0 +1,256 @@
+{
+  "id": 9,
+  "title": "Fotografije s telefonom in Google Fotografije",
+  "questions": [
+    {
+      "question": "Katera aplikacija na telefonu običajno omogoča fotografiranje?",
+      "options": [
+        "A) Kalkulator.",
+        "B) Kamera oziroma Fotoaparat.",
+        "C) Nastavitve."
+      ],
+      "correct": 1,
+      "explanation": "Aplikacija Kamera uporablja vgrajeni fotoaparat telefona za fotografiranje in snemanje videoposnetkov."
+    },
+    {
+      "question": "Kje običajno najdemo fotografije, ki smo jih posneli s telefonom?",
+      "options": [
+        "A) V aplikaciji Telefon.",
+        "B) V Galeriji ali Google Fotografijah.",
+        "C) V imeniku Stiki."
+      ],
+      "correct": 1,
+      "explanation": "Telefon samodejno shrani fotografije v mapo za slike, ki jo lahko odpremo z aplikacijo Galerija ali Fotografije."
+    },
+    {
+      "question": "Kaj pomeni ikona fotoaparata na telefonu?",
+      "options": [
+        "A) Odpiranje interneta.",
+        "B) Zagon aplikacije za fotografiranje.",
+        "C) Izklop telefona."
+      ],
+      "correct": 1,
+      "explanation": "Z dotikom ikone Kamera odpremo fotoaparat telefona."
+    },
+    {
+      "question": "Kaj storimo, če želimo povečati predmet pri fotografiranju?",
+      "options": [
+        "A) Izklopimo telefon.",
+        "B) Uporabimo povečavo (zoom) s prsti ali gumboma na zaslonu.",
+        "C) Izbrišemo fotografijo."
+      ],
+      "correct": 1,
+      "explanation": "Povečava pomaga pri oddaljenih predmetih, vendar lahko prevelika povečava zmanjša kakovost slike."
+    },
+    {
+      "question": "Kaj pomeni simbol bliskavice pri fotoaparatu?",
+      "options": [
+        "A) Brisanje fotografije.",
+        "B) Dodatna svetloba pri fotografiranju v temi.",
+        "C) Povečanje pomnilnika."
+      ],
+      "correct": 1,
+      "explanation": "Bliskavica pomaga pri slabši svetlobi, vendar je pri dnevni svetlobi pogosto ne potrebujemo."
+    },
+    {
+      "question": "Kaj je videoposnetek?",
+      "options": [
+        "A) Zvočno sporočilo.",
+        "B) Posnetek gibljivih slik z zvokom ali brez njega.",
+        "C) Vrsta gesla."
+      ],
+      "correct": 1,
+      "explanation": "Telefon lahko poleg fotografij snema tudi videoposnetke."
+    },
+    {
+      "question": "Kako lahko fotografijo pošljemo drugi osebi?",
+      "options": [
+        "A) Samo s tiskalnikom.",
+        "B) Prek e-pošte, SMS-a ali aplikacij za sporočanje.",
+        "C) Fotografije ni mogoče poslati."
+      ],
+      "correct": 1,
+      "explanation": "Fotografije lahko delimo na različne načine, na primer prek WhatsAppa, Vibra ali elektronske pošte."
+    },
+    {
+      "question": "Kaj pomeni deljenje fotografije?",
+      "options": [
+        "A) Izbris fotografije.",
+        "B) Pošiljanje fotografije drugi osebi ali aplikaciji.",
+        "C) Sprememba baterije."
+      ],
+      "correct": 1,
+      "explanation": "Pri deljenju izberemo, komu ali kateri aplikaciji želimo poslati fotografijo."
+    },
+    {
+      "question": "Kaj je Google Fotografije?",
+      "options": [
+        "A) Program za klicanje.",
+        "B) Aplikacija za shranjevanje, urejanje in ogled fotografij.",
+        "C) Protivirusni program."
+      ],
+      "correct": 1,
+      "explanation": "Google Fotografije omogočajo pregledovanje slik in izdelavo varnostnih kopij."
+    },
+    {
+      "question": "Kaj pomeni varnostna kopija fotografij?",
+      "options": [
+        "A) Izbris slabih slik.",
+        "B) Shranjevanje dodatne kopije fotografij, na primer v oblak.",
+        "C) Spreminjanje velikosti zaslona."
+      ],
+      "correct": 1,
+      "explanation": "Če telefon izgubimo ali se pokvari, lahko fotografije obnovimo iz varnostne kopije."
+    },
+    {
+      "question": "Kaj pomeni, če je pomnilnik telefona skoraj poln zaradi fotografij?",
+      "options": [
+        "A) Telefon bo imel boljši signal.",
+        "B) Potrebno je sprostiti prostor z brisanjem ali prenosom fotografij.",
+        "C) Kamera bo delovala hitreje."
+      ],
+      "correct": 1,
+      "explanation": "Veliko fotografij in videoposnetkov lahko hitro zapolni prostor telefona."
+    },
+    {
+      "question": "Zakaj je koristno fotografije urediti v albume?",
+      "options": [
+        "A) Ker telefon porabi manj baterije.",
+        "B) Ker jih lažje najdemo in pregledamo.",
+        "C) Ker se izboljša kakovost slike."
+      ],
+      "correct": 1,
+      "explanation": "Albume lahko ustvarimo za dopust, družino, dogodke ali druge teme."
+    },
+    {
+      "question": "Kako lahko prenesemo fotografije iz telefona na računalnik?",
+      "options": [
+        "A) Telefon položimo poleg računalnika.",
+        "B) S kablom USB, prek oblaka ali brezžično.",
+        "C) Fotografij ni mogoče prenesti."
+      ],
+      "correct": 1,
+      "explanation": "Fotografije lahko prenesemo s podatkovnim kablom USB, prek Google Fotografij, OneDrive ali drugih storitev v oblaku."
+    },
+    {
+      "question": "Kaj se zgodi, če fotografijo izbrišemo na telefonu?",
+      "options": [
+        "A) Telefon se izklopi.",
+        "B) Fotografija se običajno premakne v Koš in jo lahko nekaj časa obnovimo.",
+        "C) Izbrišejo se vse fotografije."
+      ],
+      "correct": 1,
+      "explanation": "Večina telefonov ima mapo Koš, kjer izbrisane fotografije ostanejo določen čas, preden so trajno odstranjene."
+    },
+    {
+      "question": "Zakaj ni dobro hraniti vseh fotografij samo na telefonu?",
+      "options": [
+        "A) Ker telefon ne zna prikazati slik.",
+        "B) Ker lahko telefon izgubimo, poškodujemo ali se pokvari.",
+        "C) Ker fotografije porabijo internet."
+      ],
+      "correct": 1,
+      "explanation": "Pomembne fotografije je dobro imeti še na drugem mestu – na primer v oblaku ali na računalniku."
+    },
+    {
+      "question": "Kaj pomeni shranjevanje fotografij v oblaku?",
+      "options": [
+        "A) Shranjevanje slik v vremenu.",
+        "B) Shranjevanje podatkov na oddaljenih strežnikih prek interneta.",
+        "C) Shranjevanje slik samo na zaslonu."
+      ],
+      "correct": 1,
+      "explanation": "Oblak omogoča dostop do fotografij tudi, če zamenjamo telefon ali uporabljamo drug računalnik."
+    },
+    {
+      "question": "Kaj potrebujemo za dostop do fotografij v oblaku?",
+      "options": [
+        "A) Nov telefon vsak mesec.",
+        "B) Račun pri ponudniku storitve in internetno povezavo.",
+        "C) Poseben tiskalnik."
+      ],
+      "correct": 1,
+      "explanation": "Za Google Fotografije potrebujemo Google račun."
+    },
+    {
+      "question": "Kaj pomeni samodejna varnostna kopija fotografij?",
+      "options": [
+        "A) Telefon sam izbriše stare slike.",
+        "B) Telefon samodejno shrani kopije fotografij v izbrano storitev.",
+        "C) Fotografije se samodejno natisnejo."
+      ],
+      "correct": 1,
+      "explanation": "Ko je možnost vključena, se nove fotografije lahko samodejno shranjujejo v oblak."
+    },
+    {
+      "question": "Ali lahko fotografijo pred pošiljanjem uredimo?",
+      "options": [
+        "A) Ne, fotografij ni mogoče spreminjati.",
+        "B) Da, lahko jo obrežemo, zavrtimo ali izboljšamo.",
+        "C) Samo če kupimo nov telefon."
+      ],
+      "correct": 1,
+      "explanation": "Osnovna orodja za urejanje so običajno že v aplikaciji Galerija ali Google Fotografije."
+    },
+    {
+      "question": "Kaj pomeni obrezovanje fotografije?",
+      "options": [
+        "A) Izboljšanje zvoka.",
+        "B) Odstranitev nepotrebnih delov slike.",
+        "C) Izbris vseh fotografij."
+      ],
+      "correct": 1,
+      "explanation": "Z obrezovanjem lahko poudarimo pomemben del fotografije ali odstranimo moteče robove."
+    },
+    {
+      "question": "Zakaj moramo biti previdni pri deljenju fotografij na internetu?",
+      "options": [
+        "A) Ker fotografije upočasnijo računalnik.",
+        "B) Ker lahko fotografijo vidi več ljudi, kot smo želeli.",
+        "C) Ker se telefon lahko izklopi."
+      ],
+      "correct": 1,
+      "explanation": "Ko fotografijo objavimo na spletu, lahko izgubimo nadzor nad tem, kdo jo vidi ali shrani."
+    },
+    {
+      "question": "Kaj storimo, če želimo poslati veliko število fotografij?",
+      "options": [
+        "A) Pošljemo jih eno po eno več dni.",
+        "B) Uporabimo album v oblaku ali povezavo za skupno rabo.",
+        "C) Izbrišemo fotografije."
+      ],
+      "correct": 1,
+      "explanation": "Storitve, kot so Google Fotografije, omogočajo enostavno deljenje več slik hkrati."
+    },
+    {
+      "question": "Zakaj fotografije v telefonu zavzamejo veliko prostora?",
+      "options": [
+        "A) Ker vsebujejo viruse.",
+        "B) Ker so slike in predvsem videoposnetki velike datoteke.",
+        "C) Ker telefon shranjuje tudi baterijo."
+      ],
+      "correct": 1,
+      "explanation": "Videoposnetki lahko zavzamejo več sto megabajtov ali več gigabajtov prostora."
+    },
+    {
+      "question": "Kaj naredimo pred prodajo ali podaritvijo starega telefona?",
+      "options": [
+        "A) Pustimo vse fotografije in račune.",
+        "B) Naredimo varnostno kopijo in telefon ponastavimo na tovarniške nastavitve.",
+        "C) Samo odstranimo ovitek."
+      ],
+      "correct": 1,
+      "explanation": "Tako zaščitimo svoje osebne podatke, fotografije in račune."
+    },
+    {
+      "question": "Katera navada je najboljša za varno shranjevanje fotografij?",
+      "options": [
+        "A) Vse fotografije hranimo samo na telefonu.",
+        "B) Pomembne fotografije redno varnostno kopiramo in jih uredimo.",
+        "C) Nikoli ne brišemo nobene fotografije."
+      ],
+      "correct": 1,
+      "explanation": "Dobra organizacija in varnostne kopije preprečijo izgubo dragocenih spominov."
+    }
+  ]
+}

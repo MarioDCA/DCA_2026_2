@@ -1,0 +1,326 @@
+Kviz 24: Spletno bančništvo in spletni nakupi
+
+1.
+
+Vprašanje: Kaj je spletna banka?
+
+Odgovori:
+
+A) Poslovalnica banke.
+B) Storitev, ki omogoča upravljanje bančnega računa prek interneta. ✅
+C) Trgovina z računalniki.
+
+Razlaga:
+S spletno banko lahko preverimo stanje na računu, plačujemo račune in opravljamo nakazila.
+
+2.
+
+Vprašanje: Kaj potrebujemo za uporabo spletne banke?
+
+Odgovori:
+
+A) Samo tiskalnik.
+B) Bančni račun, dostop do interneta in način za prijavo. ✅
+C) Fotoaparat.
+
+Razlaga:
+Za prijavo banka običajno zahteva uporabniško ime, geslo ter dodatno potrditev identitete.
+
+3.
+
+Vprašanje: Zakaj banke uporabljajo dodatno potrditev prijave (SMS, aplikacija ali potrditvena koda)?
+
+Odgovori:
+
+A) Da prijava traja dlje.
+B) Da zaščitijo račun pred zlorabo. ✅
+C) Zaradi lepšega videza.
+
+Razlaga:
+Tudi če nekdo pozna geslo, brez dodatne potrditve praviloma ne more dostopati do računa.
+
+4.
+
+Vprašanje: Ali banka po telefonu ali e-pošti od nas zahteva geslo za spletno banko?
+
+Odgovori:
+
+A) Vedno.
+B) Ne, tega nikoli ne bi smela zahtevati. ✅
+C) Samo ob praznikih.
+
+Razlaga:
+Če kdo zahteva vaše geslo ali PIN, gre skoraj zagotovo za poskus prevare.
+
+5.
+
+Vprašanje: Kaj je PIN bančne kartice?
+
+Odgovori:
+
+A) Telefonska številka banke.
+B) Osebna številka za uporabo kartice. ✅
+C) Številka računa.
+
+Razlaga:
+PIN hranimo zase in ga nikoli ne zapisujemo na kartico.
+
+6.
+
+Vprašanje: Kaj storimo, če izgubimo bančno kartico?
+
+Odgovori:
+
+A) Počakamo nekaj dni.
+B) Takoj obvestimo banko in kartico blokiramo. ✅
+C) Kupimo novo denarnico.
+
+Razlaga:
+Hitro ukrepanje lahko prepreči zlorabo kartice.
+
+7.
+
+Vprašanje: Kaj pomeni nakazilo denarja?
+
+Odgovori:
+
+A) Izbris računa.
+B) Prenos denarja z enega računa na drugega. ✅
+C) Menjava banke.
+
+Razlaga:
+Nakazila izvajamo prek spletne ali mobilne banke oziroma v poslovalnici.
+
+8.
+
+Vprašanje: Kaj moramo preveriti pred potrditvijo nakazila?
+
+Odgovori:
+
+A) Barvo zaslona.
+B) Prejemnika, znesek in številko računa. ✅
+C) Ozadje računalnika.
+
+Razlaga:
+Po potrditvi nakazila ga pogosto ni mogoče preprosto preklicati.
+
+9.
+
+Vprašanje: Kaj je spletna trgovina?
+
+Odgovori:
+
+A) Trgovina brez prodajalcev.
+B) Spletna stran, kjer lahko naročamo izdelke ali storitve. ✅
+C) Program za pisanje.
+
+Razlaga:
+Nakup opravimo prek interneta, izdelke pa prejmemo po pošti ali dostavni službi.
+
+10.
+
+Vprašanje: Kako prepoznamo zaupanja vredno spletno trgovino?
+
+Odgovori:
+
+A) Po najnižji ceni.
+B) Po jasnih podatkih o podjetju, kontaktih, pogojih poslovanja in varni povezavi. ✅
+C) Po številu reklam.
+
+Razlaga:
+Pred nakupom je dobro preveriti tudi mnenja drugih kupcev.
+
+11.
+
+Vprašanje: Kaj pomeni oznaka »https://« na začetku spletnega naslova?
+
+Odgovori:
+
+A) Da je internet brezplačen.
+B) Da je povezava med brskalnikom in spletno stranjo šifrirana. ✅
+C) Da stran pripada banki.
+
+Razlaga:
+HTTPS poveča varnost, vendar sam po sebi še ne pomeni, da je stran poštena.
+
+12.
+
+Vprašanje: Zakaj ni pametno nakupovati prek javnega Wi-Fi omrežja?
+
+Odgovori:
+
+A) Ker so izdelki dražji.
+B) Ker je povezava lahko manj varna za prenos občutljivih podatkov. ✅
+C) Ker baterija hitreje porablja energijo.
+
+Razlaga:
+Za spletno banko in plačila je bolje uporabljati domače ali drugo zaupanja vredno omrežje.
+
+13.
+
+Vprašanje: Kaj potrebujemo za plačilo s plačilno kartico v spletni trgovini?
+
+Odgovori:
+
+A) Samo ime trgovine.
+B) Podatke s kartice (številko kartice, datum veljavnosti in varnostno kodo), po potrebi pa še dodatno potrditev banke. ✅
+C) EMŠO.
+
+Razlaga:
+Pri številnih spletnih nakupih banka zahteva tudi dodatno potrditev plačila, na primer prek mobilne aplikacije ali z enkratno kodo.
+
+14.
+
+Vprašanje: Kaj pomeni varnostna koda (CVV ali CVC) na plačilni kartici?
+
+Odgovori:
+
+A) Številka bančnega računa.
+B) Trimestna številka na zadnji strani kartice, ki se uporablja za potrjevanje spletnih plačil. ✅
+C) Telefonska številka banke.
+
+Razlaga:
+Te kode ne delimo z drugimi in je ne pošiljamo po elektronski pošti ali sporočilih.
+
+15.
+
+Vprašanje: Kaj storimo, če spletna trgovina zahteva plačilo samo z bančnim nakazilom na zasebni račun?
+
+Odgovori:
+
+A) Takoj nakažemo denar.
+B) Bodimo zelo previdni in preverimo, ali je trgovina zaupanja vredna. ✅
+C) Izklopimo računalnik.
+
+Razlaga:
+Po nakazilu denarja je vračilo pogosto zelo težavno, če gre za prevaro.
+
+16.
+
+Vprašanje: Kaj pomeni, da je izdelek »na zalogi«?
+
+Odgovori:
+
+A) Da izdelka ni več.
+B) Da ga ima trgovina na voljo za nakup in odpremo. ✅
+C) Da je že prodan.
+
+Razlaga:
+Če izdelka ni na zalogi, je dobavni rok običajno daljši.
+
+17.
+
+Vprašanje: Kaj je dostavna služba?
+
+Odgovori:
+
+A) Banka.
+B) Podjetje, ki dostavi naročeni paket do kupca. ✅
+C) Servis računalnikov.
+
+Razlaga:
+Dostavne službe kupca običajno obvestijo o predvidenem času dostave.
+
+18.
+
+Vprašanje: Kaj storimo, če prejmemo SMS z obvestilom o paketu, čeprav nismo ničesar naročili?
+
+Odgovori:
+
+A) Takoj kliknemo povezavo.
+B) Sporočilo obravnavamo kot sumljivo in ne klikamo povezav. ✅
+C) Vnesemo podatke o kartici.
+
+Razlaga:
+To je ena najpogostejših spletnih prevar. Napadalci se pogosto izdajajo za dostavne službe.
+
+19.
+
+Vprašanje: Kaj naredimo, če je cena izdelka neverjetno nizka?
+
+Odgovori:
+
+A) Takoj kupimo.
+B) Preverimo trgovino in se vprašamo, ali je ponudba verodostojna. ✅
+C) Kupimo več kosov.
+
+Razlaga:
+Izjemno nizke cene so pogosto znak prevare.
+
+20.
+
+Vprašanje: Zakaj je koristno prebrati mnenja drugih kupcev?
+
+Odgovori:
+
+A) Zaradi lepših fotografij.
+B) Ker lahko izvemo, ali je trgovina zanesljiva in ali izdelek ustreza opisu. ✅
+C) Da hitreje deluje internet.
+
+Razlaga:
+Pri tem upoštevamo, da so lahko nekatera mnenja tudi lažna, zato je dobro pogledati več virov.
+
+21.
+
+Vprašanje: Kaj pomeni pravica do vračila izdelka pri spletnem nakupu?
+
+Odgovori:
+
+A) Da izdelka nikoli ne moremo vrniti.
+B) Da lahko pri številnih spletnih nakupih izdelek v zakonsko določenem roku vrnemo, če izpolnjuje pogoje za vračilo. ✅
+C) Da trgovina vedno vrne dvojni znesek.
+
+Razlaga:
+Pred nakupom vedno preberemo pogoje vračila, saj lahko obstajajo izjeme.
+
+22.
+
+Vprašanje: Kaj storimo, če ob dostavi opazimo, da je paket močno poškodovan?
+
+Odgovori:
+
+A) Poškodbo prezremo.
+B) Poškodbo fotografiramo in jo čim prej sporočimo dostavni službi ali prodajalcu. ✅
+C) Paket takoj zavržemo.
+
+Razlaga:
+Fotografije poškodbe so lahko pomemben dokaz pri uveljavljanju reklamacije.
+
+23.
+
+Vprašanje: Kaj pomeni reklamacija izdelka?
+
+Odgovori:
+
+A) Nova reklama na televiziji.
+B) Zahteva kupca za odpravo napake ali drugo rešitev, kadar izdelek ni ustrezen. ✅
+C) Menjava gesla.
+
+Razlaga:
+Če izdelek ni brezhiben ali ne deluje pravilno, se obrnemo na prodajalca in sledimo njegovemu postopku za reklamacijo.
+
+24.
+
+Vprašanje: Kaj je najbolj varno storiti, če dvomimo o spletni trgovini?
+
+Odgovori:
+
+A) Vseeno opravimo nakup.
+B) Nakupa ne opravimo, dokler ne preverimo trgovine ali izberemo drugega prodajalca. ✅
+C) Pošljemo fotografijo bančne kartice.
+
+Razlaga:
+Pri spletnem nakupovanju velja pravilo: če nismo prepričani, raje ne kupimo.
+
+25.
+
+Vprašanje: Katero pravilo najbolj prispeva k varnemu spletnemu bančništvu in nakupovanju?
+
+Odgovori:
+
+A) Gesla in PIN delimo z družino in prijatelji.
+B) Uporabljamo močna gesla, preverjamo spletne strani, varujemo podatke o kartici in nikoli ne hitimo pri potrjevanju plačil. ✅
+C) Kliknemo vsako povezavo, ki jo prejmemo v SMS-u ali e-pošti.
+
+Razlaga:
+Večino spletnih prevar lahko preprečimo z nekaj preprostimi navadami: preverimo naslov spletne strani, ne razkrivamo gesel in podatkov kartice ter pred potrditvijo vedno preverimo znesek in prejemnika.

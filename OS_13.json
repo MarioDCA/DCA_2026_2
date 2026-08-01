@@ -1,0 +1,256 @@
+{
+  "id": 13,
+  "title": "Elektronska pošta (Gmail, Outlook) – napredna uporaba in varnost",
+  "questions": [
+    {
+      "question": "Kaj je elektronska pošta (e-pošta)?",
+      "options": [
+        "A) Program za risanje.",
+        "B) Pošiljanje in prejemanje sporočil prek interneta.",
+        "C) Vrsta računalniškega virusa."
+      ],
+      "correct": 1,
+      "explanation": "Elektronska pošta omogoča hitro pošiljanje besedil, fotografij, dokumentov in drugih datotek."
+    },
+    {
+      "question": "Kaj potrebujemo za uporabo elektronske pošte?",
+      "options": [
+        "A) Samo tiskalnik.",
+        "B) E-poštni račun in dostop do interneta.",
+        "C) Poseben kabel za telefon."
+      ],
+      "correct": 1,
+      "explanation": "Za uporabo Gmaila potrebujemo Google račun, za Outlook pa Microsoftov račun."
+    },
+    {
+      "question": "Kaj pomeni naslov prejemnika v e-pošti?",
+      "options": [
+        "A) Ime računalnika.",
+        "B) Elektronski naslov osebe, ki ji pošiljamo sporočilo.",
+        "C) Geslo uporabnika."
+      ],
+      "correct": 1,
+      "explanation": "Primer elektronskega naslova je uporabnik@example.com."
+    },
+    {
+      "question": "Kaj pomeni polje Zadeva (Subject)?",
+      "options": [
+        "A) Geslo sporočila.",
+        "B) Kratek opis vsebine elektronskega sporočila.",
+        "C) Ime datoteke."
+      ],
+      "correct": 1,
+      "explanation": "Dobra zadeva pomaga prejemniku razumeti, česa se sporočilo nanaša."
+    },
+    {
+      "question": "Kaj je priponka v elektronski pošti?",
+      "options": [
+        "A) Dodaten prejemnik.",
+        "B) Datoteka, dodana k sporočilu.",
+        "C) Geslo za pošto."
+      ],
+      "correct": 1,
+      "explanation": "Priponka je lahko fotografija, dokument, preglednica ali druga datoteka."
+    },
+    {
+      "question": "Kako odpremo priponko v e-pošti?",
+      "options": [
+        "A) Vedno jo takoj izbrišemo.",
+        "B) Kliknemo nanjo in jo odpremo ali shranimo.",
+        "C) Izklopimo računalnik."
+      ],
+      "correct": 1,
+      "explanation": "Pred odpiranjem priponke preverimo, kdo jo je poslal in ali ji zaupamo."
+    },
+    {
+      "question": "Zakaj moramo biti previdni pri odpiranju priponk?",
+      "options": [
+        "A) Ker se lahko spremeni barva zaslona.",
+        "B) Ker lahko vsebujejo škodljive programe ali viruse.",
+        "C) Ker se internet izklopi."
+      ],
+      "correct": 1,
+      "explanation": "Ne odpiramo nepričakovanih priponk, še posebej od neznanih pošiljateljev."
+    },
+    {
+      "question": "Kaj pomeni odgovoriti na e-pošto (Reply)?",
+      "options": [
+        "A) Izbrisati sporočilo.",
+        "B) Poslati odgovor osebi, ki je poslala sporočilo.",
+        "C) Poslati sporočilo vsem uporabnikom interneta."
+      ],
+      "correct": 1,
+      "explanation": "Pri odgovoru se običajno ohrani prejšnji pogovor."
+    },
+    {
+      "question": "Kaj pomeni posredovati e-pošto (Forward)?",
+      "options": [
+        "A) Spremeniti geslo.",
+        "B) Poslati prejeto sporočilo drugi osebi.",
+        "C) Izbrisati sporočilo."
+      ],
+      "correct": 1,
+      "explanation": "Pri posredovanju vedno preverimo, ali sporočilo vsebuje podatke, ki jih ne želimo deliti."
+    },
+    {
+      "question": "Kaj pomeni CC pri pošiljanju e-pošte?",
+      "options": [
+        "A) Izbris sporočila.",
+        "B) Kopija sporočila, ki jo prejme dodatni prejemnik.",
+        "C) Zaklep računa."
+      ],
+      "correct": 1,
+      "explanation": "Vsi prejemniki v polju CC običajno vidijo, kdo je še prejel sporočilo."
+    },
+    {
+      "question": "Kaj pomeni BCC pri e-pošti?",
+      "options": [
+        "A) Večja priponka.",
+        "B) Skrita kopija sporočila, kjer drugi prejemniki ne vidijo naslova.",
+        "C) Brisanje pošte."
+      ],
+      "correct": 1,
+      "explanation": "BCC je uporaben, ko pošiljamo sporočilo več ljudem in želimo zaščititi njihove e-naslove."
+    },
+    {
+      "question": "Kaj je mapa Neželena pošta (Spam)?",
+      "options": [
+        "A) Mapa za pomembne dokumente.",
+        "B) Mapa, kamor se shranjujejo sumljiva ali nezaželena sporočila.",
+        "C) Mapa za fotografije."
+      ],
+      "correct": 1,
+      "explanation": "Sistem samodejno prepoznava veliko nezaželene pošte, vendar moramo biti še vedno previdni."
+    },
+    {
+      "question": "Kaj storimo, če dobimo e-pošto, ki zahteva nujno plačilo ali prijavo?",
+      "options": [
+        "A) Takoj kliknemo povezavo.",
+        "B) Preverimo pošiljatelja in ne klikamo sumljivih povezav.",
+        "C) Pošljemo svoje geslo."
+      ],
+      "correct": 1,
+      "explanation": "Prevaranti pogosto ustvarjajo občutek nujnosti, da bi uporabnik ukrepal brez razmisleka."
+    },
+    {
+      "question": "Kako prepoznamo sumljivo e-pošto?",
+      "options": [
+        "A) Vedno ima lepo sliko.",
+        "B) Lahko vsebuje nenavadnega pošiljatelja, napake, grožnje ali sumljive povezave.",
+        "C) Vedno je zelo kratka."
+      ],
+      "correct": 1,
+      "explanation": "Pozorni smo na nenavadne zahteve in preverimo naslov pošiljatelja."
+    },
+    {
+      "question": "Kaj naredimo z neželeno e-pošto?",
+      "options": [
+        "A) Odgovorimo pošiljatelju.",
+        "B) Izbrišemo jo ali označimo kot neželeno.",
+        "C) Posredujemo jo prijateljem."
+      ],
+      "correct": 1,
+      "explanation": "Odgovarjanje na neželeno pošto lahko potrdi, da naš naslov obstaja."
+    },
+    {
+      "question": "Zakaj je pomembno imeti močno geslo za e-pošto?",
+      "options": [
+        "A) Zaradi lepše ikone.",
+        "B) Ker e-pošta pogosto vsebuje osebne podatke in povezave do drugih računov.",
+        "C) Ker računalnik deluje hitreje."
+      ],
+      "correct": 1,
+      "explanation": "Če nekdo prevzame e-poštni račun, lahko poskuša dostopati tudi do drugih storitev."
+    },
+    {
+      "question": "Kaj storimo, če pozabimo geslo za e-pošto?",
+      "options": [
+        "A) Ustvarimo nov računalnik.",
+        "B) Uporabimo možnost obnovitve gesla.",
+        "C) Pošljemo geslo prijateljem."
+      ],
+      "correct": 1,
+      "explanation": "Ponudniki omogočajo obnovitev računa prek telefona ali rezervnega e-naslova."
+    },
+    {
+      "question": "Zakaj je koristno urejati e-pošto v mape?",
+      "options": [
+        "A) Ker internet deluje hitreje.",
+        "B) Ker lažje najdemo pomembna sporočila.",
+        "C) Ker dobimo več prostora na disku."
+      ],
+      "correct": 1,
+      "explanation": "Mape pomagajo ločiti račune, osebna sporočila, dokumente in druge vsebine."
+    },
+    {
+      "question": "Kaj omogoča iskanje v e-pošti?",
+      "options": [
+        "A) Izbris vseh sporočil.",
+        "B) Hitro iskanje starega sporočila po besedah ali pošiljatelju.",
+        "C) Spreminjanje gesla."
+      ],
+      "correct": 1,
+      "explanation": "Namesto ročnega pregledovanja lahko uporabimo iskalno polje."
+    },
+    {
+      "question": "Ali lahko pošljemo fotografijo prek e-pošte?",
+      "options": [
+        "A) Ne.",
+        "B) Da, fotografijo lahko dodamo kot priponko.",
+        "C) Samo s tiskalnikom."
+      ],
+      "correct": 1,
+      "explanation": "E-pošta je primerna za pošiljanje dokumentov in fotografij."
+    },
+    {
+      "question": "Zakaj ni dobro pošiljati velikih datotek kot priponke?",
+      "options": [
+        "A) Ker se računalnik pokvari.",
+        "B) Ker imajo e-poštne storitve omejitev velikosti priponk.",
+        "C) Ker fotografije izginejo."
+      ],
+      "correct": 1,
+      "explanation": "Za velike datoteke je pogosto bolje uporabiti povezavo do oblaka."
+    },
+    {
+      "question": "Kaj pomeni odjava iz e-poštnega računa?",
+      "options": [
+        "A) Izbris računa.",
+        "B) Zapiranje dostopa do računa na trenutni napravi.",
+        "C) Izbris vseh sporočil."
+      ],
+      "correct": 1,
+      "explanation": "Na javnem ali tujem računalniku se vedno odjavimo."
+    },
+    {
+      "question": "Zakaj ni dobro uporabljati istega gesla za vse račune?",
+      "options": [
+        "A) Ker je težje tipkati.",
+        "B) Ker lahko ob razkritju enega gesla napadalec dostopa do več računov.",
+        "C) Ker internet deluje počasneje."
+      ],
+      "correct": 1,
+      "explanation": "Za pomembne račune uporabljamo različna gesla."
+    },
+    {
+      "question": "Kaj je dvostopenjska zaščita e-poštnega računa?",
+      "options": [
+        "A) Dvakrat napišemo isto geslo.",
+        "B) Poleg gesla uporabimo še dodatno potrditev prijave.",
+        "C) Uporabimo dva e-naslova."
+      ],
+      "correct": 1,
+      "explanation": "Dodatna zaščita močno zmanjša možnost vdora v račun."
+    },
+    {
+      "question": "Katera navada najbolj pripomore k varni uporabi e-pošte?",
+      "options": [
+        "A) Odpremo vsako priponko.",
+        "B) Preverjamo pošiljatelje, varujemo geslo in ne klikamo sumljivih povezav.",
+        "C) Geslo napišemo ob računalnik."
+      ],
+      "correct": 1,
+      "explanation": "Previdna uporaba e-pošte je najboljša zaščita pred prevarami."
+    }
+  ]
+}

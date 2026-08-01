@@ -1,0 +1,256 @@
+{
+  "id": 21,
+  "title": "Windows 10 – bližnjice na tipkovnici in učinkovitejša uporaba računalnika",
+  "questions": [
+    {
+      "question": "Kaj je tipka Windows na tipkovnici?",
+      "options": [
+        "A) Tipka za izklop računalnika.",
+        "B) Tipka z logotipom Windows, ki odpira meni Start in omogoča bližnjice.",
+        "C) Tipka za tiskanje."
+      ],
+      "correct": 1,
+      "explanation": "Tipka Windows je zelo uporabna za hitro odpiranje programov in nastavitev."
+    },
+    {
+      "question": "Kaj se zgodi, če pritisnemo tipko Windows?",
+      "options": [
+        "A) Računalnik se izklopi.",
+        "B) Odpre se meni Start.",
+        "C) Izbrišejo se datoteke."
+      ],
+      "correct": 1,
+      "explanation": "Meni Start omogoča dostop do programov, nastavitev in izklopa računalnika."
+    },
+    {
+      "question": "Kaj naredi bližnjica Ctrl + C?",
+      "options": [
+        "A) Zapre program.",
+        "B) Kopira izbrano besedilo ali datoteko.",
+        "C) Izklopi zvok."
+      ],
+      "correct": 1,
+      "explanation": "Ctrl + C pomeni 'Copy' oziroma kopiraj."
+    },
+    {
+      "question": "Kaj naredi bližnjica Ctrl + V?",
+      "options": [
+        "A) Shrani dokument.",
+        "B) Prilepi prej kopirano vsebino.",
+        "C) Odpre internet."
+      ],
+      "correct": 1,
+      "explanation": "Po kopiranju uporabimo Ctrl + V, da vsebino prenesemo na novo mesto."
+    },
+    {
+      "question": "Kaj naredi bližnjica Ctrl + X?",
+      "options": [
+        "A) Izbriše računalnik.",
+        "B) Izreže izbrano vsebino in jo pripravi za premik.",
+        "C) Odpre kalkulator."
+      ],
+      "correct": 1,
+      "explanation": "Ctrl + X uporabimo, kadar želimo nekaj premakniti."
+    },
+    {
+      "question": "Kaj naredi bližnjica Ctrl + Z?",
+      "options": [
+        "A) Zapre Windows.",
+        "B) Razveljavi zadnje dejanje.",
+        "C) Poveča zaslon."
+      ],
+      "correct": 1,
+      "explanation": "Če po pomoti izbrišemo ali spremenimo nekaj v dokumentu, lahko pogosto uporabimo Ctrl + Z."
+    },
+    {
+      "question": "Kaj naredi bližnjica Ctrl + S?",
+      "options": [
+        "A) Išče po internetu.",
+        "B) Shrani trenutno datoteko ali dokument.",
+        "C) Izklopi računalnik."
+      ],
+      "correct": 1,
+      "explanation": "Pogosto shranjevanje prepreči izgubo dela."
+    },
+    {
+      "question": "Kaj naredi bližnjica Ctrl + P?",
+      "options": [
+        "A) Odpre nastavitve.",
+        "B) Odpre možnost tiskanja dokumenta.",
+        "C) Prilepi besedilo."
+      ],
+      "correct": 1,
+      "explanation": "P pomeni 'Print' oziroma tiskanje."
+    },
+    {
+      "question": "Kaj naredi bližnjica Ctrl + A?",
+      "options": [
+        "A) Odpre novo okno.",
+        "B) Izbere vse elemente v trenutnem oknu ali dokumentu.",
+        "C) Zapre program."
+      ],
+      "correct": 1,
+      "explanation": "A pomeni 'All' oziroma vse."
+    },
+    {
+      "question": "Kaj naredi bližnjica Alt + Tab?",
+      "options": [
+        "A) Izklopi internet.",
+        "B) Omogoča hitro preklapljanje med odprtimi programi.",
+        "C) Izbriše zgodovino."
+      ],
+      "correct": 1,
+      "explanation": "Uporabno je, ko imamo odprtih več programov hkrati."
+    },
+    {
+      "question": "Kako najhitreje odpremo iskanje v Windows 10?",
+      "options": [
+        "A) Pritisnemo tipko Delete.",
+        "B) Kliknemo iskalno polje v opravilni vrstici ali uporabimo tipko Windows in začnemo tipkati.",
+        "C) Izklopimo računalnik."
+      ],
+      "correct": 1,
+      "explanation": "Iskanje v Windows pomaga najti programe, datoteke in nastavitve."
+    },
+    {
+      "question": "Kaj je opravilna vrstica v Windows?",
+      "options": [
+        "A) Del tiskalnika.",
+        "B) Vrstica na dnu zaslona z gumbi za programe in obvestila.",
+        "C) Mapa za dokumente."
+      ],
+      "correct": 1,
+      "explanation": "Na opravilni vrstici vidimo odprte programe, uro, omrežje in zvok."
+    },
+    {
+      "question": "Kaj naredi bližnjica Windows + E?",
+      "options": [
+        "A) Odpre elektronsko pošto.",
+        "B) Odpre Raziskovalec datotek.",
+        "C) Izklopi računalnik."
+      ],
+      "correct": 1,
+      "explanation": "To je hitra pot do map in datotek."
+    },
+    {
+      "question": "Kaj naredi bližnjica Windows + D?",
+      "options": [
+        "A) Izbriše namizje.",
+        "B) Prikaže namizje oziroma skrije odprta okna.",
+        "C) Odpre dokument."
+      ],
+      "correct": 1,
+      "explanation": "Uporabno, kadar želimo hitro videti ikone na namizju."
+    },
+    {
+      "question": "Kaj je namizje v Windows?",
+      "options": [
+        "A) Fizična miza.",
+        "B) Osnovni zaslon Windows z ikonami in ozadjem.",
+        "C) Trdi disk."
+      ],
+      "correct": 1,
+      "explanation": "Na namizju so lahko bližnjice do programov, map in datotek."
+    },
+    {
+      "question": "Kaj je ikona na namizju?",
+      "options": [
+        "A) Slika za okras.",
+        "B) Simbol, ki predstavlja program, mapo ali datoteko.",
+        "C) Vrsta virusa."
+      ],
+      "correct": 1,
+      "explanation": "Z dvoklikom ikone običajno odpremo povezani program ali datoteko."
+    },
+    {
+      "question": "Kaj pomeni dvoklik z miško?",
+      "options": [
+        "A) Dvakratni pritisk leve tipke miške za odpiranje.",
+        "B) Premikanje računalnika.",
+        "C) Izklop zaslona."
+      ],
+      "correct": 0,
+      "explanation": "Dvoklik se pogosto uporablja za odpiranje datotek in programov."
+    },
+    {
+      "question": "Kaj pomeni desni klik miške?",
+      "options": [
+        "A) Izbris vsega.",
+        "B) Odpre dodatni meni z možnostmi.",
+        "C) Zapre Windows."
+      ],
+      "correct": 1,
+      "explanation": "Z desnim klikom lahko kopiramo, preimenujemo, brišemo in spreminjamo nastavitve."
+    },
+    {
+      "question": "Kako povečamo prikaz na zaslonu v mnogih programih?",
+      "options": [
+        "A) Ctrl + kolesce miške ali Ctrl + +.",
+        "B) Izklopimo računalnik.",
+        "C) Odstranimo tipkovnico."
+      ],
+      "correct": 0,
+      "explanation": "Povečava je koristna za uporabnike, ki slabše vidijo manjše črke."
+    },
+    {
+      "question": "Kaj naredi tipka Delete?",
+      "options": [
+        "A) Shrani dokument.",
+        "B) Izbriše izbrano datoteko ali besedilo (običajno v Koš).",
+        "C) Odpre internet."
+      ],
+      "correct": 1,
+      "explanation": "Pri brisanju pazimo, da ne odstranimo pomembnih podatkov."
+    },
+    {
+      "question": "Kaj je Koš v Windows?",
+      "options": [
+        "A) Mapa za viruse.",
+        "B) Mesto, kamor se začasno shranijo izbrisane datoteke.",
+        "C) Program za tiskanje."
+      ],
+      "correct": 1,
+      "explanation": "Iz Koša lahko nekatere datoteke še obnovimo."
+    },
+    {
+      "question": "Kako zapremo odprt program?",
+      "options": [
+        "A) Izklopimo elektriko.",
+        "B) Kliknemo gumb X v zgornjem desnem kotu okna.",
+        "C) Izbrišemo ikono."
+      ],
+      "correct": 1,
+      "explanation": "Zapiranje programa ne pomeni brisanja programa."
+    },
+    {
+      "question": "Kaj pomeni posodobitev Windows?",
+      "options": [
+        "A) Menjava računalnika.",
+        "B) Namestitev izboljšav, popravkov in varnostnih posodobitev.",
+        "C) Brisanje dokumentov."
+      ],
+      "correct": 1,
+      "explanation": "Redne posodobitve izboljšajo varnost in stabilnost sistema."
+    },
+    {
+      "question": "Zakaj je koristno poznati bližnjice?",
+      "options": [
+        "A) Ker računalnik porabi več elektrike.",
+        "B) Ker omogočajo hitrejše in učinkovitejše delo.",
+        "C) Ker odstranijo viruse."
+      ],
+      "correct": 1,
+      "explanation": "Bližnjice prihranijo čas pri vsakodnevnem delu."
+    },
+    {
+      "question": "Katera navada je najboljša pri delu z Windows?",
+      "options": [
+        "A) Nikoli ne shranjujemo dokumentov.",
+        "B) Redno shranjujemo delo, posodabljamo sistem in urejamo datoteke.",
+        "C) Klikamo vse povezave."
+      ],
+      "correct": 1,
+      "explanation": "Urejeno in varno delo z računalnikom zmanjša možnost težav."
+    }
+  ]
+}

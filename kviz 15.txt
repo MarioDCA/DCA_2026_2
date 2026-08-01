@@ -1,0 +1,327 @@
+Kviz 15: Pametni telefon – nastavitve, baterija, Wi-Fi, aplikacije in vzdrževanje
+
+1.
+
+Vprašanje: Kaj je operacijski sistem na pametnem telefonu?
+
+Odgovori:
+
+A) Vrsta polnilnega kabla.
+B) Program, ki upravlja delovanje telefona in aplikacij. ✅
+C) Fotografija na zaslonu.
+
+Razlaga:
+Najpogostejša operacijska sistema za telefone sta Android in iOS.
+
+2.
+
+Vprašanje: Kaj je aplikacija (app)?
+
+Odgovori:
+
+A) Del telefonske baterije.
+B) Program, ki omogoča določeno opravilo na telefonu. ✅
+C) Vrsta SIM kartice.
+
+Razlaga:
+Aplikacije uporabljamo za fotografiranje, sporočila, vreme, banko, zemljevide in druga opravila.
+
+3.
+
+Vprašanje: Kako običajno namestimo novo aplikacijo na telefon Android?
+
+Odgovori:
+
+A) Iz elektronske pošte.
+B) Iz trgovine Google Play. ✅
+C) Iz koša.
+
+Razlaga:
+Google Play je uradna trgovina za aplikacije Android in je varnejša izbira kot neznane spletne strani.
+
+4.
+
+Vprašanje: Zakaj je dobro redno posodabljati aplikacije?
+
+Odgovori:
+
+A) Ker telefon postane večji.
+B) Ker posodobitve odpravljajo napake in izboljšajo varnost. ✅
+C) Ker izbrišejo vse fotografije.
+
+Razlaga:
+Posodobitve pogosto vsebujejo varnostne popravke in izboljšave delovanja.
+
+5.
+
+Vprašanje: Kaj najbolj vpliva na porabo baterije telefona?
+
+Odgovori:
+
+A) Barva telefona.
+B) Svetlost zaslona, uporaba aplikacij in povezave (Wi-Fi, GPS, Bluetooth). ✅
+C) Ime telefona.
+
+Razlaga:
+Večja svetlost in stalno delovanje zahtevnih aplikacij hitreje izpraznita baterijo.
+
+6.
+
+Vprašanje: Kako lahko podaljšamo čas delovanja baterije?
+
+Odgovori:
+
+A) Telefon večkrat udarimo.
+B) Zmanjšamo svetlost zaslona, izklopimo nepotrebne povezave in uporabljamo varčevanje baterije. ✅
+C) Vedno pustimo odprte vse aplikacije.
+
+Razlaga:
+Majhne spremembe nastavitev lahko občutno podaljšajo delovanje telefona.
+
+7.
+
+Vprašanje: Ali je dobro pustiti vse aplikacije ves čas odprte?
+
+Odgovori:
+
+A) Da, vedno.
+B) Ne, nepotrebne aplikacije lahko zapremo. ✅
+C) Telefon se bo pokvaril, če jih zapremo.
+
+Razlaga:
+Sodobni telefoni sicer dobro upravljajo aplikacije, vendar nepotrebno delujoče aplikacije lahko porabljajo baterijo.
+
+8.
+
+Vprašanje: Kaj pomeni, če je pomnilnik telefona skoraj poln?
+
+Odgovori:
+
+A) Telefon bo imel močnejši signal.
+B) Primanjkuje prostora za fotografije, aplikacije in posodobitve. ✅
+C) Telefon bo imel več baterije.
+
+Razlaga:
+Poln pomnilnik lahko povzroči počasnejše delovanje telefona.
+
+9.
+
+Vprašanje: Kako sprostimo prostor na telefonu?
+
+Odgovori:
+
+A) Izklopimo zvonjenje.
+B) Izbrišemo nepotrebne fotografije, videe in aplikacije. ✅
+C) Zamenjamo ozadje.
+
+Razlaga:
+Fotografije in videoposnetki pogosto zasedejo največ prostora.
+
+10.
+
+Vprašanje: Kaj je Wi-Fi?
+
+Odgovori:
+
+A) Vrsta baterije.
+B) Brezžična povezava z internetom. ✅
+C) Program za fotografije.
+
+Razlaga:
+Wi-Fi omogoča povezavo telefona z internetom prek brezžičnega omrežja.
+
+11.
+
+Vprašanje: Zakaj uporabljamo domači Wi-Fi namesto mobilnih podatkov?
+
+Odgovori:
+
+A) Telefon postane težji.
+B) Pogosto zmanjšamo porabo mobilnih podatkov in stroške. ✅
+C) Izklopimo zaslon.
+
+Razlaga:
+Pri uporabi domačega Wi-Fi običajno ne porabljamo podatkov iz mobilnega paketa.
+
+12.
+
+Vprašanje: Kaj je Bluetooth?
+
+Odgovori:
+
+A) Vrsta interneta.
+B) Brezžična povezava za naprave na kratki razdalji. ✅
+C) Program za čiščenje telefona.
+
+Razlaga:
+Bluetooth uporabljamo za slušalke, zvočnike, avto ali povezovanje drugih naprav.
+
+Kviz 15: Pametni telefon – nadaljevanje (13–25)
+13.
+
+Vprašanje: Kaj pomeni način Letalo (Airplane mode)?
+
+Odgovori:
+
+A) Telefon se spremeni v računalnik.
+B) Izklopi brezžične povezave, kot so mobilno omrežje in običajno Wi-Fi/Bluetooth. ✅
+C) Izbriše aplikacije.
+
+Razlaga:
+Način Letalo uporabljamo predvsem med letom ali kadar želimo začasno izklopiti povezave.
+
+14.
+
+Vprašanje: Kaj je GPS?
+
+Odgovori:
+
+A) Program za pisanje.
+B) Sistem za določanje položaja telefona. ✅
+C) Vrsta baterije.
+
+Razlaga:
+GPS uporabljajo zemljevidi, navigacija in nekatere druge aplikacije.
+
+15.
+
+Vprašanje: Zakaj aplikacije zahtevajo dovoljenja?
+
+Odgovori:
+
+A) Da telefon postane lepši.
+B) Ker potrebujejo dostop do določenih funkcij, kot so kamera, mikrofon ali lokacija. ✅
+C) Ker želijo spremeniti telefonsko številko.
+
+Razlaga:
+Pred dovoljenjem preverimo, ali aplikacija ta dostop res potrebuje.
+
+16.
+
+Vprašanje: Kako zaščitimo telefon pred nepooblaščeno uporabo?
+
+Odgovori:
+
+A) Pustimo zaslon vedno odklenjen.
+B) Uporabimo PIN, geslo, vzorec ali prstni odtis. ✅
+C) Odstranimo vse aplikacije.
+
+Razlaga:
+Zaklep zaslona ščiti osebne podatke, fotografije in sporočila.
+
+17.
+
+Vprašanje: Zakaj ni dobro uporabljati istega gesla povsod?
+
+Odgovori:
+
+A) Ker telefon počasneje dela.
+B) Ker lahko ob razkritju enega gesla napadalec dostopa do več računov. ✅
+C) Ker se baterija hitreje prazni.
+
+Razlaga:
+Za pomembne račune uporabljamo različna in dovolj močna gesla.
+
+18.
+
+Vprašanje: Kaj naredimo, če izgubimo telefon?
+
+Odgovori:
+
+A) Nič.
+B) Poskusimo ga poiskati, zaklenemo napravo in po potrebi obvestimo operaterja. ✅
+C) Objavimo geslo na internetu.
+
+Razlaga:
+Sodobni telefoni omogočajo oddaljeno iskanje in zaklep naprave.
+
+19.
+
+Vprašanje: Zakaj je varnostna kopija telefona pomembna?
+
+Odgovori:
+
+A) Ker poveča velikost zaslona.
+B) Ker omogoča obnovitev podatkov ob izgubi ali okvari telefona. ✅
+C) Ker izboljša signal.
+
+Razlaga:
+Varnostna kopija lahko shrani stike, fotografije in nastavitve.
+
+20.
+
+Vprašanje: Kaj je ponovni zagon telefona?
+
+Odgovori:
+
+A) Izbris vseh podatkov.
+B) Izklop in ponovni vklop telefona. ✅
+C) Menjava SIM kartice.
+
+Razlaga:
+Ponovni zagon pogosto odpravi manjše težave z delovanjem.
+
+21.
+
+Vprašanje: Kaj storimo, če telefon deluje počasi?
+
+Odgovori:
+
+A) Takoj kupimo novega.
+B) Preverimo prostor, posodobitve in nepotrebne aplikacije. ✅
+C) Odstranimo kartico SIM.
+
+Razlaga:
+Počasno delovanje je pogosto posledica pomanjkanja prostora ali zastarelih aplikacij.
+
+22.
+
+Vprašanje: Zakaj je pomembno zaščititi telefon pred virusi in prevarami?
+
+Odgovori:
+
+A) Ker telefon drugače spremeni barvo.
+B) Ker telefon vsebuje osebne podatke, fotografije in dostop do računov. ✅
+C) Ker baterija ne deluje.
+
+Razlaga:
+Telefon je danes osebni računalnik v žepu, zato potrebuje zaščito.
+
+23.
+
+Vprašanje: Kaj storimo pred prodajo starega telefona?
+
+Odgovori:
+
+A) Pustimo svoje račune prijavljene.
+B) Naredimo varnostno kopijo in izbrišemo osebne podatke. ✅
+C) Izklopimo samo zvok.
+
+Razlaga:
+Tako preprečimo, da bi novi uporabnik dostopal do naših podatkov.
+
+24.
+
+Vprašanje: Zakaj je koristno poznati nastavitve telefona?
+
+Odgovori:
+
+A) Ker telefon postane dražji.
+B) Ker lahko prilagodimo telefon svojim potrebam in rešimo pogoste težave. ✅
+C) Ker ne potrebujemo več interneta.
+
+Razlaga:
+Poznavanje nastavitev omogoča bolj samostojno uporabo telefona.
+
+25.
+
+Vprašanje: Katera navada je najboljša pri uporabi pametnega telefona?
+
+Odgovori:
+
+A) Nameščamo vse aplikacije, ki jih najdemo.
+B) Telefon redno posodabljamo, varujemo dostop in uporabljamo zaupanja vredne aplikacije. ✅
+C) Vedno izklopimo vse varnostne funkcije.
+
+Razlaga:
+Varna in premišljena uporaba prepreči večino težav s pametnim telefonom.

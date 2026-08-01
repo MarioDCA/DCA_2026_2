@@ -1,0 +1,326 @@
+Kviz 7: Google Iskanje in napredno iskanje
+
+1.
+
+Vprašanje: Kaj je Google?
+
+Odgovori:
+
+A) Operacijski sistem za telefone.
+B) Najbolj znan spletni iskalnik. ✅
+C) Program za urejanje fotografij.
+
+Razlaga:
+Google omogoča iskanje spletnih strani, slik, zemljevidov, videoposnetkov in številnih drugih informacij.
+
+2.
+
+Vprašanje: Kaj vpišemo v Google, če želimo najti določeno informacijo?
+
+Odgovori:
+
+A) Geslo za računalnik.
+B) Ključne besede, povezane z iskanjem. ✅
+C) Telefonsko številko.
+
+Razlaga:
+Kratke in jasne ključne besede običajno prinesejo boljše rezultate kot zelo dolga vprašanja.
+
+3.
+
+Vprašanje: Kaj so ključne besede?
+
+Odgovori:
+
+A) Gesla za prijavo.
+B) Besede, ki najbolje opišejo, kaj iščemo. ✅
+C) Naslovi elektronske pošte.
+
+Razlaga:
+Če iščemo recept za jabolčni zavitek, vpišemo "jabolčni zavitek recept".
+
+4.
+
+Vprašanje: Kateri način iskanja običajno prinese boljše rezultate?
+
+Odgovori:
+
+A) "Rad bi našel nekaj o avtomobilih, ki porabijo malo goriva."
+B) "varčni avtomobili poraba goriva" ✅
+C) "Avtomobili."
+
+Razlaga:
+Kratke ključne besede so pogosto učinkovitejše od dolgih opisov.
+
+5.
+
+Vprašanje: Kaj pomeni, če damo iskano besedno zvezo v narekovaje?
+
+Odgovori:
+
+A) Google preneha iskati.
+B) Išče točno takšno besedno zvezo. ✅
+C) Išče samo slike.
+
+Razlaga:
+Na primer: "Triglavski narodni park".
+
+6.
+
+Vprašanje: Kaj pomeni zavihek »Slike« v Googlu?
+
+Odgovori:
+
+A) Iskanje videoposnetkov.
+B) Iskanje fotografij in slik. ✅
+C) Iskanje zemljevidov.
+
+Razlaga:
+Če iščemo rastlino ali znamenitost, je pogosto najlažje uporabiti iskanje slik.
+
+7.
+
+Vprašanje: Kaj omogoča zavihek »Videoposnetki«?
+
+Odgovori:
+
+A) Samo poslušanje glasbe.
+B) Iskanje videoposnetkov o iskani temi. ✅
+C) Iskanje dokumentov PDF.
+
+Razlaga:
+Veliko rezultatov vodi na YouTube ali druge video strani.
+
+8.
+
+Vprašanje: Kaj pomeni zavihek »Zemljevidi«?
+
+Odgovori:
+
+A) Iskanje elektronske pošte.
+B) Iskanje krajev, podjetij in poti. ✅
+C) Iskanje datotek.
+
+Razlaga:
+Google Zemljevidi pomagajo najti naslov, trgovino ali pot do cilja.
+
+9.
+
+Vprašanje: Ali so prvi rezultati iskanja vedno najboljši?
+
+Odgovori:
+
+A) Vedno.
+B) Ne, med prvimi so lahko tudi oglasi. ✅
+C) Samo ob nedeljah.
+
+Razlaga:
+Pred klikom vedno preverimo, ali je rezultat označen kot oglas.
+
+10.
+
+Vprašanje: Kaj pomeni oznaka »Sponzorirano« ali »Oglas«?
+
+Odgovori:
+
+A) Najbolj zanesljiva stran.
+B) Plačana reklama. ✅
+C) Brezplačna pomoč uporabnikom.
+
+Razlaga:
+Oglas ni nujno slab, vendar ni samodejno najboljši odgovor na naše vprašanje.
+
+11.
+
+Vprašanje: Kaj pomeni, če v iskalno polje vpišemo vreme Maribor?
+
+Odgovori:
+
+A) Google bo odprl elektronsko pošto.
+B) Prikazal bo vremensko napoved za Maribor. ✅
+C) Prenesel bo aplikacijo.
+
+Razlaga:
+Google zna za številna pogosta vprašanja odgovor prikazati neposredno.
+
+12.
+
+Vprašanje: Kaj lahko iščemo z Googlom?
+
+Odgovori:
+
+A) Samo spletne strani.
+B) Spletne strani, slike, videoposnetke, zemljevide, novice in še veliko drugega. ✅
+C) Samo elektronske naslove.
+
+Razlaga:
+Google je veliko več kot samo iskalnik spletnih strani.
+
+13.
+
+Vprašanje: Kaj pomeni, če pri iskanju dodamo ime kraja?
+
+Odgovori:
+
+A) Iskanje bo počasnejše.
+B) Rezultati bodo bolj povezani z izbranim krajem. ✅
+C) Google bo iskal samo slike.
+
+Razlaga:
+Na primer: zobozdravnik Celje ali muzej Ptuj.
+
+14.
+
+Vprašanje: Kako poiščemo uradno spletno stran občine?
+
+Odgovori:
+
+A) Vpišemo samo besedo "občina".
+B) Vpišemo ime občine in po možnosti besedo "uradna". ✅
+C) Vpišemo svojo telefonsko številko.
+
+Razlaga:
+Tako zmanjšamo možnost, da odpremo neuradno spletno stran.
+
+15.
+
+Vprašanje: Kaj pomeni iskanje po slikah z uporabo Google Lens?
+
+Odgovori:
+
+A) Iščemo samo besedilo.
+B) Fotografiramo predmet in Google pomaga ugotoviti, kaj je. ✅
+C) Izbrišemo fotografijo.
+
+Razlaga:
+Google Lens lahko prepozna rastline, živali, znamenitosti, izdelke in besedilo.
+
+16.
+
+Vprašanje: Za kaj je Google Lens posebej uporaben?
+
+Odgovori:
+
+A) Za polnjenje telefona.
+B) Za prepoznavanje predmetov, prevajanje besedila in iskanje podobnih izdelkov. ✅
+C) Za izdelavo varnostnih kopij.
+
+Razlaga:
+Lens lahko na primer prevede napis na tabli ali prepozna cvetlico.
+
+17.
+
+Vprašanje: Kaj pomeni, če kliknemo mikrofon v Googlu?
+
+Odgovori:
+
+A) Izbrišemo zgodovino.
+B) Iskanje lahko izvedemo z glasom. ✅
+C) Izključimo internet.
+
+Razlaga:
+Glasovno iskanje je zelo priročno za uporabnike, ki težje tipkajo.
+
+18.
+
+Vprašanje: Ali lahko Googlu postavimo vprašanje z naravnim stavkom?
+
+Odgovori:
+
+A) Ne.
+B) Da, pogosto razume tudi običajna vprašanja. ✅
+C) Samo v angleščini.
+
+Razlaga:
+Na primer: Koliko je visok Triglav?
+
+19.
+
+Vprašanje: Kaj storimo, če med rezultati najdemo več različnih odgovorov?
+
+Odgovori:
+
+A) Verjamemo prvemu brez preverjanja.
+B) Primerjamo več zanesljivih virov. ✅
+C) Zapremo brskalnik.
+
+Razlaga:
+Pri pomembnih informacijah je dobro preveriti več virov.
+
+20.
+
+Vprašanje: Katere spletne strani so običajno najbolj zanesljive?
+
+Odgovori:
+
+A) Tiste z največ oglasi.
+B) Uradne strani državnih ustanov, univerz in priznanih organizacij. ✅
+C) Vedno prva stran med rezultati.
+
+Razlaga:
+Pri zdravstvenih, pravnih in finančnih informacijah uporabljamo preverjene vire.
+
+21.
+
+Vprašanje: Kaj pomeni, če Google predlaga iskalni izraz že med tipkanjem?
+
+Odgovori:
+
+A) Telefon je okužen.
+B) Ponuja predloge na podlagi pogostih iskanj. ✅
+C) Briše zgodovino.
+
+Razlaga:
+Predlog lahko izberemo ali pa napišemo svoj izraz.
+
+22.
+
+Vprašanje: Kaj je koristno storiti, če z iskanjem ne najdemo želenega odgovora?
+
+Odgovori:
+
+A) Vedno uporabimo enake besede.
+B) Poskusimo z drugačnimi ključnimi besedami. ✅
+C) Izključimo računalnik.
+
+Razlaga:
+Že majhna sprememba iskalnega izraza lahko prinese veliko boljše rezultate.
+
+23.
+
+Vprašanje: Ali lahko Google išče tudi datoteke PDF?
+
+Odgovori:
+
+A) Ne.
+B) Da, med rezultati pogosto najde tudi dokumente PDF. ✅
+C) Samo fotografije.
+
+Razlaga:
+Veliko navodil, obrazcev in priročnikov je objavljenih v obliki PDF.
+
+24.
+
+Vprašanje: Kaj je največja prednost Googla?
+
+Odgovori:
+
+A) Da zna popravljati računalnik.
+B) Da zelo hitro poišče veliko količino informacij. ✅
+C) Da odstrani viruse.
+
+Razlaga:
+Pomembno pa je, da znamo presoditi, kateri rezultati so zanesljivi.
+
+25.
+
+Vprašanje: Katera navada vodi do najboljših rezultatov pri iskanju?
+
+Odgovori:
+
+A) Vedno kliknemo prvi zadetek.
+B) Uporabljamo jasne ključne besede in preverimo več zanesljivih virov. ✅
+C) Pišemo čim daljša besedila.
+
+Razlaga:
+Dobro iskanje ni odvisno le od Googla, ampak tudi od tega, kako oblikujemo poizvedbo in kako kritično presodimo rezultate.

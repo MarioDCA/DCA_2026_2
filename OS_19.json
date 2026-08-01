@@ -1,0 +1,256 @@
+{
+  "id": 19,
+  "title": "Spletne prevare, phishing, lažna sporočila in varnost računov",
+  "questions": [
+    {
+      "question": "Kaj je spletna prevara?",
+      "options": [
+        "A) Napaka v računalniku.",
+        "B) Poskus, da bi nekdo z goljufijo pridobil denar, podatke ali dostop do računov.",
+        "C) Posodobitev programa."
+      ],
+      "correct": 1,
+      "explanation": "Spletni prevaranti uporabljajo različne načine, da bi uporabnika zavedli."
+    },
+    {
+      "question": "Kaj je phishing (ribarjenje)?",
+      "options": [
+        "A) Program za čiščenje računalnika.",
+        "B) Poskus pridobivanja gesel ali podatkov z lažnimi sporočili in spletnimi stranmi.",
+        "C) Vrsta internetne povezave."
+      ],
+      "correct": 1,
+      "explanation": "Napadalci se pogosto pretvarjajo, da so banka, dostavna služba ali znano podjetje."
+    },
+    {
+      "question": "Kako pogosto izgleda lažno e-poštno sporočilo?",
+      "options": [
+        "A) Vedno je prazno.",
+        "B) Posnema znano podjetje in zahteva klik na povezavo ali vnos podatkov.",
+        "C) Vedno vsebuje samo fotografije."
+      ],
+      "correct": 1,
+      "explanation": "Lažna sporočila so lahko zelo podobna pravim, zato moramo biti previdni."
+    },
+    {
+      "question": "Kaj naredimo, če dobimo sporočilo, ki zahteva takojšnjo prijavo v banko?",
+      "options": [
+        "A) Takoj kliknemo povezavo.",
+        "B) Ne klikamo povezave in preverimo pri banki prek uradne poti.",
+        "C) Posredujemo sporočilo prijateljem."
+      ],
+      "correct": 1,
+      "explanation": "Banke praviloma ne zahtevajo vnosa gesel prek povezav v e-pošti ali SMS sporočilih."
+    },
+    {
+      "question": "Kaj je sumljiv znak v elektronskem sporočilu?",
+      "options": [
+        "A) Lep pozdrav na koncu.",
+        "B) Zahteva po geslu, plačilu ali nujnem ukrepanju.",
+        "C) Datum sporočila."
+      ],
+      "correct": 1,
+      "explanation": "Prevaranti pogosto ustvarjajo strah ali občutek nujnosti."
+    },
+    {
+      "question": "Ali smemo komu povedati svoje geslo za spletno banko?",
+      "options": [
+        "A) Da, če lepo prosi.",
+        "B) Ne, gesla nikoli ne delimo z drugimi.",
+        "C) Samo po telefonu."
+      ],
+      "correct": 1,
+      "explanation": "Banka, Microsoft, Google ali druga podjetja nikoli ne potrebujejo našega gesla."
+    },
+    {
+      "question": "Kaj je močno geslo?",
+      "options": [
+        "A) Ime in datum rojstva.",
+        "B) Daljše geslo z različnimi znaki, ki ga drugi težko uganejo.",
+        "C) Beseda 'geslo'."
+      ],
+      "correct": 1,
+      "explanation": "Močno geslo zmanjšuje možnost vdora v račun."
+    },
+    {
+      "question": "Zakaj ni dobro uporabljati istega gesla povsod?",
+      "options": [
+        "A) Ker računalnik postane počasnejši.",
+        "B) Ker lahko ob kraji enega gesla napadalec dostopa do več računov.",
+        "C) Ker internet ne deluje."
+      ],
+      "correct": 1,
+      "explanation": "Vsak pomemben račun naj ima svoje geslo."
+    },
+    {
+      "question": "Kaj je dvostopenjska prijava (2FA)?",
+      "options": [
+        "A) Dvakrat vnesemo isto geslo.",
+        "B) Poleg gesla uporabimo še dodatno potrditev identitete.",
+        "C) Uporabimo dva računalnika."
+      ],
+      "correct": 1,
+      "explanation": "Dodatna koda SMS, aplikacija ali biometrična potrditev povečajo varnost."
+    },
+    {
+      "question": "Kaj naredimo, če dobimo sumljiv SMS?",
+      "options": [
+        "A) Kliknemo povezavo.",
+        "B) Ne klikamo povezav in preverimo pošiljatelja.",
+        "C) Odgovorimo s svojim geslom."
+      ],
+      "correct": 1,
+      "explanation": "SMS prevare so danes zelo pogoste."
+    },
+    {
+      "question": "Kaj je lažna spletna stran?",
+      "options": [
+        "A) Stran z veliko slikami.",
+        "B) Stran, ki posnema pravo stran z namenom kraje podatkov.",
+        "C) Stran brez barv."
+      ],
+      "correct": 1,
+      "explanation": "Lažne strani so lahko skoraj enake pravim, zato preverimo spletni naslov."
+    },
+    {
+      "question": "Kako preverimo, ali je spletna stran prava?",
+      "options": [
+        "A) Pogledamo samo sliko logotipa.",
+        "B) Preverimo spletni naslov in ali uporabljamo uradno stran.",
+        "C) Vpišemo vse podatke."
+      ],
+      "correct": 1,
+      "explanation": "Lažna stran ima pogosto nekoliko spremenjen naslov."
+    },
+    {
+      "question": "Kaj storimo, če nas pokliče neznana oseba in zahteva dostop do računalnika?",
+      "options": [
+        "A) Takoj ji omogočimo dostop.",
+        "B) Klic prekinemo in ne dovolimo oddaljenega dostopa.",
+        "C) Povemo geslo."
+      ],
+      "correct": 1,
+      "explanation": "Prevaranti se pogosto predstavljajo kot 'Microsoftova podpora' ali tehnična pomoč."
+    },
+    {
+      "question": "Kaj je oddaljeni dostop do računalnika?",
+      "options": [
+        "A) Izklop računalnika.",
+        "B) Možnost, da druga oseba upravlja naš računalnik prek interneta.",
+        "C) Tiskanje dokumenta."
+      ],
+      "correct": 1,
+      "explanation": "Oddaljeni dostop dovolimo samo osebam, ki jim popolnoma zaupamo."
+    },
+    {
+      "question": "Zakaj prevaranti uporabljajo občutek nujnosti?",
+      "options": [
+        "A) Da računalnik dela hitreje.",
+        "B) Da uporabnik ukrepa brez razmišljanja.",
+        "C) Da izboljšajo internet."
+      ],
+      "correct": 1,
+      "explanation": "Stavki kot 'ukrepajte takoj' so pogost znak prevare."
+    },
+    {
+      "question": "Ali lahko zaupamo vsaki fotografiji ali videu na internetu?",
+      "options": [
+        "A) Da, vse je resnično.",
+        "B) Ne, vsebine so lahko spremenjene ali zavajajoče.",
+        "C) Samo stare fotografije."
+      ],
+      "correct": 1,
+      "explanation": "Tudi slike in videi so lahko ponarejeni ali vzeti iz drugega konteksta."
+    },
+    {
+      "question": "Kaj naredimo, če smo že vnesli geslo na sumljivi strani?",
+      "options": [
+        "A) Nič.",
+        "B) Takoj spremenimo geslo in preverimo račun.",
+        "C) Objavimo geslo."
+      ],
+      "correct": 1,
+      "explanation": "Hitro ukrepanje lahko prepreči zlorabo računa."
+    },
+    {
+      "question": "Zakaj moramo posodabljati programe in sistem?",
+      "options": [
+        "A) Zaradi lepših ikon.",
+        "B) Ker posodobitve odpravljajo varnostne napake.",
+        "C) Ker izbrišejo dokumente."
+      ],
+      "correct": 1,
+      "explanation": "Stare različice programov so lahko lažja tarča napadalcev."
+    },
+    {
+      "question": "Kaj je protivirusni program?",
+      "options": [
+        "A) Program za gledanje filmov.",
+        "B) Program, ki pomaga odkrivati in odstranjevati škodljivo programsko opremo.",
+        "C) Program za tiskanje."
+      ],
+      "correct": 1,
+      "explanation": "Protivirusna zaščita pomaga zmanjšati tveganje okužb."
+    },
+    {
+      "question": "Kaj je zlonamerna programska oprema (malware)?",
+      "options": [
+        "A) Koristen program.",
+        "B) Program, ki lahko škoduje računalniku ali krade podatke.",
+        "C) Posodobitev Windows."
+      ],
+      "correct": 1,
+      "explanation": "Virusi, trojanci in izsiljevalski programi spadajo med malware."
+    },
+    {
+      "question": "Zakaj ne objavljamo preveč osebnih podatkov na družbenih omrežjih?",
+      "options": [
+        "A) Ker internet postane počasnejši.",
+        "B) Ker jih lahko zlorabijo neznane osebe.",
+        "C) Ker fotografije izginejo."
+      ],
+      "correct": 1,
+      "explanation": "Podatki, kot so naslov, potovanja in navade, lahko pomagajo prevarantom."
+    },
+    {
+      "question": "Kaj storimo, če prijateljev račun pošlje nenavadno sporočilo?",
+      "options": [
+        "A) Takoj mu pošljemo denar.",
+        "B) Preverimo pri prijatelju, ali je sporočilo res njegovo.",
+        "C) Posredujemo vsem."
+      ],
+      "correct": 1,
+      "explanation": "Napadalci lahko prevzamejo račune in pošiljajo sporočila v imenu drugih."
+    },
+    {
+      "question": "Zakaj je varnostna kopija pomembna?",
+      "options": [
+        "A) Ker izboljša barve zaslona.",
+        "B) Ker lahko obnovimo podatke po izgubi ali napadu.",
+        "C) Ker poveča hitrost interneta."
+      ],
+      "correct": 1,
+      "explanation": "Kopije pomembnih podatkov so zaščita pred izgubo."
+    },
+    {
+      "question": "Katera navada najbolj poveča varnost na internetu?",
+      "options": [
+        "A) Kliknemo vse povezave.",
+        "B) Razmišljamo pred klikom, varujemo gesla in preverjamo informacije.",
+        "C) Gesla shranimo na list ob računalniku."
+      ],
+      "correct": 1,
+      "explanation": "Najpomembnejša zaščita je previdno vedenje uporabnika."
+    },
+    {
+      "question": "Kaj je najbolj pomembno pravilo pri spletni varnosti?",
+      "options": [
+        "A) Verjamemo vsakemu sporočilu.",
+        "B) Ne zaupamo slepo, preverjamo in varujemo svoje podatke.",
+        "C) Vsem povemo svoje geslo."
+      ],
+      "correct": 1,
+      "explanation": "Najboljši varnostni program je še vedno premišljen uporabnik."
+    }
+  ]
+}

@@ -1,0 +1,327 @@
+Kviz 21: Windows 10 – bližnjice na tipkovnici in učinkovitejša uporaba računalnika
+
+1.
+
+Vprašanje: Kaj je tipka Windows na tipkovnici?
+
+Odgovori:
+
+A) Tipka za izklop računalnika.
+B) Tipka z logotipom Windows, ki odpira meni Start in omogoča bližnjice. ✅
+C) Tipka za tiskanje.
+
+Razlaga:
+Tipka Windows je zelo uporabna za hitro odpiranje programov in nastavitev.
+
+2.
+
+Vprašanje: Kaj se zgodi, če pritisnemo tipko Windows?
+
+Odgovori:
+
+A) Računalnik se izklopi.
+B) Odpre se meni Start. ✅
+C) Izbrišejo se datoteke.
+
+Razlaga:
+Meni Start omogoča dostop do programov, nastavitev in izklopa računalnika.
+
+3.
+
+Vprašanje: Kaj naredi bližnjica Ctrl + C?
+
+Odgovori:
+
+A) Zapre program.
+B) Kopira izbrano besedilo ali datoteko. ✅
+C) Izklopi zvok.
+
+Razlaga:
+Ctrl + C pomeni "Copy" oziroma kopiraj.
+
+4.
+
+Vprašanje: Kaj naredi bližnjica Ctrl + V?
+
+Odgovori:
+
+A) Shrani dokument.
+B) Prilepi prej kopirano vsebino. ✅
+C) Odpre internet.
+
+Razlaga:
+Po kopiranju uporabimo Ctrl + V, da vsebino prenesemo na novo mesto.
+
+5.
+
+Vprašanje: Kaj naredi bližnjica Ctrl + X?
+
+Odgovori:
+
+A) Izbriše računalnik.
+B) Izreže izbrano vsebino in jo pripravi za premik. ✅
+C) Odpre kalkulator.
+
+Razlaga:
+Ctrl + X uporabimo, kadar želimo nekaj premakniti.
+
+6.
+
+Vprašanje: Kaj naredi bližnjica Ctrl + Z?
+
+Odgovori:
+
+A) Zapre Windows.
+B) Razveljavi zadnje dejanje. ✅
+C) Poveča zaslon.
+
+Razlaga:
+Če po pomoti izbrišemo ali spremenimo nekaj v dokumentu, lahko pogosto uporabimo Ctrl + Z.
+
+7.
+
+Vprašanje: Kaj naredi bližnjica Ctrl + S?
+
+Odgovori:
+
+A) Išče po internetu.
+B) Shrani trenutno datoteko ali dokument. ✅
+C) Izklopi računalnik.
+
+Razlaga:
+Pogosto shranjevanje prepreči izgubo dela.
+
+8.
+
+Vprašanje: Kaj naredi bližnjica Ctrl + P?
+
+Odgovori:
+
+A) Odpre nastavitve.
+B) Odpre možnost tiskanja dokumenta. ✅
+C) Prilepi besedilo.
+
+Razlaga:
+P pomeni "Print" oziroma tiskanje.
+
+9.
+
+Vprašanje: Kaj naredi bližnjica Ctrl + A?
+
+Odgovori:
+
+A) Odpre novo okno.
+B) Izbere vse elemente v trenutnem oknu ali dokumentu. ✅
+C) Zapre program.
+
+Razlaga:
+A pomeni "All" oziroma vse.
+
+10.
+
+Vprašanje: Kaj naredi bližnjica Alt + Tab?
+
+Odgovori:
+
+A) Izklopi internet.
+B) Omogoča hitro preklapljanje med odprtimi programi. ✅
+C) Izbriše zgodovino.
+
+Razlaga:
+Uporabno je, ko imamo odprtih več programov hkrati.
+
+11.
+
+Vprašanje: Kako najhitreje odpremo iskanje v Windows 10?
+
+Odgovori:
+
+A) Pritisnemo tipko Delete.
+B) Kliknemo iskalno polje v opravilni vrstici ali uporabimo tipko Windows in začnemo tipkati. ✅
+C) Izklopimo računalnik.
+
+Razlaga:
+Iskanje v Windows pomaga najti programe, datoteke in nastavitve.
+
+12.
+
+Vprašanje: Kaj je opravilna vrstica v Windows?
+
+Odgovori:
+
+A) Del tiskalnika.
+B) Vrstica na dnu zaslona z gumbi za programe in obvestila. ✅
+C) Mapa za dokumente.
+
+Razlaga:
+Na opravilni vrstici vidimo odprte programe, uro, omrežje in zvok.
+
+Kviz 21: Windows 10 in bližnjice (13–25)
+13.
+
+Vprašanje: Kaj naredi bližnjica Windows + E?
+
+Odgovori:
+
+A) Odpre elektronsko pošto.
+B) Odpre Raziskovalec datotek. ✅
+C) Izklopi računalnik.
+
+Razlaga:
+To je hitra pot do map in datotek.
+
+14.
+
+Vprašanje: Kaj naredi bližnjica Windows + D?
+
+Odgovori:
+
+A) Izbriše namizje.
+B) Prikaže namizje oziroma skrije odprta okna. ✅
+C) Odpre dokument.
+
+Razlaga:
+Uporabno, kadar želimo hitro videti ikone na namizju.
+
+15.
+
+Vprašanje: Kaj je namizje v Windows?
+
+Odgovori:
+
+A) Fizična miza.
+B) Osnovni zaslon Windows z ikonami in ozadjem. ✅
+C) Trdi disk.
+
+Razlaga:
+Na namizju so lahko bližnjice do programov, map in datotek.
+
+16.
+
+Vprašanje: Kaj je ikona na namizju?
+
+Odgovori:
+
+A) Slika za okras.
+B) Simbol, ki predstavlja program, mapo ali datoteko. ✅
+C) Vrsta virusa.
+
+Razlaga:
+Z dvoklikom ikone običajno odpremo povezani program ali datoteko.
+
+17.
+
+Vprašanje: Kaj pomeni dvoklik z miško?
+
+Odgovori:
+
+A) Dvakratni pritisk leve tipke miške za odpiranje. ✅
+B) Premikanje računalnika.
+C) Izklop zaslona.
+
+Razlaga:
+Dvoklik se pogosto uporablja za odpiranje datotek in programov.
+
+18.
+
+Vprašanje: Kaj pomeni desni klik miške?
+
+Odgovori:
+
+A) Izbris vsega.
+B) Odpre dodatni meni z možnostmi. ✅
+C) Zapre Windows.
+
+Razlaga:
+Z desnim klikom lahko kopiramo, preimenujemo, brišemo in spreminjamo nastavitve.
+
+19.
+
+Vprašanje: Kako povečamo prikaz na zaslonu v mnogih programih?
+
+Odgovori:
+
+A) Ctrl + kolesce miške ali Ctrl + +. ✅
+B) Izklopimo računalnik.
+C) Odstranimo tipkovnico.
+
+Razlaga:
+Povečava je koristna za uporabnike, ki slabše vidijo manjše črke.
+
+20.
+
+Vprašanje: Kaj naredi tipka Delete?
+
+Odgovori:
+
+A) Shrani dokument.
+B) Izbriše izbrano datoteko ali besedilo (običajno v Koš). ✅
+C) Odpre internet.
+
+Razlaga:
+Pri brisanju pazimo, da ne odstranimo pomembnih podatkov.
+
+21.
+
+Vprašanje: Kaj je Koš v Windows?
+
+Odgovori:
+
+A) Mapa za viruse.
+B) Mesto, kamor se začasno shranijo izbrisane datoteke. ✅
+C) Program za tiskanje.
+
+Razlaga:
+Iz Koša lahko nekatere datoteke še obnovimo.
+
+22.
+
+Vprašanje: Kako zapremo odprt program?
+
+Odgovori:
+
+A) Izklopimo elektriko.
+B) Kliknemo gumb X v zgornjem desnem kotu okna. ✅
+C) Izbrišemo ikono.
+
+Razlaga:
+Zapiranje programa ne pomeni brisanja programa.
+
+23.
+
+Vprašanje: Kaj pomeni posodobitev Windows?
+
+Odgovori:
+
+A) Menjava računalnika.
+B) Namestitev izboljšav, popravkov in varnostnih posodobitev. ✅
+C) Brisanje dokumentov.
+
+Razlaga:
+Redne posodobitve izboljšajo varnost in stabilnost sistema.
+
+24.
+
+Vprašanje: Zakaj je koristno poznati bližnjice?
+
+Odgovori:
+
+A) Ker računalnik porabi več elektrike.
+B) Ker omogočajo hitrejše in učinkovitejše delo. ✅
+C) Ker odstranijo viruse.
+
+Razlaga:
+Bližnjice prihranijo čas pri vsakodnevnem delu.
+
+25.
+
+Vprašanje: Katera navada je najboljša pri delu z Windows?
+
+Odgovori:
+
+A) Nikoli ne shranjujemo dokumentov.
+B) Redno shranjujemo delo, posodabljamo sistem in urejamo datoteke. ✅
+C) Klikamo vse povezave.
+
+Razlaga:
+Urejeno in varno delo z računalnikom zmanjša možnost težav.

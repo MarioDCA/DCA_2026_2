@@ -1,0 +1,327 @@
+Kviz 19: Spletne prevare, phishing, lažna sporočila in varnost računov
+
+1.
+
+Vprašanje: Kaj je spletna prevara?
+
+Odgovori:
+
+A) Napaka v računalniku.
+B) Poskus, da bi nekdo z goljufijo pridobil denar, podatke ali dostop do računov. ✅
+C) Posodobitev programa.
+
+Razlaga:
+Spletni prevaranti uporabljajo različne načine, da bi uporabnika zavedli.
+
+2.
+
+Vprašanje: Kaj je phishing (ribarjenje)?
+
+Odgovori:
+
+A) Program za čiščenje računalnika.
+B) Poskus pridobivanja gesel ali podatkov z lažnimi sporočili in spletnimi stranmi. ✅
+C) Vrsta internetne povezave.
+
+Razlaga:
+Napadalci se pogosto pretvarjajo, da so banka, dostavna služba ali znano podjetje.
+
+3.
+
+Vprašanje: Kako pogosto izgleda lažno e-poštno sporočilo?
+
+Odgovori:
+
+A) Vedno je prazno.
+B) Posnema znano podjetje in zahteva klik na povezavo ali vnos podatkov. ✅
+C) Vedno vsebuje samo fotografije.
+
+Razlaga:
+Lažna sporočila so lahko zelo podobna pravim, zato moramo biti previdni.
+
+4.
+
+Vprašanje: Kaj naredimo, če dobimo sporočilo, ki zahteva takojšnjo prijavo v banko?
+
+Odgovori:
+
+A) Takoj kliknemo povezavo.
+B) Ne klikamo povezave in preverimo pri banki prek uradne poti. ✅
+C) Posredujemo sporočilo prijateljem.
+
+Razlaga:
+Banke praviloma ne zahtevajo vnosa gesel prek povezav v e-pošti ali SMS sporočilih.
+
+5.
+
+Vprašanje: Kaj je sumljiv znak v elektronskem sporočilu?
+
+Odgovori:
+
+A) Lep pozdrav na koncu.
+B) Zahteva po geslu, plačilu ali nujnem ukrepanju. ✅
+C) Datum sporočila.
+
+Razlaga:
+Prevaranti pogosto ustvarjajo strah ali občutek nujnosti.
+
+6.
+
+Vprašanje: Ali smemo komu povedati svoje geslo za spletno banko?
+
+Odgovori:
+
+A) Da, če lepo prosi.
+B) Ne, gesla nikoli ne delimo z drugimi. ✅
+C) Samo po telefonu.
+
+Razlaga:
+Banka, Microsoft, Google ali druga podjetja nikoli ne potrebujejo našega gesla.
+
+7.
+
+Vprašanje: Kaj je močno geslo?
+
+Odgovori:
+
+A) Ime in datum rojstva.
+B) Daljše geslo z različnimi znaki, ki ga drugi težko uganejo. ✅
+C) Beseda "geslo".
+
+Razlaga:
+Močno geslo zmanjšuje možnost vdora v račun.
+
+8.
+
+Vprašanje: Zakaj ni dobro uporabljati istega gesla povsod?
+
+Odgovori:
+
+A) Ker računalnik postane počasnejši.
+B) Ker lahko ob kraji enega gesla napadalec dostopa do več računov. ✅
+C) Ker internet ne deluje.
+
+Razlaga:
+Vsak pomemben račun naj ima svoje geslo.
+
+9.
+
+Vprašanje: Kaj je dvostopenjska prijava (2FA)?
+
+Odgovori:
+
+A) Dvakrat vnesemo isto geslo.
+B) Poleg gesla uporabimo še dodatno potrditev identitete. ✅
+C) Uporabimo dva računalnika.
+
+Razlaga:
+Dodatna koda SMS, aplikacija ali biometrična potrditev povečajo varnost.
+
+10.
+
+Vprašanje: Kaj naredimo, če dobimo sumljiv SMS?
+
+Odgovori:
+
+A) Kliknemo povezavo.
+B) Ne klikamo povezav in preverimo pošiljatelja. ✅
+C) Odgovorimo s svojim geslom.
+
+Razlaga:
+SMS prevare so danes zelo pogoste.
+
+11.
+
+Vprašanje: Kaj je lažna spletna stran?
+
+Odgovori:
+
+A) Stran z veliko slikami.
+B) Stran, ki posnema pravo stran z namenom kraje podatkov. ✅
+C) Stran brez barv.
+
+Razlaga:
+Lažne strani so lahko skoraj enake pravim, zato preverimo spletni naslov.
+
+12.
+
+Vprašanje: Kako preverimo, ali je spletna stran prava?
+
+Odgovori:
+
+A) Pogledamo samo sliko logotipa.
+B) Preverimo spletni naslov in ali uporabljamo uradno stran. ✅
+C) Vpišemo vse podatke.
+
+Razlaga:
+Lažna stran ima pogosto nekoliko spremenjen naslov.
+
+Kviz 19: Spletne prevare in varnost (13–25)
+13.
+
+Vprašanje: Kaj storimo, če nas pokliče neznana oseba in zahteva dostop do računalnika?
+
+Odgovori:
+
+A) Takoj ji omogočimo dostop.
+B) Klic prekinemo in ne dovolimo oddaljenega dostopa. ✅
+C) Povemo geslo.
+
+Razlaga:
+Prevaranti se pogosto predstavljajo kot "Microsoftova podpora" ali tehnična pomoč.
+
+14.
+
+Vprašanje: Kaj je oddaljeni dostop do računalnika?
+
+Odgovori:
+
+A) Izklop računalnika.
+B) Možnost, da druga oseba upravlja naš računalnik prek interneta. ✅
+C) Tiskanje dokumenta.
+
+Razlaga:
+Oddaljeni dostop dovolimo samo osebam, ki jim popolnoma zaupamo.
+
+15.
+
+Vprašanje: Zakaj prevaranti uporabljajo občutek nujnosti?
+
+Odgovori:
+
+A) Da računalnik dela hitreje.
+B) Da uporabnik ukrepa brez razmišljanja. ✅
+C) Da izboljšajo internet.
+
+Razlaga:
+Stavki kot "ukrepajte takoj" so pogost znak prevare.
+
+16.
+
+Vprašanje: Ali lahko zaupamo vsaki fotografiji ali videu na internetu?
+
+Odgovori:
+
+A) Da, vse je resnično.
+B) Ne, vsebine so lahko spremenjene ali zavajajoče. ✅
+C) Samo stare fotografije.
+
+Razlaga:
+Tudi slike in videi so lahko ponarejeni ali vzeti iz drugega konteksta.
+
+17.
+
+Vprašanje: Kaj naredimo, če smo že vnesli geslo na sumljivi strani?
+
+Odgovori:
+
+A) Nič.
+B) Takoj spremenimo geslo in preverimo račun. ✅
+C) Objavimo geslo.
+
+Razlaga:
+Hitro ukrepanje lahko prepreči zlorabo računa.
+
+18.
+
+Vprašanje: Zakaj moramo posodabljati programe in sistem?
+
+Odgovori:
+
+A) Zaradi lepših ikon.
+B) Ker posodobitve odpravljajo varnostne napake. ✅
+C) Ker izbrišejo dokumente.
+
+Razlaga:
+Stare različice programov so lahko lažja tarča napadalcev.
+
+19.
+
+Vprašanje: Kaj je protivirusni program?
+
+Odgovori:
+
+A) Program za gledanje filmov.
+B) Program, ki pomaga odkrivati in odstranjevati škodljivo programsko opremo. ✅
+C) Program za tiskanje.
+
+Razlaga:
+Protivirusna zaščita pomaga zmanjšati tveganje okužb.
+
+20.
+
+Vprašanje: Kaj je zlonamerna programska oprema (malware)?
+
+Odgovori:
+
+A) Koristen program.
+B) Program, ki lahko škoduje računalniku ali krade podatke. ✅
+C) Posodobitev Windows.
+
+Razlaga:
+Virusi, trojanci in izsiljevalski programi spadajo med malware.
+
+21.
+
+Vprašanje: Zakaj ne objavljamo preveč osebnih podatkov na družbenih omrežjih?
+
+Odgovori:
+
+A) Ker internet postane počasnejši.
+B) Ker jih lahko zlorabijo neznane osebe. ✅
+C) Ker fotografije izginejo.
+
+Razlaga:
+Podatki, kot so naslov, potovanja in navade, lahko pomagajo prevarantom.
+
+22.
+
+Vprašanje: Kaj storimo, če prijateljev račun pošlje nenavadno sporočilo?
+
+Odgovori:
+
+A) Takoj mu pošljemo denar.
+B) Preverimo pri prijatelju, ali je sporočilo res njegovo. ✅
+C) Posredujemo vsem.
+
+Razlaga:
+Napadalci lahko prevzamejo račune in pošiljajo sporočila v imenu drugih.
+
+23.
+
+Vprašanje: Zakaj je varnostna kopija pomembna?
+
+Odgovori:
+
+A) Ker izboljša barve zaslona.
+B) Ker lahko obnovimo podatke po izgubi ali napadu. ✅
+C) Ker poveča hitrost interneta.
+
+Razlaga:
+Kopije pomembnih podatkov so zaščita pred izgubo.
+
+24.
+
+Vprašanje: Katera navada najbolj poveča varnost na internetu?
+
+Odgovori:
+
+A) Kliknemo vse povezave.
+B) Razmišljamo pred klikom, varujemo gesla in preverjamo informacije. ✅
+C) Gesla shranimo na list ob računalniku.
+
+Razlaga:
+Najpomembnejša zaščita je previdno vedenje uporabnika.
+
+25.
+
+Vprašanje: Kaj je najbolj pomembno pravilo pri spletni varnosti?
+
+Odgovori:
+
+A) Verjamemo vsakemu sporočilu.
+B) Ne zaupamo slepo, preverjamo in varujemo svoje podatke. ✅
+C) Vsem povemo svoje geslo.
+
+Razlaga:
+Najboljši varnostni program je še vedno premišljen uporabnik.

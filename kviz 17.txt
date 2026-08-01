@@ -1,0 +1,327 @@
+Kviz 17: Internet – iskanje informacij, Google, spletne strani in preverjanje virov
+
+1.
+
+Vprašanje: Kaj je internet?
+
+Odgovori:
+
+A) Program za pisanje besedil.
+B) Globalno omrežje, ki povezuje računalnike in druge naprave. ✅
+C) Vrsta računalniškega virusa.
+
+Razlaga:
+Internet omogoča dostop do spletnih strani, elektronske pošte, videov, novic in številnih storitev.
+
+2.
+
+Vprašanje: Kaj je spletni brskalnik?
+
+Odgovori:
+
+A) Program za tiskanje.
+B) Program, s katerim odpiramo spletne strani. ✅
+C) Program za čiščenje zaslona.
+
+Razlaga:
+Primeri brskalnikov so Google Chrome, Microsoft Edge, Firefox in Safari.
+
+3.
+
+Vprašanje: Kaj je spletni naslov (URL)?
+
+Odgovori:
+
+A) Geslo za računalnik.
+B) Naslov, po katerem najdemo določeno spletno stran. ✅
+C) Telefonska številka.
+
+Razlaga:
+Primer spletnega naslova je naslov spletne strani, ki ga vpišemo v vrstico brskalnika.
+
+4.
+
+Vprašanje: Kje v brskalnik vpišemo besede za iskanje?
+
+Odgovori:
+
+A) V Koš.
+B) V naslovno oziroma iskalno vrstico. ✅
+C) V kalkulator.
+
+Razlaga:
+V iskalno vrstico lahko vpišemo vprašanje ali ključne besede.
+
+5.
+
+Vprašanje: Kaj je Google?
+
+Odgovori:
+
+A) Vrsta računalnika.
+B) Iskalnik za iskanje informacij na internetu. ✅
+C) Program za risanje.
+
+Razlaga:
+Google je eden najbolj uporabljenih spletnih iskalnikov.
+
+6.
+
+Vprašanje: Kaj so ključne besede pri iskanju?
+
+Odgovori:
+
+A) Geslo za internet.
+B) Besede ali izrazi, ki opisujejo, kaj iščemo. ✅
+C) Imena datotek na računalniku.
+
+Razlaga:
+Bolj natančne ključne besede običajno dajo boljše rezultate.
+
+7.
+
+Vprašanje: Kateri način iskanja je običajno bolj učinkovit?
+
+Odgovori:
+
+A) Napišemo samo "nekaj".
+B) Uporabimo več natančnih besed, ki opisujejo iskanje. ✅
+C) Vedno kliknemo prvi rezultat.
+
+Razlaga:
+Namesto "recept" je bolje napisati na primer "recept za jabolčni zavitek".
+
+8.
+
+Vprašanje: Kaj je rezultat iskanja?
+
+Odgovori:
+
+A) Program, ki se namesti na računalnik.
+B) Seznam spletnih strani, ki ustrezajo iskanju. ✅
+C) Vrsta datoteke.
+
+Razlaga:
+Iskalnik prikaže strani, za katere meni, da so povezane z našim vprašanjem.
+
+9.
+
+Vprašanje: Kaj so oglasi v Googlovem iskanju?
+
+Odgovori:
+
+A) Vedno najboljši odgovor.
+B) Plačane povezave, ki so prikazane poleg rezultatov iskanja. ✅
+C) Virusi.
+
+Razlaga:
+Oglasi so lahko koristni, vendar niso nujno najboljši ali najbolj zanesljiv rezultat.
+
+10.
+
+Vprašanje: Zakaj ni dobro vedno klikniti prvega rezultata iskanja?
+
+Odgovori:
+
+A) Ker računalnik ugasne.
+B) Ker je lahko prvi rezultat oglas ali manj zanesljiva stran. ✅
+C) Ker internet preneha delovati.
+
+Razlaga:
+Vedno preverimo več virov, posebej pri pomembnih informacijah.
+
+11.
+
+Vprašanje: Kaj je zaznamek (bookmark) v brskalniku?
+
+Odgovori:
+
+A) Vrsta virusa.
+B) Shranjena povezava do priljubljene spletne strani. ✅
+C) Geslo za internet.
+
+Razlaga:
+Zaznamki omogočajo hiter dostop do pogosto obiskanih strani.
+
+12.
+
+Vprašanje: Kako shranimo spletno stran med zaznamke?
+
+Odgovori:
+
+A) Izklopimo računalnik.
+B) Kliknemo možnost za dodajanje zaznamka oziroma priljubljene strani. ✅
+C) Izbrišemo zgodovino.
+
+Razlaga:
+Tako nam ni treba vsakič znova iskati iste spletne strani.
+
+Kviz 17: Internet in preverjanje informacij (13–25)
+13.
+
+Vprašanje: Kaj je lažna novica (fake news)?
+
+Odgovori:
+
+A) Novica, napisana z velikimi črkami.
+B) Neresnična ali zavajajoča informacija, predstavljena kot novica. ✅
+C) Novica iz časopisa.
+
+Razlaga:
+Na internetu lahko vsak objavi informacijo, zato je pomembno preverjanje virov.
+
+14.
+
+Vprašanje: Kako preverimo, ali je spletna informacija zanesljiva?
+
+Odgovori:
+
+A) Verjamemo vsaki objavi.
+B) Preverimo vir, avtorja in primerjamo informacije z drugimi stranmi. ✅
+C) Pogledamo samo sliko.
+
+Razlaga:
+Več zanesljivih virov daje večjo verjetnost, da je informacija pravilna.
+
+15.
+
+Vprašanje: Zakaj moramo biti previdni pri spletnih nasvetih o zdravju?
+
+Odgovori:
+
+A) Ker zdravje nima povezave z internetom.
+B) Ker niso vse informacije strokovno preverjene. ✅
+C) Ker splet ne prikazuje slik.
+
+Razlaga:
+Pri zdravstvenih vprašanjih se zanašamo predvsem na preverjene strokovne vire.
+
+16.
+
+Vprašanje: Kaj je povezava (link) na spletni strani?
+
+Odgovori:
+
+A) Gumb za izklop računalnika.
+B) Klikljiv element, ki nas odpre na drugo stran ali vsebino. ✅
+C) Vrsta dokumenta.
+
+Razlaga:
+S klikom na povezavo se premaknemo na drugo spletno mesto ali dokument.
+
+17.
+
+Vprašanje: Zakaj moramo biti previdni pri klikanju povezav v e-pošti?
+
+Odgovori:
+
+A) Ker se lahko spremeni tipkovnica.
+B) Ker lahko povezava vodi na lažno ali nevarno spletno stran. ✅
+C) Ker internet postane hitrejši.
+
+Razlaga:
+Prevaranti pogosto uporabljajo lažne povezave za krajo gesel.
+
+18.
+
+Vprašanje: Kaj pomeni "https" na začetku spletnega naslova?
+
+Odgovori:
+
+A) Da je stran vedno brez napak.
+B) Da je povezava med uporabnikom in stranjo šifrirana. ✅
+C) Da je stran plačljiva.
+
+Razlaga:
+HTTPS poveča varnost povezave, vendar še ne pomeni, da je stran nujno zaupanja vredna.
+
+19.
+
+Vprašanje: Kaj je zgodovina brskalnika?
+
+Odgovori:
+
+A) Seznam nameščenih programov.
+B) Seznam spletnih strani, ki smo jih obiskali. ✅
+C) Seznam gesel.
+
+Razlaga:
+Zgodovina pomaga najti prej obiskane strani.
+
+20.
+
+Vprašanje: Zakaj lahko izbrišemo zgodovino brskalnika?
+
+Odgovori:
+
+A) Da internet deluje dvakrat hitreje.
+B) Zaradi zasebnosti in urejenosti brskalnika. ✅
+C) Da dobimo več prostora za fotografije.
+
+Razlaga:
+Brisanje zgodovine odstrani zapis o obiskanih straneh na napravi.
+
+21.
+
+Vprašanje: Kaj je prenos datoteke iz interneta?
+
+Odgovori:
+
+A) Izbris spletne strani.
+B) Kopiranje datoteke iz interneta na naš računalnik ali telefon. ✅
+C) Izklop Wi-Fi.
+
+Razlaga:
+Prenesemo lahko dokumente, slike, programe in druge datoteke.
+
+22.
+
+Vprašanje: Zakaj ne prenašamo programov iz neznanih spletnih strani?
+
+Odgovori:
+
+A) Ker imajo lahko napačno barvo.
+B) Ker lahko vsebujejo škodljivo programsko opremo. ✅
+C) Ker zavzamejo manj prostora.
+
+Razlaga:
+Programe nameščamo predvsem iz uradnih in zaupanja vrednih virov.
+
+23.
+
+Vprašanje: Kaj storimo, če spletna stran zahteva nenavadne podatke?
+
+Odgovori:
+
+A) Vnesemo vse podatke.
+B) Preverimo stran in ne posredujemo nepotrebnih podatkov. ✅
+C) Pošljemo svoje geslo.
+
+Razlaga:
+Osebnih podatkov ne vpisujemo na sumljive spletne strani.
+
+24.
+
+Vprašanje: Zakaj je koristno primerjati informacije iz več virov?
+
+Odgovori:
+
+A) Ker internet postane hitrejši.
+B) Ker lahko odkrijemo napake ali zavajajoče informacije. ✅
+C) Ker računalnik dobi več pomnilnika.
+
+Razlaga:
+Primerjava virov pomaga ločiti dejstva od napačnih informacij.
+
+25.
+
+Vprašanje: Katera navada je najboljša pri uporabi interneta?
+
+Odgovori:
+
+A) Kliknemo vsako povezavo.
+B) Razmišljamo pred klikom, preverjamo vire in varujemo osebne podatke. ✅
+C) Uporabljamo isto geslo povsod.
+
+Razlaga:
+Pametna in previdna uporaba interneta je najboljša zaščita pred prevarami.

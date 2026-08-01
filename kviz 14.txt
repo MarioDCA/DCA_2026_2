@@ -1,0 +1,327 @@
+Kviz 14: Windows 10 – nastavitve računalnika in prilagajanje okolja
+
+1.
+
+Vprašanje: Kaj je namizje v sistemu Windows?
+
+Odgovori:
+
+A) Del računalnika, kjer je procesor.
+B) Osnovni zaslon, ki ga vidimo po prijavi v Windows. ✅
+C) Program za pisanje besedil.
+
+Razlaga:
+Na namizju so lahko ikone programov, map in datotek, ki jih pogosto uporabljamo.
+
+2.
+
+Vprašanje: Kaj je ikona na namizju?
+
+Odgovori:
+
+A) Vrsta virusa.
+B) Majhna slika, ki predstavlja program, mapo ali datoteko. ✅
+C) Geslo za računalnik.
+
+Razlaga:
+Z dvojnim klikom na ikono običajno odpremo program ali datoteko.
+
+3.
+
+Vprašanje: Kaj je opravilna vrstica v Windows?
+
+Odgovori:
+
+A) Kabel za internet.
+B) Vrstica običajno na dnu zaslona z gumbom Start in ikonami programov. ✅
+C) Vrata za USB ključek.
+
+Razlaga:
+Opravilna vrstica omogoča hiter dostop do pogosto uporabljenih programov.
+
+4.
+
+Vprašanje: Čemu služi gumb Start?
+
+Odgovori:
+
+A) Za izklop zaslona.
+B) Za odpiranje menija z aplikacijami, nastavitvami in možnostmi za izklop računalnika. ✅
+C) Za povečanje glasnosti.
+
+Razlaga:
+Prek gumba Start dostopamo do večine funkcij sistema Windows.
+
+5.
+
+Vprašanje: Kje v Windows najdemo glavne nastavitve računalnika?
+
+Odgovori:
+
+A) V Košu.
+B) V Nastavitvah (Settings). ✅
+C) V Raziskovalcu fotografij.
+
+Razlaga:
+Nastavitve omogočajo spreminjanje zaslona, zvoka, omrežja, naprav in drugih možnosti.
+
+6.
+
+Vprašanje: Kako odpremo Nastavitve v Windows 10?
+
+Odgovori:
+
+A) Kliknemo uro.
+B) Kliknemo Start in izberemo Nastavitve ali uporabimo bližnjico Windows + I. ✅
+C) Odpremo Koš.
+
+Razlaga:
+Bližnjica Windows + I hitro odpre okno Nastavitve.
+
+7.
+
+Vprašanje: Kako povečamo velikost besedila na zaslonu?
+
+Odgovori:
+
+A) Zamenjamo tipkovnico.
+B) V Nastavitvah spremenimo velikost besedila ali povečavo zaslona. ✅
+C) Izklopimo internet.
+
+Razlaga:
+Večja pisava je pogosto koristna za uporabnike s slabšim vidom.
+
+8.
+
+Vprašanje: Kako spremenimo sliko ozadja namizja?
+
+Odgovori:
+
+A) Izbrišemo vse ikone.
+B) Z desnim klikom na namizje izberemo Prilagodi (Personalize). ✅
+C) Izključimo računalnik.
+
+Razlaga:
+V možnostih Prilagajanje lahko spremenimo ozadje, barve in videz sistema.
+
+9.
+
+Vprašanje: Kako povečamo ali zmanjšamo glasnost računalnika?
+
+Odgovori:
+
+A) S pritiskom tipke Delete.
+B) Z ikono zvočnika v opravilni vrstici. ✅
+C) S klikom na uro.
+
+Razlaga:
+Ikona zvočnika omogoča hitro nastavitev glasnosti.
+
+10.
+
+Vprašanje: Kaj storimo, če računalnik nima zvoka?
+
+Odgovori:
+
+A) Takoj kupimo nov računalnik.
+B) Preverimo glasnost, priklop zvočnikov in izbrano zvočno napravo. ✅
+C) Izbrišemo Windows.
+
+Razlaga:
+Pogosto je težava samo v izklopljenem zvoku ali napačno izbrani napravi.
+
+11.
+
+Vprašanje: Kako povežemo računalnik z brezžičnim omrežjem Wi-Fi?
+
+Odgovori:
+
+A) Prek Koša.
+B) Izberemo ikono omrežja in izberemo ustrezno Wi-Fi omrežje. ✅
+C) Izklopimo Bluetooth.
+
+Razlaga:
+Za povezavo potrebujemo ime omrežja (SSID) in pogosto geslo.
+
+12.
+
+Vprašanje: Kaj pomeni posodobitev sistema Windows?
+
+Odgovori:
+
+A) Izbris vseh programov.
+B) Namestitev izboljšav, popravkov napak in varnostnih posodobitev. ✅
+C) Spreminjanje barve zaslona.
+
+Razlaga:
+Redne posodobitve pomagajo ohranjati računalnik varnejši in stabilnejši.
+
+Kviz 14: Windows 10 – nastavitve in prilagajanje (13–25)
+13.
+
+Vprašanje: Zakaj je pomembno redno posodabljati Windows?
+
+Odgovori:
+
+A) Ker se spremeni ozadje.
+B) Ker posodobitve odpravljajo napake in izboljšujejo varnost. ✅
+C) Ker računalnik dobi nov zaslon.
+
+Razlaga:
+Neposodobljen računalnik je bolj izpostavljen varnostnim tveganjem.
+
+14.
+
+Vprašanje: Kaj je privzeti program?
+
+Odgovori:
+
+A) Program, ki je vedno najdražji.
+B) Program, ki ga Windows sam uporabi za določeno vrsto datoteke ali opravilo. ✅
+C) Program brez ikone.
+
+Razlaga:
+Na primer: PDF lahko odpira privzeti brskalnik ali program za PDF.
+
+15.
+
+Vprašanje: Kako odstranimo program, ki ga ne uporabljamo?
+
+Odgovori:
+
+A) Izbrišemo samo ikono na namizju.
+B) V Nastavitvah odpremo Aplikacije in program odstranimo. ✅
+C) Izključimo računalnik.
+
+Razlaga:
+Brisanje ikone ne odstrani programa, ampak samo bližnjico.
+
+16.
+
+Vprašanje: Kaj je uporabniški račun v Windows?
+
+Odgovori:
+
+A) Vrsta tiskalnika.
+B) Račun, s katerim se uporabnik prijavi in uporablja računalnik. ✅
+C) Internetni kabel.
+
+Razlaga:
+Vsak uporabnik lahko ima svoje nastavitve, datoteke in geslo.
+
+17.
+
+Vprašanje: Zakaj uporabljamo geslo za prijavo v računalnik?
+
+Odgovori:
+
+A) Da se računalnik hitreje vklopi.
+B) Da zaščitimo svoje podatke pred drugimi uporabniki. ✅
+C) Da internet deluje bolje.
+
+Razlaga:
+Geslo pomaga zaščititi osebne dokumente, fotografije in nastavitve.
+
+18.
+
+Vprašanje: Kaj je zaklep zaslona?
+
+Odgovori:
+
+A) Izklop računalnika.
+B) Začasno zaklepanje računalnika brez odjave uporabnika. ✅
+C) Brisanje datotek.
+
+Razlaga:
+Uporabno je, ko za kratek čas zapustimo računalnik.
+
+19.
+
+Vprašanje: Kako hitro zaklenemo računalnik?
+
+Odgovori:
+
+A) Ctrl + Alt + Delete.
+B) Windows + L. ✅
+C) Alt + F4.
+
+Razlaga:
+Bližnjica Windows + L takoj zaklene zaslon.
+
+20.
+
+Vprašanje: Kaj pomeni ponovni zagon računalnika?
+
+Odgovori:
+
+A) Izbris vseh podatkov.
+B) Računalnik se izklopi in ponovno zažene. ✅
+C) Sprememba gesla.
+
+Razlaga:
+Ponovni zagon pogosto pomaga pri manjših težavah sistema.
+
+21.
+
+Vprašanje: Kaj je tiskalnik v Windows?
+
+Odgovori:
+
+A) Program za risanje.
+B) Naprava, ki natisne dokumente ali slike na papir. ✅
+C) Vrsta datoteke.
+
+Razlaga:
+Windows omogoča dodajanje in upravljanje različnih tiskalnikov.
+
+22.
+
+Vprašanje: Kaj storimo, če Windows ne najde tiskalnika?
+
+Odgovori:
+
+A) Izbrišemo vse dokumente.
+B) Preverimo povezavo, napajanje in nastavitve tiskalnika. ✅
+C) Zamenjamo tipkovnico.
+
+Razlaga:
+Pogosto je vzrok izključen tiskalnik ali napačna povezava Wi-Fi.
+
+23.
+
+Vprašanje: Kaj pomeni privzeti tiskalnik?
+
+Odgovori:
+
+A) Najstarejši tiskalnik.
+B) Tiskalnik, ki ga Windows sam izbere za tiskanje. ✅
+C) Pokvarjen tiskalnik.
+
+Razlaga:
+Če imamo več tiskalnikov, Windows uporablja izbranega kot privzetega.
+
+24.
+
+Vprašanje: Zakaj je koristno poznati osnovne nastavitve Windows?
+
+Odgovori:
+
+A) Ker lahko popravimo vsak pokvarjen računalnik.
+B) Ker lažje prilagodimo računalnik svojim potrebam. ✅
+C) Ker ne potrebujemo več programov.
+
+Razlaga:
+Osnovno poznavanje nastavitev naredi uporabo računalnika lažjo in prijetnejšo.
+
+25.
+
+Vprašanje: Katera navada je najboljša pri uporabi Windows?
+
+Odgovori:
+
+A) Nikoli ne posodabljamo sistema.
+B) Redno posodabljamo Windows, urejamo datoteke in skrbimo za varnost. ✅
+C) Vse datoteke shranjujemo na namizje.
+
+Razlaga:
+Urejen in posodobljen računalnik je varnejši ter lažji za uporabo.
