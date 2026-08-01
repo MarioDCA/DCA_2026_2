@@ -222,29 +222,30 @@ h2 {
     color: var(--info-blue);
 }
 
-#ime {
-    width: 320px;
-    max-width: 80%;
-    font-size: 20px;
-    padding: 10px;
-    margin-bottom: 15px;
-    border-radius: 8px;
-    border: 1px solid var(--border-light);
-    text-align: center;
-    background: var(--bg-card);
-    color: var(--text-primary);
-}
-
 #introStep0 {
     text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+}
+
+#introStep2 {
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
 }
 
 #izbiraKategorije {
-    width: 320px;
-    max-width: 80%;
+    width: 100%;
+    max-width: 600px;
     font-size: 17px;
     padding: 10px;
-    margin: 0 auto 15px auto;
+    margin: 0 auto 10px auto;
     border-radius: 8px;
     border: 1px solid var(--border-light);
     background: var(--bg-card);
@@ -253,14 +254,15 @@ h2 {
     text-align: center;
     text-align-last: center;
     display: block;
+    box-sizing: border-box;
 }
 
 #izbiraKviza {
-    width: 320px;
-    max-width: 80%;
+    width: 100%;
+    max-width: 600px;
     font-size: 17px;
     padding: 10px;
-    margin: 0 auto 15px auto;
+    margin: 0 auto 10px auto;
     border-radius: 8px;
     border: 1px solid var(--border-light);
     background: var(--bg-card);
@@ -269,10 +271,40 @@ h2 {
     text-align: center;
     text-align-last: center;
     display: none;
+    box-sizing: border-box;
+}
+
+#izberiKvizBtn {
+    width: 100%;
+    max-width: 600px;
+    font-size: 22px;
+    padding: 12px;
+    border-radius: 10px;
+    cursor: pointer;
+    transition: 0.3s;
+    background: var(--btn-hover);
+    border: 1px solid var(--border-light);
+    color: var(--text-primary);
+    display: none;
+    box-sizing: border-box;
+}
+#izberiKvizBtn:hover {
+    background: var(--btn-start-hover);
+}
+#izberiKvizBtn[style*="display: block"] {
+    display: block !important;
+    margin: 0 auto !important;
+}
+
+/* ko se prikaže, ostane centriran */
+#izbiraKviza[style*="display: block"] {
+    display: block !important;
+    margin: 0 auto 10px auto !important;
 }
 
 #izbiraKategorije:focus-visible,
-#izbiraKviza:focus-visible {
+#izbiraKviza:focus-visible,
+#izberiKvizBtn:focus-visible {
     outline: 3px solid var(--info-blue);
     outline-offset: 2px;
 }
@@ -322,8 +354,9 @@ h2 {
     outline-offset: 2px;
 }
 
-#startBtn, #nextBtn, #izberiKvizBtn {
+#startBtn {
     width: 100%;
+    max-width: 600px;
     font-size: 22px;
     padding: 12px;
     border-radius: 10px;
@@ -332,21 +365,45 @@ h2 {
     background: var(--btn-hover);
     border: 1px solid var(--border-light);
     color: var(--text-primary);
+    margin: 0 auto;
+    display: block;
 }
-#startBtn:hover, #nextBtn:hover, #izberiKvizBtn:hover {
+#startBtn:hover {
+    background: var(--btn-start-hover);
+}
+
+#nextBtn {
+    width: 100%;
+    max-width: 600px;
+    font-size: 22px;
+    padding: 12px;
+    border-radius: 10px;
+    cursor: pointer;
+    transition: 0.3s;
+    background: var(--btn-hover);
+    border: 1px solid var(--border-light);
+    color: var(--text-primary);
+    margin: 0 auto;
+    display: block;
+}
+#nextBtn:hover {
     background: var(--btn-start-hover);
 }
 
 #infoBtn, #infoBtn2 {
     width: 100%;
+    max-width: 600px;
     font-size: 16px;
     padding: 8px;
-    margin-top: 8px;
+    margin-top: 10px;
     border-radius: 8px;
     cursor: pointer;
     background: var(--bg-card);
     border: 1px solid var(--border-light);
     color: var(--text-primary);
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
 }
 #infoBtn:hover, #infoBtn2:hover {
     background: var(--btn-hover);
@@ -546,8 +603,16 @@ h2 {
         padding: 20px;
     }
     #izbiraKategorije,
-    #izbiraKviza {
-        width: 90%;
+    #izbiraKviza,
+    #izberiKvizBtn,
+    #startBtn,
+    #nextBtn,
+    #infoBtn,
+    #infoBtn2,
+    #ime {
+        max-width: 100% !important;
+        width: 100% !important;
+        box-sizing: border-box;
     }
 }
 </style>
@@ -582,7 +647,7 @@ h2 {
       <p><strong>Dobrodošli na spletni strani osnov računalništva za seniorje (Toti DCA).</strong></p>
       <p>Tukaj so zbrani kratki kvizi za preverjanje in utrjevanje znanja s področja</p>
       <p>računalništva in umetne inteligence</p>
-      <p>Spodaj izberite kategorijo in začnite reševati.</p>
+      <p>Spodaj izberite najprej kategorijo, nato še kviz in začnite reševati.</p>
     </div>
     <form onsubmit="handleIntroSubmit(); return false;">
       <!-- 1. KORAK: IZBIRA KATEGORIJE IN KVIZA -->
@@ -612,10 +677,10 @@ h2 {
 
       <!-- 3. KORAK: VNOS IMENA -->
       <div id="introStep2" style="display:none">
-        <label for="ime" style="display: block; margin-bottom: 8px; font-size: 18px;">Vpiši svoje ime:</label>
-        <input id="ime" placeholder="npr. Maja ali Bojan" autocomplete="off" style="width: 320px; max-width: 80%; font-size: 20px; padding: 10px; margin-bottom: 15px; border-radius: 8px; border: 1px solid var(--border-light); text-align: center; background: var(--bg-card); color: var(--text-primary);">
-        <button id="startBtn" type="submit">🚀 Začni kviz</button>
-        <p id="nalaganjeSporocilo" style="display:none; font-size:14px; opacity:0.8;">⏳ Nalagam vprašanja …</p>
+        <label for="ime" style="display: block; margin-bottom: 8px; font-size: 18px; text-align: center;">Vpiši svoje ime:</label>
+        <input id="ime" placeholder="npr. Maja ali Bojan" autocomplete="off" style="width: 100%; max-width: 600px; font-size: 20px; padding: 10px; margin: 0 auto 15px auto; border-radius: 8px; border: 1px solid var(--border-light); text-align: center; background: var(--bg-card); color: var(--text-primary); box-sizing: border-box; display: block;">
+        <button id="startBtn" type="submit" style="width: 100%; max-width: 600px; font-size: 22px; padding: 12px; border-radius: 10px; cursor: pointer; transition: 0.3s; background: var(--btn-hover); border: 1px solid var(--border-light); color: var(--text-primary); margin: 0 auto; display: block;">🚀 Začni kviz</button>
+        <p id="nalaganjeSporocilo" style="display:none; font-size:14px; opacity:0.8; text-align: center;">⏳ Nalagam vprašanja …</p>
         
         <div class="infoBox">
           <div class="encouragement">
@@ -631,7 +696,7 @@ h2 {
 <!-- okvirček z imenom datoteke - spodaj pod uvodnim okvirjem -->
 <div class="file-info" id="fileInfo">
     <div class="file-info-box">
-        Ustvarjeno z ❤️ za učenje
+        Ustvarjeno z 🐬 Deep Seek!
     </div>
 </div>
 
