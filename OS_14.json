@@ -5,252 +5,252 @@
     {
       "question": "Kaj je namizje v sistemu Windows?",
       "options": [
-        "A) Del računalnika, kjer je procesor.",
-        "B) Osnovni zaslon, ki ga vidimo po prijavi v Windows.",
-        "C) Program za pisanje besedil."
+        "Osnovni zaslon, ki ga vidimo po prijavi v Windows.",
+        "Program za pisanje besedil.",
+        "Del računalnika, kjer je procesor."
       ],
-      "correct": 1,
-      "explanation": "Na namizju so lahko ikone programov, map in datotek, ki jih pogosto uporabljamo."
+      "correct": 0,
+      "explanation": "Namizje je osnovni zaslon, ki ga vidite po prijavi v Windows. Na njem so lahko ikone programov, map in datotek, ki jih pogosto uporabljate, ter ozadje po vaši izbiri."
     },
     {
       "question": "Kaj je ikona na namizju?",
       "options": [
-        "A) Vrsta virusa.",
-        "B) Majhna slika, ki predstavlja program, mapo ali datoteko.",
-        "C) Geslo za računalnik."
+        "Majhna slika, ki predstavlja program, mapo ali datoteko.",
+        "Geslo za računalnik.",
+        "Vrsta virusa."
       ],
-      "correct": 1,
-      "explanation": "Z dvojnim klikom na ikono običajno odpremo program ali datoteko."
+      "correct": 0,
+      "explanation": "Ikona je majhna grafična sličica, ki predstavlja program, mapo ali datoteko. Z dvojnim klikom na ikono običajno odpremo program ali datoteko, ki jo predstavlja."
     },
     {
       "question": "Kaj je opravilna vrstica v Windows?",
       "options": [
-        "A) Kabel za internet.",
-        "B) Vrstica običajno na dnu zaslona z gumbom Start in ikonami programov.",
-        "C) Vrata za USB ključek."
+        "Vrstica običajno na dnu zaslona z gumbom Start in ikonami programov.",
+        "Vrata za USB ključek.",
+        "Kabel za internet."
       ],
-      "correct": 1,
-      "explanation": "Opravilna vrstica omogoča hiter dostop do pogosto uporabljenih programov."
+      "correct": 0,
+      "explanation": "Opravilna vrstica je vrstica na dnu zaslona, ki vsebuje gumb Start, ikone odprtih programov, uro in sistemske ikone (glasnost, omrežje). Omogoča hiter dostop do pogosto uporabljenih programov."
     },
     {
       "question": "Čemu služi gumb Start?",
       "options": [
-        "A) Za izklop zaslona.",
-        "B) Za odpiranje menija z aplikacijami, nastavitvami in možnostmi za izklop računalnika.",
-        "C) Za povečanje glasnosti."
+        "Za odpiranje menija z aplikacijami, nastavitvami in možnostmi za izklop računalnika.",
+        "Za povečanje glasnosti.",
+        "Za izklop zaslona."
       ],
-      "correct": 1,
-      "explanation": "Prek gumba Start dostopamo do večine funkcij sistema Windows."
+      "correct": 0,
+      "explanation": "Gumb Start (ikona Windows v opravilni vrstici) je osrednja točka za dostop do programov, nastavitev, dokumentov in možnosti za izklop ali ponovni zagon računalnika."
     },
     {
       "question": "Kje v Windows najdemo glavne nastavitve računalnika?",
       "options": [
-        "A) V Košu.",
-        "B) V Nastavitvah (Settings).",
-        "C) V Raziskovalcu fotografij."
+        "V Nastavitvah (Settings).",
+        "V Raziskovalcu fotografij.",
+        "V Košu."
       ],
-      "correct": 1,
-      "explanation": "Nastavitve omogočajo spreminjanje zaslona, zvoka, omrežja, naprav in drugih možnosti."
+      "correct": 0,
+      "explanation": "Glavne nastavitve Windows najdete v aplikaciji Nastavitve (Settings), ki jo odprete prek menija Start ali z bližnjico Windows + I. Tam lahko spreminjate zaslon, zvok, omrežje in druge možnosti."
     },
     {
       "question": "Kako odpremo Nastavitve v Windows 10?",
       "options": [
-        "A) Kliknemo uro.",
-        "B) Kliknemo Start in izberemo Nastavitve ali uporabimo bližnjico Windows + I.",
-        "C) Odpremo Koš."
+        "Kliknemo Start in izberemo Nastavitve ali uporabimo bližnjico Windows + I.",
+        "Odpremo Koš.",
+        "Kliknemo uro."
       ],
-      "correct": 1,
-      "explanation": "Bližnjica Windows + I hitro odpre okno Nastavitve."
+      "correct": 0,
+      "explanation": "Nastavitve odprete s klikom na gumb Start in nato na ikono zobnika (Nastavitve) ali s pritiskom bližnjice Windows + I. To je najhitrejši način do sistemskih nastavitev."
     },
     {
       "question": "Kako povečamo velikost besedila na zaslonu?",
       "options": [
-        "A) Zamenjamo tipkovnico.",
-        "B) V Nastavitvah spremenimo velikost besedila ali povečavo zaslona.",
-        "C) Izklopimo internet."
+        "V Nastavitvah spremenimo velikost besedila ali povečavo zaslona.",
+        "Izklopimo internet.",
+        "Zamenjamo tipkovnico."
       ],
-      "correct": 1,
-      "explanation": "Večja pisava je pogosto koristna za uporabnike s slabšim vidom."
+      "correct": 0,
+      "explanation": "V Nastavitvah → Dostopnost → Zaslon lahko povečate velikost besedila in drugih elementov. To je še posebej koristno za uporabnike s slabšim vidom ali na zaslonih z visoko ločljivostjo."
     },
     {
       "question": "Kako spremenimo sliko ozadja namizja?",
       "options": [
-        "A) Izbrišemo vse ikone.",
-        "B) Z desnim klikom na namizje izberemo Prilagodi (Personalize).",
-        "C) Izključimo računalnik."
+        "Z desnim klikom na namizje izberemo Prilagodi (Personalize).",
+        "Izključimo računalnik.",
+        "Izbrišemo vse ikone."
       ],
-      "correct": 1,
-      "explanation": "V možnostih Prilagajanje lahko spremenimo ozadje, barve in videz sistema."
+      "correct": 0,
+      "explanation": "Z desnim klikom na prazen prostor na namizju izberete 'Prilagodi' (Personalize). Tam lahko spremenite ozadje, barve, temo in zaklenjeni zaslon."
     },
     {
       "question": "Kako povečamo ali zmanjšamo glasnost računalnika?",
       "options": [
-        "A) S pritiskom tipke Delete.",
-        "B) Z ikono zvočnika v opravilni vrstici.",
-        "C) S klikom na uro."
+        "Z ikono zvočnika v opravilni vrstici.",
+        "S klikom na uro.",
+        "S pritiskom tipke Delete."
       ],
-      "correct": 1,
-      "explanation": "Ikona zvočnika omogoča hitro nastavitev glasnosti."
+      "correct": 0,
+      "explanation": "Ikona zvočnika v opravilni vrstici (desno ob uri) omogoča hitro nastavitev glasnosti. Kliknete jo in premaknete drsnik navzgor ali navzdol. Lahko tudi popolnoma izklopite zvok."
     },
     {
       "question": "Kaj storimo, če računalnik nima zvoka?",
       "options": [
-        "A) Takoj kupimo nov računalnik.",
-        "B) Preverimo glasnost, priklop zvočnikov in izbrano zvočno napravo.",
-        "C) Izbrišemo Windows."
+        "Preverimo glasnost, priklop zvočnikov in izbrano zvočno napravo.",
+        "Izbrišemo Windows.",
+        "Takoj kupimo nov računalnik."
       ],
-      "correct": 1,
-      "explanation": "Pogosto je težava samo v izklopljenem zvoku ali napačno izbrani napravi."
+      "correct": 0,
+      "explanation": "Če ni zvoka, najprej preverite, ali glasnost ni izklopljena, ali so zvočniki pravilno priključeni in ali je v Nastavitvah izbrana pravilna zvočna naprava. Pogosto je težava samo v preprosti nastavitvi."
     },
     {
       "question": "Kako povežemo računalnik z brezžičnim omrežjem Wi-Fi?",
       "options": [
-        "A) Prek Koša.",
-        "B) Izberemo ikono omrežja in izberemo ustrezno Wi-Fi omrežje.",
-        "C) Izklopimo Bluetooth."
+        "Izberemo ikono omrežja in izberemo ustrezno Wi-Fi omrežje.",
+        "Izklopimo Bluetooth.",
+        "Prek Koša."
       ],
-      "correct": 1,
-      "explanation": "Za povezavo potrebujemo ime omrežja (SSID) in pogosto geslo."
+      "correct": 0,
+      "explanation": "Kliknite ikono omrežja (Wi-Fi) v opravilni vrstici, izberite želeno omrežje in vpišite geslo (če je omrežje zaščiteno). Računalnik si bo zapomnil omrežje za naslednje povezave."
     },
     {
       "question": "Kaj pomeni posodobitev sistema Windows?",
       "options": [
-        "A) Izbris vseh programov.",
-        "B) Namestitev izboljšav, popravkov napak in varnostnih posodobitev.",
-        "C) Spreminjanje barve zaslona."
+        "Namestitev izboljšav, popravkov napak in varnostnih posodobitev.",
+        "Spreminjanje barve zaslona.",
+        "Izbris vseh programov."
       ],
-      "correct": 1,
-      "explanation": "Redne posodobitve pomagajo ohranjati računalnik varnejši in stabilnejši."
+      "correct": 0,
+      "explanation": "Posodobitve Windows so redne nadgradnje sistema, ki vsebujejo varnostne popravke, izboljšave delovanja in nove funkcije. Redne posodobitve pomagajo ohranjati računalnik varnejši in stabilnejši."
     },
     {
       "question": "Zakaj je pomembno redno posodabljati Windows?",
       "options": [
-        "A) Ker se spremeni ozadje.",
-        "B) Ker posodobitve odpravljajo napake in izboljšujejo varnost.",
-        "C) Ker računalnik dobi nov zaslon."
+        "Ker posodobitve odpravljajo napake in izboljšujejo varnost.",
+        "Ker računalnik dobi nov zaslon.",
+        "Ker se spremeni ozadje."
       ],
-      "correct": 1,
-      "explanation": "Neposodobljen računalnik je bolj izpostavljen varnostnim tveganjem."
+      "correct": 0,
+      "explanation": "Neposodobljen računalnik je bolj izpostavljen varnostnim tveganjem, saj napadalci izkoriščajo znane varnostne luknje, ki so bile odpravljene v posodobitvah. Posodobitve so ključne za varnost."
     },
     {
       "question": "Kaj je privzeti program?",
       "options": [
-        "A) Program, ki je vedno najdražji.",
-        "B) Program, ki ga Windows sam uporabi za določeno vrsto datoteke ali opravilo.",
-        "C) Program brez ikone."
+        "Program, ki ga Windows sam uporabi za določeno vrsto datoteke ali opravilo.",
+        "Program brez ikone.",
+        "Program, ki je vedno najdražji."
       ],
-      "correct": 1,
-      "explanation": "Na primer: PDF lahko odpira privzeti brskalnik ali program za PDF."
+      "correct": 0,
+      "explanation": "Privzeti program je tisti, ki ga Windows samodejno uporabi za odpiranje določene vrste datotek. Na primer, PDF datoteke lahko odpira privzeti brskalnik ali program za PDF."
     },
     {
       "question": "Kako odstranimo program, ki ga ne uporabljamo?",
       "options": [
-        "A) Izbrišemo samo ikono na namizju.",
-        "B) V Nastavitvah odpremo Aplikacije in program odstranimo.",
-        "C) Izključimo računalnik."
+        "V Nastavitvah odpremo Aplikacije in program odstranimo.",
+        "Izključimo računalnik.",
+        "Izbrišemo samo ikono na namizju."
       ],
-      "correct": 1,
-      "explanation": "Brisanje ikone ne odstrani programa, ampak samo bližnjico."
+      "correct": 0,
+      "explanation": "Program odstranite v Nastavitvah → Aplikacije → Aplikacije in funkcije. Izberite program in kliknite 'Odstrani'. Brisanje ikone na namizju ne odstrani programa, ampak samo bližnjico."
     },
     {
       "question": "Kaj je uporabniški račun v Windows?",
       "options": [
-        "A) Vrsta tiskalnika.",
-        "B) Račun, s katerim se uporabnik prijavi in uporablja računalnik.",
-        "C) Internetni kabel."
+        "Račun, s katerim se uporabnik prijavi in uporablja računalnik.",
+        "Internetni kabel.",
+        "Vrsta tiskalnika."
       ],
-      "correct": 1,
-      "explanation": "Vsak uporabnik lahko ima svoje nastavitve, datoteke in geslo."
+      "correct": 0,
+      "explanation": "Uporabniški račun omogoča, da ima vsak uporabnik svoje nastavitve, datoteke in geslo. Več uporabnikov lahko uporablja isti računalnik z lastnimi profili."
     },
     {
       "question": "Zakaj uporabljamo geslo za prijavo v računalnik?",
       "options": [
-        "A) Da se računalnik hitreje vklopi.",
-        "B) Da zaščitimo svoje podatke pred drugimi uporabniki.",
-        "C) Da internet deluje bolje."
+        "Da zaščitimo svoje podatke pred drugimi uporabniki.",
+        "Da internet deluje bolje.",
+        "Da se računalnik hitreje vklopi."
       ],
-      "correct": 1,
-      "explanation": "Geslo pomaga zaščititi osebne dokumente, fotografije in nastavitve."
+      "correct": 0,
+      "explanation": "Geslo za prijavo preprečuje, da bi drugi dostopali do vaših osebnih dokumentov, fotografij, nastavitev in računov. Je osnovna varnostna zaščita računalnika."
     },
     {
       "question": "Kaj je zaklep zaslona?",
       "options": [
-        "A) Izklop računalnika.",
-        "B) Začasno zaklepanje računalnika brez odjave uporabnika.",
-        "C) Brisanje datotek."
+        "Začasno zaklepanje računalnika brez odjave uporabnika.",
+        "Brisanje datotek.",
+        "Izklop računalnika."
       ],
-      "correct": 1,
-      "explanation": "Uporabno je, ko za kratek čas zapustimo računalnik."
+      "correct": 0,
+      "explanation": "Zaklep zaslona (Windows + L) začasno zaklene računalnik, vendar vas ne odjavi. Ko se vrnete, vnesete geslo in nadaljujete z delom. Uporabno je, ko za kratek čas zapustite računalnik."
     },
     {
       "question": "Kako hitro zaklenemo računalnik?",
       "options": [
-        "A) Ctrl + Alt + Delete.",
-        "B) Windows + L.",
-        "C) Alt + F4."
+        "Windows + L.",
+        "Alt + F4.",
+        "Ctrl + Alt + Delete."
       ],
-      "correct": 1,
-      "explanation": "Bližnjica Windows + L takoj zaklene zaslon."
+      "correct": 0,
+      "explanation": "Bližnjica Windows + L takoj zaklene zaslon. To je najhitrejši način za začasno zaščito računalnika, ko ga zapuščate."
     },
     {
       "question": "Kaj pomeni ponovni zagon računalnika?",
       "options": [
-        "A) Izbris vseh podatkov.",
-        "B) Računalnik se izklopi in ponovno zažene.",
-        "C) Sprememba gesla."
+        "Računalnik se izklopi in ponovno zažene.",
+        "Sprememba gesla.",
+        "Izbris vseh podatkov."
       ],
-      "correct": 1,
-      "explanation": "Ponovni zagon pogosto pomaga pri manjših težavah sistema."
+      "correct": 0,
+      "explanation": "Ponovni zagon (restart) izklopi in ponovno zažene računalnik. To pogosto pomaga pri manjših težavah sistema, saj se vsi programi zaprejo in ponovno zaženejo."
     },
     {
       "question": "Kaj je tiskalnik v Windows?",
       "options": [
-        "A) Program za risanje.",
-        "B) Naprava, ki natisne dokumente ali slike na papir.",
-        "C) Vrsta datoteke."
+        "Naprava, ki natisne dokumente ali slike na papir.",
+        "Vrsta datoteke.",
+        "Program za risanje."
       ],
-      "correct": 1,
-      "explanation": "Windows omogoča dodajanje in upravljanje različnih tiskalnikov."
+      "correct": 0,
+      "explanation": "Tiskalnik je zunanja naprava, ki natisne dokumente ali slike na papir. Windows omogoča dodajanje in upravljanje različnih tiskalnikov ter nastavljanje privzetega tiskalnika."
     },
     {
       "question": "Kaj storimo, če Windows ne najde tiskalnika?",
       "options": [
-        "A) Izbrišemo vse dokumente.",
-        "B) Preverimo povezavo, napajanje in nastavitve tiskalnika.",
-        "C) Zamenjamo tipkovnico."
+        "Preverimo povezavo, napajanje in nastavitve tiskalnika.",
+        "Zamenjamo tipkovnico.",
+        "Izbrišemo vse dokumente."
       ],
-      "correct": 1,
-      "explanation": "Pogosto je vzrok izključen tiskalnik ali napačna povezava Wi-Fi."
+      "correct": 0,
+      "explanation": "Če Windows ne najde tiskalnika, preverite, ali je tiskalnik vklopljen in pravilno priključen (USB ali Wi-Fi). Preverite tudi, ali je v Nastavitvah izbran pravilen tiskalnik."
     },
     {
       "question": "Kaj pomeni privzeti tiskalnik?",
       "options": [
-        "A) Najstarejši tiskalnik.",
-        "B) Tiskalnik, ki ga Windows sam izbere za tiskanje.",
-        "C) Pokvarjen tiskalnik."
+        "Tiskalnik, ki ga Windows sam izbere za tiskanje.",
+        "Pokvarjen tiskalnik.",
+        "Najstarejši tiskalnik."
       ],
-      "correct": 1,
-      "explanation": "Če imamo več tiskalnikov, Windows uporablja izbranega kot privzetega."
+      "correct": 0,
+      "explanation": "Če imate več tiskalnikov, Windows uporablja izbranega kot privzetega. Ko kliknete 'Natisni', se dokument samodejno pošlje na privzeti tiskalnik."
     },
     {
       "question": "Zakaj je koristno poznati osnovne nastavitve Windows?",
       "options": [
-        "A) Ker lahko popravimo vsak pokvarjen računalnik.",
-        "B) Ker lažje prilagodimo računalnik svojim potrebam.",
-        "C) Ker ne potrebujemo več programov."
+        "Ker lažje prilagodimo računalnik svojim potrebam.",
+        "Ker ne potrebujemo več programov.",
+        "Ker lahko popravimo vsak pokvarjen računalnik."
       ],
-      "correct": 1,
-      "explanation": "Osnovno poznavanje nastavitev naredi uporabo računalnika lažjo in prijetnejšo."
+      "correct": 0,
+      "explanation": "Osnovno poznavanje nastavitev Windows vam omogoča, da računalnik prilagodite svojim potrebam – povečate pisavo, spremenite ozadje, nastavite Wi-Fi in odpravite pogoste težave."
     },
     {
       "question": "Katera navada je najboljša pri uporabi Windows?",
       "options": [
-        "A) Nikoli ne posodabljamo sistema.",
-        "B) Redno posodabljamo Windows, urejamo datoteke in skrbimo za varnost.",
-        "C) Vse datoteke shranjujemo na namizje."
+        "Redno posodabljamo Windows, urejamo datoteke in skrbimo za varnost.",
+        "Vse datoteke shranjujemo na namizje.",
+        "Nikoli ne posodabljamo sistema."
       ],
-      "correct": 1,
-      "explanation": "Urejen in posodobljen računalnik je varnejši ter lažji za uporabo."
+      "correct": 0,
+      "explanation": "Urejen in posodobljen računalnik je varnejši ter lažji za uporabo. Redno posodabljajte Windows, organizirajte datoteke v mape in skrbite za varnost z močnimi gesli."
     }
   ]
 }

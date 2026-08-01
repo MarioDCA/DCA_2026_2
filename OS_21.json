@@ -5,252 +5,252 @@
     {
       "question": "Kaj je tipka Windows na tipkovnici?",
       "options": [
-        "A) Tipka za izklop računalnika.",
-        "B) Tipka z logotipom Windows, ki odpira meni Start in omogoča bližnjice.",
-        "C) Tipka za tiskanje."
+        "Tipka za tiskanje.",
+        "Tipka za izklop računalnika.",
+        "Tipka z logotipom Windows, ki odpira meni Start in omogoča bližnjice."
       ],
-      "correct": 1,
-      "explanation": "Tipka Windows je zelo uporabna za hitro odpiranje programov in nastavitev."
+      "correct": 2,
+      "explanation": "Tipka Windows (z logotipom Windows) je ena najbolj uporabnih tipk na tipkovnici. Odpre meni Start in v kombinaciji z drugimi tipkami omogoča hitre bližnjice za različne funkcije."
     },
     {
       "question": "Kaj se zgodi, če pritisnemo tipko Windows?",
       "options": [
-        "A) Računalnik se izklopi.",
-        "B) Odpre se meni Start.",
-        "C) Izbrišejo se datoteke."
+        "Odpre se meni Start.",
+        "Izbrišejo se datoteke.",
+        "Računalnik se izklopi."
       ],
-      "correct": 1,
-      "explanation": "Meni Start omogoča dostop do programov, nastavitev in izklopa računalnika."
+      "correct": 0,
+      "explanation": "Tipka Windows odpre meni Start, kjer lahko dostopate do programov, nastavitev, dokumentov in možnosti za izklop ali ponovni zagon računalnika."
     },
     {
       "question": "Kaj naredi bližnjica Ctrl + C?",
       "options": [
-        "A) Zapre program.",
-        "B) Kopira izbrano besedilo ali datoteko.",
-        "C) Izklopi zvok."
+        "Kopira izbrano besedilo ali datoteko.",
+        "Izklopi zvok.",
+        "Zapre program."
       ],
-      "correct": 1,
-      "explanation": "Ctrl + C pomeni 'Copy' oziroma kopiraj."
+      "correct": 0,
+      "explanation": "Ctrl + C je bližnjica za kopiranje (Copy). Izbrano besedilo ali datoteko kopira v začasni pomnilnik (odložišče). Nato jo lahko z Ctrl + V prilepite na drugo mesto."
     },
     {
       "question": "Kaj naredi bližnjica Ctrl + V?",
       "options": [
-        "A) Shrani dokument.",
-        "B) Prilepi prej kopirano vsebino.",
-        "C) Odpre internet."
+        "Odpre internet.",
+        "Prilepi prej kopirano vsebino.",
+        "Shrani dokument."
       ],
       "correct": 1,
-      "explanation": "Po kopiranju uporabimo Ctrl + V, da vsebino prenesemo na novo mesto."
+      "explanation": "Ctrl + V je bližnjica za lepljenje (Paste). Prilepi vsebino, ki ste jo predhodno kopirali (Ctrl + C) ali izrezali (Ctrl + X), na trenutno mesto."
     },
     {
       "question": "Kaj naredi bližnjica Ctrl + X?",
       "options": [
-        "A) Izbriše računalnik.",
-        "B) Izreže izbrano vsebino in jo pripravi za premik.",
-        "C) Odpre kalkulator."
+        "Odpre kalkulator.",
+        "Izreže izbrano vsebino in jo pripravi za premik.",
+        "Izbriše računalnik."
       ],
       "correct": 1,
-      "explanation": "Ctrl + X uporabimo, kadar želimo nekaj premakniti."
+      "explanation": "Ctrl + X je bližnjica za izrez (Cut). Izbrano besedilo ali datoteko izreže in jo shrani v začasni pomnilnik. Ko jo prilepite (Ctrl + V) na drugo mesto, je na prvotnem mestu ni več."
     },
     {
       "question": "Kaj naredi bližnjica Ctrl + Z?",
       "options": [
-        "A) Zapre Windows.",
-        "B) Razveljavi zadnje dejanje.",
-        "C) Poveča zaslon."
+        "Poveča zaslon.",
+        "Razveljavi zadnje dejanje.",
+        "Zapre Windows."
       ],
       "correct": 1,
-      "explanation": "Če po pomoti izbrišemo ali spremenimo nekaj v dokumentu, lahko pogosto uporabimo Ctrl + Z."
+      "explanation": "Ctrl + Z je bližnjica za razveljavitev (Undo). Če po pomoti izbrišete ali spremenite nekaj v dokumentu, lahko s Ctrl + Z razveljavite zadnje dejanje in se vrnete nazaj."
     },
     {
       "question": "Kaj naredi bližnjica Ctrl + S?",
       "options": [
-        "A) Išče po internetu.",
-        "B) Shrani trenutno datoteko ali dokument.",
-        "C) Izklopi računalnik."
+        "Shrani trenutno datoteko ali dokument.",
+        "Izklopi računalnik.",
+        "Išče po internetu."
       ],
-      "correct": 1,
-      "explanation": "Pogosto shranjevanje prepreči izgubo dela."
+      "correct": 0,
+      "explanation": "Ctrl + S je bližnjica za shranjevanje (Save). Navadite se jo pogosto uporabljati med delom, da ne izgubite sprememb ob morebitnem izpadu programa ali elektrike."
     },
     {
       "question": "Kaj naredi bližnjica Ctrl + P?",
       "options": [
-        "A) Odpre nastavitve.",
-        "B) Odpre možnost tiskanja dokumenta.",
-        "C) Prilepi besedilo."
+        "Prilepi besedilo.",
+        "Odpre nastavitve.",
+        "Odpre možnost tiskanja dokumenta."
       ],
-      "correct": 1,
-      "explanation": "P pomeni 'Print' oziroma tiskanje."
+      "correct": 2,
+      "explanation": "Ctrl + P je bližnjica za tiskanje (Print). Odpre okno za tiskanje, kjer lahko izberete tiskalnik, število kopij in druge nastavitve."
     },
     {
       "question": "Kaj naredi bližnjica Ctrl + A?",
       "options": [
-        "A) Odpre novo okno.",
-        "B) Izbere vse elemente v trenutnem oknu ali dokumentu.",
-        "C) Zapre program."
+        "Izbere vse elemente v trenutnem oknu ali dokumentu.",
+        "Zapre program.",
+        "Odpre novo okno."
       ],
-      "correct": 1,
-      "explanation": "A pomeni 'All' oziroma vse."
+      "correct": 0,
+      "explanation": "Ctrl + A je bližnjica za izbiro vsega (Select All). Izbere vse elemente v trenutnem oknu ali dokumentu – uporabno, ko želite kopirati ali izbrisati vso vsebino naenkrat."
     },
     {
       "question": "Kaj naredi bližnjica Alt + Tab?",
       "options": [
-        "A) Izklopi internet.",
-        "B) Omogoča hitro preklapljanje med odprtimi programi.",
-        "C) Izbriše zgodovino."
+        "Omogoča hitro preklapljanje med odprtimi programi.",
+        "Izbriše zgodovino.",
+        "Izklopi internet."
       ],
-      "correct": 1,
-      "explanation": "Uporabno je, ko imamo odprtih več programov hkrati."
+      "correct": 0,
+      "explanation": "Alt + Tab je bližnjica za hitro preklapljanje med odprtimi programi. Držite tipko Alt in pritiskajte Tab, da se premikate med programi. Ko spustite tipki, se odpre izbrani program."
     },
     {
       "question": "Kako najhitreje odpremo iskanje v Windows 10?",
       "options": [
-        "A) Pritisnemo tipko Delete.",
-        "B) Kliknemo iskalno polje v opravilni vrstici ali uporabimo tipko Windows in začnemo tipkati.",
-        "C) Izklopimo računalnik."
+        "Kliknemo iskalno polje v opravilni vrstici ali uporabimo tipko Windows in začnemo tipkati.",
+        "Izklopimo računalnik.",
+        "Pritisnemo tipko Delete."
       ],
-      "correct": 1,
-      "explanation": "Iskanje v Windows pomaga najti programe, datoteke in nastavitve."
+      "correct": 0,
+      "explanation": "Najhitreje odprete iskanje s klikom na iskalno polje v opravilni vrstici ali s pritiskom tipke Windows in takojšnjim tipkanjem. Windows bo začel iskati programe, datoteke in nastavitve."
     },
     {
       "question": "Kaj je opravilna vrstica v Windows?",
       "options": [
-        "A) Del tiskalnika.",
-        "B) Vrstica na dnu zaslona z gumbi za programe in obvestila.",
-        "C) Mapa za dokumente."
+        "Vrstica na dnu zaslona z gumbi za programe in obvestila.",
+        "Mapa za dokumente.",
+        "Del tiskalnika."
       ],
-      "correct": 1,
-      "explanation": "Na opravilni vrstici vidimo odprte programe, uro, omrežje in zvok."
+      "correct": 0,
+      "explanation": "Opravilna vrstica je vrstica na dnu zaslona, ki vsebuje gumb Start, ikone odprtih programov, uro in sistemske ikone (glasnost, omrežje). Omogoča hitro preklapljanje med programi."
     },
     {
       "question": "Kaj naredi bližnjica Windows + E?",
       "options": [
-        "A) Odpre elektronsko pošto.",
-        "B) Odpre Raziskovalec datotek.",
-        "C) Izklopi računalnik."
+        "Odpre Raziskovalec datotek.",
+        "Izklopi računalnik.",
+        "Odpre elektronsko pošto."
       ],
-      "correct": 1,
-      "explanation": "To je hitra pot do map in datotek."
+      "correct": 0,
+      "explanation": "Windows + E takoj odpre Raziskovalec datotek – to je hitra pot do map in datotek na računalniku. Uporabno, kadar želite hitro dostopati do dokumentov ali drugih map."
     },
     {
       "question": "Kaj naredi bližnjica Windows + D?",
       "options": [
-        "A) Izbriše namizje.",
-        "B) Prikaže namizje oziroma skrije odprta okna.",
-        "C) Odpre dokument."
+        "Prikaže namizje oziroma skrije odprta okna.",
+        "Odpre dokument.",
+        "Izbriše namizje."
       ],
-      "correct": 1,
-      "explanation": "Uporabno, kadar želimo hitro videti ikone na namizju."
+      "correct": 0,
+      "explanation": "Windows + D takoj prikaže namizje – vsa odprta okna se skrijejo v opravilno vrstico. Še enkrat pritisnite Windows + D in okna se vrnejo. Uporabno, kadar želite hitro videti ikone na namizju."
     },
     {
       "question": "Kaj je namizje v Windows?",
       "options": [
-        "A) Fizična miza.",
-        "B) Osnovni zaslon Windows z ikonami in ozadjem.",
-        "C) Trdi disk."
+        "Osnovni zaslon Windows z ikonami in ozadjem.",
+        "Trdi disk.",
+        "Fizična miza."
       ],
-      "correct": 1,
-      "explanation": "Na namizju so lahko bližnjice do programov, map in datotek."
+      "correct": 0,
+      "explanation": "Namizje je osnovni zaslon, ki ga vidite po prijavi v Windows. Na njem so ikone programov, map in datotek, ki jih pogosto uporabljate, ter ozadje po vaši izbiri."
     },
     {
       "question": "Kaj je ikona na namizju?",
       "options": [
-        "A) Slika za okras.",
-        "B) Simbol, ki predstavlja program, mapo ali datoteko.",
-        "C) Vrsta virusa."
+        "Simbol, ki predstavlja program, mapo ali datoteko.",
+        "Vrsta virusa.",
+        "Slika za okras."
       ],
-      "correct": 1,
-      "explanation": "Z dvoklikom ikone običajno odpremo povezani program ali datoteko."
+      "correct": 0,
+      "explanation": "Ikona je majhna grafična sličica, ki predstavlja program, mapo ali datoteko. Z dvojnim klikom na ikono običajno odprete program ali datoteko, ki jo predstavlja."
     },
     {
       "question": "Kaj pomeni dvoklik z miško?",
       "options": [
-        "A) Dvakratni pritisk leve tipke miške za odpiranje.",
-        "B) Premikanje računalnika.",
-        "C) Izklop zaslona."
+        "Dvakratni pritisk leve tipke miške za odpiranje.",
+        "Izklop zaslona.",
+        "Premikanje računalnika."
       ],
       "correct": 0,
-      "explanation": "Dvoklik se pogosto uporablja za odpiranje datotek in programov."
+      "explanation": "Dvoklik je dvakratni hiter pritisk levega gumba miške. Je najpogostejši način za odpiranje datotek, map in programov. Z enim klikom pa datoteko označite (izberete)."
     },
     {
       "question": "Kaj pomeni desni klik miške?",
       "options": [
-        "A) Izbris vsega.",
-        "B) Odpre dodatni meni z možnostmi.",
-        "C) Zapre Windows."
+        "Odpre dodatni meni z možnostmi.",
+        "Zapre Windows.",
+        "Izbris vsega."
       ],
-      "correct": 1,
-      "explanation": "Z desnim klikom lahko kopiramo, preimenujemo, brišemo in spreminjamo nastavitve."
+      "correct": 0,
+      "explanation": "Desni klik odpre priročni meni z možnostmi, ki so odvisne od tega, na kaj ste kliknili. Z desnim klikom lahko kopirate, preimenujete, brišete in spreminjate nastavitve."
     },
     {
       "question": "Kako povečamo prikaz na zaslonu v mnogih programih?",
       "options": [
-        "A) Ctrl + kolesce miške ali Ctrl + +.",
-        "B) Izklopimo računalnik.",
-        "C) Odstranimo tipkovnico."
+        "Ctrl + kolesce miške ali Ctrl + +.",
+        "Odstranimo tipkovnico.",
+        "Izklopimo računalnik."
       ],
       "correct": 0,
-      "explanation": "Povečava je koristna za uporabnike, ki slabše vidijo manjše črke."
+      "explanation": "V mnogih programih (brskalniki, Word, PDF bralniki) lahko povečate prikaz tako, da držite Ctrl in vrtite kolesce miške ali pritisnete Ctrl + + (povečava) in Ctrl + - (pomanjšava)."
     },
     {
       "question": "Kaj naredi tipka Delete?",
       "options": [
-        "A) Shrani dokument.",
-        "B) Izbriše izbrano datoteko ali besedilo (običajno v Koš).",
-        "C) Odpre internet."
+        "Izbriše izbrano datoteko ali besedilo (običajno v Koš).",
+        "Odpre internet.",
+        "Shrani dokument."
       ],
-      "correct": 1,
-      "explanation": "Pri brisanju pazimo, da ne odstranimo pomembnih podatkov."
+      "correct": 0,
+      "explanation": "Tipka Delete izbriše izbrano vsebino (besedilo, datoteko ali mapo). Izbrisane datoteke se običajno premaknejo v Koš, od koder jih lahko še obnovite."
     },
     {
       "question": "Kaj je Koš v Windows?",
       "options": [
-        "A) Mapa za viruse.",
-        "B) Mesto, kamor se začasno shranijo izbrisane datoteke.",
-        "C) Program za tiskanje."
+        "Mesto, kamor se začasno shranijo izbrisane datoteke.",
+        "Program za tiskanje.",
+        "Mapa za viruse."
       ],
-      "correct": 1,
-      "explanation": "Iz Koša lahko nekatere datoteke še obnovimo."
+      "correct": 0,
+      "explanation": "Koš je začasno skladišče za izbrisane datoteke. Če datoteko pomotoma izbrišete, jo lahko iz Koša obnovite, dokler ga ne izpraznite. Po izpraznitvi datoteke trajno izgubite."
     },
     {
       "question": "Kako zapremo odprt program?",
       "options": [
-        "A) Izklopimo elektriko.",
-        "B) Kliknemo gumb X v zgornjem desnem kotu okna.",
-        "C) Izbrišemo ikono."
+        "Kliknemo gumb X v zgornjem desnem kotu okna.",
+        "Izbrišemo ikono.",
+        "Izklopimo elektriko."
       ],
-      "correct": 1,
-      "explanation": "Zapiranje programa ne pomeni brisanja programa."
+      "correct": 0,
+      "explanation": "Program zaprete s klikom na gumb X v zgornjem desnem kotu okna. Zapiranje programa ne pomeni brisanja programa – program ostane nameščen na računalniku."
     },
     {
       "question": "Kaj pomeni posodobitev Windows?",
       "options": [
-        "A) Menjava računalnika.",
-        "B) Namestitev izboljšav, popravkov in varnostnih posodobitev.",
-        "C) Brisanje dokumentov."
+        "Namestitev izboljšav, popravkov in varnostnih posodobitev.",
+        "Brisanje dokumentov.",
+        "Menjava računalnika."
       ],
-      "correct": 1,
-      "explanation": "Redne posodobitve izboljšajo varnost in stabilnost sistema."
+      "correct": 0,
+      "explanation": "Posodobitev Windows je namestitev izboljšav, popravkov napak in varnostnih posodobitev. Redne posodobitve izboljšajo varnost in stabilnost sistema ter dodajajo nove funkcije."
     },
     {
       "question": "Zakaj je koristno poznati bližnjice?",
       "options": [
-        "A) Ker računalnik porabi več elektrike.",
-        "B) Ker omogočajo hitrejše in učinkovitejše delo.",
-        "C) Ker odstranijo viruse."
+        "Ker omogočajo hitrejše in učinkovitejše delo.",
+        "Ker odstranijo viruse.",
+        "Ker računalnik porabi več elektrike."
       ],
-      "correct": 1,
-      "explanation": "Bližnjice prihranijo čas pri vsakodnevnem delu."
+      "correct": 0,
+      "explanation": "Bližnjice na tipkovnici prihranijo čas pri vsakodnevnem delu. Namesto da uporabljate miško za klike, lahko s kombinacijo tipk hitreje izvedete pogosta opravila (kopiranje, lepljenje, shranjevanje)."
     },
     {
       "question": "Katera navada je najboljša pri delu z Windows?",
       "options": [
-        "A) Nikoli ne shranjujemo dokumentov.",
-        "B) Redno shranjujemo delo, posodabljamo sistem in urejamo datoteke.",
-        "C) Klikamo vse povezave."
+        "Redno shranjujemo delo, posodabljamo sistem in urejamo datoteke.",
+        "Klikamo vse povezave.",
+        "Nikoli ne shranjujemo dokumentov."
       ],
-      "correct": 1,
-      "explanation": "Urejeno in varno delo z računalnikom zmanjša možnost težav."
+      "correct": 0,
+      "explanation": "Urejeno in varno delo z računalnikom zmanjša možnost težav. Redno shranjujte delo, posodabljajte Windows in organizirajte datoteke v mape, da boste vedno imeli pregled."
     }
   ]
 }

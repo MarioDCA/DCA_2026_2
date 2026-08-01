@@ -5,252 +5,252 @@
     {
       "question": "Kaj je Google?",
       "options": [
-        "A) Operacijski sistem za telefone.",
-        "B) Najbolj znan spletni iskalnik.",
-        "C) Program za urejanje fotografij."
+        "Najbolj znan spletni iskalnik.",
+        "Program za urejanje fotografij.",
+        "Operacijski sistem za telefone."
       ],
-      "correct": 1,
-      "explanation": "Google omogoča iskanje spletnih strani, slik, zemljevidov, videoposnetkov in številnih drugih informacij."
+      "correct": 0,
+      "explanation": "Google je najbolj znan spletni iskalnik, ki omogoča iskanje spletnih strani, slik, zemljevidov, videoposnetkov in številnih drugih informacij. Uporablja ga več kot 90 % vseh uporabnikov interneta."
     },
     {
       "question": "Kaj vpišemo v Google, če želimo najti določeno informacijo?",
       "options": [
-        "A) Geslo za računalnik.",
-        "B) Ključne besede, povezane z iskanjem.",
-        "C) Telefonsko številko."
+        "Telefonsko številko.",
+        "Ključne besede, povezane z iskanjem.",
+        "Geslo za računalnik."
       ],
       "correct": 1,
-      "explanation": "Kratke in jasne ključne besede običajno prinesejo boljše rezultate kot zelo dolga vprašanja."
+      "explanation": "V Google vpišemo ključne besede, ki najbolje opišejo, kaj iščemo. Kratke in jasne ključne besede običajno prinesejo boljše rezultate kot zelo dolga vprašanja."
     },
     {
       "question": "Kaj so ključne besede?",
       "options": [
-        "A) Gesla za prijavo.",
-        "B) Besede, ki najbolje opišejo, kaj iščemo.",
-        "C) Naslovi elektronske pošte."
+        "Naslovi elektronske pošte.",
+        "Gesla za prijavo.",
+        "Besede, ki najbolje opišejo, kaj iščemo."
       ],
-      "correct": 1,
-      "explanation": "Če iščemo recept za jabolčni zavitek, vpišemo 'jabolčni zavitek recept'."
+      "correct": 2,
+      "explanation": "Ključne besede so glavni izrazi, ki opisujejo vaše iskanje. Če iščemo recept za jabolčni zavitek, vpišemo 'jabolčni zavitek recept' – ne pa celotnega vprašanja. To pomaga iskalniku najti ustrezne strani."
     },
     {
       "question": "Kateri način iskanja običajno prinese boljše rezultate?",
       "options": [
-        "A) 'Rad bi našel nekaj o avtomobilih, ki porabijo malo goriva.'",
-        "B) 'varčni avtomobili poraba goriva'",
-        "C) 'Avtomobili.'"
+        "'varčni avtomobili poraba goriva'",
+        "'Avtomobili.'",
+        "'Rad bi našel nekaj o avtomobilih, ki porabijo malo goriva.'"
       ],
-      "correct": 1,
-      "explanation": "Kratke ključne besede so pogosto učinkovitejše od dolgih opisov."
+      "correct": 0,
+      "explanation": "Kratke in jedrnate ključne besede so pogosto učinkovitejše od dolgih opisov. Namesto celotnega vprašanja vpišemo le bistvene besede, na primer 'varčni avtomobili poraba goriva'."
     },
     {
       "question": "Kaj pomeni, če damo iskano besedno zvezo v narekovaje?",
       "options": [
-        "A) Google preneha iskati.",
-        "B) Išče točno takšno besedno zvezo.",
-        "C) Išče samo slike."
+        "Išče samo slike.",
+        "Google preneha iskati.",
+        "Išče točno takšno besedno zvezo."
       ],
-      "correct": 1,
-      "explanation": "Na primer: 'Triglavski narodni park'."
+      "correct": 2,
+      "explanation": "Narekovaji okrog besedne zveze povedo iskalniku, naj poišče točno to kombinacijo besed v istem vrstnem redu. Na primer: 'Triglavski narodni park' bo našel strani, ki vsebujejo točno to besedno zvezo."
     },
     {
       "question": "Kaj pomeni zavihek 'Slike' v Googlu?",
       "options": [
-        "A) Iskanje videoposnetkov.",
-        "B) Iskanje fotografij in slik.",
-        "C) Iskanje zemljevidov."
+        "Iskanje fotografij in slik.",
+        "Iskanje zemljevidov.",
+        "Iskanje videoposnetkov."
       ],
-      "correct": 1,
-      "explanation": "Če iščemo rastlino ali znamenitost, je pogosto najlažje uporabiti iskanje slik."
+      "correct": 0,
+      "explanation": "Zavihek 'Slike' omogoča iskanje fotografij in slik na internetu. Če iščemo rastlino, znamenitost ali želimo videti, kako nekaj izgleda, je pogosto najlažje uporabiti iskanje slik."
     },
     {
       "question": "Kaj omogoča zavihek 'Videoposnetki'?",
       "options": [
-        "A) Samo poslušanje glasbe.",
-        "B) Iskanje videoposnetkov o iskani temi.",
-        "C) Iskanje dokumentov PDF."
+        "Iskanje dokumentov PDF.",
+        "Iskanje videoposnetkov o iskani temi.",
+        "Samo poslušanje glasbe."
       ],
       "correct": 1,
-      "explanation": "Veliko rezultatov vodi na YouTube ali druge video strani."
+      "explanation": "Zavihek 'Videoposnetki' prikaže samo video vsebine, povezane z vašim iskanjem. Veliko rezultatov vodi na YouTube ali druge video platforme, kjer si lahko ogledate navodila, predavanja ali zabavne vsebine."
     },
     {
       "question": "Kaj pomeni zavihek 'Zemljevidi'?",
       "options": [
-        "A) Iskanje elektronske pošte.",
-        "B) Iskanje krajev, podjetij in poti.",
-        "C) Iskanje datotek."
+        "Iskanje krajev, podjetij in poti.",
+        "Iskanje datotek.",
+        "Iskanje elektronske pošte."
       ],
-      "correct": 1,
-      "explanation": "Google Zemljevidi pomagajo najti naslov, trgovino ali pot do cilja."
+      "correct": 0,
+      "explanation": "Google Zemljevidi so interaktivni zemljevidi, ki pomagajo najti naslov, trgovino, restavracijo ali načrtovati pot do cilja. Prikažejo tudi prometne informacije in ocene krajev."
     },
     {
       "question": "Ali so prvi rezultati iskanja vedno najboljši?",
       "options": [
-        "A) Vedno.",
-        "B) Ne, med prvimi so lahko tudi oglasi.",
-        "C) Samo ob nedeljah."
+        "Samo ob nedeljah.",
+        "Ne, med prvimi so lahko tudi oglasi.",
+        "Vedno."
       ],
       "correct": 1,
-      "explanation": "Pred klikom vedno preverimo, ali je rezultat označen kot oglas."
+      "explanation": "Prvi rezultati niso vedno najboljši – med njimi so lahko plačani oglasi (označeni s 'Sponzorirano' ali 'Oglas'). Pred klikom vedno preverimo, ali je rezultat res tisto, kar iščemo."
     },
     {
       "question": "Kaj pomeni oznaka 'Sponzorirano' ali 'Oglas'?",
       "options": [
-        "A) Najbolj zanesljiva stran.",
-        "B) Plačana reklama.",
-        "C) Brezplačna pomoč uporabnikom."
+        "Brezplačna pomoč uporabnikom.",
+        "Plačana reklama.",
+        "Najbolj zanesljiva stran."
       ],
       "correct": 1,
-      "explanation": "Oglas ni nujno slab, vendar ni samodejno najboljši odgovor na naše vprašanje."
+      "explanation": "Oznaka 'Sponzorirano' ali 'Oglas' pomeni, da je podjetje plačalo za prikaz te povezave. Oglas ni nujno slab, vendar ni samodejno najboljši odgovor na naše vprašanje."
     },
     {
       "question": "Kaj pomeni, če v iskalno polje vpišemo vreme Maribor?",
       "options": [
-        "A) Google bo odprl elektronsko pošto.",
-        "B) Prikazal bo vremensko napoved za Maribor.",
-        "C) Prenesel bo aplikacijo."
+        "Prenesel bo aplikacijo.",
+        "Google bo odprl elektronsko pošto.",
+        "Prikazal bo vremensko napoved za Maribor."
       ],
-      "correct": 1,
-      "explanation": "Google zna za številna pogosta vprašanja odgovor prikazati neposredno."
+      "correct": 2,
+      "explanation": "Google zna za številna pogosta vprašanja odgovor prikazati neposredno na vrhu rezultatov. Tako za 'vreme Maribor' takoj vidite temperaturo, oblačnost in napoved za naslednje dni."
     },
     {
       "question": "Kaj lahko iščemo z Googlom?",
       "options": [
-        "A) Samo spletne strani.",
-        "B) Spletne strani, slike, videoposnetke, zemljevide, novice in še veliko drugega.",
-        "C) Samo elektronske naslove."
+        "Spletne strani, slike, videoposnetke, zemljevide, novice in še veliko drugega.",
+        "Samo elektronske naslove.",
+        "Samo spletne strani."
       ],
-      "correct": 1,
-      "explanation": "Google je veliko več kot samo iskalnik spletnih strani."
+      "correct": 0,
+      "explanation": "Google je veliko več kot samo iskalnik spletnih strani. Z njim lahko iščemo slike, videoposnetke, zemljevide, novice, knjige, znanstvene članke in številne druge vsebine."
     },
     {
       "question": "Kaj pomeni, če pri iskanju dodamo ime kraja?",
       "options": [
-        "A) Iskanje bo počasnejše.",
-        "B) Rezultati bodo bolj povezani z izbranim krajem.",
-        "C) Google bo iskal samo slike."
+        "Google bo iskal samo slike.",
+        "Rezultati bodo bolj povezani z izbranim krajem.",
+        "Iskanje bo počasnejše."
       ],
       "correct": 1,
-      "explanation": "Na primer: zobozdravnik Celje ali muzej Ptuj."
+      "explanation": "Dodajanje imena kraja (npr. 'zobozdravnik Celje' ali 'muzej Ptuj') zoži iskanje na rezultate, ki so povezani s tem krajem. To je še posebej uporabno pri iskanju lokalnih storitev."
     },
     {
       "question": "Kako poiščemo uradno spletno stran občine?",
       "options": [
-        "A) Vpišemo samo besedo 'občina'.",
-        "B) Vpišemo ime občine in po možnosti besedo 'uradna'.",
-        "C) Vpišemo svojo telefonsko številko."
+        "Vpišemo svojo telefonsko številko.",
+        "Vpišemo samo besedo 'občina'.",
+        "Vpišemo ime občine in po možnosti besedo 'uradna'."
       ],
-      "correct": 1,
-      "explanation": "Tako zmanjšamo možnost, da odpremo neuradno spletno stran."
+      "correct": 2,
+      "explanation": "Za iskanje uradne spletne strani občine vpišemo ime občine in dodamo besedo 'uradna' (npr. 'občina Ljubljana uradna'). Tako zmanjšamo možnost, da odpremo neuradno ali lažno spletno stran."
     },
     {
       "question": "Kaj pomeni iskanje po slikah z uporabo Google Lens?",
       "options": [
-        "A) Iščemo samo besedilo.",
-        "B) Fotografiramo predmet in Google pomaga ugotoviti, kaj je.",
-        "C) Izbrišemo fotografijo."
+        "Fotografiramo predmet in Google pomaga ugotoviti, kaj je.",
+        "Izbrišemo fotografijo.",
+        "Iščemo samo besedilo."
       ],
-      "correct": 1,
-      "explanation": "Google Lens lahko prepozna rastline, živali, znamenitosti, izdelke in besedilo."
+      "correct": 0,
+      "explanation": "Google Lens je orodje, ki s kamero prepozna predmete. Fotografirate lahko rastlino, žival, znamenitost ali izdelek in Google vam pove, kaj je to, ali poišče podobne slike in informacije."
     },
     {
       "question": "Za kaj je Google Lens posebej uporaben?",
       "options": [
-        "A) Za polnjenje telefona.",
-        "B) Za prepoznavanje predmetov, prevajanje besedila in iskanje podobnih izdelkov.",
-        "C) Za izdelavo varnostnih kopij."
+        "Za izdelavo varnostnih kopij.",
+        "Za polnjenje telefona.",
+        "Za prepoznavanje predmetov, prevajanje besedila in iskanje podobnih izdelkov."
       ],
-      "correct": 1,
-      "explanation": "Lens lahko na primer prevede napis na tabli ali prepozna cvetlico."
+      "correct": 2,
+      "explanation": "Google Lens je vsestransko uporaben – prevede lahko napis na tabli v tujem jeziku, prepozna cvetlico ali drevo, poišče podobne izdelke v trgovinah in prebere QR kode."
     },
     {
       "question": "Kaj pomeni, če kliknemo mikrofon v Googlu?",
       "options": [
-        "A) Izbrišemo zgodovino.",
-        "B) Iskanje lahko izvedemo z glasom.",
-        "C) Izključimo internet."
+        "Izključimo internet.",
+        "Izbrišemo zgodovino.",
+        "Iskanje lahko izvedemo z glasom."
       ],
-      "correct": 1,
-      "explanation": "Glasovno iskanje je zelo priročno za uporabnike, ki težje tipkajo."
+      "correct": 2,
+      "explanation": "Mikrofon v Googlu omogoča glasovno iskanje – namesto tipkanja lahko izgovorite, kaj iščete. To je zelo priročno za uporabnike, ki težje tipkajo, ali kadar imate zasedene roke."
     },
     {
       "question": "Ali lahko Googlu postavimo vprašanje z naravnim stavkom?",
       "options": [
-        "A) Ne.",
-        "B) Da, pogosto razume tudi običajna vprašanja.",
-        "C) Samo v angleščini."
+        "Da, pogosto razume tudi običajna vprašanja.",
+        "Samo v angleščini.",
+        "Ne."
       ],
-      "correct": 1,
-      "explanation": "Na primer: Koliko je visok Triglav?"
+      "correct": 0,
+      "explanation": "Google razume tudi naravna vprašanja, kot je 'Koliko je visok Triglav?' ali 'Kdaj je bil rojen Prešeren?'. Za boljše rezultate pa so vseeno priporočljive ključne besede."
     },
     {
       "question": "Kaj storimo, če med rezultati najdemo več različnih odgovorov?",
       "options": [
-        "A) Verjamemo prvemu brez preverjanja.",
-        "B) Primerjamo več zanesljivih virov.",
-        "C) Zapremo brskalnik."
+        "Primerjamo več zanesljivih virov.",
+        "Zapremo brskalnik.",
+        "Verjamemo prvemu brez preverjanja."
       ],
-      "correct": 1,
-      "explanation": "Pri pomembnih informacijah je dobro preveriti več virov."
+      "correct": 0,
+      "explanation": "Na internetu lahko naletimo na različne, celo nasprotujoče si informacije. Pri pomembnih vprašanjih (zdravje, pravo, finance) je dobro preveriti več zanesljivih virov in poiskati uradne informacije."
     },
     {
       "question": "Katere spletne strani so običajno najbolj zanesljive?",
       "options": [
-        "A) Tiste z največ oglasi.",
-        "B) Uradne strani državnih ustanov, univerz in priznanih organizacij.",
-        "C) Vedno prva stran med rezultati."
+        "Vedno prva stran med rezultati.",
+        "Tiste z največ oglasi.",
+        "Uradne strani državnih ustanov, univerz in priznanih organizacij."
       ],
-      "correct": 1,
-      "explanation": "Pri zdravstvenih, pravnih in finančnih informacijah uporabljamo preverjene vire."
+      "correct": 2,
+      "explanation": "Najbolj zanesljivi viri so uradne strani (končnice .gov, .edu, uradne strani podjetij in organizacij). Pri zdravstvenih, pravnih in finančnih informacijah vedno preverimo, ali vir strokovno ustreza."
     },
     {
       "question": "Kaj pomeni, če Google predlaga iskalni izraz že med tipkanjem?",
       "options": [
-        "A) Telefon je okužen.",
-        "B) Ponuja predloge na podlagi pogostih iskanj.",
-        "C) Briše zgodovino."
+        "Ponuja predloge na podlagi pogostih iskanj.",
+        "Briše zgodovino.",
+        "Telefon je okužen."
       ],
-      "correct": 1,
-      "explanation": "Predlog lahko izberemo ali pa napišemo svoj izraz."
+      "correct": 0,
+      "explanation": "Med tipkanjem Google prikazuje predloge, ki temeljijo na pogostih iskanjih drugih uporabnikov. Predlog lahko izberemo ali pa napišemo svoj izraz – oboje je v redu."
     },
     {
       "question": "Kaj je koristno storiti, če z iskanjem ne najdemo želenega odgovora?",
       "options": [
-        "A) Vedno uporabimo enake besede.",
-        "B) Poskusimo z drugačnimi ključnimi besedami.",
-        "C) Izključimo računalnik."
+        "Poskusimo z drugačnimi ključnimi besedami.",
+        "Izključimo računalnik.",
+        "Vedno uporabimo enake besede."
       ],
-      "correct": 1,
-      "explanation": "Že majhna sprememba iskalnega izraza lahko prinese veliko boljše rezultate."
+      "correct": 0,
+      "explanation": "Če z iskanjem nismo zadovoljni, poskusimo z drugačnimi ključnimi besedami ali drugačnim vrstnim redom besed. Že majhna sprememba iskalnega izraza lahko prinese veliko boljše rezultate."
     },
     {
       "question": "Ali lahko Google išče tudi datoteke PDF?",
       "options": [
-        "A) Ne.",
-        "B) Da, med rezultati pogosto najde tudi dokumente PDF.",
-        "C) Samo fotografije."
+        "Da, med rezultati pogosto najde tudi dokumente PDF.",
+        "Samo fotografije.",
+        "Ne."
       ],
-      "correct": 1,
-      "explanation": "Veliko navodil, obrazcev in priročnikov je objavljenih v obliki PDF."
+      "correct": 0,
+      "explanation": "Google indeksira tudi PDF datoteke, zato med rezultati pogosto najde navodila, obrazce, priročnike in uradne dokumente v PDF obliki."
     },
     {
       "question": "Kaj je največja prednost Googla?",
       "options": [
-        "A) Da zna popravljati računalnik.",
-        "B) Da zelo hitro poišče veliko količino informacij.",
-        "C) Da odstrani viruse."
+        "Da odstrani viruse.",
+        "Da zna popravljati računalnik.",
+        "Da zelo hitro poišče veliko količino informacij."
       ],
-      "correct": 1,
-      "explanation": "Pomembno pa je, da znamo presoditi, kateri rezultati so zanesljivi."
+      "correct": 2,
+      "explanation": "Google v delčku sekunde preišče milijarde spletnih strani in prikaže ustrezne rezultate. Pomembno pa je, da znamo presoditi, kateri rezultati so zanesljivi in ustrezni."
     },
     {
       "question": "Katera navada vodi do najboljših rezultatov pri iskanju?",
       "options": [
-        "A) Vedno kliknemo prvi zadetek.",
-        "B) Uporabljamo jasne ključne besede in preverimo več zanesljivih virov.",
-        "C) Pišemo čim daljša besedila."
+        "Uporabljamo jasne ključne besede in preverimo več zanesljivih virov.",
+        "Pišemo čim daljša besedila.",
+        "Vedno kliknemo prvi zadetek."
       ],
-      "correct": 1,
-      "explanation": "Dobro iskanje ni odvisno le od Googla, ampak tudi od tega, kako oblikujemo poizvedbo in kako kritično presodimo rezultate."
+      "correct": 0,
+      "explanation": "Dobro iskanje ni odvisno le od Googla, ampak tudi od tega, kako oblikujemo poizvedbo in kako kritično presodimo rezultate. Uporabljajte jasne ključne besede in preverite več virov."
     }
   ]
 }

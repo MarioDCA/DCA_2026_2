@@ -5,252 +5,252 @@
     {
       "question": "Kaj je internet?",
       "options": [
-        "A) Program za pisanje besedil.",
-        "B) Svetovno omrežje povezanih računalnikov in naprav.",
-        "C) Vrsta računalniškega zaslona."
+        "Svetovno omrežje povezanih računalnikov in naprav.",
+        "Vrsta računalniškega zaslona.",
+        "Program za pisanje besedil."
       ],
-      "correct": 1,
-      "explanation": "Internet povezuje milijone računalnikov, telefonov in drugih naprav po vsem svetu."
+      "correct": 0,
+      "explanation": "Internet je globalno omrežje, ki povezuje milijone računalnikov, telefonov, tablic in drugih naprav po vsem svetu. Omogoča dostop do spletnih strani, e-pošte, video vsebin in številnih drugih storitev."
     },
     {
       "question": "Kaj potrebujemo za dostop do interneta doma?",
       "options": [
-        "A) Samo tiskalnik.",
-        "B) Internetno povezavo in napravo, kot je računalnik ali telefon.",
-        "C) Samo program Word."
+        "Samo program Word.",
+        "Internetno povezavo in napravo, kot je računalnik ali telefon.",
+        "Samo tiskalnik."
       ],
       "correct": 1,
-      "explanation": "Za internet potrebujemo povezavo (npr. optiko, kabel ali mobilno povezavo) in napravo za uporabo."
+      "explanation": "Za dostop do interneta potrebujete dve stvari: napravo (računalnik, telefon, tablico) in internetno povezavo (prek optike, kabla, mobilnega omrežja ali Wi-Fi)."
     },
     {
       "question": "Kaj je spletni brskalnik?",
       "options": [
-        "A) Program za zaščito pred virusi.",
-        "B) Program za ogled spletnih strani.",
-        "C) Program za čiščenje tipkovnice."
+        "Program za ogled spletnih strani.",
+        "Program za čiščenje tipkovnice.",
+        "Program za zaščito pred virusi."
       ],
-      "correct": 1,
-      "explanation": "Najbolj znani brskalniki so Microsoft Edge, Google Chrome, Mozilla Firefox in Safari."
+      "correct": 0,
+      "explanation": "Spletni brskalnik je program, ki omogoča ogled spletnih strani. Najbolj znani so Google Chrome, Microsoft Edge, Mozilla Firefox in Safari. Brskalnik prikaže vsebino spletne strani na vašem zaslonu."
     },
     {
       "question": "Kateri od teh programov je spletni brskalnik?",
       "options": [
-        "A) Microsoft Word.",
-        "B) Google Chrome.",
-        "C) Kalkulator."
+        "Kalkulator.",
+        "Microsoft Word.",
+        "Google Chrome."
       ],
-      "correct": 1,
-      "explanation": "Chrome je brskalnik, Word pa je program za pisanje dokumentov."
+      "correct": 2,
+      "explanation": "Google Chrome je spletni brskalnik. Microsoft Word je program za pisanje dokumentov, Kalkulator pa je preprosto računalo. Chrome uporabljamo za odpiranje spletnih strani."
     },
     {
       "question": "Kaj je spletna stran?",
       "options": [
-        "A) Datoteka na namizju.",
-        "B) Stran z informacijami, ki jo odpremo v brskalniku.",
-        "C) Vrsta tiskalnika."
+        "Stran z informacijami, ki jo odpremo v brskalniku.",
+        "Vrsta tiskalnika.",
+        "Datoteka na namizju."
       ],
-      "correct": 1,
-      "explanation": "Spletne strani vsebujejo besedilo, slike, videoposnetke in povezave."
+      "correct": 0,
+      "explanation": "Spletna stran je dokument, ki ga odprete v brskalniku. Vsebuje lahko besedilo, slike, videoposnetke in povezave do drugih strani. Vsaka spletna stran ima svoj naslov (URL)."
     },
     {
       "question": "Kaj je spletni naslov (URL)?",
       "options": [
-        "A) Geslo za računalnik.",
-        "B) Naslov, kjer najdemo določeno spletno stran.",
-        "C) Ime uporabnika."
+        "Ime uporabnika.",
+        "Naslov, kjer najdemo določeno spletno stran.",
+        "Geslo za računalnik."
       ],
       "correct": 1,
-      "explanation": "Primer spletnega naslova je naslov neke spletne strani, ki ga vpišemo v vrstico brskalnika."
+      "explanation": "Spletni naslov (URL) je edinstven naslov spletne strani, na primer https://www.google.si. Vpišete ga v naslovno vrstico brskalnika, da odprete želeno stran."
     },
     {
       "question": "Kam vpišemo spletni naslov?",
       "options": [
-        "A) V program Kalkulator.",
-        "B) V naslovno vrstico spletnega brskalnika.",
-        "C) V Koš."
+        "V Koš.",
+        "V naslovno vrstico spletnega brskalnika.",
+        "V program Kalkulator."
       ],
       "correct": 1,
-      "explanation": "Naslovna vrstica je na vrhu okna brskalnika in je namenjena vpisovanju spletnih naslovov ali iskalnih pojmov."
+      "explanation": "Naslovna vrstica je na vrhu okna brskalnika. Vanjo vpišete spletni naslov (URL) ali iskalne pojme. Če vpišete iskalne pojme, brskalnik uporabi privzeti iskalnik (npr. Google)."
     },
     {
       "question": "Kaj naredi gumb za osvežitev strani (⟳)?",
       "options": [
-        "A) Izklopi računalnik.",
-        "B) Ponovno naloži trenutno spletno stran.",
-        "C) Izbriše vse podatke."
+        "Ponovno naloži trenutno spletno stran.",
+        "Izbriše vse podatke.",
+        "Izklopi računalnik."
       ],
-      "correct": 1,
-      "explanation": "Osvežitev je uporabna, če se stran ni pravilno prikazala ali želimo videti nove podatke."
+      "correct": 0,
+      "explanation": "Gumb za osvežitev (⟳) ponovno naloži trenutno spletno stran. Uporabite ga, če se stran ni pravilno prikazala, ali če želite videti najnovejše podatke (npr. novice, vreme)."
     },
     {
-      "question": "Kaj je povezava (link) na spletni strani?",
+      "question": "Kaj je povezava na spletni strani?",
       "options": [
-        "A) Vrsta virusa.",
-        "B) Element, ki nas s klikom odpelje na drugo stran ali vsebino.",
-        "C) Program za pisanje."
+        "Element, ki nas s klikom odpelje na drugo stran ali vsebino.",
+        "Program za pisanje.",
+        "Vrsta virusa."
       ],
-      "correct": 1,
-      "explanation": "Povezave so pogosto obarvane ali podčrtane. S klikom odpremo drugo vsebino."
+      "correct": 0,
+      "explanation": "Povezava (link) je klikljiv element na spletni strani – pogosto je podčrtan ali drugače obarvan. S klikom nanjo se premaknete na drugo spletno stran ali na drug del iste strani."
     },
     {
       "question": "Kaj pomeni odpreti nov zavihek v brskalniku?",
       "options": [
-        "A) Izbrisati trenutno stran.",
-        "B) Odpreti dodatno stran, ne da bi zaprli trenutno.",
-        "C) Izklopiti internet."
+        "Izklopiti internet.",
+        "Odpreti dodatno stran, ne da bi zaprli trenutno.",
+        "Izbrisati trenutno stran."
       ],
       "correct": 1,
-      "explanation": "Zavihki omogočajo, da imamo odprtih več spletnih strani hkrati."
+      "explanation": "Zavihki omogočajo, da imate odprtih več spletnih strani hkrati v istem oknu brskalnika. Na primer: v enem zavihku imate e-pošto, v drugem novice, v tretjem pa recept za večerjo."
     },
     {
       "question": "Kaj naredi gumb Nazaj (←) v brskalniku?",
       "options": [
-        "A) Zapre računalnik.",
-        "B) Vrne nas na prej obiskano spletno stran.",
-        "C) Izbriše zgodovino."
+        "Izbriše zgodovino.",
+        "Vrne nas na prej obiskano spletno stran.",
+        "Zapre računalnik."
       ],
       "correct": 1,
-      "explanation": "Gumb Nazaj omogoča vračanje po straneh, ki smo jih že obiskali."
+      "explanation": "Gumb Nazaj vas vrne na prejšnjo spletno stran, ki ste jo obiskali v tem zavihku. Uporaben je, kadar želite preveriti prejšnjo stran ali ste pomotoma kliknili na napačno povezavo."
     },
     {
-      "question": "Kaj je spletni iskalnik?",
+      "question": "Kaj je iskalnik?",
       "options": [
-        "A) Program za risanje.",
-        "B) Storitev za iskanje informacij na internetu.",
-        "C) Mapa za shranjevanje datotek."
+        "Storitev za iskanje informacij na internetu.",
+        "Mapa za shranjevanje datotek.",
+        "Program za risanje."
       ],
-      "correct": 1,
-      "explanation": "Iskalniki, kot je Google, pomagajo najti spletne strani, slike, novice in druge informacije."
+      "correct": 0,
+      "explanation": "Iskalnik (npr. Google, Bing, DuckDuckGo) je spletna storitev, ki vam pomaga najti informacije na internetu. V iskalnik vpišete ključne besede in dobite seznam relevantnih spletnih strani."
     },
     {
       "question": "Kako najbolje poiščemo informacijo na internetu?",
       "options": [
-        "A) Naključno klikamo različne spletne strani.",
-        "B) V iskalnik vpišemo ključne besede.",
-        "C) Izklopimo računalnik in ga ponovno vključimo."
+        "V iskalnik vpišemo ključne besede.",
+        "Izklopimo računalnik in ga ponovno vključimo.",
+        "Naključno klikamo različne spletne strani."
       ],
-      "correct": 1,
-      "explanation": "Iskalniki najbolje delujejo, če vpišemo kratke in jasne besede, povezane s tem, kar iščemo."
+      "correct": 0,
+      "explanation": "Iskalniki najbolje delujejo, če vpišete kratke in jasne ključne besede (npr. 'recept jabolčni zavitek' namesto celega stavka). Tako dobite natančnejše rezultate."
     },
     {
       "question": "Kaj so ključne besede pri iskanju na internetu?",
       "options": [
-        "A) Gesla za prijavo.",
-        "B) Besede ali izrazi, ki opišejo, kaj iščemo.",
-        "C) Imena računalniških programov."
+        "Imena računalniških programov.",
+        "Gesla za prijavo.",
+        "Besede ali izrazi, ki opišejo, kaj iščemo."
       ],
-      "correct": 1,
-      "explanation": "Če iščemo na primer recept za potico, vpišemo 'recept potica', ne celotnega vprašanja."
+      "correct": 2,
+      "explanation": "Ključne besede so glavni izrazi, ki opisujejo vaše iskanje. Na primer, če iščete recept za potico, vpišete 'recept potica' – ne pa celotnega vprašanja. To pomaga iskalniku najti ustrezne strani."
     },
     {
       "question": "Kaj pomeni, če se besedilo na spletni strani spremeni v roko kazalca?",
       "options": [
-        "A) Računalnik se je pokvaril.",
-        "B) Tam je običajno povezava, na katero lahko kliknemo.",
-        "C) Stran se bo zaprla."
+        "Stran se bo zaprla.",
+        "Tam je običajno povezava, na katero lahko kliknemo.",
+        "Računalnik se je pokvaril."
       ],
       "correct": 1,
-      "explanation": "Kazalec v obliki roke pogosto pomeni, da je element klikljiv."
+      "explanation": "Ko se kazalec miške spremeni v roko (namesto puščice), to pomeni, da je element klikljiv – običajno gre za povezavo na drugo stran ali za gumb. S klikom se bo zgodilo nekaj novega."
     },
     {
-      "question": "Kaj je zaznamek (priljubljena stran oziroma Bookmark)?",
+      "question": "Kaj je zaznamek?",
       "options": [
-        "A) Izbrisana spletna stran.",
-        "B) Shranjen spletni naslov, da ga pozneje lažje najdemo.",
-        "C) Vrsta računalniškega virusa."
+        "Vrsta računalniškega virusa.",
+        "Shranjen spletni naslov, da ga pozneje lažje najdemo.",
+        "Izbrisana spletna stran."
       ],
       "correct": 1,
-      "explanation": "Če pogosto obiskujemo neko spletno stran, jo lahko shranimo med priljubljene."
+      "explanation": "Zaznamek (bookmark) je shranjena povezava do spletne strani, ki jo pogosto obiskujete. Namesto da vsakič znova vnašate naslov, jo odprete s klikom na zaznamek v brskalniku."
     },
     {
       "question": "Zakaj uporabljamo zavihke v brskalniku?",
       "options": [
-        "A) Da povečamo velikost zaslona.",
-        "B) Da imamo odprtih več spletnih strani hkrati.",
-        "C) Da izbrišemo zgodovino."
+        "Da imamo odprtih več spletnih strani hkrati.",
+        "Da izbrišemo zgodovino.",
+        "Da povečamo velikost zaslona."
       ],
-      "correct": 1,
-      "explanation": "Na primer: v enem zavihku imamo e-pošto, v drugem novice, v tretjem recept."
+      "correct": 0,
+      "explanation": "Zavihki omogočajo, da imate odprtih več spletnih strani hkrati v istem oknu brskalnika. Na primer: v enem zavihku imate e-pošto, v drugem novice, v tretjem pa recept za večerjo."
     },
     {
       "question": "Kaj je zgodovina brskanja?",
       "options": [
-        "A) Seznam nameščenih programov.",
-        "B) Seznam spletnih strani, ki smo jih obiskali.",
-        "C) Seznam dokumentov v Wordu."
+        "Seznam dokumentov v Wordu.",
+        "Seznam spletnih strani, ki smo jih obiskali.",
+        "Seznam nameščenih programov."
       ],
       "correct": 1,
-      "explanation": "Brskalnik si lahko zapomni obiskane strani, da jih kasneje lažje najdemo."
+      "explanation": "Zgodovina brskanja je seznam spletnih strani, ki ste jih obiskali v preteklih dneh ali tednih. Brskalnik si jih zapomni, da jih lahko kasneje hitro najdete."
     },
     {
       "question": "Kaj pomeni prenesti datoteko (download)?",
       "options": [
-        "A) Izbrisati datoteko.",
-        "B) Kopirati datoteko iz interneta na svojo napravo.",
-        "C) Poslati datoteko v Koš."
+        "Kopirati datoteko iz interneta na svojo napravo.",
+        "Poslati datoteko v Koš.",
+        "Izbrisati datoteko."
       ],
-      "correct": 1,
-      "explanation": "Prenesemo lahko na primer fotografijo, dokument ali program."
+      "correct": 0,
+      "explanation": "Prenos (download) pomeni, da kopirate datoteko z interneta na svoj računalnik ali telefon. Prenesete lahko dokumente, fotografije, programe in druge datoteke."
     },
     {
       "question": "Kaj storimo, če spletna stran zahteva nenavadno namestitev programa?",
       "options": [
-        "A) Takoj namestimo program.",
-        "B) Preverimo, ali je stran zaupanja vredna, in smo previdni.",
-        "C) Pošljemo povezavo vsem prijateljem."
+        "Preverimo, ali je stran zaupanja vredna, in smo previdni.",
+        "Takoj namestimo program.",
+        "Pošljemo povezavo vsem prijateljem."
       ],
-      "correct": 1,
-      "explanation": "Neznani programi lahko vsebujejo škodljivo programsko opremo."
+      "correct": 0,
+      "explanation": "Neznani programi, ki jih spletne strani zahtevajo za namestitev, so lahko nevarni. Vedno preverite, ali je stran zaupanja vredna, preden namestite kar koli. V nasprotnem primeru stran raje zaprite."
     },
     {
       "question": "Kaj pomeni simbol ključavnice ob spletnem naslovu?",
       "options": [
-        "A) Stran je zagotovo brez napak.",
-        "B) Povezava med brskalnikom in stranjo je šifrirana.",
-        "C) Računalnik je zaklenjen."
+        "Računalnik je zaklenjen.",
+        "Povezava med brskalnikom in stranjo je šifrirana.",
+        "Stran je zagotovo brez napak."
       ],
       "correct": 1,
-      "explanation": "Ključavnica pomeni, da je povezava zaščitena (HTTPS). Ne pomeni pa, da je spletna stran nujno poštena."
+      "explanation": "Ključavnica v naslovni vrstici pomeni, da je povezava med vašim brskalnikom in spletno stranjo varna (šifrirana). To je pomembno pri vnosu gesel ali bančnih podatkov, vendar ne pomeni samodejno, da je stran poštena."
     },
     {
       "question": "Zakaj ni dobro klikati vseh povezav v elektronski pošti?",
       "options": [
-        "A) Ker internet preneha delovati.",
-        "B) Ker lahko vodijo na nevarne ali lažne spletne strani.",
-        "C) Ker se računalnik vedno izklopi."
+        "Ker se računalnik vedno izklopi.",
+        "Ker internet preneha delovati.",
+        "Ker lahko vodijo na nevarne ali lažne spletne strani."
       ],
-      "correct": 1,
-      "explanation": "Goljufi pogosto pošiljajo lažna sporočila z namenom kraje gesel ali podatkov."
+      "correct": 2,
+      "explanation": "Goljufi pogosto pošiljajo lažna e-poštna sporočila z namenom kraje gesel ali bančnih podatkov. Povezave v takih sporočilih vodijo na lažne spletne strani. Vedno preverite pošiljatelja in bodite previdni."
     },
     {
-      "question": "Kaj je spletna prevara (phishing)?",
+      "question": "Kako prepoznamo spletno prevaro?",
       "options": [
-        "A) Hitrejši internet.",
-        "B) Poskus pridobiti osebne podatke z lažnimi sporočili ali stranmi.",
-        "C) Program za urejanje slik."
+        "Po tem, da sporočilo zahteva osebne podatke ali nujno ukrepanje.",
+        "Po tem, da ima lepo obliko.",
+        "Po tem, da prihaja od znane osebe."
       ],
-      "correct": 1,
-      "explanation": "Prevaranti se pogosto pretvarjajo, da so banka, dostavna služba ali znano podjetje."
+      "correct": 0,
+      "explanation": "Spletne prevare pogosto zahtevajo osebne podatke, gesla ali plačila. Ustvarjajo občutek nujnosti (npr. 'ukrepajte takoj' ali 'vaš račun bo zaprt'). Vedno preverite informacije pri uradnem viru."
     },
     {
       "question": "Kaj je dobro storiti pri uporabi javnega Wi-Fi omrežja?",
       "options": [
-        "A) Vpisati vsa pomembna gesla brez razmišljanja.",
-        "B) Biti previden pri dostopu do občutljivih podatkov.",
-        "C) Izklopiti protivirusni program."
+        "Biti previden pri dostopu do občutljivih podatkov.",
+        "Izklopiti protivirusni program.",
+        "Vpisati vsa pomembna gesla brez razmišljanja."
       ],
-      "correct": 1,
-      "explanation": "Javna omrežja niso vedno varna. Pri njihovi uporabi bodimo previdni predvsem pri spletnih bankah in prijavah."
+      "correct": 0,
+      "explanation": "Javna omrežja (v kavarnah, hotelih, nakupovalnih centrih) niso vedno varna. Pri njihovi uporabi bodite še posebej previdni – ne vnašajte gesel za spletno banko ali druge občutljive podatke."
     },
     {
       "question": "Kaj naredimo, če spletna stran izgleda sumljivo?",
       "options": [
-        "A) Vpišemo svoje geslo, da preverimo.",
-        "B) Stran zapremo in ne vnašamo osebnih podatkov.",
-        "C) Pošljemo svoje podatke upravitelju strani."
+        "Stran zapremo in ne vnašamo osebnih podatkov.",
+        "Pošljemo svoje podatke upravitelju strani.",
+        "Vpišemo svoje geslo, da preverimo."
       ],
-      "correct": 1,
-      "explanation": "Če stran zahteva nenavadne podatke, obljublja neverjetne nagrade ali deluje sumljivo, jo raje zapremo."
+      "correct": 0,
+      "explanation": "Če stran zahteva nenavadne podatke, obljublja neverjetne nagrade ali deluje sumljivo, jo raje zaprite. Ne vnašajte osebnih podatkov ali gesel na takšne strani."
     }
   ]
 }

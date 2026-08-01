@@ -3,254 +3,254 @@
   "title": "Windows 10 – urejanje datotek, map in Raziskovalec",
   "questions": [
     {
-      "question": "Kaj je datoteka?",
+      "question": "Kaj vsebuje datoteka?",
       "options": [
-        "A) Gumb na tipkovnici.",
-        "B) Shranjen podatek, kot je dokument, fotografija ali glasba.",
-        "C) Vrsta računalniškega zaslona."
+        "Samo besedilo.",
+        "Podatke, kot so besedilo, slika, glasba ali video.",
+        "Samo programsko kodo."
       ],
       "correct": 1,
-      "explanation": "Datoteka vsebuje določene podatke. Primeri so besedilo, slika, preglednica ali videoposnetek."
+      "explanation": "Datoteka je shranjena vsebina, ki je lahko dokument, fotografija, glasba, video ali katerikoli drug podatek. Vsaka datoteka ima svoje ime in pripono, ki pove, za kakšno vrsto podatkov gre."
     },
     {
-      "question": "Kaj je mapa v računalniku?",
+      "question": "Zakaj uporabljamo mape v računalniku?",
       "options": [
-        "A) Program za zaščito računalnika.",
-        "B) Mesto, kamor shranjujemo in urejamo datoteke.",
-        "C) Vrsta tiskalnika."
+        "Da računalnik deluje hitreje.",
+        "Da lažje organiziramo in najdemo datoteke.",
+        "Da zaščitimo računalnik pred virusi."
       ],
       "correct": 1,
-      "explanation": "Mape nam pomagajo urediti datoteke podobno kot papirne mape v omari."
+      "explanation": "Mape so podobne predalom v omari – pomagajo nam, da datoteke lažje najdemo in urejamo. V mapah hranimo dokumente, fotografije, glasbo in druge datoteke po temah."
     },
     {
-      "question": "Kaj je Raziskovalec datotek (File Explorer)?",
+      "question": "Kaj je Raziskovalec datotek?",
       "options": [
-        "A) Program za gledanje televizije.",
-        "B) Program za pregledovanje in urejanje datotek ter map.",
-        "C) Protivirusni program."
+        "Program za pregledovanje in urejanje datotek ter map.",
+        "Protivirusni program.",
+        "Program za gledanje televizije."
       ],
-      "correct": 1,
-      "explanation": "V Raziskovalcu vidimo diske, mape in datoteke na računalniku."
+      "correct": 0,
+      "explanation": "Raziskovalec datotek (ikona rumene mape) je osnovni program v Windows za pregledovanje in upravljanje datotek, map in naprav. V njem vidimo diske, mape in datoteke na računalniku."
     },
     {
       "question": "Kako odpremo Raziskovalca datotek v Windows 10?",
       "options": [
-        "A) Pritisnemo gumb za izklop.",
-        "B) Kliknemo ikono mape v opravilni vrstici ali uporabimo meni Start.",
-        "C) Odpremo Koš."
+        "Kliknemo ikono mape v opravilni vrstici ali uporabimo meni Start.",
+        "Odpremo Koš.",
+        "Pritisnemo gumb za izklop."
       ],
-      "correct": 1,
-      "explanation": "Ikona rumene mape je najpogostejši način za zagon Raziskovalca."
+      "correct": 0,
+      "explanation": "Raziskovalec datotek najlažje odprete s klikom na ikono rumene mape v opravilni vrstici (na dnu zaslona) ali pa ga poiščete v meniju Start pod 'Windowsove naprave'."
     },
     {
       "question": "Kako ustvarimo novo mapo?",
       "options": [
-        "A) Izklopimo računalnik.",
-        "B) Z desnim klikom izberemo Novo → Mapa.",
-        "C) Pritisnemo tipko Esc."
+        "Pritisnemo tipko Esc.",
+        "Z desnim klikom izberemo Novo → Mapa.",
+        "Izklopimo računalnik."
       ],
       "correct": 1,
-      "explanation": "Nove mape pomagajo organizirati dokumente, slike in druge datoteke."
+      "explanation": "Novo mapo ustvarite z desnim klikom na prazen prostor v Raziskovalcu ali na namizju, nato izberete Novo → Mapa. Vpišete ime mape in pritisnete Enter."
     },
     {
       "question": "Kako preimenujemo datoteko ali mapo?",
       "options": [
-        "A) Datoteko izbrišemo.",
-        "B) Z desnim klikom izberemo Preimenuj.",
-        "C) Računalnik ponovno zaženemo."
+        "Z desnim klikom izberemo Preimenuj.",
+        "Računalnik ponovno zaženemo.",
+        "Datoteko izbrišemo."
       ],
-      "correct": 1,
-      "explanation": "Dobro ime datoteke nam pomaga, da jo kasneje lažje najdemo."
+      "correct": 0,
+      "explanation": "Datoteko ali mapo preimenujete z desnim klikom nanjo in izbiro 'Preimenuj'. Nato vpišete novo ime in pritisnete Enter. Dobro ime datoteke pomaga, da jo kasneje lažje najdete."
     },
     {
       "question": "Kaj pomeni kopiranje datoteke?",
       "options": [
-        "A) Datoteko uničimo.",
-        "B) Ustvarimo dodatno kopijo datoteke na drugem mestu.",
-        "C) Spremenimo jezik računalnika."
+        "Ustvarimo dodatno kopijo datoteke na drugem mestu.",
+        "Spremenimo jezik računalnika.",
+        "Datoteko uničimo."
       ],
-      "correct": 1,
-      "explanation": "Pri kopiranju izvorna datoteka ostane nespremenjena."
+      "correct": 0,
+      "explanation": "Kopiranje datoteke pomeni, da na drugem mestu (npr. v drugi mapi) ustvarite popolnoma enako kopijo. Izvirna datoteka ostane na svojem mestu, dodana je le nova kopija."
     },
     {
       "question": "Kakšna je razlika med kopiranjem in premikanjem datoteke?",
       "options": [
-        "A) Razlike ni.",
-        "B) Pri kopiranju ostane izvirnik, pri premikanju pa ga prestavimo drugam.",
-        "C) Premikanje pomeni brisanje."
+        "Pri kopiranju ostane izvirnik, pri premikanju pa ga prestavimo drugam.",
+        "Premikanje pomeni brisanje.",
+        "Razlike ni."
       ],
-      "correct": 1,
-      "explanation": "Kopiranje uporabimo, ko želimo imeti dve različici, premikanje pa, ko želimo datoteko prestaviti."
+      "correct": 0,
+      "explanation": "Kopiranje ustvari dodatno kopijo na novem mestu, izvirnik pa ostane na starem. Premikanje pa izvirnik prestavi na novo mesto – na starem mestu datoteke ni več. Kopiranje je varnejše, kadar niste prepričani."
     },
     {
       "question": "Kaj pomenita bližnjici Ctrl + C in Ctrl + V?",
       "options": [
-        "A) Izklop računalnika.",
-        "B) Kopiranje in lepljenje podatkov.",
-        "C) Povečanje zaslona."
+        "Kopiranje in lepljenje podatkov.",
+        "Povečanje zaslona.",
+        "Izklop računalnika."
       ],
-      "correct": 1,
-      "explanation": "Ctrl + C kopira izbrano vsebino, Ctrl + V jo prilepi na novo mesto."
+      "correct": 0,
+      "explanation": "Ctrl + C je bližnjica za kopiranje (Copy), Ctrl + V pa za lepljenje (Paste). Najprej izberete vsebino in pritisnete Ctrl + C, nato greste na ciljno mesto in pritisnete Ctrl + V."
     },
     {
       "question": "Kam se običajno premakne izbrisana datoteka?",
       "options": [
-        "A) Na internet.",
-        "B) V Koš.",
-        "C) V tiskalnik."
+        "V Koš.",
+        "V tiskalnik.",
+        "Na internet."
       ],
-      "correct": 1,
-      "explanation": "Iz Koša lahko datoteko še nekaj časa obnovimo, preden jo trajno izbrišemo."
+      "correct": 0,
+      "explanation": "Ko izbrišete datoteko (s tipko Delete ali z desnim klikom Izbriši), se premakne v Koš. Iz Koša jo lahko še obnovite, dokler Koša ne izpraznite."
     },
     {
       "question": "Kaj naredimo, če želimo obnoviti datoteko iz Koša?",
       "options": [
-        "A) Izključimo računalnik.",
-        "B) Odpremo Koš, izberemo datoteko in kliknemo Obnovi.",
-        "C) Jo ponovno napišemo."
+        "Odpremo Koš, izberemo datoteko in kliknemo Obnovi.",
+        "Jo ponovno napišemo.",
+        "Izključimo računalnik."
       ],
-      "correct": 1,
-      "explanation": "Obnovljena datoteka se vrne na svoje prvotno mesto."
+      "correct": 0,
+      "explanation": "Koš odprete z dvojnim klikom na njegovo ikono na namizju. Izberete datoteko, ki jo želite obnoviti, in kliknete gumb 'Obnovi izbrane elemente'. Datoteka se vrne na prvotno mesto."
     },
     {
       "question": "Kaj pomeni pripona datoteke, na primer .jpg ali .pdf?",
       "options": [
-        "A) Geslo datoteke.",
-        "B) Oznaka vrste datoteke.",
-        "C) Ime uporabnika."
+        "Oznaka vrste datoteke.",
+        "Ime uporabnika.",
+        "Geslo datoteke."
       ],
-      "correct": 1,
-      "explanation": "Pripona pove, s katerim programom lahko datoteko odpremo. Na primer .jpg je slika, .pdf dokument."
+      "correct": 0,
+      "explanation": "Pripona (končnica) je del imena datoteke za zadnjo piko, na primer .jpg, .pdf, .docx. Pove, za kakšno vrsto datoteke gre in s katerim programom jo lahko odpremo."
     },
     {
       "question": "Kaj pomeni datoteka z oznako .docx?",
       "options": [
-        "A) Glasbena datoteka.",
-        "B) Dokument programa Microsoft Word.",
-        "C) Video datoteka."
+        "Dokument programa Microsoft Word.",
+        "Video datoteka.",
+        "Glasbena datoteka."
       ],
-      "correct": 1,
-      "explanation": "Datoteke .docx običajno odpremo z Microsoft Wordom ali podobnimi programi."
+      "correct": 0,
+      "explanation": "Pripona .docx označuje dokument Microsoft Word. Datoteke .docx odpremo z Microsoft Wordom ali podobnimi programi (LibreOffice, Google Docs)."
     },
     {
       "question": "Kaj pomeni datoteka z oznako .pdf?",
       "options": [
-        "A) Računalniški virus.",
-        "B) Dokument, ki ohrani enak videz na različnih napravah.",
-        "C) Program za internet."
+        "Dokument, ki ohrani enak videz na različnih napravah.",
+        "Program za internet.",
+        "Računalniški virus."
       ],
-      "correct": 1,
-      "explanation": "PDF je zelo pogosta oblika za navodila, račune, obrazce in knjige."
+      "correct": 0,
+      "explanation": "PDF (Portable Document Format) je oblika dokumenta, ki ohrani enak videz na vseh napravah. Zelo je pogost za navodila, račune, obrazce in uradne dokumente."
     },
     {
       "question": "Kako poiščemo izgubljeno datoteko v Windows 10?",
       "options": [
-        "A) Kupimo nov računalnik.",
-        "B) Uporabimo iskalno polje v Raziskovalcu ali meniju Start.",
-        "C) Izklopimo internet."
+        "Uporabimo iskalno polje v Raziskovalcu ali meniju Start.",
+        "Izklopimo internet.",
+        "Kupimo nov računalnik."
       ],
-      "correct": 1,
-      "explanation": "Windows lahko poišče datoteke po imenu ali delu imena."
+      "correct": 0,
+      "explanation": "V iskalno polje (v meniju Start ali v Raziskovalcu datotek) vpišete ime datoteke ali del imena. Windows poišče vse datoteke in mape, ki ustrezajo iskanju."
     },
     {
       "question": "Kaj je USB ključek?",
       "options": [
-        "A) Vrsta tipkovnice.",
-        "B) Prenosna naprava za shranjevanje podatkov.",
-        "C) Program za risanje."
+        "Prenosna naprava za shranjevanje podatkov.",
+        "Program za risanje.",
+        "Vrsta tipkovnice."
       ],
-      "correct": 1,
-      "explanation": "USB ključek uporabljamo za prenos ali varnostno kopiranje datotek."
+      "correct": 0,
+      "explanation": "USB ključek (tudi 'palčnik') je majhna prenosna naprava za shranjevanje podatkov. Uporabljamo ga za prenos datotek med računalniki ali za varnostno kopiranje."
     },
     {
       "question": "Kaj naredimo pred odstranitvijo USB ključka iz računalnika?",
       "options": [
-        "A) Izklopimo monitor.",
-        "B) Uporabimo varno odstranitev naprave.",
-        "C) Izbrišemo vse datoteke."
+        "Uporabimo varno odstranitev naprave.",
+        "Izbrišemo vse datoteke.",
+        "Izklopimo monitor."
       ],
-      "correct": 1,
-      "explanation": "Varna odstranitev zmanjša možnost poškodbe podatkov."
+      "correct": 0,
+      "explanation": "Preden izvlečete USB ključek, vedno uporabite 'Varno odstrani strojno opremo' (ikona v opravilni vrstici). S tem preprečite poškodbo podatkov na ključku."
     },
     {
       "question": "Zakaj je pomembno imeti urejene mape?",
       "options": [
-        "A) Ker računalnik lepše izgleda.",
-        "B) Ker hitreje najdemo svoje datoteke.",
-        "C) Ker internet deluje hitreje."
+        "Ker hitreje najdemo svoje datoteke.",
+        "Ker internet deluje hitreje.",
+        "Ker računalnik lepše izgleda."
       ],
-      "correct": 1,
-      "explanation": "Dobra organizacija prihrani veliko časa."
+      "correct": 0,
+      "explanation": "Dobra organizacija datotek v mapah prihrani veliko časa. Namesto da iščete po vseh datotekah, greste neposredno v ustrezno mapo in hitro najdete, kar potrebujete."
     },
     {
       "question": "Kaj naredimo, če datoteke ne najdemo?",
       "options": [
-        "A) Takoj kupimo nov računalnik.",
-        "B) Preverimo Koš, uporabimo iskanje in pregledamo mape.",
-        "C) Izklopimo tipkovnico."
+        "Preverimo Koš, uporabimo iskanje in pregledamo mape.",
+        "Izklopimo tipkovnico.",
+        "Takoj kupimo nov računalnik."
       ],
-      "correct": 1,
-      "explanation": "Datoteka je pogosto samo premaknjena v drugo mapo."
+      "correct": 0,
+      "explanation": "Če datoteke ne najdete, najprej preverite Koš (morda ste jo pomotoma izbrisali), nato uporabite iskanje in pregledajte mape, kjer bi lahko bila. Datoteka je pogosto samo premaknjena v drugo mapo."
     },
     {
       "question": "Kaj je varnostna kopija datotek?",
       "options": [
-        "A) Lepše ime datoteke.",
-        "B) Dodatna kopija pomembnih podatkov za primer izgube.",
-        "C) Sprememba velikosti zaslona."
+        "Dodatna kopija pomembnih podatkov za primer izgube.",
+        "Sprememba velikosti zaslona.",
+        "Lepše ime datoteke."
       ],
-      "correct": 1,
-      "explanation": "Varnostne kopije zaščitijo fotografije, dokumente in druge pomembne podatke."
+      "correct": 0,
+      "explanation": "Varnostna kopija (backup) je dodatna kopija pomembnih podatkov, shranjena na drugem mestu (zunanji disk, USB, oblak). Če se računalnik pokvari, lahko podatke obnovite."
     },
     {
       "question": "Kje lahko naredimo varnostno kopijo datotek?",
       "options": [
-        "A) Samo v Košu.",
-        "B) Na zunanjem disku, USB ključku ali v oblaku.",
-        "C) Samo na zaslonu."
+        "Na zunanjem disku, USB ključku ali v oblaku.",
+        "Samo na zaslonu.",
+        "Samo v Košu."
       ],
-      "correct": 1,
-      "explanation": "Dobro je imeti pomembne podatke shranjene še na drugem mestu."
+      "correct": 0,
+      "explanation": "Varnostno kopijo shranite na zunanji disk, USB ključek ali v oblak (Google Drive, OneDrive). Pomembno je, da je kopija na drugi napravi, ne samo na istem računalniku."
     },
     {
       "question": "Kaj pomeni razvrščanje datotek?",
       "options": [
-        "A) Brisanje vseh datotek.",
-        "B) Urejanje po imenu, datumu, velikosti ali vrsti.",
-        "C) Spreminjanje gesla."
+        "Urejanje po imenu, datumu, velikosti ali vrsti.",
+        "Spreminjanje gesla.",
+        "Brisanje vseh datotek."
       ],
-      "correct": 1,
-      "explanation": "Razvrščanje pomaga hitreje najti določeno datoteko."
+      "correct": 0,
+      "explanation": "V Raziskovalcu datotek lahko datoteke razvrstite po različnih kriterijih – po imenu (abecedno), po datumu (najnovejše najprej), po velikosti ali po vrsti. To pomaga hitreje najti določeno datoteko."
     },
     {
       "question": "Kaj naredimo, če želimo izbrati več datotek hkrati?",
       "options": [
-        "A) Kliknemo samo eno datoteko.",
-        "B) Držimo tipko Ctrl in klikamo posamezne datoteke.",
-        "C) Izklopimo računalnik."
+        "Držimo tipko Ctrl in klikamo posamezne datoteke.",
+        "Izklopimo računalnik.",
+        "Kliknemo samo eno datoteko."
       ],
-      "correct": 1,
-      "explanation": "Tako lahko več datotek hkrati kopiramo, premaknemo ali izbrišemo."
+      "correct": 0,
+      "explanation": "Če držite tipko Ctrl in klikate posamezne datoteke, jih lahko izberete več hkrati. Tako jih lahko naenkrat kopirate, premaknete ali izbrišete."
     },
     {
       "question": "Zakaj ni priporočljivo imeti vseh datotek na namizju?",
       "options": [
-        "A) Ker računalnik ne deluje.",
-        "B) Ker hitro postane nepregledno in težko najdemo datoteke.",
-        "C) Ker se izbriše internet."
+        "Ker hitro postane nepregledno in težko najdemo datoteke.",
+        "Ker se izbriše internet.",
+        "Ker računalnik ne deluje."
       ],
-      "correct": 1,
-      "explanation": "Namizje naj vsebuje predvsem bližnjice, datoteke pa naj bodo urejene v mapah."
+      "correct": 0,
+      "explanation": "Namizje naj vsebuje predvsem bližnjice do programov in redko uporabljene datoteke. Če nanj shranite vse, postane nepregledno in težko najdete določeno datoteko."
     },
     {
       "question": "Katera navada je najboljša pri delu z datotekami?",
       "options": [
-        "A) Vse shranjujemo na namizje.",
-        "B) Ustvarjamo urejene mape, uporabljamo smiselna imena in izdelujemo varnostne kopije.",
-        "C) Nikoli ne brišemo ničesar."
+        "Ustvarjamo urejene mape, uporabljamo smiselna imena in izdelujemo varnostne kopije.",
+        "Nikoli ne brišemo ničesar.",
+        "Vse shranjujemo na namizje."
       ],
-      "correct": 1,
-      "explanation": "Urejene datoteke pomenijo manj izgubljenega časa in manj težav pri uporabi računalnika."
+      "correct": 0,
+      "explanation": "Urejene datoteke pomenijo manj izgubljenega časa in manj težav pri uporabi računalnika. Uporabljajte smiselna imena, organizirajte datoteke v mape in redno delajte varnostne kopije."
     }
   ]
 }

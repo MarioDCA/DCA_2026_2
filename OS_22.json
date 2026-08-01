@@ -5,252 +5,252 @@
     {
       "question": "Kaj je operacijski sistem Android?",
       "options": [
-        "A) Vrsta polnilnika za telefon.",
-        "B) Programski sistem, ki omogoča delovanje telefona in aplikacij.",
-        "C) Vrsta telefonske kartice."
+        "Programski sistem, ki omogoča delovanje telefona in aplikacij.",
+        "Vrsta telefonske kartice.",
+        "Vrsta polnilnika za telefon."
       ],
-      "correct": 1,
-      "explanation": "Android je operacijski sistem, ki ga uporablja večina pametnih telefonov različnih proizvajalcev."
+      "correct": 0,
+      "explanation": "Android je operacijski sistem, ki ga uporablja večina pametnih telefonov različnih proizvajalcev (Samsung, Xiaomi, Huawei, Google ...). Je osnovna programska oprema, ki omogoča delovanje vseh aplikacij in funkcij na telefonu."
     },
     {
       "question": "Kaj je začetni zaslon telefona?",
       "options": [
-        "A) Zaslon, kjer telefon izklopimo.",
-        "B) Glavni zaslon z ikonami aplikacij in pripomočki.",
-        "C) Zaslon za polnjenje baterije."
+        "Zaslon za polnjenje baterije.",
+        "Zaslon, kjer telefon izklopimo.",
+        "Glavni zaslon z ikonami aplikacij in pripomočki."
       ],
-      "correct": 1,
-      "explanation": "Na začetnem zaslonu najdemo najpogosteje uporabljene aplikacije."
+      "correct": 2,
+      "explanation": "Začetni zaslon (home screen) je glavni zaslon, ki ga vidite po odklepanju telefona. Na njem so ikone najpogosteje uporabljenih aplikacij, pripomočki (vreme, ura) in iskalno polje."
     },
     {
       "question": "Kaj je aplikacija (program) na telefonu?",
       "options": [
-        "A) Samo slika na zaslonu.",
-        "B) Program, ki omogoča določeno funkcijo, na primer zemljevid, kamero ali sporočila.",
-        "C) Vrsta baterije."
+        "Program, ki omogoča določeno funkcijo, na primer zemljevid, kamero ali sporočila.",
+        "Vrsta baterije.",
+        "Samo slika na zaslonu."
       ],
-      "correct": 1,
-      "explanation": "Aplikacije dodajajo telefonu nove možnosti."
+      "correct": 0,
+      "explanation": "Aplikacije so programi, ki jih namestite na telefon za različna opravila – fotografiranje, sporočanje, navigacijo, vreme, igre in drugo. Vsaka aplikacija opravlja določeno funkcijo."
     },
     {
       "question": "Kako običajno odpremo aplikacijo?",
       "options": [
-        "A) Pritisnemo tipko za izklop.",
-        "B) Dotaknemo se njene ikone na zaslonu.",
-        "C) Odstranimo baterijo."
+        "Odstranimo baterijo.",
+        "Dotaknemo se njene ikone na zaslonu.",
+        "Pritisnemo tipko za izklop."
       ],
       "correct": 1,
-      "explanation": "En dotik ikone običajno odpre aplikacijo."
+      "explanation": "Aplikacijo odprete z enim dotikom njene ikone na začetnem zaslonu ali v meniju z vsemi aplikacijami. Ikona je majhna sličica, ki predstavlja aplikacijo."
     },
     {
       "question": "Kaj pomeni zaklep zaslona telefona?",
       "options": [
-        "A) Izbris vseh podatkov.",
-        "B) Zaščita telefona pred nepooblaščenim dostopom.",
-        "C) Izklop interneta."
+        "Zaščita telefona pred nepooblaščenim dostopom.",
+        "Izklop interneta.",
+        "Izbris vseh podatkov."
       ],
-      "correct": 1,
-      "explanation": "Zaklep z geslom, vzorcem ali prstnim odtisom varuje naše podatke."
+      "correct": 0,
+      "explanation": "Zaklep zaslona je varnostna funkcija, ki preprečuje, da bi kdo drug uporabljal vaš telefon. Odklenete ga lahko s PIN-om, geslom, vzorcem ali prstnim odtisom. Ščiti vaše osebne podatke."
     },
     {
       "question": "Zakaj je priporočljivo imeti zaklenjen telefon?",
       "options": [
-        "A) Ker telefon dela hitreje.",
-        "B) Ker preprečuje dostop drugim osebam do naših podatkov.",
-        "C) Ker izboljša kakovost fotografij."
+        "Ker preprečuje dostop drugim osebam do naših podatkov.",
+        "Ker izboljša kakovost fotografij.",
+        "Ker telefon dela hitreje."
       ],
-      "correct": 1,
-      "explanation": "Telefon vsebuje osebne podatke, fotografije, sporočila in dostop do računov."
+      "correct": 0,
+      "explanation": "Telefon vsebuje ogromno osebnih podatkov – fotografije, sporočila, e-pošto, dostop do bančnih računov in družbenih omrežij. Zaklep zaslona je prva in najpomembnejša zaščita pred nepooblaščenim dostopom."
     },
     {
       "question": "Kaj je obvestilo na telefonu?",
       "options": [
-        "A) Okvara telefona.",
-        "B) Sporočilo telefona o dogodku, na primer novo sporočilo ali posodobitev.",
-        "C) Nova baterija."
+        "Sporočilo telefona o dogodku, na primer novo sporočilo ali posodobitev.",
+        "Nova baterija.",
+        "Okvara telefona."
       ],
-      "correct": 1,
-      "explanation": "Obvestila nas opozarjajo na pomembne dogodke v aplikacijah."
+      "correct": 0,
+      "explanation": "Obvestila (notifications) so sporočila, ki vas obveščajo o dogodkih v aplikacijah – novo sporočilo, posodobitev, opomnik ali obvestilo iz družbenega omrežja. Prikažejo se na vrhu zaslona."
     },
     {
       "question": "Kaj pomeni povleči s prstom po zaslonu navzdol?",
       "options": [
-        "A) Izbris telefona.",
-        "B) Odpremo ploščo z obvestili in hitrimi nastavitvami.",
-        "C) Izklopimo kamero."
+        "Odpremo ploščo z obvestili in hitrimi nastavitvami.",
+        "Izklopimo kamero.",
+        "Izbris telefona."
       ],
-      "correct": 1,
-      "explanation": "Tam pogosto najdemo Wi-Fi, Bluetooth, svetlost zaslona in druge nastavitve."
+      "correct": 0,
+      "explanation": "Ko povlečete s prsta z vrha zaslona navzdol, se odpre plošča z obvestili in hitrimi nastavitvami. Tam lahko hitro vklopite ali izklopite Wi-Fi, Bluetooth, svetlost zaslona in druge funkcije."
     },
     {
-      "question": "Kaj je Wi-Fi?",
+      "question": "Kako se povežemo z Wi-Fi omrežjem?",
       "options": [
-        "A) Vrsta fotografije.",
-        "B) Brezžična povezava z internetom prek usmerjevalnika.",
-        "C) Program za klice."
+        "V nastavitvah izberemo omrežje in vpišemo geslo.",
+        "S prenosnim kablom.",
+        "Samodejno, brez kakršnega koli ukrepanja."
       ],
-      "correct": 1,
-      "explanation": "Wi-Fi omogoča dostop do interneta brez mobilnih podatkov."
+      "correct": 0,
+      "explanation": "Za povezavo z Wi-Fi omrežjem odprite Nastavitve → Wi-Fi, izberite želeno omrežje in vpišite geslo (če je omrežje zaščiteno). Telefon si bo zapomnil omrežje za naslednje povezave."
     },
     {
       "question": "Zakaj doma običajno uporabljamo Wi-Fi namesto mobilnih podatkov?",
       "options": [
-        "A) Ker telefon brez Wi-Fi ne deluje.",
-        "B) Ker lahko prihranimo mobilne podatke in stroške.",
-        "C) Ker Wi-Fi polni baterijo."
+        "Ker lahko prihranimo mobilne podatke in stroške.",
+        "Ker Wi-Fi polni baterijo.",
+        "Ker telefon brez Wi-Fi ne deluje."
       ],
-      "correct": 1,
-      "explanation": "Domači internet prek Wi-Fi je običajno primernejši za daljšo uporabo."
+      "correct": 0,
+      "explanation": "Domači internet prek Wi-Fi je običajno hitrejši in ne porablja podatkov iz mobilnega paketa. To pomeni, da prihranite denar, še posebej če imate omejeno količino mobilnih podatkov."
     },
     {
-      "question": "Kaj je Bluetooth?",
+      "question": "Za kaj uporabljamo Bluetooth?",
       "options": [
-        "A) Vrsta mobilnega omrežja.",
-        "B) Brezžična povezava za kratke razdalje med napravami.",
-        "C) Program za viruse."
+        "Za povezavo s slušalkami, zvočniki in prenos datotek med napravami.",
+        "Za povezavo z internetom.",
+        "Samo za polnjenje telefona."
       ],
-      "correct": 1,
-      "explanation": "Bluetooth uporabljamo za slušalke, zvočnike, avto in druge naprave."
+      "correct": 0,
+      "explanation": "Bluetooth je brezžična povezava za kratke razdalje (do približno 10 metrov). Uporabljamo jo za povezavo s slušalkami, zvočniki, avtomobilom, pametno uro ali za prenos datotek med napravami."
     },
     {
       "question": "Kaj naredimo, če telefon nima internetne povezave?",
       "options": [
-        "A) Takoj kupimo nov telefon.",
-        "B) Preverimo Wi-Fi, mobilne podatke in ali je vklopljen letalski način.",
-        "C) Izbrišemo fotografije."
+        "Preverimo Wi-Fi, mobilne podatke in ali je vklopljen letalski način.",
+        "Izbrišemo fotografije.",
+        "Takoj kupimo nov telefon."
       ],
-      "correct": 1,
-      "explanation": "Pogosto je vzrok preprosta nastavitev."
+      "correct": 0,
+      "explanation": "Če ni internetne povezave, najprej preverite, ali je Wi-Fi vklopljen in ali ste povezani v pravo omrežje. Preverite tudi, ali so mobilni podatki vklopljeni in ali ni vklopljen letalski način. Pogosto je vzrok preprosta nastavitev."
     },
     {
       "question": "Zakaj se baterija telefona hitreje prazni?",
       "options": [
-        "A) Zaradi barve telefona.",
-        "B) Zaradi zahtevnih aplikacij, svetlega zaslona ali stalnih povezav.",
-        "C) Zaradi imena telefona."
+        "Zaradi zahtevnih aplikacij, svetlega zaslona ali stalnih povezav.",
+        "Zaradi imena telefona.",
+        "Zaradi barve telefona."
       ],
-      "correct": 1,
-      "explanation": "Zaslon, GPS, igre in nekatere aplikacije porabijo veliko energije."
+      "correct": 0,
+      "explanation": "Največ energije porabijo zaslon (še posebej pri visoki svetlosti), zahtevne aplikacije (igre, video predvajanje) in stalne povezave (Wi-Fi, GPS, Bluetooth). Zmanjšanje svetlosti in izklop nepotrebnih povezav podaljša baterijo."
     },
     {
       "question": "Kako lahko podaljšamo čas delovanja baterije?",
       "options": [
-        "A) Telefon pustimo vedno prižgan.",
-        "B) Zmanjšamo svetlost zaslona in izključimo nepotrebne povezave.",
-        "C) Odstranimo kartico SIM."
+        "Zmanjšamo svetlost zaslona in izključimo nepotrebne povezave.",
+        "Odstranimo kartico SIM.",
+        "Telefon pustimo vedno prižgan."
       ],
-      "correct": 1,
-      "explanation": "Majhne spremembe lahko precej podaljšajo delovanje baterije."
+      "correct": 0,
+      "explanation": "Majhne spremembe nastavitev lahko občutno podaljšajo delovanje baterije. Zmanjšajte svetlost, izklopite Wi-Fi in Bluetooth, ko ju ne potrebujete, ter uporabite način varčevanja z baterijo."
     },
     {
       "question": "Kaj je način varčevanja z baterijo?",
       "options": [
-        "A) Program za fotografiranje.",
-        "B) Nastavitev, ki zmanjša porabo energije telefona.",
-        "C) Način hitrejšega interneta."
+        "Nastavitev, ki zmanjša porabo energije telefona.",
+        "Način hitrejšega interneta.",
+        "Program za fotografiranje."
       ],
-      "correct": 1,
-      "explanation": "Telefon lahko omeji delovanje nekaterih funkcij, da baterija zdrži dlje."
+      "correct": 0,
+      "explanation": "Način varčevanja z baterijo (Battery Saver) je nastavitev, ki zmanjša porabo energije – omeji delovanje aplikacij v ozadju, zmanjša svetlost in onemogoči nekatere vizualne učinke. Tako baterija zdrži dlje."
     },
     {
       "question": "Kako odstranimo aplikacijo iz telefona?",
       "options": [
-        "A) Izklopimo Wi-Fi.",
-        "B) V nastavitvah ali trgovini z aplikacijami izberemo odstranitev.",
-        "C) Izbrišemo telefonsko številko."
+        "V nastavitvah ali trgovini z aplikacijami izberemo odstranitev.",
+        "Izbrišemo telefonsko številko.",
+        "Izklopimo Wi-Fi."
       ],
-      "correct": 1,
-      "explanation": "Odstranimo samo aplikacije, ki jih ne potrebujemo."
+      "correct": 0,
+      "explanation": "Aplikacijo odstranite tako, da jo v meniju z aplikacijami pritisnete in držite, nato izberete 'Odstrani'. Lahko pa greste v Nastavitve → Aplikacije, izberete aplikacijo in kliknete 'Odstrani'."
     },
     {
       "question": "Zakaj ni dobro nameščati preveč nepotrebnih aplikacij?",
       "options": [
-        "A) Ker telefon postane težji.",
-        "B) Ker porabljajo prostor, baterijo in lahko vplivajo na delovanje.",
-        "C) Ker izginejo stiki."
+        "Ker porabljajo prostor, baterijo in lahko vplivajo na delovanje.",
+        "Ker izginejo stiki.",
+        "Ker telefon postane težji."
       ],
-      "correct": 1,
-      "explanation": "Manj nepotrebnih aplikacij pomeni bolj urejen telefon."
+      "correct": 0,
+      "explanation": "Vsaka aplikacija zavzame prostor v pomnilniku, nekatere pa delujejo v ozadju in porabljajo baterijo ter podatke. Manj nepotrebnih aplikacij pomeni hitrejši in bolj urejen telefon."
     },
     {
       "question": "Kaj je posodobitev aplikacije?",
       "options": [
-        "A) Izbris programa.",
-        "B) Namestitev nove različice z izboljšavami in popravki.",
-        "C) Menjava telefona."
+        "Namestitev nove različice z izboljšavami in popravki.",
+        "Menjava telefona.",
+        "Izbris programa."
       ],
-      "correct": 1,
-      "explanation": "Posodobitve izboljšajo delovanje in varnost aplikacij."
+      "correct": 0,
+      "explanation": "Posodobitve aplikacij prinašajo popravke napak, izboljšave delovanja, nove funkcije in varnostne popravke. Redno posodabljanje aplikacij zagotavlja boljše in varnejše delovanje telefona."
     },
     {
       "question": "Zakaj posodabljamo Android?",
       "options": [
-        "A) Zaradi lepše barve telefona.",
-        "B) Zaradi varnostnih popravkov in izboljšav sistema.",
-        "C) Ker izbriše fotografije."
+        "Zaradi varnostnih popravkov in izboljšav sistema.",
+        "Ker izbriše fotografije.",
+        "Zaradi lepše barve telefona."
       ],
-      "correct": 1,
-      "explanation": "Posodobljen telefon je praviloma varnejši."
+      "correct": 0,
+      "explanation": "Posodobitve operacijskega sistema Android vsebujejo varnostne popravke, izboljšave delovanja in včasih tudi nove funkcije. Posodobljen telefon je varnejši pred grožnjami in deluje bolj tekoče."
     },
     {
       "question": "Kaj je aplikacija Nastavitve?",
       "options": [
-        "A) Program za igre.",
-        "B) Mesto, kjer spreminjamo delovanje telefona.",
-        "C) Kamera."
+        "Mesto, kjer spreminjamo delovanje telefona.",
+        "Kamera.",
+        "Program za igre."
       ],
-      "correct": 1,
-      "explanation": "V nastavitvah urejamo Wi-Fi, zvok, zaslon, račune in varnost."
+      "correct": 0,
+      "explanation": "Aplikacija Nastavitve (Settings) je osrednje mesto za upravljanje telefona – tam urejate Wi-Fi, zvok, zaslon, račune, varnost, jezik in številne druge nastavitve."
     },
     {
       "question": "Kako povečamo velikost črk na telefonu?",
       "options": [
-        "A) Kupimo nov zaslon.",
-        "B) V nastavitvah prilagodimo velikost pisave ali prikaza.",
-        "C) Izklopimo telefon."
+        "V nastavitvah prilagodimo velikost pisave ali prikaza.",
+        "Izklopimo telefon.",
+        "Kupimo nov zaslon."
       ],
-      "correct": 1,
-      "explanation": "Večina telefonov omogoča povečanje prikaza za lažje branje."
+      "correct": 0,
+      "explanation": "V Nastavitvah → Zaslon → Velikost pisave lahko povečate ali zmanjšate velikost črk. To je še posebej uporabno za starejše uporabnike ali za lažje branje na majhnih zaslonih."
     },
     {
       "question": "Kaj naredimo, če je zvok telefona pretiho?",
       "options": [
-        "A) Izbrišemo aplikacije.",
-        "B) Preverimo glasnost in nastavitve zvoka.",
-        "C) Zamenjamo SIM kartico."
+        "Preverimo glasnost in nastavitve zvoka.",
+        "Zamenjamo SIM kartico.",
+        "Izbrišemo aplikacije."
       ],
-      "correct": 1,
-      "explanation": "Glasnost lahko nastavimo posebej za klice, obvestila in medije."
+      "correct": 0,
+      "explanation": "Če je zvok pretiho, preverite, ali so tipke za glasnost nastavljene na dovolj visoko raven. Glasnost lahko nastavite posebej za klice, obvestila, predvajanje medijev in budilko."
     },
     {
       "question": "Zakaj je koristno narediti varnostno kopijo telefona?",
       "options": [
-        "A) Da telefon postane večji.",
-        "B) Da lahko obnovimo podatke ob izgubi ali okvari.",
-        "C) Da dobimo hitrejši Wi-Fi."
+        "Da lahko obnovimo podatke ob izgubi ali okvari.",
+        "Da dobimo hitrejši Wi-Fi.",
+        "Da telefon postane večji."
       ],
-      "correct": 1,
-      "explanation": "Varnostna kopija lahko shrani stike, fotografije in nastavitve."
+      "correct": 0,
+      "explanation": "Varnostna kopija (backup) shrani vaše stike, fotografije, sporočila in nastavitve. Če telefon izgubite, se pokvari ali ga zamenjate, lahko podatke enostavno obnovite na novi napravi."
     },
     {
       "question": "Kaj naredimo, če izgubimo telefon?",
       "options": [
-        "A) Objavimo PIN na internetu.",
-        "B) Poskusimo telefon poiskati, zakleniti ali zaščititi podatke.",
-        "C) Nič."
+        "Poskusimo telefon poiskati, zakleniti ali zaščititi podatke.",
+        "Nič.",
+        "Objavimo PIN na internetu."
       ],
-      "correct": 1,
-      "explanation": "Funkcije iskanja naprave pomagajo zaščititi podatke."
+      "correct": 0,
+      "explanation": "Sodobni telefoni omogočajo oddaljeno iskanje in zaklep naprave (Google 'Poišči mojo napravo', Samsung 'Find My Mobile'). Takoj, ko ugotovite, da ste telefon izgubili, ga poskusite poiskati ali zakleniti na daljavo."
     },
     {
       "question": "Katera navada je najboljša pri uporabi pametnega telefona?",
       "options": [
-        "A) Nameščamo vse aplikacije.",
-        "B) Telefon redno posodabljamo, varujemo z zaklepom in uporabljamo preverjene aplikacije.",
-        "C) Izklopimo vse varnostne možnosti."
+        "Telefon redno posodabljamo, varujemo z zaklepom in uporabljamo preverjene aplikacije.",
+        "Izklopimo vse varnostne možnosti.",
+        "Nameščamo vse aplikacije."
       ],
-      "correct": 1,
-      "explanation": "Previdna uporaba zagotavlja varnejši in zanesljivejši telefon."
+      "correct": 0,
+      "explanation": "Previdna uporaba zagotavlja varnejši in zanesljivejši telefon. Redno posodabljajte telefon in aplikacije, uporabljajte zaklep zaslona in nameščajte aplikacije le iz uradne trgovine Google Play."
     }
   ]
 }

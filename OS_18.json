@@ -5,252 +5,252 @@
     {
       "question": "Kaj pomeni kratica AI oziroma UI?",
       "options": [
-        "A) Avtomatski internet.",
-        "B) Umetna inteligenca (Artificial Intelligence).",
-        "C) Vrsta računalniškega kabla."
+        "Umetna inteligenca (Artificial Intelligence).",
+        "Vrsta računalniškega kabla.",
+        "Avtomatski internet."
       ],
-      "correct": 1,
-      "explanation": "Umetna inteligenca je tehnologija, ki omogoča računalnikom izvajanje nalog, za katere običajno potrebujemo človeško razmišljanje."
+      "correct": 0,
+      "explanation": "AI (Artificial Intelligence) ali umetna inteligenca je tehnologija, ki omogoča računalnikom izvajanje nalog, za katere običajno potrebujemo človeško razmišljanje – na primer odgovarjanje na vprašanja, prepoznavanje slik ali prevajanje."
     },
     {
-      "question": "Kaj je ChatGPT?",
+      "question": "Za kaj lahko uporabljamo ChatGPT?",
       "options": [
-        "A) Računalniška igra.",
-        "B) Program umetne inteligence, ki odgovarja na vprašanja in pomaga pri različnih nalogah.",
-        "C) Protivirusni program."
+        "Samo za zabavo in igre.",
+        "Za učenje, pisanje, prevajanje in pomoč pri vsakdanjih nalogah.",
+        "Samo za programiranje."
       ],
       "correct": 1,
-      "explanation": "ChatGPT lahko pomaga pri pisanju, učenju, razlagi pojmov, prevajanju in iskanju idej."
+      "explanation": "ChatGPT je uporaben pri učenju (razlaga snovi), pisanju dopisov, prevajanju, načrtovanju potovanj, pripravi receptov in številnih drugih vsakdanjih nalogah. Je vsestranski pomočnik."
     },
     {
       "question": "Kako komuniciramo s ChatGPT?",
       "options": [
-        "A) Samo s pritiskanjem gumbov.",
-        "B) Vpišemo vprašanje ali navodilo v pogovorno okno.",
-        "C) Z vstavljanjem USB ključka."
+        "Vpišemo vprašanje ali navodilo v pogovorno okno.",
+        "Z vstavljanjem USB ključka.",
+        "Samo s pritiskanjem gumbov."
       ],
-      "correct": 1,
-      "explanation": "ChatGPT deluje podobno kot pogovor – napišemo, kaj želimo izvedeti ali narediti."
+      "correct": 0,
+      "explanation": "ChatGPT deluje podobno kot pogovor – v pogovorno okno napišete, kaj želite izvedeti ali narediti. ChatGPT vam bo odgovoril z besedilom."
     },
     {
       "question": "Kaj je dober način za postavljanje vprašanj umetni inteligenci?",
       "options": [
-        "A) Napišemo samo eno nejasno besedo.",
-        "B) Jasno opišemo, kaj želimo izvedeti ali doseči.",
-        "C) Vedno napišemo samo 'pomagaj'."
+        "Jasno opišemo, kaj želimo izvedeti ali doseči.",
+        "Vedno napišemo samo 'pomagaj'.",
+        "Napišemo samo eno nejasno besedo."
       ],
-      "correct": 1,
-      "explanation": "Bolj natančno vprašanje običajno prinese bolj uporaben odgovor."
+      "correct": 0,
+      "explanation": "Bolj natančno in jasno kot postavite vprašanje, bolj uporaben odgovor boste dobili. Namesto 'pomagaj' raje napišite 'Kako naredim varnostno kopijo fotografij na telefonu?'."
     },
     {
       "question": "Katero vprašanje bo verjetno dalo boljši odgovor?",
       "options": [
-        "A) 'Računalnik?'",
-        "B) 'Razloži mi, kako naredim varnostno kopijo fotografij na telefonu.'",
-        "C) 'Povej nekaj.'"
+        "'Povej nekaj.'",
+        "'Razloži mi, kako naredim varnostno kopijo fotografij na telefonu.'",
+        "'Računalnik?'"
       ],
       "correct": 1,
-      "explanation": "Dober opis problema pomaga umetni inteligenci razumeti naše potrebe."
+      "explanation": "Dober opis problema pomaga umetni inteligenci razumeti vaše potrebe. Konkretno in natančno vprašanje prinese bolj uporaben odgovor kot splošno vprašanje."
     },
     {
       "question": "Ali lahko ChatGPT naredi napako?",
       "options": [
-        "A) Ne, nikoli.",
-        "B) Da, zato pomembne informacije preverimo.",
-        "C) Samo pri računalnikih."
+        "Ne, nikoli.",
+        "Da, zato pomembne informacije preverimo.",
+        "Samo pri računalnikih."
       ],
       "correct": 1,
-      "explanation": "Umetna inteligenca je zelo uporabna, vendar ni nezmotljiva."
+      "explanation": "Umetna inteligenca je zelo uporabna, vendar ni nezmotljiva. Pri zdravstvenih, pravnih ali finančnih vprašanjih vedno preverite informacije pri zanesljivih virih."
     },
     {
       "question": "Zakaj je treba preveriti pomembne informacije, ki jih poda AI?",
       "options": [
-        "A) Ker AI vedno odgovarja prepočasi.",
-        "B) Ker lahko poda napačen ali nepopoln odgovor.",
-        "C) Ker ne zna pisati."
+        "Ker lahko poda napačen ali nepopoln odgovor.",
+        "Ker ne zna pisati.",
+        "Ker AI vedno odgovarja prepočasi."
       ],
-      "correct": 1,
-      "explanation": "Pri zdravju, financah, zakonih in drugih pomembnih področjih preverimo informacije pri zanesljivih virih."
+      "correct": 0,
+      "explanation": "AI lahko poda napačne ali nepopolne informacije, zato je pri zdravju, financah, zakonih in drugih pomembnih področjih nujno preveriti informacije pri zanesljivih virih (zdravniki, pravnik, uradne strani)."
     },
     {
       "question": "Za kaj lahko starejši uporabnik uporablja ChatGPT?",
       "options": [
-        "A) Samo za igre.",
-        "B) Za učenje, razlage, pisanje besedil, ideje in pomoč pri vsakdanjih vprašanjih.",
-        "C) Samo za izklop računalnika."
+        "Samo za izklop računalnika.",
+        "Za učenje, razlage, pisanje besedil, ideje in pomoč pri vsakdanjih vprašanjih.",
+        "Samo za igre."
       ],
       "correct": 1,
-      "explanation": "AI je lahko pomočnik pri številnih opravilih."
+      "explanation": "AI je lahko odličen pomočnik pri številnih opravilih – od razlage zapletenih pojmov do pomoči pri pisanju pisem ali načrtovanju vsakodnevnih opravil."
     },
     {
       "question": "Ali lahko ChatGPT pomaga pri pisanju pisma ali e-pošte?",
       "options": [
-        "A) Ne.",
-        "B) Da, pomaga lahko oblikovati in izboljšati besedilo.",
-        "C) Samo če imamo tiskalnik."
+        "Da, pomaga lahko oblikovati in izboljšati besedilo.",
+        "Samo če imamo tiskalnik.",
+        "Ne."
       ],
-      "correct": 1,
-      "explanation": "Lahko pomaga napisati uradno, prijazno ali krajše sporočilo."
+      "correct": 0,
+      "explanation": "ChatGPT vam lahko pomaga napisati uradno, prijazno ali krajše sporočilo. Pripravi lahko osnutek, predlaga boljši slog ali popravi slovnične napake."
     },
     {
       "question": "Kaj pomeni, da AI 'razume' besedilo?",
       "options": [
-        "A) Da razmišlja popolnoma enako kot človek.",
-        "B) Da zna analizirati besede in ustvariti smiseln odgovor.",
-        "C) Da ima čustva."
+        "Da razmišlja popolnoma enako kot človek.",
+        "Da zna analizirati besede in ustvariti smiseln odgovor.",
+        "Da ima čustva."
       ],
       "correct": 1,
-      "explanation": "AI obdeluje podatke in vzorce v jeziku, vendar nima človeškega zavedanja."
+      "explanation": "AI ne razmišlja kot človek in nima čustev. Analizira vzorce v besedilu in na podlagi ogromne količine podatkov ustvari smiseln odgovor."
     },
     {
       "question": "Ali ima ChatGPT dostop do vseh osebnih podatkov uporabnika?",
       "options": [
-        "A) Da, vidi vse na računalniku.",
-        "B) Ne, vidi samo podatke, ki mu jih uporabnik posreduje v pogovoru.",
-        "C) Da, vidi vse fotografije telefona."
+        "Ne, vidi samo podatke, ki mu jih uporabnik posreduje v pogovoru.",
+        "Da, vidi vse fotografije telefona.",
+        "Da, vidi vse na računalniku."
       ],
-      "correct": 1,
-      "explanation": "Ne smemo mu pošiljati občutljivih osebnih podatkov, gesel ali bančnih podatkov."
+      "correct": 0,
+      "explanation": "ChatGPT vidi samo tisto, kar mu napišete v pogovoru. Ne vidi vaših datotek, fotografij ali drugih podatkov na napravi. Vseeno pa vanj ne vnašajte gesel ali bančnih podatkov."
     },
     {
       "question": "Kaj je poziv (prompt)?",
       "options": [
-        "A) Vrsta računalniškega virusa.",
-        "B) Navodilo ali vprašanje, ki ga napišemo umetni inteligenci.",
-        "C) Program za tiskanje."
+        "Navodilo ali vprašanje, ki ga napišemo umetni inteligenci.",
+        "Program za tiskanje.",
+        "Vrsta računalniškega virusa."
       ],
-      "correct": 1,
-      "explanation": "Kakovost poziva močno vpliva na kakovost odgovora."
+      "correct": 0,
+      "explanation": "Poziv je besedilo, ki ga napišete ChatGPT-ju – to je vaše vprašanje, navodilo ali opis, kaj želite. Kakovost poziva močno vpliva na kakovost odgovora."
     },
     {
       "question": "Kako izboljšamo odgovor ChatGPT?",
       "options": [
-        "A) Zapremo program.",
-        "B) Postavimo dodatno vprašanje ali natančneje razložimo, kaj potrebujemo.",
-        "C) Izbrišemo tipkovnico."
+        "Postavimo dodatno vprašanje ali natančneje razložimo, kaj potrebujemo.",
+        "Izbrišemo tipkovnico.",
+        "Zapremo program."
       ],
-      "correct": 1,
-      "explanation": "Pogovor lahko nadaljujemo in odgovor postopoma izboljšujemo."
+      "correct": 0,
+      "explanation": "Če odgovor ni ustrezen, lahko pogovor nadaljujete – postavite dodatno vprašanje, pojasnite, kaj točno potrebujete, ali zahtevajte drugačno obliko odgovora."
     },
     {
       "question": "Ali lahko ChatGPT pomaga pri učenju novih stvari?",
       "options": [
-        "A) Ne.",
-        "B) Da, lahko razlaga pojme in prilagodi razlago uporabniku.",
-        "C) Samo otrokom."
+        "Da, lahko razlaga pojme in prilagodi razlago uporabniku.",
+        "Samo otrokom.",
+        "Ne."
       ],
-      "correct": 1,
-      "explanation": "AI lahko deluje kot osebni učni pomočnik."
+      "correct": 0,
+      "explanation": "AI lahko deluje kot osebni učni pomočnik. Razlago lahko prilagodi vašemu znanju – na primer 'Razloži mi, kot da sem začetnik' ali 'Daj mi konkretne primere'."
     },
     {
       "question": "Kako lahko uporabimo ChatGPT pri učenju računalništva?",
       "options": [
-        "A) Za čiščenje tipkovnice.",
-        "B) Za razlago programov, nastavitev in računalniških pojmov.",
-        "C) Za povečanje pomnilnika računalnika."
+        "Za razlago programov, nastavitev in računalniških pojmov.",
+        "Za povečanje pomnilnika računalnika.",
+        "Za čiščenje tipkovnice."
       ],
-      "correct": 1,
-      "explanation": "Uporabnik lahko vpraša tudi zelo osnovne stvari."
+      "correct": 0,
+      "explanation": "ChatGPT lahko razloži delovanje programov, pomaga pri nastavitvah, pojasni računalniške pojme in odgovori na vprašanja o uporabi računalnika."
     },
     {
       "question": "Ali lahko ChatGPT prevede besedilo v drug jezik?",
       "options": [
-        "A) Ne.",
-        "B) Da, lahko pomaga pri prevajanju besedil.",
-        "C) Samo slik."
+        "Da, lahko pomaga pri prevajanju besedil.",
+        "Samo slik.",
+        "Ne."
       ],
-      "correct": 1,
-      "explanation": "AI lahko pomaga pri prevodih, vendar je pri pomembnih dokumentih potreben pregled."
+      "correct": 0,
+      "explanation": "ChatGPT lahko prevaja besede, stavke in daljša besedila med številnimi jeziki. Pri pomembnih dokumentih (pogodbe, uradna pisma) je prevod vseeno dobro pregledati."
     },
     {
       "question": "Ali je dobro slepo kopirati vsak odgovor AI?",
       "options": [
-        "A) Da, vedno.",
-        "B) Ne, odgovor pregledamo in preverimo.",
-        "C) Samo ponoči."
+        "Ne, odgovor pregledamo in preverimo.",
+        "Samo ponoči.",
+        "Da, vedno."
       ],
-      "correct": 1,
-      "explanation": "Uporabnik mora vedno uporabiti lastno presojo."
+      "correct": 0,
+      "explanation": "AI odgovori so lahko koristni, vendar vedno uporabite lastno presojo. Odgovor pregledajte, preverite morebitne napake in ga po potrebi prilagodite."
     },
     {
       "question": "Kaj lahko naredimo, če odgovora ne razumemo?",
       "options": [
-        "A) Prenehamo uporabljati računalnik.",
-        "B) Prosimo AI, naj razloži bolj preprosto.",
-        "C) Izbrišemo program."
+        "Prosimo AI, naj razloži bolj preprosto.",
+        "Izbrišemo program.",
+        "Prenehamo uporabljati računalnik."
       ],
-      "correct": 1,
-      "explanation": "Lahko zahtevamo razlago za začetnike, primere ali primerjave."
+      "correct": 0,
+      "explanation": "Če odgovora ne razumete, lahko zahtevate preprostejšo razlago – na primer 'Razloži mi bolj preprosto' ali 'Daj mi primer'. AI bo prilagodil odgovor."
     },
     {
       "question": "Ali lahko AI nadomesti človekovo odločanje?",
       "options": [
-        "A) Da, vedno.",
-        "B) Ne, AI je pomočnik, odločitev sprejme človek.",
-        "C) Samo pri telefonih."
+        "Ne, AI je pomočnik, odločitev sprejme človek.",
+        "Samo pri telefonih.",
+        "Da, vedno."
       ],
-      "correct": 1,
-      "explanation": "Umetna inteligenca pomaga pri razmišljanju, vendar odgovornost ostaja pri človeku."
+      "correct": 0,
+      "explanation": "Umetna inteligenca pomaga pri razmišljanju in iskanju informacij, vendar odgovornost za odločitve vedno ostaja pri človeku. AI ne more nadomestiti človeške presoje."
     },
     {
       "question": "Zakaj ne smemo AI zaupati gesel?",
       "options": [
-        "A) Ker gesla niso pomembna.",
-        "B) Ker so gesla občutljivi podatki, ki jih moramo varovati.",
-        "C) Ker računalnik ne zna tipkati."
+        "Ker so gesla občutljivi podatki, ki jih moramo varovati.",
+        "Ker računalnik ne zna tipkati.",
+        "Ker gesla niso pomembna."
       ],
-      "correct": 1,
-      "explanation": "Gesla, PIN-i in bančni podatki nikoli ne sodijo v pogovor z AI."
+      "correct": 0,
+      "explanation": "Gesla, PIN-i in bančni podatki nikoli ne sodijo v pogovor z AI. Tudi če AI nima zlonamernih namenov, so to občutljivi podatki, ki jih moramo vedno varovati."
     },
     {
       "question": "Kako lahko AI pomaga pri vsakdanjem življenju?",
       "options": [
-        "A) Samodejno pospravi stanovanje.",
-        "B) Pomaga pri načrtovanju, pisanju, učenju in iskanju idej.",
-        "C) Popravi vse naprave."
+        "Pomaga pri načrtovanju, pisanju, učenju in iskanju idej.",
+        "Popravi vse naprave.",
+        "Samodejno pospravi stanovanje."
       ],
-      "correct": 1,
-      "explanation": "AI je orodje za pomoč, ne čarobna rešitev vseh težav."
+      "correct": 0,
+      "explanation": "AI je orodje za pomoč pri vsakdanjih opravilih – od načrtovanja obrokov do učenja novih stvari. Ne gre za čarobno rešitev vseh težav, ampak za uporabnega pomočnika."
     },
     {
       "question": "Ali mora uporabnik poznati programiranje za uporabo ChatGPT?",
       "options": [
-        "A) Da, nujno.",
-        "B) Ne, dovolj je znati opisati vprašanje ali problem.",
-        "C) Samo za pošiljanje sporočil."
+        "Ne, dovolj je znati opisati vprašanje ali problem.",
+        "Samo za pošiljanje sporočil.",
+        "Da, nujno."
       ],
-      "correct": 1,
-      "explanation": "ChatGPT je narejen tako, da ga lahko uporablja vsakdo."
+      "correct": 0,
+      "explanation": "ChatGPT je narejen tako, da ga lahko uporablja vsakdo, ne glede na predhodno znanje. Dovolj je, da znate napisati vprašanje ali opisati, kaj potrebujete."
     },
     {
       "question": "Kaj je prednost pogovora z AI?",
       "options": [
-        "A) Vedno ima človeške izkušnje.",
-        "B) Lahko hitro pomaga pri razlagi in iskanju idej.",
-        "C) Nikoli ne potrebuje elektrike."
+        "Lahko hitro pomaga pri razlagi in iskanju idej.",
+        "Nikoli ne potrebuje elektrike.",
+        "Vedno ima človeške izkušnje."
       ],
-      "correct": 1,
-      "explanation": "AI omogoča hiter dostop do pomoči in informacij."
+      "correct": 0,
+      "explanation": "AI omogoča hiter dostop do pomoči in informacij. V nekaj sekundah lahko dobite odgovore na vprašanja, ideje za pisanje ali razlago zapletenih pojmov."
     },
     {
       "question": "Kaj je pomembno pri odgovorni uporabi umetne inteligence?",
       "options": [
-        "A) Verjamemo vsem odgovorom.",
-        "B) Uporabljamo jo premišljeno in preverjamo pomembne informacije.",
-        "C) Delimo vsa osebna sporočila."
+        "Uporabljamo jo premišljeno in preverjamo pomembne informacije.",
+        "Delimo vsa osebna sporočila.",
+        "Verjamemo vsem odgovorom."
       ],
-      "correct": 1,
-      "explanation": "AI je močno orodje, vendar ga moramo uporabljati varno."
+      "correct": 0,
+      "explanation": "AI je močno orodje, vendar ga moramo uporabljati varno in odgovorno. Vedno preverjamo pomembne informacije, varujemo osebne podatke in uporabljamo lastno presojo."
     },
     {
       "question": "Katera trditev najbolje opisuje ChatGPT?",
       "options": [
-        "A) Je nadomestek za človeka.",
-        "B) Je pomočnik, ki lahko pomaga pri učenju, ustvarjanju in reševanju problemov.",
-        "C) Je protivirusni program."
+        "Je pomočnik, ki lahko pomaga pri učenju, ustvarjanju in reševanju problemov.",
+        "Je protivirusni program.",
+        "Je nadomestek za človeka."
       ],
-      "correct": 1,
-      "explanation": "Najboljša uporaba AI je sodelovanje med človekom in tehnologijo."
+      "correct": 0,
+      "explanation": "Najboljša uporaba AI je sodelovanje med človekom in tehnologijo. ChatGPT je pomočnik, ki vam pomaga pri učenju, ustvarjanju in reševanju problemov, vendar vas ne more v celoti nadomestiti."
     }
   ]
 }

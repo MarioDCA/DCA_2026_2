@@ -1,0 +1,256 @@
+{
+  "id": 26,
+  "title": "Naprednejša uporaba računalnika in interneta",
+  "questions": [
+    {
+      "question": "Kaj je 'Upravitelj opravil' (Task Manager) v Windows in kdaj ga uporabimo?",
+      "options": [
+        "Program za pisanje dokumentov.",
+        "Orodje za pregled delujočih programov in procesov ter za zaustavitev neodzivnih aplikacij.",
+        "Nastavitev za spreminjanje ozadja namizja."
+      ],
+      "correct": 1,
+      "explanation": "Upravitelj opravil (odprete ga s Ctrl + Shift + Esc) prikaže vse tekoče procese, porabo sistemskih virov (CPU, pomnilnik, disk) in omogoča zaustavitev neodzivnih programov. Uporaben je za diagnosticiranje počasnega delovanja računalnika."
+    },
+    {
+      "question": "Kaj je mapa 'AppData' v Windows in zakaj je pomembna?",
+      "options": [
+        "Mapa za shranjevanje osebnih dokumentov.",
+        "Skrita mapa, kjer programi shranjujejo uporabniške nastavitve in podatke.",
+        "Mapa za začasne internetne datoteke."
+      ],
+      "correct": 1,
+      "explanation": "Mapa AppData (C:\\Users\\Uporabnik\\AppData) je skrita mapa, kjer programi shranjujejo nastavitve, predloge, predpomnilnik in uporabniške podatke. Vsebuje tri podmape: Local, Roaming in LocalLow. Pri ročnem brisanju vsebine bodite previdni, saj lahko izgubite nastavitve programov."
+    },
+    {
+      "question": "Kaj je 'Obnovitev sistema' (System Restore) v Windows?",
+      "options": [
+        "Popolna ponovna namestitev Windows.",
+        "Funkcija, ki omogoča vrnitev sistemskih datotek in nastavitev na prejšnje stanje.",
+        "Orodje za brisanje vseh osebnih datotek."
+      ],
+      "correct": 1,
+      "explanation": "Obnovitev sistema ustvari 'obnovitvene točke' pred pomembnimi spremembami (namestitvijo programov, posodobitvami). Če pride do težav, lahko sistem vrnete na prejšnje stanje, ne da bi pri tem izgubili osebne datoteke."
+    },
+    {
+      "question": "Kaj je Windows PowerShell?",
+      "options": [
+        "Program za urejanje fotografij.",
+        "Napredno orodje za avtomatizacijo in upravljanje sistema prek ukazov.",
+        "Nastavitev za spreminjanje barvne sheme."
+      ],
+      "correct": 1,
+      "explanation": "PowerShell je Microsoftovo napredno orodje za upravljanje sistema, ki omogoča izvajanje ukazov in skriptov za avtomatizacijo opravil. Je močnejši od klasičnega ukaznega poziva (CMD) in ga uporabljajo predvsem napredni uporabniki ter sistemski administratorji."
+    },
+    {
+      "question": "Kaj je BitLocker v Windows?",
+      "options": [
+        "Program za ustvarjanje gesel.",
+        "Orodje za šifriranje celotnega trdega diska za zaščito podatkov.",
+        "Nastavitev za pospešitev zagona sistema."
+      ],
+      "correct": 1,
+      "explanation": "BitLocker je Microsoftova funkcija za šifriranje celotnega trdega diska. Če nekdo ukrade vaš računalnik, brez pravilnega gesla ali ključa ne more dostopati do podatkov na disku. Na voljo je v profesionalnih in izobraževalnih različicah Windows."
+    },
+    {
+      "question": "Kaj je VPN (Virtual Private Network) in zakaj ga uporabljamo?",
+      "options": [
+        "Program za pospeševanje interneta.",
+        "Storitev, ki ustvari varno, šifrirano povezavo prek javnega omrežja in ščiti zasebnost.",
+        "Vrsta spletnega brskalnika."
+      ],
+      "correct": 1,
+      "explanation": "VPN ustvari varen 'tunel' med vašo napravo in internetom, kar ščiti vaše podatke pred prestrezanjem. Uporaben je pri uporabi javnih Wi-Fi omrežij in za zaščito zasebnosti, saj skrije vaš IP naslov. Pomembno je izbrati zaupanja vrednega ponudnika VPN storitev."
+    },
+    {
+      "question": "Kaj je DNS (Domain Name System) in zakaj je pomemben?",
+      "options": [
+        "Vrsta spletnega virusa.",
+        "Sistem, ki prevaja spletne naslove (npr. google.com) v številčne IP naslove, ki jih razumejo računalniki.",
+        "Program za blokiranje oglasov."
+      ],
+      "correct": 1,
+      "explanation": "DNS je 'imenik interneta' – ko v brskalnik vpišete spletni naslov, DNS strežnik pove, na kateri IP naslov naj usmeri zahtevo. Brez DNS bi si morali zapomniti številčne naslove (npr. 142.250.185.46 namesto google.com)."
+    },
+    {
+      "question": "Kaj so piškotki (cookies) na spletnih straneh?",
+      "options": [
+        "Vrsta računalniškega virusa.",
+        "Majhne datoteke, ki jih spletne strani shranijo na vaš računalnik za pomnjenje nastavitev in prijav.",
+        "Programi za blokiranje oglasov."
+      ],
+      "correct": 1,
+      "explanation": "Piškotki so majhne besedilne datoteke, ki jih spletne strani shranijo v vaš brskalnik. Pomagajo si zapomniti vaše nastavitve, prijavne podatke in vedenje na strani. So uporabni, vendar jih je dobro občasno počistiti zaradi zasebnosti."
+    },
+    {
+      "question": "Kaj pomeni 'zasebno brskanje' (privatni način / incognito) v brskalniku?",
+      "options": [
+        "Brskanje, ki je popolnoma anonimno in nevidno.",
+        "Način, v katerem brskalnik ne shranjuje zgodovine, piškotkov in podatkov o brskanju po zaprtju okna.",
+        "Način, ki preprečuje vsakršno sledenje s strani spletnih strani."
+      ],
+      "correct": 1,
+      "explanation": "Zasebno brskanje (Incognito v Chromu, InPrivate v Edge) pomeni, da brskalnik po zaprtju okna ne shrani zgodovine, piškotkov, podatkov obrazcev ali iskalnih poizvedb. Vendar to ne pomeni, da ste popolnoma anonimni – vaš ponudnik internetnih storitev in obiskane strani vas še vedno lahko prepoznajo."
+    },
+    {
+      "question": "Kaj je 'Google Play Protect' na telefonih Android?",
+      "options": [
+        "Protivirusni program, ki ga je treba posebej namestiti.",
+        "Vgrajena varnostna funkcija, ki pregleduje aplikacije pred in po namestitvi ter išče škodljivo programsko opremo.",
+        "Nastavitev za pospešitev delovanja telefona."
+      ],
+      "correct": 1,
+      "explanation": "Google Play Protect je vgrajena varnostna funkcija na vseh napravah Android z Google Play storitvami. Samodejno pregleduje aplikacije pred namestitvijo in redno skenira nameščene aplikacije za morebitno škodljivo programsko opremo. Deluje v ozadju brez posebnega posredovanja uporabnika."
+    },
+    {
+      "question": "Kaj je 'hitro polnjenje' (fast charging) pri pametnih telefonih?",
+      "options": [
+        "Polnjenje, ki vedno popolnoma napolni baterijo v 5 minutah.",
+        "Tehnologija, ki omogoča hitrejše polnjenje baterije z uporabo višje napetosti ali toka.",
+        "Način polnjenja, ki uniči baterijo."
+      ],
+      "correct": 1,
+      "explanation": "Hitro polnjenje uporablja višjo napetost ali tok za hitrejše polnjenje baterije. Različni proizvajalci uporabljajo različne standarde (Qualcomm Quick Charge, USB Power Delivery, lastniške rešitve). Za hitro polnjenje potrebujete združljiv polnilnik in kabel."
+    },
+    {
+      "question": "Kaj je NFC (Near Field Communication) na pametnem telefonu?",
+      "options": [
+        "Vrsta Bluetooth povezave.",
+        "Brezžična tehnologija za kratke razdalje, ki omogoča brezstična plačila in izmenjavo podatkov.",
+        "Program za upravljanje baterije."
+      ],
+      "correct": 1,
+      "explanation": "NFC je brezžična tehnologija, ki deluje na razdalji nekaj centimetrov. Uporablja se za brezstična plačila (Google Pay, Apple Pay), hitro seznanjanje naprav (Bluetooth) in branje NFC oznak (npr. na plakatih, v trgovinah)."
+    },
+    {
+      "question": "Kaj je 'obnovitveni način' (recovery mode) na pametnem telefonu?",
+      "options": [
+        "Način, ki samodejno popravi vse težave s telefonom.",
+        "Poseben način zagona, ki omogoča ponastavitev telefona, namestitev posodobitev ali popravilo sistema.",
+        "Način za pospešitev delovanja telefona."
+      ],
+      "correct": 1,
+      "explanation": "Obnovitveni način je poseben način zagona telefona (dostopen s kombinacijo tipk ob zagonu), ki omogoča napredna opravila: ponastavitev na tovarniške nastavitve, namestitev sistemskih posodobitev, brisanje predpomnilnika in druga popravila sistema. Uporabljajo ga predvsem napredni uporabniki."
+    },
+    {
+      "question": "Kaj je upravitelj gesel (password manager) in zakaj ga uporabljamo?",
+      "options": [
+        "Program, ki ustvarja nova gesla.",
+        "Aplikacija, ki varno shranjuje in upravlja vaša gesla ter jih samodejno izpolnjuje.",
+        "Orodje za blokiranje spletnih strani."
+      ],
+      "correct": 1,
+      "explanation": "Upravitelj gesel (npr. Bitwarden, LastPass, 1Password) varno shranjuje vsa vaša gesla v šifrirani obliki. Omogoča ustvarjanje močnih, edinstvenih gesel za vsak račun in jih samodejno izpolnjuje pri prijavi. Potrebujete le eno močno glavno geslo za dostop do upravitelja."
+    },
+    {
+      "question": "Kaj je 'šifriranje e-pošte' (email encryption)?",
+      "options": [
+        "Pošiljanje e-pošte v posebni mapi.",
+        "Postopek, ki vsebino e-poštnega sporočila zakodira, tako da jo lahko prebere le predvideni prejemnik.",
+        "Brisanje vseh e-poštnih sporočil."
+      ],
+      "correct": 1,
+      "explanation": "Šifriranje e-pošte pomeni, da se vsebina sporočila zakodira, preden se pošlje. Le prejemnik s pravilnim ključem (digitalnim potrdilom) lahko sporočilo odšifrira in prebere. To preprečuje, da bi vsebino med prenosom prestregli nepooblaščeni."
+    },
+    {
+      "question": "Zakaj varnostna vprašanja (security questions) niso več priporočljiva kot edina oblika zaščite?",
+      "options": [
+        "Ker jih je težko nastaviti.",
+        "Ker so odgovori pogosto javno dostopni ali jih je mogoče uganiti, kar zmanjšuje varnost.",
+        "Ker zavzamejo preveč prostora."
+      ],
+      "correct": 1,
+      "explanation": "Varnostna vprašanja (npr. 'Kako je bilo vaše dekliško ime matere?') so postala manj varna, ker so odgovori pogosto javno dostopni na družbenih omrežjih ali jih je mogoče uganiti. Sodobne alternative vključujejo dvostopenjsko prijavo (2FA) in biometrično preverjanje."
+    },
+    {
+      "question": "Kaj je 'socialni inženiring' (social engineering) pri spletnih prevarah?",
+      "options": [
+        "Program za socialna omrežja.",
+        "Tehnika, pri kateri prevaranti izkoriščajo človeško psihologijo in zaupanje za pridobitev občutljivih podatkov.",
+        "Način izdelave gesel."
+      ],
+      "correct": 1,
+      "explanation": "Socialni inženiring je psihološka manipulacija, pri kateri prevaranti izkoriščajo človeško naravo (zaupanje, strah, radovednost, prijaznost) za pridobitev občutljivih podatkov. Tipični primeri so lažni klici 'tehnične podpore', ponarejena e-poštna sporočila in lažne identitete na družbenih omrežjih."
+    },
+    {
+      "question": "Kaj pomenijo izrazi 'javni oblak', 'zasebni oblak' in 'hibridni oblak'?",
+      "options": [
+        "Vrste vremenskih pojavov.",
+        "Različni modeli shranjevanja v oblaku glede na dostopnost in lastništvo infrastrukture.",
+        "Programi za napovedovanje vremena."
+      ],
+      "correct": 1,
+      "explanation": "Javni oblak (npr. Google Drive, OneDrive) je dostopen vsem prek interneta. Zasebni oblak je namenjen samo eni organizaciji (večji nadzor, varnost). Hibridni oblak združuje oba modela – del podatkov je v zasebnem, del v javnem oblaku, kar omogoča fleksibilnost."
+    },
+    {
+      "question": "Kaj je 'dvosmerna sinhronizacija' (two-way sync) v oblaku?",
+      "options": [
+        "Shranjevanje datotek na dva različna strežnika.",
+        "Sinhronizacija, pri kateri se spremembe na katerikoli napravi prenesejo na vse ostale naprave.",
+        "Pošiljanje datotek po elektronski pošti."
+      ],
+      "correct": 1,
+      "explanation": "Pri dvosmerni sinhronizaciji se spremembe datoteke na katerikoli napravi (računalnik, telefon, tablica) samodejno prenesejo na vse druge naprave in v oblak. To zagotavlja, da imate povsod najnovejšo različico datotek."
+    },
+    {
+      "question": "Kaj pomeni 'zgodovina različic' (version history) v oblačnih storitvah?",
+      "options": [
+        "Seznam vseh datotek v mapi.",
+        "Možnost ogleda in obnovitve prejšnjih različic datoteke.",
+        "Brisanje starih datotek."
+      ],
+      "correct": 1,
+      "explanation": "Zgodovina različic omogoča, da si ogledate in obnovite prejšnje različice datoteke. To je uporabno, če ste pomotoma spremenili ali izbrisali vsebino – lahko se vrnete na starejšo različico. Večina oblačnih storitev (Google Drive, OneDrive, Dropbox) to omogoča."
+    },
+    {
+      "question": "Kaj pomeni 'kvota' (quota) pri oblačnih storitvah?",
+      "options": [
+        "Omejitev števila datotek, ki jih lahko shranite.",
+        "Največja količina podatkov, ki jo lahko shranite v oblaku brez dodatnega plačila.",
+        "Čas, do katerega so datoteke shranjene."
+      ],
+      "correct": 1,
+      "explanation": "Kvota je največja količina podatkov (v GB ali TB), ki jo lahko shranite v oblačni storitvi brez doplačila. Na primer, Google Drive ponuja 15 GB brezplačno, OneDrive pa 5 GB. Ko kvoto presežete, morate bodisi izbrisati datoteke ali nadgraditi na plačljiv paket."
+    },
+    {
+      "question": "Kaj je 'halucinacija' (hallucination) pri umetni inteligenci?",
+      "options": [
+        "Vizualni učinek na zaslonu.",
+        "Ko AI ustvari informacijo, ki se sliši verodostojno, vendar je napačna ali izmišljena.",
+        "Napaka v delovanju računalnika."
+      ],
+      "correct": 1,
+      "explanation": "Halucinacija pri AI pomeni, da model ustvari vsebino, ki je videti verodostojna in logična, vendar vsebuje napačne ali popolnoma izmišljene informacije. To se dogaja, ker AI ne 'razume' resničnosti, ampak generira besedilo na podlagi vzorcev v podatkih, s katerimi je bil treniran."
+    },
+    {
+      "question": "Kaj pomeni 'treniranje' (training) modela umetne inteligence?",
+      "options": [
+        "Učenje AI s pomočjo ogromnih količin podatkov, da prepozna vzorce in se izboljšuje.",
+        "Namestitev AI programa na računalnik.",
+        "Popravljanje napak v AI kodi."
+      ],
+      "correct": 0,
+      "explanation": "Treniranje AI pomeni, da modelu 'pokažemo' ogromne količine podatkov (besedil, slik, zvoka), da se nauči prepoznavati vzorce. Na primer, ChatGPT je bil treniran na milijardah besedil iz knjig, spletnih strani in drugih virov. Več in bolj kakovostnih podatkov kot ima, boljše so njegove sposobnosti."
+    },
+    {
+      "question": "Kaj so 'etični izzivi' pri uporabi umetne inteligence?",
+      "options": [
+        "Tehnične težave pri nameščanju AI.",
+        "Vprašanja o zasebnosti, pristranskosti, nadzoru in odgovornosti pri uporabi AI.",
+        "Težave z baterijo pri uporabi AI aplikacij."
+      ],
+      "correct": 1,
+      "explanation": "Etični izzivi AI vključujejo: zasebnost (kdo ima dostop do podatkov), pristranskost (AI lahko podeduje predsodke iz podatkov), nadzor (kdo upravlja AI sisteme) in odgovornost (kdo je odgovoren za napake AI). Pomembno je, da se AI razvija in uporablja odgovorno in pregledno."
+    },
+    {
+      "question": "Kaj je 'generativna umetna inteligenca' (generative AI)?",
+      "options": [
+        "AI, ki samo analizira obstoječe podatke.",
+        "AI, ki ustvarja novo vsebino – besedilo, slike, glasbo, video – na podlagi naučenih vzorcev.",
+        "AI, ki upravlja računalniške sisteme."
+      ],
+      "correct": 1,
+      "explanation": "Generativna AI (npr. ChatGPT za besedilo, DALL-E za slike, Suno za glasbo) ustvarja popolnoma novo vsebino, ki prej ni obstajala. Namesto da samo analizira ali razvršča podatke, generira izvirno vsebino na podlagi naučenih vzorcev in uporabniških vhodnih podatkov."
+    }
+  ]
+}
