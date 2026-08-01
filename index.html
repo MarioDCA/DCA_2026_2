@@ -238,12 +238,13 @@ h2 {
 #introStep0 {
     text-align: center;
 }
-#izbiraKviza {
+
+#izbiraKategorije {
     width: 320px;
     max-width: 80%;
     font-size: 17px;
     padding: 10px;
-    margin-bottom: 15px;
+    margin: 0 auto 15px auto;
     border-radius: 8px;
     border: 1px solid var(--border-light);
     background: var(--bg-card);
@@ -251,13 +252,34 @@ h2 {
     cursor: pointer;
     text-align: center;
     text-align-last: center;
+    display: block;
 }
-#izbiraKviza option {
+
+#izbiraKviza {
+    width: 320px;
+    max-width: 80%;
+    font-size: 17px;
+    padding: 10px;
+    margin: 0 auto 15px auto;
+    border-radius: 8px;
+    border: 1px solid var(--border-light);
+    background: var(--bg-card);
+    color: var(--text-primary);
+    cursor: pointer;
     text-align: center;
+    text-align-last: center;
+    display: none;
 }
+
+#izbiraKategorije:focus-visible,
 #izbiraKviza:focus-visible {
     outline: 3px solid var(--info-blue);
     outline-offset: 2px;
+}
+
+#izbiraKategorije option,
+#izbiraKviza option {
+    text-align: center;
 }
 
 .modeSelect {
@@ -429,7 +451,9 @@ h2 {
 #repeatBtn:focus-visible,
 #drugKvizBtn:focus-visible,
 .closeModal:focus-visible,
-#ime:focus-visible {
+#ime:focus-visible,
+#izbiraKategorije:focus-visible,
+#izbiraKviza:focus-visible {
     outline: 3px solid var(--info-blue);
     outline-offset: 2px;
 }
@@ -521,6 +545,10 @@ h2 {
         width: 90%;
         padding: 20px;
     }
+    #izbiraKategorije,
+    #izbiraKviza {
+        width: 90%;
+    }
 }
 </style>
 </head>
@@ -536,7 +564,7 @@ h2 {
     <div class="modal-content">
         <h3>ℹ️ Informacije o kvizu</h3>
         <ul>
-            <li><strong>📚 Izbira kviza:</strong> Na samem začetku izbereš, katero od 25 tem želiš reševati - vprašanja se naložijo glede na tvojo izbiro.</li>
+            <li><strong>📚 Izbira kviza:</strong> Najprej izbereš kategorijo, nato pa še določen kviz znotraj nje.</li>
             <li><strong>🌙 Temni / ☀️ Svetli način:</strong> Z gumbom desno zgoraj lahko preklapljaš med temnim in svetlim ozadjem.</li>
             <li><strong>🔊 Izklop / vklop zvoka:</strong> Z gumbom pod njim lahko izklopiš ali vklopiš zvok ob odgovorih.</li>
             <li><strong>⏱️ Samodejni premik:</strong> Po kliku na odgovor se kviz samodejno premakne na naslednje vprašanje po 20 sekundah. Lahko pa prej pritisneš <strong>presledek</strong> (najdaljša tipka) in greš takoj naprej.</li>
@@ -556,8 +584,11 @@ h2 {
       <p>Spodaj izberite temo in začnite reševati.</p>
     </div>
     <form onsubmit="handleIntroSubmit(); return false;">
-      <!-- 1. KORAK: IZBIRA KVIZA -->
+      <!-- 1. KORAK: IZBIRA KATEGORIJE IN KVIZA -->
       <div id="introStep0">
+        <select id="izbiraKategorije" onchange="prikaziKvizePoKategoriji()">
+          <option value="">-- Izberi kategorijo --</option>
+        </select>
         <select id="izbiraKviza" onchange="document.getElementById('izberiKvizBtn').style.display='block';">
           <option value="">-- Izberi kviz --</option>
         </select>
@@ -636,7 +667,7 @@ let audioCtx = null;
 let answered = false;
 let soundEnabled = (localStorage.getItem("kvizSound") !== "off");
 let isGroupMode = false;
-let hasSelectedMode = false; // Ali je uporabnik že izbral način reševanja
+let hasSelectedMode = false;
 
 // Google Sheet URL
 const scriptURL = "https://script.google.com/macros/s/AKfycbw6bKO9ND5FKelnazqsHkPzIkcHXWOTHBTG9oyaYjzQ9q2GIlKi9sRalLDqidhplrJO/exec";
@@ -696,31 +727,57 @@ const KVIZI = [
     {id: "kviz_25", naslov: "Umetna inteligenca (ChatGPT, Copilot, Gemini, Claude …) za vsakdanjo uporabo", datoteka: "kviz_25.json", kategorija: "🤖 Umetna inteligenca"}
 ];
 
-function zgradiIzbirnikKvizov() {
-    const select = document.getElementById("izbiraKviza");
-    select.innerHTML = '<option value="">-- Izberi kviz --</option>';
-    const kategorije = [];
-    const poKategorijah = {};
-    KVIZI.forEach(k => {
-        if (!poKategorijah[k.kategorija]) {
-            poKategorijah[k.kategorija] = [];
-            kategorije.push(k.kategorija);
-        }
-        poKategorijah[k.kategorija].push(k);
-    });
+// ========== FUNKCIJE ZA IZPIS KATEGORIJ IN KVIZOV ==========
+function zgradiIzbirnikKategorij() {
+    const selectKat = document.getElementById("izbiraKategorije");
+    selectKat.innerHTML = '<option value="">-- Izberi kategorijo --</option>';
+    
+    // Zberi unikatne kategorije
+    const kategorije = [...new Set(KVIZI.map(k => k.kategorija))];
+    kategorije.sort();
+    
     kategorije.forEach(kat => {
-        const optgroup = document.createElement("optgroup");
-        optgroup.label = kat;
-        poKategorijah[kat].forEach(k => {
-            const option = document.createElement("option");
-            option.value = k.id;
-            option.innerText = k.naslov;
-            optgroup.appendChild(option);
-        });
-        select.appendChild(optgroup);
+        const option = document.createElement("option");
+        option.value = kat;
+        option.innerText = kat;
+        selectKat.appendChild(option);
     });
 }
 
+function prikaziKvizePoKategoriji() {
+    const selectKat = document.getElementById("izbiraKategorije");
+    const selectKviz = document.getElementById("izbiraKviza");
+    const izbranaKategorija = selectKat.value;
+    
+    // Počisti trenutne kvize
+    selectKviz.innerHTML = '<option value="">-- Izberi kviz --</option>';
+    document.getElementById("izberiKvizBtn").style.display = "none";
+    
+    if (!izbranaKategorija) {
+        selectKviz.style.display = "none";
+        return;
+    }
+    
+    // Filtriraj kvize po izbrani kategoriji
+    const filtrirani = KVIZI.filter(k => k.kategorija === izbranaKategorija);
+    
+    filtrirani.forEach(k => {
+        const option = document.createElement("option");
+        option.value = k.id;
+        option.innerText = k.naslov;
+        selectKviz.appendChild(option);
+    });
+    
+    selectKviz.style.display = "block";
+}
+
+function zgradiIzbirnikKvizov() {
+    zgradiIzbirnikKategorij();
+    // Na začetku skrijemo spustni meni za kvize
+    document.getElementById("izbiraKviza").style.display = "none";
+}
+
+// ========== OSNOVNE FUNKCIJE KVIZA ==========
 let izbranKviz = null;
 let vprasanjaPromise = null;
 let questions = [];
@@ -730,7 +787,6 @@ function naloziVprasanja(datoteka) {
         if (!res.ok) throw new Error("HTTP " + res.status);
         return res.json();
     }).then(podatki => {
-        // Podatki so v obliki { id, title, questions: [...] }
         if (!podatki || !Array.isArray(podatki.questions)) {
             throw new Error("Neveljavna oblika datoteke z vprašanji");
         }
@@ -787,606 +843,4 @@ function playWrong() {
     const osc = audioCtx.createOscillator();
     const gain = audioCtx.createGain();
     osc.connect(gain);
-    gain.connect(audioCtx.destination);
-    gain.gain.value = 0.3;
-    osc.frequency.value = 150;
-    osc.type = "square";
-    osc.start();
-    gain.gain.exponentialRampToValueAtTime(0.00001, audioCtx.currentTime + 0.5);
-    osc.stop(audioCtx.currentTime + 0.5);
-}
-
-function handleIntroSubmit() {
-    const step0 = document.getElementById("introStep0");
-    const step1 = document.getElementById("introStep1");
-    const step2 = document.getElementById("introStep2");
-    
-    if (step0.style.display !== "none") {
-        // 1. korak: izbira kviza
-        const izbiraSelect = document.getElementById("izbiraKviza");
-        if (!izbiraSelect.value) {
-            alert("Izberite kviz.");
-            return;
-        }
-        izbranKviz = KVIZI.find(k => k.id === izbiraSelect.value);
-        if (!izbranKviz) {
-            alert("Izberite kviz.");
-            return;
-        }
-        vprasanjaPromise = naloziVprasanja(izbranKviz.datoteka);
-        step0.style.display = "none";
-        
-        if (hasSelectedMode && userName !== "") {
-            step1.style.display = "none";
-            step2.style.display = "none";
-            startQuizDirect();
-        } else {
-            step1.style.display = "block";
-        }
-    } else if (step1.style.display !== "none") {
-        // 2. korak: izbira načina reševanja
-        const nacinRadio = document.querySelector('input[name="nacinResevanja"]:checked');
-        isGroupMode = nacinRadio ? (nacinRadio.value === "skupina") : false;
-        hasSelectedMode = true;
-        step1.style.display = "none";
-        step2.style.display = "block";
-        document.getElementById("infoBtn2").style.display = "none";
-    } else {
-        // 3. korak: vnos imena in začetek kviza
-        const imeVneseno = document.getElementById("ime").value.trim();
-        if (imeVneseno === "") {
-            alert("Vpišite ime");
-            return;
-        }
-        userName = imeVneseno;
-        startQuiz();
-    }
-}
-
-async function startQuiz() {
-    if (userName === "") {
-        userName = document.getElementById("ime").value.trim();
-        if (userName === "") {
-            alert("Vpišite ime");
-            return;
-        }
-    }
-    
-    initAudioOnUserInteraction();
-    
-    const nalaganjeSporocilo = document.getElementById("nalaganjeSporocilo");
-    if (nalaganjeSporocilo) nalaganjeSporocilo.style.display = "block";
-    document.getElementById("startBtn").disabled = true;
-    
-    try {
-        questions = await vprasanjaPromise;
-    } catch (err) {
-        alert("Napaka pri nalaganju vprašanj (" + err.message + "). Preveri internetno povezavo in poskusi znova.");
-        if (nalaganjeSporocilo) nalaganjeSporocilo.style.display = "none";
-        document.getElementById("startBtn").disabled = false;
-        return;
-    }
-    
-    KVIZ_IME = izbranKviz.ime;
-    
-    if (nalaganjeSporocilo) nalaganjeSporocilo.style.display = "none";
-    document.getElementById("startBtn").disabled = false;
-    
-    document.getElementById("intro").style.display = "none";
-    document.getElementById("fileInfo").style.display = "none";
-    document.getElementById("avtorFooter").style.display = "none";
-    document.getElementById("quiz").style.display = "block";
-    
-    document.getElementById("kvizNaslov").innerText = `📚 ${izbranKviz.naslov}`;
-    
-    currentQuestion = 0;
-    score = 0;
-    userAnswers = [];
-    answered = false;
-    if (questionTimer) clearTimeout(questionTimer);
-    
-    prepareQuestions(!isGroupMode);
-    
-    showQuestion();
-}
-
-async function startQuizDirect() {
-    if (userName === "") {
-        userName = document.getElementById("ime").value.trim();
-        if (userName === "") {
-            alert("Vpišite ime");
-            return;
-        }
-    }
-    
-    initAudioOnUserInteraction();
-    
-    const nalaganjeSporocilo = document.getElementById("nalaganjeSporocilo");
-    if (nalaganjeSporocilo) nalaganjeSporocilo.style.display = "block";
-    
-    try {
-        questions = await vprasanjaPromise;
-    } catch (err) {
-        alert("Napaka pri nalaganju vprašanj (" + err.message + "). Preveri internetno povezavo in poskusi znova.");
-        if (nalaganjeSporocilo) nalaganjeSporocilo.style.display = "none";
-        return;
-    }
-    
-    KVIZ_IME = izbranKviz.ime;
-    
-    if (nalaganjeSporocilo) nalaganjeSporocilo.style.display = "none";
-    
-    document.getElementById("intro").style.display = "none";
-    document.getElementById("fileInfo").style.display = "none";
-    document.getElementById("avtorFooter").style.display = "none";
-    document.getElementById("quiz").style.display = "block";
-    
-    document.getElementById("kvizNaslov").innerText = `📚 ${izbranKviz.naslov}`;
-    
-    currentQuestion = 0;
-    score = 0;
-    userAnswers = [];
-    answered = false;
-    if (questionTimer) clearTimeout(questionTimer);
-    
-    prepareQuestions(!isGroupMode);
-    
-    showQuestion();
-}
-
-function showQuestion() {
-    answered = false;
-    
-    document.getElementById("progress").innerText = `Vprašanje ${currentQuestion+1} / ${questions.length}`;
-    const percent = (currentQuestion / questions.length) * 100;
-    document.getElementById("progressBar").style.width = percent + "%";
-    
-    const q = questions[currentQuestion];
-    document.getElementById("question").innerText = q.question;
-    document.getElementById("spaceHint").style.display = "none";
-    
-    const div = document.getElementById("answers");
-    div.innerHTML = "";
-    
-    q.shuffled.forEach((ans, idx) => {
-        const btn = document.createElement("button");
-        btn.innerText = ans.text;
-        btn.className = "answerBtn";
-        btn.onclick = () => checkAnswer(idx);
-        div.appendChild(btn);
-    });
-    
-    document.getElementById("result").innerHTML = "";
-    document.getElementById("explanation").style.display = "none";
-}
-
-function checkAnswer(selectedIdx) {
-    if (answered) return;
-    answered = true;
-    
-    const q = questions[currentQuestion];
-    const buttons = document.querySelectorAll(".answerBtn");
-    const selectedIsCorrect = (q.shuffled[selectedIdx].originalIndex === q.correct);
-    
-    buttons.forEach(btn => { btn.disabled = true; });
-    
-    buttons.forEach((btn, idx) => {
-        const isCorrectAnswer = (q.shuffled[idx].originalIndex === q.correct);
-        if (isCorrectAnswer) {
-            btn.classList.add("correctAnswer");
-            btn.innerText = "✔ " + btn.innerText;
-        }
-        if (idx === selectedIdx && !selectedIsCorrect) {
-            btn.classList.add("wrongAnswer");
-            btn.innerText = "✘ " + btn.innerText;
-        }
-    });
-    
-    const resultDiv = document.getElementById("result");
-    const explanationDiv = document.getElementById("explanation");
-    const hint = document.getElementById("spaceHint");
-    hint.style.display = "inline-block";
-    hint.style.animation = "none";
-    hint.offsetHeight;
-    hint.style.animation = "utripanje 1s infinite";
-    
-    const correctAnswerText = q.options[q.correct];
-    
-    if (selectedIsCorrect) {
-        score++;
-        playCorrect();
-        resultDiv.innerHTML = `✅ Odlično, ${escapeHtml(userName)}! To je pravilen odgovor! 👍`;
-        resultDiv.style.color = "var(--correct-green)";
-        explanationDiv.innerHTML = q.explanation;
-        explanationDiv.style.display = "block";
-    } else {
-        playWrong();
-        buttons.forEach((btn, idx) => {
-            if (q.shuffled[idx].originalIndex === q.correct) {
-                btn.classList.add("highlightCorrect");
-            }
-        });
-        resultDiv.innerHTML = `🌸 Dober poskus, ${escapeHtml(userName)}!<br>Pravilen odgovor je: "${correctAnswerText}".`;
-        resultDiv.style.fontSize = "20px";
-        resultDiv.style.color = "var(--info-blue)";
-        explanationDiv.innerHTML = q.explanation;
-        explanationDiv.style.display = "block";
-    }
-    
-    userAnswers[currentQuestion] = selectedIdx;
-    
-    const percentDone = ((currentQuestion + 1) / questions.length) * 100;
-    document.getElementById("progressBar").style.width = percentDone + "%";
-    
-    if (questionTimer) clearTimeout(questionTimer);
-    questionTimer = setTimeout(() => {
-        explanationDiv.style.display = "none";
-        nextQuestion();
-    }, 20000);
-}
-
-function nextQuestion() {
-    if (questionTimer) clearTimeout(questionTimer);
-    currentQuestion++;
-    if (currentQuestion < questions.length) {
-        showQuestion();
-    } else {
-        finishQuiz();
-    }
-}
-
-function finishQuiz() {
-    document.getElementById("quiz").style.display = "none";
-    document.getElementById("finalResult").style.display = "block";
-    
-    const percent = score / questions.length;
-    let grade;
-    if (percent < 0.55) grade = 1;
-    else if (percent < 0.65) grade = 2;
-    else if (percent < 0.75) grade = 3;
-    else if (percent < 0.85) grade = 4;
-    else grade = 5;
-    
-    let gradeText = "", gradeColor = "", gradeEmoji = "";
-    if (grade == 5) { gradeText = "ODLIČNO (5)"; gradeColor = "#2ecc71"; gradeEmoji = "🏆"; }
-    else if (grade == 4) { gradeText = "PRAV DOBRO (4)"; gradeColor = "#f39c12"; gradeEmoji = "🌟"; }
-    else if (grade == 3) { gradeText = "DOBRO (3)"; gradeColor = "#e67e22"; gradeEmoji = "👍"; }
-    else { gradeText = "Poskusi še enkrat – vsak začetnik je bil enkrat na začetku!"; gradeColor = "#e74c3c"; gradeEmoji = "🌱"; }
-    
-    if (grade < 3) {
-        let reviewHtml = "<h2>Pregled napačnih odgovorov:</h2>";
-        let hasWrong = false;
-        questions.forEach((q, idx) => {
-            const userAnsIdx = userAnswers[idx];
-            if (userAnsIdx !== undefined && q.shuffled[userAnsIdx].originalIndex !== q.correct) {
-                hasWrong = true;
-                const correctText = q.options[q.correct];
-                const userText = q.shuffled[userAnsIdx].text;
-                reviewHtml += `
-                    <div style="margin:20px auto;width:90%;max-width:650px;text-align:left;font-size:18px;border-left:4px solid var(--info-blue);padding-left:15px;">
-                        <b>❓ Vprašanje:</b> ${q.question}<br>
-                        <b><span style="color:var(--correct-green);">✔ Pravilen odgovor:</span></b> ${correctText}<br>
-                        <b><span style="color:var(--wrong-red);">✘ Tvoj odgovor:</span></b> ${userText}
-                    </div>
-                `;
-            }
-        });
-        if (!hasWrong) reviewHtml = "<h2>🎉 Zelo dobro! Vsi odgovori so pravilni, a žal premalo za pozitivno oceno? Preveri ocenjevanje.</h2>";
-        
-        let counter = 20;
-        document.getElementById("score").innerHTML = `
-            <div class="fail">Kviz nisi opravil/a uspešno. Nič zato, vaja dela mojstra.<br>Da bi napredoval/a, je treba kviz ponoviti.</div>
-            <div style="font-size:22px; margin-top:15px;">Kviz se bo samodejno ponovil čez:</div>
-            <div id="count" style="font-size:60px;font-weight:bold;margin-top:15px;color:#e74c3c;">${counter}</div>
-        `;
-        document.getElementById("review").innerHTML = reviewHtml;
-        
-        const interval = setInterval(() => {
-            counter--;
-            document.getElementById("count").innerText = counter;
-            if (counter === 0) {
-                clearInterval(interval);
-                restartQuiz();
-            }
-        }, 1000);
-        sendResult(score, questions.length, grade);
-        return;
-    }
-    
-    document.getElementById("score").innerHTML = `
-        <div style="font-size:28px;margin-bottom:15px;">${gradeEmoji} ${escapeHtml(userName)}, odgovoril/a si pravilno na <b>${score}</b> od <b>${questions.length}</b> vprašanj.</div>
-        <div style="font-size:30px;font-weight:bold;color:${gradeColor};">OCENA: ${gradeText}</div>
-    `;
-    
-    if (score === questions.length) {
-        document.getElementById("review").innerHTML = `
-            <div style="color:var(--correct-green); font-size:24px; margin-bottom:20px;">🏆 BRAVO, VSE SI ODGOVORIL/A PRAVILNO! 🏆</div>
-            <button id="repeatBtn" onclick="restartQuiz()">🔄 Želiš ponoviti kviz?</button>
-            <button id="drugKvizBtn" onclick="izberiDrugKviz()">📚 Izberi drug kviz</button>
-        `;
-        sendResult(score, questions.length, grade);
-        return;
-    }
-    
-    let reviewHtml = "<h2>Pregled napačnih odgovorov:</h2>";
-    let hasWrong = false;
-    questions.forEach((q, idx) => {
-        const userAnsIdx = userAnswers[idx];
-        if (userAnsIdx !== undefined && q.shuffled[userAnsIdx].originalIndex !== q.correct) {
-            hasWrong = true;
-            const correctText = q.options[q.correct];
-            const userText = q.shuffled[userAnsIdx].text;
-            reviewHtml += `
-                <div style="margin:20px auto;width:90%;max-width:650px;text-align:left;font-size:18px;border-left:4px solid var(--info-blue);padding-left:15px;">
-                    <b>❓ Vprašanje:</b> ${q.question}<br>
-                    <b><span style="color:var(--correct-green);">✔ Pravilen odgovor:</span></b> ${correctText}<br>
-                    <b><span style="color:var(--wrong-red);">✘ Tvoj odgovor:</span></b> ${userText}
-                </div>
-            `;
-        }
-    });
-    if (!hasWrong) reviewHtml = "<h2>🎉 Super! Vsi odgovori so pravilni.</h2>";
-    reviewHtml += `<button id="repeatBtn" onclick="restartQuiz()">🔄 Želiš ponoviti kviz?</button>`;
-    reviewHtml += `<button id="drugKvizBtn" onclick="izberiDrugKviz()">📚 Izberi drug kviz</button>`;
-    document.getElementById("review").innerHTML = reviewHtml;
-    sendResult(score, questions.length, grade);
-}
-
-function restartQuiz() {
-    if (questionTimer) clearTimeout(questionTimer);
-    document.getElementById("finalResult").style.display = "none";
-    document.getElementById("fileInfo").style.display = "none";
-    document.getElementById("avtorFooter").style.display = "none";
-    startQuizDirect();
-}
-
-function izberiDrugKviz() {
-    if (questionTimer) clearTimeout(questionTimer);
-    document.getElementById("finalResult").style.display = "none";
-    document.getElementById("quiz").style.display = "none";
-    document.getElementById("fileInfo").style.display = "block";
-    document.getElementById("avtorFooter").style.display = "block";
-    document.getElementById("intro").style.display = "flex";
-    document.getElementById("introStep0").style.display = "block";
-    document.getElementById("introStep1").style.display = "none";
-    document.getElementById("introStep2").style.display = "none";
-    document.getElementById("izbiraKviza").value = "";
-    document.getElementById("izberiKvizBtn").style.display = "none";
-    document.getElementById("infoBtn2").style.display = "block";
-}
-
-function sendResult(pravilni, vprasanja, ocena) {
-    const cas = new Date().toLocaleString();
-    
-    let podrobnostiTekst = "\n";
-    podrobnostiTekst += "=".repeat(50) + "\n";
-    podrobnostiTekst += "  PODROBNOSTI PO VPRAŠANJIH\n";
-    podrobnostiTekst += "=".repeat(50) + "\n\n";
-    
-    for (let i = 0; i < questions.length; i++) {
-        const q = questions[i];
-        let rezultat = '';
-        if (userAnswers[i] !== undefined) {
-            const isCorrect = (q.shuffled[userAnswers[i]].originalIndex === q.correct);
-            rezultat = isCorrect ? '[✔] Pravilno' : '[✘] Napačno';
-        } else {
-            rezultat = '[ ] Ni odgovora';
-        }
-        podrobnostiTekst += `Vprašanje ${String(i+1).padStart(2, ' ')}: ${rezultat}\n`;
-    }
-    
-    podrobnostiTekst += "\n" + "=".repeat(50) + "\n";
-    
-    const tekstContent = `
-📊 REZULTATI KVIZA
-${"=".repeat(50)}
-
-👤 Ime: ${escapeHtml(userName)}
-📚 Kviz: ${escapeHtml(izbranKviz.naslov)}
-📅 Datum in čas: ${cas}
-
-${"=".repeat(50)}
-  ŠTEVILO PRAVILNIH ODGOVOROV
-  ${pravilni} / ${vprasanja}
-${"=".repeat(50)}
-
-🎓 OCENA: ${ocena}
-${"=".repeat(50)}
-
-📝 PODROBNOSTI PO VPRAŠANJIH:
-${podrobnostiTekst}
-
----
-Kviz je bil ustvarjen za namen učenja računalništva in umetne inteligence.
-© 2026 - Vse pravice pridržane
-    `;
-    
-    let data = {
-        ime: userName,
-        kviz: KVIZ_IME,
-        pravilni: pravilni,
-        vprasanja: vprasanja,
-        ocena: ocena,
-        cas: cas,
-        rezultati: tekstContent
-    };
-    
-    for (let i = 0; i < userAnswers.length; i++) {
-        const q = questions[i];
-        if (userAnswers[i] !== undefined) {
-            const isCorrect = (q.shuffled[userAnswers[i]].originalIndex === q.correct) ? 1 : 0;
-            data["Q" + (i+1)] = isCorrect;
-        } else {
-            data["Q" + (i+1)] = 0;
-        }
-    }
-    
-    fetch(scriptURL, {
-        method: "POST",
-        mode: "no-cors",
-        headers: {
-            "Content-Type": "application/json"
-        },
-        body: JSON.stringify(data)
-    }).catch(err => console.warn("Napaka pri pošiljanju:", err));
-}
-
-// ========== TEMNA TEMA ==========
-const THEMES = {
-    light: {
-        vars: {
-            '--bg-body': '#f2f2f2', '--bg-card': 'white', '--text-primary': '#000', '--text-secondary': '#444',
-            '--border-light': '#ccc', '--btn-hover': '#d0e7ff', '--btn-start-hover': '#FEC1B9', '--progress-bg': '#ddd',
-            '--correct-green': '#2ecc71', '--wrong-red': '#e74c3c', '--info-blue': '#04099d', '--info-pink': '#9d0453',
-            '--fail-red': 'red', '--btn-repeat-bg': '#d0e7ff', '--btn-repeat-hover': '#a9d4ff'
-        },
-        spaceHint: { background: '#d4e6f1', color: '#1a3a5a', border: '1px solid #a0c4e0' },
-        encouragementColor: '#000',
-        explanation: { background: '#d4e6f1', color: '#1a3a5a' },
-        themeToggleLabel: '🌙 Temni način',
-        soundOff: { backgroundColor: '#ffcccc', color: '#cc0000' }
-    },
-    dark: {
-        vars: {
-            '--bg-body': '#1a1a2e', '--bg-card': '#16213e', '--text-primary': '#eee', '--text-secondary': '#ccc',
-            '--border-light': '#0f3460', '--btn-hover': '#2c3e66', '--btn-start-hover': '#7a2e4a', '--progress-bg': '#2c2c3e',
-            '--correct-green': '#27ae60', '--wrong-red': '#c0392b', '--info-blue': '#5dade2', '--info-pink': '#e74c8a',
-            '--fail-red': '#ff6b6b', '--btn-repeat-bg': '#2c3e66', '--btn-repeat-hover': '#1e3152'
-        },
-        spaceHint: { background: '#2a4a6a', color: '#e0f0ff', border: '1px solid #4a7a9a' },
-        encouragementColor: '#eee',
-        explanation: { background: '#2a4a6a', color: '#e0f0ff' },
-        themeToggleLabel: '☀️ Svetli način',
-        soundOff: { backgroundColor: '#7a2e4a', color: 'white' }
-    }
-};
-
-function setTheme(theme) {
-    const t = THEMES[theme === "light" ? "light" : "dark"];
-
-    for (const [prop, value] of Object.entries(t.vars)) {
-        document.documentElement.style.setProperty(prop, value);
-    }
-
-    const spaceHint = document.getElementById("spaceHint");
-    spaceHint.style.background = t.spaceHint.background;
-    spaceHint.style.color = t.spaceHint.color;
-    spaceHint.style.border = t.spaceHint.border;
-
-    const encouragement = document.querySelector(".encouragement");
-    if (encouragement) encouragement.style.color = t.encouragementColor;
-
-    const explanation = document.getElementById("explanation");
-    explanation.style.background = t.explanation.background;
-    explanation.style.color = t.explanation.color;
-
-    document.getElementById("themeToggle").innerHTML = t.themeToggleLabel;
-
-    const soundBtn = document.getElementById("soundToggle");
-    if (soundEnabled) {
-        soundBtn.style.backgroundColor = "";
-        soundBtn.style.color = "";
-    } else {
-        soundBtn.style.backgroundColor = t.soundOff.backgroundColor;
-        soundBtn.style.color = t.soundOff.color;
-    }
-}
-
-function toggleTheme() {
-    if (document.documentElement.style.getPropertyValue('--bg-body').trim() === '#f2f2f2' || 
-        document.documentElement.style.getPropertyValue('--bg-body').trim() === 'rgb(242, 242, 242)') {
-        setTheme("dark");
-        localStorage.setItem("kvizTheme", "dark");
-    } else {
-        setTheme("light");
-        localStorage.setItem("kvizTheme", "light");
-    }
-}
-
-function initTheme() {
-    const savedTheme = localStorage.getItem("kvizTheme");
-    if (savedTheme === "light") {
-        setTheme("light");
-    } else {
-        setTheme("dark");
-    }
-}
-
-function toggleSound() {
-    soundEnabled = !soundEnabled;
-    localStorage.setItem("kvizSound", soundEnabled ? "on" : "off");
-    const soundBtn = document.getElementById("soundToggle");
-    if (soundEnabled) {
-        soundBtn.innerHTML = "🔊 Zvok vklopljen";
-        if (document.documentElement.style.getPropertyValue('--bg-body').trim() === '#f2f2f2' || 
-            document.documentElement.style.getPropertyValue('--bg-body').trim() === 'rgb(242, 242, 242)') {
-            soundBtn.style.backgroundColor = "";
-            soundBtn.style.color = "";
-        } else {
-            soundBtn.style.backgroundColor = "";
-            soundBtn.style.color = "";
-        }
-    } else {
-        soundBtn.innerHTML = "🔇 Zvok izklopljen";
-        if (document.documentElement.style.getPropertyValue('--bg-body').trim() === '#f2f2f2' || 
-            document.documentElement.style.getPropertyValue('--bg-body').trim() === 'rgb(242, 242, 242)') {
-            soundBtn.style.backgroundColor = "#ffcccc";
-            soundBtn.style.color = "#cc0000";
-        } else {
-            soundBtn.style.backgroundColor = "#7a2e4a";
-            soundBtn.style.color = "white";
-        }
-    }
-}
-
-function showInfoModal() {
-    document.getElementById("infoModal").style.display = "flex";
-}
-
-function closeInfoModal() {
-    document.getElementById("infoModal").style.display = "none";
-}
-
-// ========== EVENTI ==========
-document.addEventListener("keydown", function(e) {
-    if (e.code === "Space") {
-        e.preventDefault();
-        if (questionTimer && document.getElementById("quiz").style.display === "block") {
-            clearTimeout(questionTimer);
-            questionTimer = null;
-            document.getElementById("explanation").style.display = "none";
-            nextQuestion();
-        }
-    }
-});
-
-document.getElementById("themeToggle").addEventListener("click", toggleTheme);
-document.getElementById("soundToggle").addEventListener("click", toggleSound);
-document.getElementById("infoBtn").addEventListener("click", showInfoModal);
-document.getElementById("infoBtn2").addEventListener("click", showInfoModal);
-document.querySelector(".closeModal").addEventListener("click", closeInfoModal);
-window.addEventListener("click", function(e) {
-    const modal = document.getElementById("infoModal");
-    if (e.target === modal) {
-        closeInfoModal();
-    }
-});
-window.addEventListener("DOMContentLoaded", () => {
-    initTheme();
-    if (!soundEnabled) {
-        document.getElementById("soundToggle").innerHTML = "🔇 Zvok izklopljen";
-    }
-    zgradiIzbirnikKvizov();
-});
-
-window.addEventListener("beforeunload", function(e) {
-    const quizVisible = document.getElementById("quiz").style.display === "block";
-    if (quizVisible) {
-        e.preventDefault();
-        e.returnValue = "";
-    }
-});
-</script>
-
-</body>
-</html>
+    gain.connect
