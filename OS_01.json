@@ -1,0 +1,256 @@
+{
+  "id": 1,
+  "title": "Osnove dela z računalnikom – Windows 10/11",
+  "questions": [
+    {
+      "question": "Kaj je operacijski sistem Windows?",
+      "options": [
+        "Protivirusni program.",
+        "Program za pisanje besedil.",
+        "Program, ki omogoča delovanje računalnika in drugih programov."
+      ],
+      "correct": 2,
+      "explanation": "Windows je operacijski sistem, ki upravlja vse dele računalnika. Brez njega računalnik ne bi mogel poganjati programov, kot so Word, Chrome ali Excel."
+    },
+    {
+      "question": "Kaj predstavlja namizje (Desktop)?",
+      "options": [
+        "Glavni zaslon sistema Windows z ikonami in opravilno vrstico.",
+        "Program za urejanje fotografij.",
+        "Mapa z dokumenti."
+      ],
+      "correct": 0,
+      "explanation": "Namizje je prvi zaslon, ki ga vidite po prijavi v Windows. Na njem so ikone programov in datotek ter opravilna vrstica, ki omogoča hiter dostop do pogosto uporabljenih funkcij."
+    },
+    {
+      "question": "Čemu je namenjen gumb Start?",
+      "options": [
+        "Za shranjevanje dokumentov.",
+        "Za dostop do programov, nastavitev in možnosti izklopa računalnika.",
+        "Za odpiranje interneta."
+      ],
+      "correct": 1,
+      "explanation": "Gumb Start je izhodišče za skoraj vse pomembne funkcije v sistemu Windows. Z njim odpiramo programe, nastavitve, dokumente in izklapljamo računalnik."
+    },
+    {
+      "question": "Kaj običajno naredi dvojni klik z levim gumbom miške na ikoni programa?",
+      "options": [
+        "Odpre program.",
+        "Označi program.",
+        "Izbriše program."
+      ],
+      "correct": 0,
+      "explanation": "Dvojni klik je najpogostejši način za odpiranje programov ali datotek. Z enim klikom datoteko označimo (izberemo), z dvojnim pa jo odpremo in zaženemo ustrezni program."
+    },
+    {
+      "question": "Čemu je namenjen desni gumb miške?",
+      "options": [
+        "Za zapiranje računalnika.",
+        "Za povečavo zaslona.",
+        "Za prikaz dodatnih možnosti (priročnega menija)."
+      ],
+      "correct": 2,
+      "explanation": "Desni klik odpre priročni meni z možnostmi, ki so odvisne od tega, na kaj ste kliknili. Na primer, na namizju lahko z desnim klikom spremenite ozadje ali ustvarite novo mapo."
+    },
+    {
+      "question": "Kaj pomeni znak X v zgornjem desnem kotu okna?",
+      "options": [
+        "Zapre trenutno okno ali program.",
+        "Zmanjša velikost besedila.",
+        "Poveča okno."
+      ],
+      "correct": 0,
+      "explanation": "Klik na X zapre odprto okno in s tem tudi program, če je bilo okno edino. Če dokument ni shranjen, vas Windows običajno vpraša, ali želite shraniti spremembe."
+    },
+    {
+      "question": "Kaj se zgodi, če kliknete gumb z znakom – (vodoravna črta)?",
+      "options": [
+        "Izbriše trenutno datoteko.",
+        "Zapre program.",
+        "Okno se skrije v opravilno vrstico, program pa ostane odprt."
+      ],
+      "correct": 2,
+      "explanation": "To imenujemo pomanjšanje okna. Program še vedno deluje v ozadju in ga lahko kadar koli znova prikažete s klikom na njegov gumb v opravilni vrstici."
+    },
+    {
+      "question": "Kaj je opravilna vrstica?",
+      "options": [
+        "Seznam vseh datotek na računalniku.",
+        "Vrstica, kjer so gumb Start, odprti programi in sistemske ikone.",
+        "Mapa z dokumenti."
+      ],
+      "correct": 1,
+      "explanation": "Opravilna vrstica je vrstica na dnu zaslona, ki vsebuje gumb Start, ikone odprtih programov in sistemske ikone (ura, glasnost, omrežje). Omogoča hitro preklapljanje med programi."
+    },
+    {
+      "question": "Kaj predstavlja ikona Koš?",
+      "options": [
+        "Mapo za fotografije.",
+        "Program za čiščenje računalnika.",
+        "Mesto, kamor se začasno shranijo izbrisane datoteke."
+      ],
+      "correct": 2,
+      "explanation": "Koš je začasno skladišče za izbrisane datoteke. Če datoteko pomotoma izbrišete, jo lahko iz Koša obnovite, dokler ga ne izpraznite. Po izpraznitvi datoteke trajno izgubite."
+    },
+    {
+      "question": "Kako praviloma izberete eno datoteko?",
+      "options": [
+        "Premaknete kazalec nad datoteko.",
+        "Enkrat kliknete nanjo z levim gumbom miške.",
+        "Dvakrat kliknete z desnim gumbom."
+      ],
+      "correct": 1,
+      "explanation": "En klik datoteko označi (izbere), kar omogoča nadaljnje ukrepe (kopiranje, brisanje, premikanje). Dvojni klik pa datoteko običajno odpre v ustreznem programu."
+    },
+    {
+      "question": "Kako pravilno izklopimo računalnik z Windows?",
+      "options": [
+        "Kliknemo Start → Napajanje → Zaustavitev sistema.",
+        "Pritisnemo tipko Delete na tipkovnici.",
+        "Z gumbom za izklop na električni vtičnici."
+      ],
+      "correct": 0,
+      "explanation": "Pravilna zaustavitev omogoči, da Windows varno zapre vse programe in shrani potrebne podatke. Nepravilno izklapljanje (npr. izklop iz elektrike) lahko povzroči izgubo podatkov ali okvaro sistema."
+    },
+    {
+      "question": "Kaj naredimo, če se program ne odziva več?",
+      "options": [
+        "Počakamo nekaj časa ali program zapremo prek Upravitelja opravil.",
+        "Izbrišemo program iz računalnika.",
+        "Takoj izklopimo računalnik iz elektrike."
+      ],
+      "correct": 0,
+      "explanation": "Včasih se program zaradi napake 'zamrzne' (neha se odzivati). Najprej počakamo nekaj sekund, če se ne odzove, ga zapremo prek Upravitelja opravil (Ctrl + Alt + Delete). Ni ga treba takoj odstraniti ali izklopiti računalnika."
+    },
+    {
+      "question": "Kaj je mapa v sistemu Windows?",
+      "options": [
+        "Vrsta računalniškega virusa.",
+        "Program za internet.",
+        "Mesto, kjer organizirano shranjujemo datoteke."
+      ],
+      "correct": 2,
+      "explanation": "Mape so kot predali v omari – pomagajo nam organizirati datoteke. V mapah hranimo dokumente, fotografije, glasbo in druge datoteke, da jih lažje najdemo."
+    },
+    {
+      "question": "Kaj je datoteka?",
+      "options": [
+        "Gumb na tipkovnici.",
+        "Shranjena vsebina, na primer dokument, fotografija ali glasba.",
+        "Vrsta računalniškega zaslona."
+      ],
+      "correct": 1,
+      "explanation": "Datoteka je osnovna enota za shranjevanje podatkov na računalniku. Vsaka datoteka ima svoje ime in pripono (npr. .docx za Wordov dokument, .jpg za fotografijo, .mp3 za glasbo)."
+    },
+    {
+      "question": "Kaj pomeni, da datoteko shranimo?",
+      "options": [
+        "Shranimo spremembe, da jih lahko pozneje ponovno odpremo.",
+        "Pošljemo jo v Koš.",
+        "Izbrišemo jo iz računalnika."
+      ],
+      "correct": 0,
+      "explanation": "Shranjevanje pomeni, da trenutne spremembe v datoteki zapišemo na trdi disk. Če dokumenta ne shranimo pred zaprtjem, vse spremembe izgubimo."
+    },
+    {
+      "question": "Kje običajno najdemo program Raziskovalec datotek?",
+      "options": [
+        "V Košu.",
+        "Samo na internetu.",
+        "V opravilni vrstici ali prek menija Start."
+      ],
+      "correct": 2,
+      "explanation": "Raziskovalec datotek (ikona rumene mape) je program za pregledovanje in upravljanje datotek in map na računalniku. Najdete ga v opravilni vrstici ali v meniju Start."
+    },
+    {
+      "question": "Kaj pomeni bližnjica na namizju?",
+      "options": [
+        "Ikona, ki omogoča hitrejši dostop do programa ali datoteke.",
+        "Datoteka, ki je ni mogoče izbrisati.",
+        "Kopija celotnega programa."
+      ],
+      "correct": 0,
+      "explanation": "Bližnjica je povezava do programa ali datoteke. Če izbrišemo bližnjico, izbrišemo samo povezavo, ne pa tudi programa ali datoteke, na katero kaže."
+    },
+    {
+      "question": "Kako premaknemo okno programa po zaslonu?",
+      "options": [
+        "Kliknemo gumb Start.",
+        "Povlečemo naslovno vrstico okna z miško.",
+        "Pritisnemo tipko Enter."
+      ],
+      "correct": 1,
+      "explanation": "Okno premaknemo tako, da kliknemo na naslovno vrstico (zgornji rob okna) in jo z miško povlečemo na želeno mesto. To omogoča boljšo organizacijo odprtih oken."
+    },
+    {
+      "question": "Kaj naredi kombinacija tipk Ctrl + C?",
+      "options": [
+        "Kopira izbrano besedilo ali datoteko.",
+        "Izklopi računalnik.",
+        "Zapre program."
+      ],
+      "correct": 0,
+      "explanation": "Ctrl + C je bližnjica za kopiranje (Copy). Izbrano besedilo ali datoteko kopira v začasni pomnilnik (odložišče). Nato jo lahko z Ctrl + V prilepite na drugo mesto."
+    },
+    {
+      "question": "Kaj naredi kombinacija tipk Ctrl + V?",
+      "options": [
+        "Prilepi prej kopirano vsebino.",
+        "Odpre meni Start.",
+        "Izbriše izbrano vsebino."
+      ],
+      "correct": 0,
+      "explanation": "Ctrl + V je bližnjica za lepljenje (Paste). Prilepi vsebino, ki ste jo predhodno kopirali (Ctrl + C) ali izrezali (Ctrl + X), na trenutno mesto."
+    },
+    {
+      "question": "Čemu služi tipka Delete?",
+      "options": [
+        "Za odpiranje interneta.",
+        "Za povečanje glasnosti.",
+        "Za brisanje izbrane vsebine ali datotek."
+      ],
+      "correct": 2,
+      "explanation": "Tipka Delete izbriše izbrano vsebino (besedilo, datoteko ali mapo). Izbrisane datoteke se običajno premaknejo v Koš, od koder jih lahko še obnovite."
+    },
+    {
+      "question": "Kaj pomeni, če je ob datoteki znak ključavnice?",
+      "options": [
+        "Datoteka je samodejno izbrisana.",
+        "Datoteka ali mapa ima omejen dostop oziroma zaščito.",
+        "Datoteka je nevaren virus."
+      ],
+      "correct": 1,
+      "explanation": "Ključavnica pomeni, da je datoteka ali mapa zaščitena – nimate dovoljenja za spreminjanje ali brisanje. To je pogosto pri sistemskih datotekah ali datotekah, ki jih uporablja drug program."
+    },
+    {
+      "question": "Zakaj je dobro imeti varnostno kopijo pomembnih datotek?",
+      "options": [
+        "Da se poveča velikost zaslona.",
+        "Da računalnik dela počasneje.",
+        "Da jih lahko obnovimo ob okvari ali izgubi podatkov."
+      ],
+      "correct": 2,
+      "explanation": "Varnostna kopija (backup) je dodatna kopija pomembnih datotek. Če se računalnik pokvari, ga ukradejo ali pride do izgube podatkov, lahko datoteke obnovite iz varnostne kopije."
+    },
+    {
+      "question": "Kaj pomeni obvestilo Windows Update?",
+      "options": [
+        "Sporočilo za izbris vseh programov.",
+        "Obvestilo o posodobitvah sistema Windows.",
+        "Opozorilo, da zmanjkuje prostora za fotografije."
+      ],
+      "correct": 1,
+      "explanation": "Windows Update je Microsoftova storitev za redno posodabljanje operacijskega sistema. Posodobitve izboljšajo varnost, odpravljajo napake in dodajajo nove funkcije."
+    },
+    {
+      "question": "Kaj storimo, če želimo poiskati program ali datoteko v Windows?",
+      "options": [
+        "Izklopimo računalnik.",
+        "Ponovno namestimo Windows.",
+        "Uporabimo iskalno polje v meniju Start."
+      ],
+      "correct": 2,
+      "explanation": "Windows ima vgrajeno iskanje, ki ga najdete v meniju Start ali poleg njega. Vpišete lahko ime programa, datoteke ali nastavitve in Windows vam bo prikazal ustrezne rezultate."
+    }
+  ]
+}
