@@ -858,7 +858,9 @@ function naloziVprasanja(datoteka) {
         if (!podatki || !Array.isArray(podatki.questions)) {
             throw new Error("Neveljavna oblika datoteke z vprašanji");
         }
-        return podatki.questions;
+        // Vrnemo cel objekt (title, questions ...), ne samo vprašanja,
+        // da lahko pravi naslov kviza iz same datoteke pošljemo v Google preglednico.
+        return podatki;
     });
 }
 
@@ -982,8 +984,10 @@ async function startQuiz() {
     if (nalaganjeSporocilo) nalaganjeSporocilo.style.display = "block";
     document.getElementById("startBtn").disabled = true;
     
+    let podatkiKviza;
     try {
-        questions = await vprasanjaPromise;
+        podatkiKviza = await vprasanjaPromise;
+        questions = podatkiKviza.questions;
     } catch (err) {
         alert("Napaka pri nalaganju vprašanj: " + err.message + "\n\nPreveri, ali datoteka " + izbranKviz.datoteka + " obstaja v isti mapi kot index.html");
         if (nalaganjeSporocilo) nalaganjeSporocilo.style.display = "none";
@@ -991,7 +995,11 @@ async function startQuiz() {
         return;
     }
     
-    KVIZ_IME = izbranKviz.ime;
+    // Naslov kviza za prikaz in za pošiljanje v Google preglednico vzamemo
+    // neposredno iz same JSON datoteke (podatkiKviza.title), da se vedno
+    // ujema z vsebino vprašanj. Če datoteka naslova nima, uporabimo naslov iz KVIZI seznama.
+    const naslovKviza = podatkiKviza.title || izbranKviz.naslov;
+    KVIZ_IME = naslovKviza;
     
     if (nalaganjeSporocilo) nalaganjeSporocilo.style.display = "none";
     document.getElementById("startBtn").disabled = false;
@@ -1001,7 +1009,7 @@ async function startQuiz() {
     document.getElementById("avtorFooter").style.display = "none";
     document.getElementById("quiz").style.display = "block";
     
-    document.getElementById("kvizNaslov").innerText = `📚 ${izbranKviz.naslov}`;
+    document.getElementById("kvizNaslov").innerText = `📚 ${naslovKviza}`;
     
     currentQuestion = 0;
     score = 0;
@@ -1028,15 +1036,18 @@ async function startQuizDirect() {
     const nalaganjeSporocilo = document.getElementById("nalaganjeSporocilo");
     if (nalaganjeSporocilo) nalaganjeSporocilo.style.display = "block";
     
+    let podatkiKviza;
     try {
-        questions = await vprasanjaPromise;
+        podatkiKviza = await vprasanjaPromise;
+        questions = podatkiKviza.questions;
     } catch (err) {
         alert("Napaka pri nalaganju vprašanj: " + err.message + "\n\nPreveri, ali datoteka " + izbranKviz.datoteka + " obstaja v isti mapi kot index.html");
         if (nalaganjeSporocilo) nalaganjeSporocilo.style.display = "none";
         return;
     }
     
-    KVIZ_IME = izbranKviz.ime;
+    const naslovKviza = podatkiKviza.title || izbranKviz.naslov;
+    KVIZ_IME = naslovKviza;
     
     if (nalaganjeSporocilo) nalaganjeSporocilo.style.display = "none";
     
@@ -1045,7 +1056,7 @@ async function startQuizDirect() {
     document.getElementById("avtorFooter").style.display = "none";
     document.getElementById("quiz").style.display = "block";
     
-    document.getElementById("kvizNaslov").innerText = `📚 ${izbranKviz.naslov}`;
+    document.getElementById("kvizNaslov").innerText = `📚 ${naslovKviza}`;
     
     currentQuestion = 0;
     score = 0;
@@ -1308,7 +1319,7 @@ function sendResult(pravilni, vprasanja, ocena) {
 ${"=".repeat(50)}
 
 👤 Ime: ${escapeHtml(userName)}
-📚 Kviz: ${escapeHtml(izbranKviz.naslov)}
+📚 Kviz: ${escapeHtml(KVIZ_IME)}
 📅 Datum in čas: ${cas}
 
 ${"=".repeat(50)}
